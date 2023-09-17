@@ -1,0 +1,881 @@
+[
+    {
+        "_id": {
+            "$oid": "59b68c8d2c00000b0535125a"
+        },
+        "title": "Low Carb Tarte Flambée with Serrano Ham & Cream Cheese",
+        "rtype": "Pork",
+        "gdocs": "1046",
+        "authorComment": "Flourless but so delicious!",
+        "uid": "315c3c32",
+        "country": "de/at/ch",
+        "otherIngred": "each: 1/4 tsp chili flakes, 1/2 tsp Italian seasoning, salt, pepper",
+        "preparationTime": 20,
+        "cookingTime": 5,
+        "recipeNutrition": {
+            "calories": 368,
+            "protein": 34,
+            "fat": 22,
+            "carbohydrate": 9
+        },
+        "activeTags": [
+            "budget_under_10_de",
+            "diet_glutenfree",
+            "italian",
+            "main_dish",
+            "calories_under_400",
+            "cooking_time_under_20",
+            "calories_under_500",
+            "baked",
+            "calories_under_600",
+            "diet_low_carb",
+            "main_ingredient_meat",
+            "budget_above_15_us"
+        ],
+        "steps": [
+            {
+                "title": "All set?",
+                "image": {
+                    "name": "REZ_146_01.jpg",
+                    "url": "https://d2am1qai33sroc.cloudfront.net/image/59b8e8d5950000fc1649a085"
+                }
+            },
+            {
+                "title": "Preheat oven to 360°F (conventional, recommended) or 325°F (fan).",
+                "image": {
+                    "name": "REZ_1046_02.jpg",
+                    "url": "https://d2am1qai33sroc.cloudfront.net/image/617a6f76380000320017b5f1"
+                }
+            },
+            {
+                "title": "Mix curd, eggs, chili flakes, herbes de Provence, salt, and pepper to a bowl and mix.",
+                "ingredients": [
+                    {
+                        "ingredientId": "52f2c5cc3c44e47a103dbc1b",
+                        "title": "curd cheese",
+                        "numberTitle": {
+                            "singular": "curd cheese",
+                            "plural": "curd cheese"
+                        }
+                    },
+                    {
+                        "ingredientId": "52bc0f4f91217a1c01a8ad4e",
+                        "title": "egg",
+                        "numberTitle": {
+                            "singular": "egg",
+                            "plural": "eggs"
+                        }
+                    },
+                    {
+                        "unit": {
+                            "quantity": 0.25,
+                            "measure": "tsp"
+                        },
+                        "ingredientId": "55364246490000711350a3d2",
+                        "title": "chili flake",
+                        "numberTitle": {
+                            "singular": "chili flake",
+                            "plural": "chili flakes"
+                        }
+                    },
+                    {
+                        "unit": {
+                            "quantity": 0.5,
+                            "measure": "tsp"
+                        },
+                        "ingredientId": "573c58c503010014069aeb26",
+                        "title": "herbes de Provence, dried",
+                        "numberTitle": {
+                            "singular": "herbes de Provence, dried",
+                            "plural": "herbes de Provence, dried"
+                        }
+                    },
+                    {
+                        "ingredientId": "553652364900001b1550a3ea",
+                        "title": "salt",
+                        "numberTitle": {
+                            "singular": "salt",
+                            "plural": "salt"
+                        }
+                    },
+                    {
+                        "ingredientId": "55365112490000f41450a3e6",
+                        "title": "pepper",
+                        "numberTitle": {
+                            "singular": "pepper",
+                            "plural": "pepper"
+                        }
+                    }
+                ],
+                "image": {
+                    "name": "REZ_146_03.jpg",
+                    "url": "https://d2am1qai33sroc.cloudfront.net/image/59b8e8f69500000e1749a087"
+                }
+            },
+            {
+                "title": "Place the mass on a lined baking sheet, spread thinly (make sure the layer is very thin) and bake for 10-15 min.",
+                "image": {
+                    "name": "REZ_146_04.jpg",
+                    "url": "https://d2am1qai33sroc.cloudfront.net/image/59b8e9019500001f1749a088"
+                }
+            },
+            {
+                "title": "Wash and slice cherry tomatoes.",
+                "ingredients": [
+                    {
+                        "unit": {
+                            "quantity": 0.5,
+                            "measure": "cup(s)"
+                        },
+                        "ingredientId": "623ae43c520000a90c76d1ff",
+                        "title": "cherry tomato",
+                        "numberTitle": {
+                            "singular": "cherry tomato",
+                            "plural": "cherry tomatoes"
+                        }
+                    }
+                ],
+                "image": {
+                    "name": "REZ_1046_05.jpg",
+                    "url": "https://d2am1qai33sroc.cloudfront.net/image/61aa1f254a0000de07d9d05f"
+                }
+            },
+            {
+                "title": "Wash and dry arugula.",
+                "ingredients": [
+                    {
+                        "unit": {
+                            "quantity": 0.5,
+                            "measure": "cup(s)"
+                        },
+                        "ingredientId": "52bc2f8991217a5903a8adb1",
+                        "title": "arugula",
+                        "numberTitle": {
+                            "singular": "arugula",
+                            "plural": "arugula"
+                        }
+                    }
+                ],
+                "image": {
+                    "name": "REZ_1046_06.jpg",
+                    "url": "https://d2am1qai33sroc.cloudfront.net/image/60768f7f6c00008d00f17e45"
+                }
+            },
+            {
+                "title": "Remove the base from the oven and spread with cream cheese. Top with tomatoes and Serrano ham, and bake for another 5 min.",
+                "ingredients": [
+                    {
+                        "unit": {
+                            "quantity": 2.0,
+                            "measure": "tbsp"
+                        },
+                        "ingredientId": "52fbdfc4a4999b810faeebb7",
+                        "title": "cream cheese",
+                        "numberTitle": {
+                            "singular": "cream cheese",
+                            "plural": "cream cheese"
+                        }
+                    },
+                    {
+                        "unit": {
+                            "quantity": 2.0,
+                            "measure": "slice(s)"
+                        },
+                        "ingredientId": "52bc0f1791217a0b01a8ad4c",
+                        "title": "prosciutto",
+                        "numberTitle": {
+                            "singular": "prosciutto",
+                            "plural": "prosciutto"
+                        }
+                    }
+                ],
+                "image": {
+                    "name": "REZ_146_07.jpg",
+                    "url": "https://d2am1qai33sroc.cloudfront.net/image/59b8e922950000f51649a08b"
+                }
+            },
+            {
+                "title": "Remove the tarte flambée from the oven, top with arugula, and enjoy.",
+                "image": {
+                    "name": "REZ_146_08.jpg",
+                    "url": "https://d2am1qai33sroc.cloudfront.net/image/59b8e92b950000261749a08c"
+                }
+            }
+        ],
+        "authors": [
+            {
+                "_id": {
+                    "$oid": "56e684d215000061074f263c"
+                },
+                "name": "Laura",
+                "link": "http://lauraleanskitchen.com/de/",
+                "title": "LauraLean's Kitchen",
+                "description": "Creative fitness foodie who turns everyday recipes into healthy delicacies!",
+                "facebook": "https://www.facebook.com/lauraleanskitchen",
+                "instagram": "https://www.instagram.com/lauralean_/",
+                "twitter": "http://www.twitter.com/lauralean_",
+                "sponsor": "no",
+                "authorImage": {
+                    "name": "Author_Laura_LauraLeansKitchen.png",
+                    "url": "https://d2am1qai33sroc.cloudfront.net/image/56e9a3111500007d0f78af0c"
+                },
+                "creationDate": {
+                    "$date": 1457947858251
+                },
+                "updateDate": {
+                    "$date": 1641942974501
+                }
+            }
+        ],
+        "ingredients": [
+            {
+                "quantity": 100.0,
+                "measure": "g",
+                "metricQuantity": 100.0,
+                "metricMeasure": "g",
+                "quantityUS": 0.5,
+                "measureUS": "cup(s)",
+                "imperialQuantity": 0.5,
+                "imperialMeasure": "cup(s)",
+                "quantityUSProd": 3.5,
+                "measureUSProd": "oz",
+                "imperialProductQuantity": 3.5,
+                "imperialProductMeasure": "oz",
+                "ingredient": {
+                    "_id": {
+                        "$oid": "52f2c5cc3c44e47a103dbc1b"
+                    },
+                    "typ": "regular",
+                    "title": "curd cheese",
+                    "numberTitle": {
+                        "singular": "curd cheese",
+                        "plural": "curd cheese"
+                    },
+                    "uncountableTitle": "curd cheese",
+                    "category": "DairyEggs",
+                    "key": "curd_cheesequarkcurd_cheesequark",
+                    "desc": "curd_cheesequarkcurd_cheesequark",
+                    "image": {
+                        "name": "Dairy_cheese-soft_s.jpg",
+                        "url": "https://d2am1qai33sroc.cloudfront.net/image/5bb6311a2800004d1bc51d63"
+                    },
+                    "isSponsored": false,
+                    "measures": {
+                        "de": [
+                            "1x",
+                            "2x",
+                            "3x",
+                            "250g",
+                            "500g"
+                        ],
+                        "us": [
+                            "1x",
+                            "2x",
+                            "3x",
+                            "8 oz",
+                            "16 oz",
+                            "32 oz"
+                        ]
+                    },
+                    "brands": [],
+                    "creationDate": {
+                        "$date": 1391642060771
+                    },
+                    "updateDate": {
+                        "$date": 1657095997254
+                    }
+                }
+            },
+            {
+                "ingredient": {
+                    "_id": {
+                        "$oid": "553652364900001b1550a3ea"
+                    },
+                    "typ": "basic",
+                    "title": "salt",
+                    "numberTitle": {
+                        "singular": "salt",
+                        "plural": "salt"
+                    },
+                    "uncountableTitle": "salt",
+                    "category": "SpicesSeasoning",
+                    "key": "saltsalzsaltsalz",
+                    "desc": "saltsalzsaltsalz",
+                    "image": {
+                        "name": "spices_salt_s.jpg",
+                        "url": "https://d2am1qai33sroc.cloudfront.net/image/5bb7819a27000039048a8f79"
+                    },
+                    "isSponsored": false,
+                    "measures": {
+                        "de": [
+                            "1x",
+                            "2x",
+                            "3x"
+                        ],
+                        "us": [
+                            "1x",
+                            "2x",
+                            "3x"
+                        ]
+                    },
+                    "brands": [],
+                    "creationDate": {
+                        "$date": 1429623350034
+                    },
+                    "updateDate": {
+                        "$date": 1657656117102
+                    }
+                }
+            },
+            {
+                "ingredient": {
+                    "_id": {
+                        "$oid": "55365112490000f41450a3e6"
+                    },
+                    "typ": "basic",
+                    "title": "pepper",
+                    "numberTitle": {
+                        "singular": "pepper",
+                        "plural": "pepper"
+                    },
+                    "uncountableTitle": "pepper",
+                    "category": "SpicesSeasoning",
+                    "key": "pepperpfefferpepperpfeffer",
+                    "desc": "pepperpfefferpepperpfeffer",
+                    "image": {
+                        "name": "spices_pepper_s.jpg",
+                        "url": "https://d2am1qai33sroc.cloudfront.net/image/5bbb78e82800009a00888456"
+                    },
+                    "isSponsored": false,
+                    "measures": {
+                        "de": [
+                            "1x",
+                            "2x",
+                            "3x",
+                            "50g"
+                        ],
+                        "us": [
+                            "1x",
+                            "2x",
+                            "3x"
+                        ]
+                    },
+                    "brands": [],
+                    "creationDate": {
+                        "$date": 1429623058725
+                    },
+                    "updateDate": {
+                        "$date": 1656066513880
+                    }
+                }
+            },
+            {
+                "quantity": 30.0,
+                "measure": "g",
+                "metricQuantity": 30.0,
+                "metricMeasure": "g",
+                "quantityUS": 2.0,
+                "measureUS": "slice(s)",
+                "imperialQuantity": 2.0,
+                "imperialMeasure": "slice(s)",
+                "quantityUSProd": 1.0,
+                "measureUSProd": "oz",
+                "imperialProductQuantity": 1.0,
+                "imperialProductMeasure": "oz",
+                "ingredient": {
+                    "_id": {
+                        "$oid": "52bc0f1791217a0b01a8ad4c"
+                    },
+                    "typ": "regular",
+                    "title": "prosciutto",
+                    "numberTitle": {
+                        "singular": "prosciutto",
+                        "plural": "prosciutto"
+                    },
+                    "uncountableTitle": "prosciutto",
+                    "category": "Meat",
+                    "key": "prosciuttoserrano-schinkenprosciuttoserrano-schinken",
+                    "desc": "prosciuttoserrano-schinkenprosciuttoserrano-schinken",
+                    "image": {
+                        "name": "meat_ham-serrano_s.jpg",
+                        "url": "https://d2am1qai33sroc.cloudfront.net/image/5bb77655270000eb018a8f4b"
+                    },
+                    "isSponsored": false,
+                    "measures": {
+                        "de": [
+                            "1x",
+                            "2x",
+                            "3x",
+                            "100g",
+                            "200g"
+                        ],
+                        "us": [
+                            "1x",
+                            "2x",
+                            "3x",
+                            "4 oz",
+                            "8 oz",
+                            "12 oz"
+                        ]
+                    },
+                    "brands": [],
+                    "creationDate": {
+                        "$date": 1388056343862
+                    },
+                    "updateDate": {
+                        "$date": 1655479229624
+                    }
+                }
+            },
+            {
+                "quantity": 80.0,
+                "measure": "g",
+                "metricQuantity": 80.0,
+                "metricMeasure": "g",
+                "quantityUS": 0.5,
+                "measureUS": "cup(s)",
+                "imperialQuantity": 0.5,
+                "imperialMeasure": "cup(s)",
+                "quantityUSProd": 3.0,
+                "measureUSProd": "oz",
+                "imperialProductQuantity": 3.0,
+                "imperialProductMeasure": "oz",
+                "ingredient": {
+                    "_id": {
+                        "$oid": "623ae43c520000a90c76d1ff"
+                    },
+                    "typ": "regular",
+                    "title": "cherry tomato",
+                    "numberTitle": {
+                        "singular": "cherry tomato",
+                        "plural": "cherry tomatoes"
+                    },
+                    "uncountableTitle": "cherry tomatoes",
+                    "category": "FruitVegetables",
+                    "key": "cherry_tomatocherrytomatecherry_tomatoescherrytomaten",
+                    "desc": "cherry_tomatocherrytomatecherry_tomatoescherrytomaten",
+                    "image": {
+                        "name": "vegetables_cherry_tomato_s.jpg",
+                        "url": "https://d2am1qai33sroc.cloudfront.net/image/63d7d0d94800003800ddd056"
+                    },
+                    "isSponsored": false,
+                    "measures": {
+                        "de": [],
+                        "us": []
+                    },
+                    "brands": [
+                        {
+                            "id": "623ae4644a000019093c2e7a",
+                            "name": "REWE Regional ",
+                            "countries": [
+                                "de",
+                                "at",
+                                "ch"
+                            ],
+                            "ingredientTitle": null,
+                            "uncountableTitle": null,
+                            "ingredientImage": {
+                                "name": "veg_tomatoes-cherry_REWE-Regional_s.jpg",
+                                "url": "https://d2am1qai33sroc.cloudfront.net/image/623ae5e5500000cb069dc35d"
+                            }
+                        }
+                    ],
+                    "creationDate": {
+                        "$date": 1648026684311
+                    },
+                    "updateDate": {
+                        "$date": 1656583410720
+                    }
+                }
+            },
+            {
+                "quantity": 0.5,
+                "measure": "TL",
+                "metricQuantity": 0.5,
+                "metricMeasure": "tsp",
+                "quantityUS": 0.5,
+                "measureUS": "tsp",
+                "imperialQuantity": 0.5,
+                "imperialMeasure": "tsp",
+                "quantityUSProd": 0.5,
+                "imperialProductQuantity": 0.5,
+                "ingredient": {
+                    "_id": {
+                        "$oid": "573c58c503010014069aeb26"
+                    },
+                    "typ": "basic",
+                    "title": "herbes de Provence, dried",
+                    "numberTitle": {
+                        "singular": "herbes de Provence, dried",
+                        "plural": "herbes de Provence, dried"
+                    },
+                    "uncountableTitle": "herbes de Provence, dried",
+                    "category": "SpicesSeasoning",
+                    "key": "herbes_de_provence,driedkräuter_der_provence,getrocknetherbes_de_provence,driedkräuter_der_provence,getrocknet",
+                    "desc": "herbes_de_provence,driedkräuter_der_provence,getrocknetherbes_de_provence,driedkräuter_der_provence,getrocknet",
+                    "image": {
+                        "name": "spices_herbes-de-provence-dried_s.jpg",
+                        "url": "https://d2am1qai33sroc.cloudfront.net/image/5bb754e6290000b7126fb1f6"
+                    },
+                    "isSponsored": false,
+                    "measures": {
+                        "de": [
+                            "1x",
+                            "2x",
+                            "3x"
+                        ],
+                        "us": [
+                            "1x",
+                            "2x",
+                            "3x"
+                        ]
+                    },
+                    "brands": [],
+                    "creationDate": {
+                        "$date": 1463572677900
+                    },
+                    "updateDate": {
+                        "$date": 1652996007170
+                    }
+                }
+            },
+            {
+                "quantity": 0.25,
+                "measure": "TL",
+                "metricQuantity": 0.25,
+                "metricMeasure": "tsp",
+                "quantityUS": 0.25,
+                "measureUS": "tsp",
+                "imperialQuantity": 0.25,
+                "imperialMeasure": "tsp",
+                "quantityUSProd": 0.25,
+                "imperialProductQuantity": 0.25,
+                "ingredient": {
+                    "_id": {
+                        "$oid": "55364246490000711350a3d2"
+                    },
+                    "typ": "basic",
+                    "title": "chili flake",
+                    "numberTitle": {
+                        "singular": "chili flake",
+                        "plural": "chili flakes"
+                    },
+                    "uncountableTitle": "chili flakes",
+                    "category": "SpicesSeasoning",
+                    "key": "chili_flakechiliflockechili_flakeschiliflocken",
+                    "desc": "chili_flakechiliflockechili_flakeschiliflocken",
+                    "image": {
+                        "name": "spices_chili-flakes_s.jpg",
+                        "url": "https://d2am1qai33sroc.cloudfront.net/image/5bb625b02800007619c51d35"
+                    },
+                    "isSponsored": false,
+                    "measures": {
+                        "de": [
+                            "1x",
+                            "2x",
+                            "50g"
+                        ],
+                        "us": [
+                            "1x",
+                            "2x",
+                            "3x"
+                        ]
+                    },
+                    "brands": [],
+                    "creationDate": {
+                        "$date": 1429619270586
+                    },
+                    "updateDate": {
+                        "$date": 1660818207853
+                    }
+                }
+            },
+            {
+                "quantity": 10.0,
+                "measure": "g",
+                "metricQuantity": 10.0,
+                "metricMeasure": "g",
+                "quantityUS": 0.5,
+                "measureUS": "cup(s)",
+                "imperialQuantity": 0.5,
+                "imperialMeasure": "cup(s)",
+                "quantityUSProd": 0.4,
+                "measureUSProd": "oz",
+                "imperialProductQuantity": 0.4,
+                "imperialProductMeasure": "oz",
+                "ingredient": {
+                    "_id": {
+                        "$oid": "52bc2f8991217a5903a8adb1"
+                    },
+                    "typ": "regular",
+                    "title": "arugula",
+                    "numberTitle": {
+                        "singular": "arugula",
+                        "plural": "arugula"
+                    },
+                    "uncountableTitle": "arugula",
+                    "category": "FruitVegetables",
+                    "key": "arugularucolaarugularucola",
+                    "desc": "arugularucolaarugularucola",
+                    "image": {
+                        "name": "veg_arugula_s.jpg",
+                        "url": "https://d2am1qai33sroc.cloudfront.net/image/5bb610a42800007915c51cdb"
+                    },
+                    "isSponsored": false,
+                    "measures": {
+                        "de": [
+                            "1x",
+                            "2x",
+                            "100g",
+                            "125g",
+                            "200g",
+                            "250g"
+                        ],
+                        "us": [
+                            "1x",
+                            "2x",
+                            "6 oz",
+                            "8 oz"
+                        ]
+                    },
+                    "brands": [
+                        {
+                            "id": "6319f1a24e00007c00e416b5",
+                            "name": "Kaufland",
+                            "countries": [
+                                "de",
+                                "at",
+                                "ch"
+                            ],
+                            "ingredientTitle": null,
+                            "uncountableTitle": null,
+                            "ingredientImage": {
+                                "name": "veg_arugula_Kaufland-Regio_s.jpg",
+                                "url": "https://d2am1qai33sroc.cloudfront.net/image/6319f1fe5300007c009047ff"
+                            }
+                        }
+                    ],
+                    "creationDate": {
+                        "$date": 1388064649534
+                    },
+                    "updateDate": {
+                        "$date": 1662645022271
+                    }
+                }
+            },
+            {
+                "quantity": 40.0,
+                "measure": "g",
+                "metricQuantity": 40.0,
+                "metricMeasure": "g",
+                "quantityUS": 2.0,
+                "measureUS": "tbsp",
+                "imperialQuantity": 2.0,
+                "imperialMeasure": "tbsp",
+                "quantityUSProd": 1.4,
+                "measureUSProd": "oz",
+                "imperialProductQuantity": 1.4,
+                "imperialProductMeasure": "oz",
+                "ingredient": {
+                    "_id": {
+                        "$oid": "52fbdfc4a4999b810faeebb7"
+                    },
+                    "typ": "regular",
+                    "title": "cream cheese",
+                    "numberTitle": {
+                        "singular": "cream cheese",
+                        "plural": "cream cheese"
+                    },
+                    "uncountableTitle": "cream cheese",
+                    "category": "DairyEggs",
+                    "key": "cream_cheesefrischkäsecream_cheesefrischkäse",
+                    "desc": "cream_cheesefrischkäsecream_cheesefrischkäse",
+                    "image": {
+                        "name": "dairy_cheese-creme_s.jpg",
+                        "url": "https://d2am1qai33sroc.cloudfront.net/image/5bbb66f72800002123a3e27b"
+                    },
+                    "isSponsored": false,
+                    "measures": {
+                        "de": [
+                            "1x",
+                            "2x",
+                            "3x",
+                            "150g",
+                            "200g",
+                            "400g"
+                        ],
+                        "us": [
+                            "1x",
+                            "2x",
+                            "3x",
+                            "8 oz",
+                            "16 oz",
+                            "32 oz"
+                        ]
+                    },
+                    "brands": [
+                        {
+                            "id": "630c68eb5300008906aa2417",
+                            "name": "K-BIO",
+                            "countries": [
+                                "de",
+                                "at",
+                                "ch"
+                            ],
+                            "ingredientTitle": null,
+                            "uncountableTitle": null,
+                            "ingredientImage": {
+                                "name": "dairy_cheese-cream_K-Bio_Kaufland_s (1).jpg",
+                                "url": "https://d2am1qai33sroc.cloudfront.net/image/630c68fc530000bf069ab911"
+                            }
+                        },
+                        {
+                            "id": "635a48734a00003600402c42",
+                            "name": "Exquisa",
+                            "countries": [
+                                "de",
+                                "at",
+                                "ch"
+                            ],
+                            "ingredientTitle": null,
+                            "uncountableTitle": null,
+                            "ingredientImage": {
+                                "name": "dairy_cream_cheese_Exquisa_s.jpg",
+                                "url": "https://d2am1qai33sroc.cloudfront.net/image/635f8ab34c0000740693a62c"
+                            }
+                        }
+                    ],
+                    "creationDate": {
+                        "$date": 1392238532572
+                    },
+                    "updateDate": {
+                        "$date": 1667383316910
+                    }
+                }
+            },
+            {
+                "quantity": 1.0,
+                "metricQuantity": 1.0,
+                "quantityUS": 1.0,
+                "imperialQuantity": 1.0,
+                "quantityUSProd": 1.0,
+                "imperialProductQuantity": 1.0,
+                "ingredient": {
+                    "_id": {
+                        "$oid": "52bc0f4f91217a1c01a8ad4e"
+                    },
+                    "typ": "regular",
+                    "title": "egg",
+                    "numberTitle": {
+                        "singular": "egg",
+                        "plural": "eggs"
+                    },
+                    "uncountableTitle": "eggs",
+                    "category": "DairyEggs",
+                    "key": "eggeieggseier",
+                    "desc": "eggeieggseier",
+                    "image": {
+                        "name": "dairy_egg_s.jpg",
+                        "url": "https://d2am1qai33sroc.cloudfront.net/image/5bb635752800001f1cc51d75"
+                    },
+                    "isSponsored": false,
+                    "measures": {
+                        "de": [
+                            "1x",
+                            "2x",
+                            "3x",
+                            "6x",
+                            "10x"
+                        ],
+                        "us": [
+                            "1x",
+                            "2x",
+                            "3x",
+                            "6x",
+                            "12x",
+                            "18x"
+                        ]
+                    },
+                    "synonym": "egg, eggs",
+                    "brands": [
+                        {
+                            "id": "63da24e6500000820860c12d",
+                            "name": "Kaufland",
+                            "countries": [
+                                "de",
+                                "at",
+                                "ch"
+                            ],
+                            "ingredientTitle": {
+                                "singular": "egg",
+                                "plural": "eggs"
+                            },
+                            "uncountableTitle": "egg",
+                            "ingredientImage": {
+                                "name": "dairy_egg_Kaufland_s.jpg",
+                                "url": "https://d2am1qai33sroc.cloudfront.net/image/63e119514e0000f4006a38dd"
+                            }
+                        }
+                    ],
+                    "creationDate": {
+                        "$date": 1388056399540
+                    },
+                    "updateDate": {
+                        "$date": 1675701954507
+                    }
+                }
+            }
+        ],
+        "imageList": [
+            {
+                "name": "REZ_1046_Cover.jpg",
+                "url": "https://d2am1qai33sroc.cloudfront.net/image/59b8e8a6950000a90949a083",
+                "type": "cover"
+            },
+            {
+                "name": "REZ_1046_Fav.jpg",
+                "url": "https://d2am1qai33sroc.cloudfront.net/image/59b8e8b1950000fd1649a084",
+                "type": "favorite"
+            },
+            {
+                "name": "REZ_146_09.jpg",
+                "url": "https://d2am1qai33sroc.cloudfront.net/image/59b8e934950000231749a08d",
+                "type": "blurred"
+            }
+        ],
+        "localizedPublishDate": {
+            "en": {
+                "$date": 1640736000000
+            },
+            "de": {
+                "$date": 1640736000000
+            }
+        },
+        "trackingMode": "no",
+        "feature": "none",
+        "publishDuration": {
+            "en": 1,
+            "de": 1
+        },
+        "ingredientTags": "Chiliflocken,chili flakes,Ei(er),egg(s),Quark,cream cheese / curd cheese,Kräuter der Provence, getrocknet,Italian seasoning, dried,Salz,salt,Pfeffer,pepper,Frischkäse,cream cheese,Serrano Schinken,Prosciutto,Cherrytomaten,cherry tomatoes,Rucola,arugula",
+        "favoriteCount": 97568,
+        "publishDates": {
+            "en": [
+                {
+                    "$date": 1640743200000
+                }
+            ],
+            "de": [
+                {
+                    "$date": 1640743200000
+                }
+            ]
+        },
+        "creationDate": {
+            "$date": 1505135757925
+        },
+        "updateDate": {
+            "$date": 1677176434672
+        }
+    }
+]

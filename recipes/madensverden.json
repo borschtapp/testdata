@@ -1,0 +1,105 @@
+{
+  "url": "https://madensverden.dk/trifli-med-rabarber/",
+  "name": "Rabarbertrifli",
+  "description": "Rabarbertrifli er en populær dessert, der laves med knuste makroner og flødeskum. Den lækre trifli med rabarber kan laves god tid i forvejen.",
+  "inLanguage": "da-DK",
+  "image": [
+    {
+      "url": "https://madensverden.dk/wp-content/uploads/2017/08/billederesultat-for-rabarbertrifli.jpg"
+    },
+    {
+      "url": "https://madensverden.dk/wp-content/uploads/2017/08/billederesultat-for-rabarbertrifli-500x500.jpg"
+    },
+    {
+      "url": "https://madensverden.dk/wp-content/uploads/2017/08/billederesultat-for-rabarbertrifli-500x375.jpg"
+    },
+    {
+      "url": "https://madensverden.dk/wp-content/uploads/2017/08/billederesultat-for-rabarbertrifli-480x270.jpg"
+    }
+  ],
+  "author": {
+    "name": "Holger Rørby Madsen",
+    "jobTitle": "Ejer",
+    "description": "Jeg hedder Holger, og er manden bag Madens Verden. Med omkring 2 mio. brugere hver måned er madensverden.dk et af Danmarks største madmedier, og her får du tusindvis af opskrifter, masser af viden om mad og råvarer, bageskole, alt om sous vide og meget mere. God fornøjelse, og husk du altid er velkommen til at skrive, hvis du har spørgsmål.",
+    "knowsAbout": [
+      "opskrifter",
+      "mad",
+      "sousvide",
+      "kager",
+      "brød",
+      "madlavning",
+      "sovs"
+    ],
+    "image": "https://secure.gravatar.com/avatar/b5a662a1d102c2e0b934e247b9d7c8b9?s=96\u0026d=mm\u0026r=g"
+  },
+  "publisher": {
+    "name": "Madens Verden",
+    "description": "Opskrifter og viden om mad.",
+    "url": "https://madensverden.dk",
+    "logo": "https://madensverden.dk/wp-content/uploads/2021/11/logo-circle.jpg"
+  },
+  "prepTime": "PT15M",
+  "cookTime": "PT15M",
+  "totalTime": "PT30M",
+  "recipeCategory": [
+    "Dessert"
+  ],
+  "recipeCuisine": [
+    "Dansk"
+  ],
+  "keywords": [
+    "rabarber"
+  ],
+  "recipeYield": 6,
+  "recipeIngredient": [
+    "400 gram rabarber",
+    "75 gram sukker",
+    "10 gram vaniljesukker",
+    "2 pasteuriserede æggeblommer (1 bæger)",
+    "40 gram sukker",
+    "10 gram majsstivelse",
+    "2,5 deciliter sødmælk",
+    "2,5 deciliter piskefløde",
+    "100 gram makroner",
+    "40 gram mandelflager"
+  ],
+  "recipeInstructions": [
+    {
+      "text": "Start med at lave rabarberkompot. Rabarber snittes i tynde skiver, som koges i en kasserolle sammen med sukker og vaniljesukker. Kogetiden er cirka 10 minutter, og du skal ikke tilsætte vand, da rabarberne kaster rigeligt med væske af sig. Lad kompotten køle af.",
+      "url": "https://madensverden.dk/trifli-med-rabarber/#wprm-recipe-133902-step-0-0"
+    },
+    {
+      "text": "Cremen laves ved at piske æggeblommer sammen med sukker og majsstivelse i en kasserolle. Koges op med sødmælken indtil den har den rette konsistens, og du skal piske i den undervejs så cremen ikke brænder på. Lad den køle lidt af.",
+      "url": "https://madensverden.dk/trifli-med-rabarber/#wprm-recipe-133902-step-0-1"
+    },
+    {
+      "text": "Fløden piskes til en let flødeskum.",
+      "url": "https://madensverden.dk/trifli-med-rabarber/#wprm-recipe-133902-step-0-2"
+    },
+    {
+      "text": "Anret nu trifli med rabarber i portionsglas.",
+      "url": "https://madensverden.dk/trifli-med-rabarber/#wprm-recipe-133902-step-0-3"
+    },
+    {
+      "text": "Først med et lag creme nederst, så knuste makroner og ovenpå det den lækre rabarberkompot.",
+      "url": "https://madensverden.dk/trifli-med-rabarber/#wprm-recipe-133902-step-0-4"
+    },
+    {
+      "text": "Slut af med flødeskum og pynt med mandelflager.",
+      "url": "https://madensverden.dk/trifli-med-rabarber/#wprm-recipe-133902-step-0-5"
+    },
+    {
+      "text": "Stil rabarbertriflierne i køleskabet, og lad dem trække i mindst en time før servering.",
+      "url": "https://madensverden.dk/trifli-med-rabarber/#wprm-recipe-133902-step-0-6"
+    }
+  ],
+  "nutrition": {
+    "calories": "270 kcal",
+    "servingSize": "1 person"
+  },
+  "aggregateRating": {
+    "ratingCount": 26,
+    "ratingValue": 4.77
+  },
+  "datePublished": "2022-05-18T04:50:00Z"
+}

@@ -1,0 +1,127 @@
+{
+  "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/",
+  "name": "Chocolate Zucchini Bread",
+  "description": "Chocolate zucchini bread is quick, delicious, and the perfect use for the last of your summer zucchini. Enjoy a slice with your morning coffee or serve it up for dessert.",
+  "inLanguage": "en-US",
+  "image": [
+    {
+      "url": "https://www.mybakingaddiction.com/wp-content/uploads/2016/08/slice-from-chocolate-zucchini-loaf-hero-720x720.jpg"
+    },
+    {
+      "url": "https://www.mybakingaddiction.com/wp-content/uploads/2016/08/slice-from-chocolate-zucchini-loaf-hero-720x540.jpg"
+    },
+    {
+      "url": "https://www.mybakingaddiction.com/wp-content/uploads/2016/08/slice-from-chocolate-zucchini-loaf-hero-540x720.jpg"
+    },
+    {
+      "url": "https://www.mybakingaddiction.com/wp-content/uploads/2016/08/slice-from-chocolate-zucchini-loaf-hero-720x405.jpg"
+    },
+    {
+      "url": "https://www.mybakingaddiction.com/wp-content/uploads/2016/08/slice-from-chocolate-zucchini-loaf-hero-735x735.jpg"
+    }
+  ],
+  "author": {
+    "name": "Jamie",
+    "url": "https://www.mybakingaddiction.com/author/jamie/"
+  },
+  "publisher": {
+    "name": "My Baking Addiction",
+    "description": "modern. delicious. addictive.",
+    "url": "https://www.mybakingaddiction.com",
+    "logo": "https://www.mybakingaddiction.com/wp-content/uploads/2022/03/mybakingaddiction_logo-600px.jpeg"
+  },
+  "prepTime": "PT15M",
+  "cookTime": "PT1H",
+  "totalTime": "PT1H15M",
+  "recipeCategory": [
+    "Bread"
+  ],
+  "keywords": [
+    "Bread",
+    "Chocolate",
+    "Coconut",
+    "Summer Recipes",
+    "Zucchini"
+  ],
+  "recipeYield": 2,
+  "recipeIngredient": [
+    "2 1/2 cups all-purpose flour",
+    "1/2 cup unsweetened cocoa powder",
+    "1 teaspoon salt",
+    "1 teaspoon baking soda",
+    "1/2 teaspoon baking powder",
+    "1 teaspoon ground cinnamon",
+    "1 cup coconut oil, melted",
+    "2/3 cup granulated sugar",
+    "2/3 cup light brown sugar",
+    "1/2 cup sour cream",
+    "3 large eggs",
+    "2 teaspoons pure vanilla extract",
+    "2 1/2 cups grated zucchini",
+    "1 cup semi-sweet chocolate chips",
+    "3/4 cup shredded sweetened coconut"
+  ],
+  "recipeInstructions": [
+    {
+      "name": "Preheat oven to 350°F. Spray two 8x4-inch loaf...",
+      "text": "Preheat oven to 350°F. Spray two 8x4-inch loaf pans with baking spray and/or line with parchment paper.",
+      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#mv_create_748_1"
+    },
+    {
+      "name": "In a medium bowl, whisk together the flour,...",
+      "text": "In a medium bowl, whisk together the flour, cocoa, salt, baking soda, baking powder and cinnamon.",
+      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#mv_create_748_2"
+    },
+    {
+      "name": "In a large bowl with an electric mixer,...",
+      "text": "In a large bowl with an electric mixer, mix the coconut oil and sugars until combined. Mix in the sour cream. Add in the eggs and vanilla and mix until thoroughly incorporated.",
+      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#mv_create_748_3"
+    },
+    {
+      "name": "Slowly add dry ingredients to wet ingredients and...",
+      "text": "Slowly add dry ingredients to wet ingredients and mix until just combined.",
+      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#mv_create_748_4"
+    },
+    {
+      "name": "Add in the zucchini and mix for about...",
+      "text": "Add in the zucchini and mix for about 1 minute, or until the batter is moistened and the zucchini is evenly incorporated into the batter. Stir in the chocolate chips and shredded coconut.",
+      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#mv_create_748_5"
+    },
+    {
+      "name": "Spread the batter into the prepared pans and...",
+      "text": "Spread the batter into the prepared pans and bake in preheated oven for 55-60 minutes, or until a toothpick inserted into the center comes out clean.",
+      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#mv_create_748_6"
+    },
+    {
+      "name": "Cool bread in pan for 30 minutes. Remove...",
+      "text": "Cool bread in pan for 30 minutes. Remove bread to a wire rack to cool completely.",
+      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#mv_create_748_7"
+    }
+  ],
+  "nutrition": {
+    "calories": "296 calories",
+    "servingSize": "1 slice",
+    "carbohydrateContent": "34 grams carbohydrates",
+    "cholesterolContent": "31 milligrams cholesterol",
+    "fatContent": "17 grams fat",
+    "fiberContent": "2 grams fiber",
+    "proteinContent": "4 grams protein",
+    "saturatedFatContent": "12 grams saturated fat",
+    "sodiumContent": "206 milligrams sodium",
+    "sugarContent": "19 grams sugar",
+    "transFatContent": "0 grams trans fat",
+    "unsaturatedFatContent": "3 grams unsaturated fat"
+  },
+  "aggregateRating": {
+    "reviewCount": 21,
+    "ratingValue": 4.3
+  },
+  "video": {
+    "name": "Chocolate Zucchini Bread",
+    "description": "Chocolate zucchini bread is quick, delicious, and the perfect use for the last of your summer zucchini. Enjoy a slice with your morning coffee or serve it up for dessert.",
+    "duration": "PT78S",
+    "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/sfamxim0b1nt9ju8gos8.mp4",
+    "thumbnailUrl": "https://mediavine-res.cloudinary.com/video/upload/s--0Wt-vfA3--/ar_16:9,c_fill,f_auto,fl_lossy,q_auto/v1661954259/sfamxim0b1nt9ju8gos8.jpg",
+    "uploadDate": "2022-08-31T14:12:14Z"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "url": "https://www.gonnawantseconds.com/white-chicken-enchiladas/",
+  "name": "White Chicken Enchiladas",
+  "description": "Whip up the cheesiest, dreamiest dinner you've ever had with my sensational White Chicken Enchiladas! Guaranteed to please even the pickiest eaters!",
+  "inLanguage": "en-US",
+  "image": [
+    {
+      "url": "https://www.gonnawantseconds.com/wp-content/uploads/2020/08/White-Chicken-Enchiladas-01.jpg"
+    },
+    {
+      "url": "https://www.gonnawantseconds.com/wp-content/uploads/2020/08/White-Chicken-Enchiladas-01-500x500.jpg"
+    },
+    {
+      "url": "https://www.gonnawantseconds.com/wp-content/uploads/2020/08/White-Chicken-Enchiladas-01-500x375.jpg"
+    },
+    {
+      "url": "https://www.gonnawantseconds.com/wp-content/uploads/2020/08/White-Chicken-Enchiladas-01-480x270.jpg"
+    }
+  ],
+  "author": {
+    "name": "Kathleen",
+    "description": "I’m a home cook and my favorite place to be is in my kitchen cooking up a storm. I’m also a wife, mother, Bernese Mountain dog lover, friend, daughter, sister, and reluctant exerciser.",
+    "url": "https://www.gonnawantseconds.com/author/food-admin/",
+    "image": "https://secure.gravatar.com/avatar/f6202f5cce19cacd71fcdf70fbebc7a5?s=96\u0026d=mm\u0026r=g"
+  },
+  "publisher": {
+    "name": "Gonna Want Seconds",
+    "description": "Easy and Delicious Family Fa",
+    "url": "https://www.gonnawantseconds.com",
+    "logo": "https://www.gonnawantseconds.com/wp-content/uploads/2016/10/logo-02-04.png"
+  },
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "recipeCategory": [
+    "Main Course"
+  ],
+  "recipeCuisine": [
+    "Mexican"
+  ],
+  "keywords": [
+    "How DO I Make White Chicken Enchiladas Recipe",
+    "How To Make White Chicken Enchiladas Recipe",
+    "White Chicken Enchiladas",
+    "White Chicken Enchiladas Recipe"
+  ],
+  "recipeYield": 4,
+  "recipeIngredient": [
+    "8-10 small flour tortillas",
+    "3 cups cooked chicken (shredded or chopped)",
+    "3 cups Monterey jack cheese (shredded-divided)",
+    "3 tablespoons unsalted butter",
+    "3 tablespoons flour",
+    "2 cups chicken broth",
+    "1 cup sour cream",
+    "1 (4-ounce can) diced green chilies mild",
+    "2-3 tablespoons green onions (sliced)"
+  ],
+  "recipeInstructions": [
+    {
+      "text": "Spray a 9 X 13-inch baking dish with cooking spray and set aside. Preheat oven to 350 degrees.",
+      "url": "https://www.gonnawantseconds.com/white-chicken-enchiladas/#wprm-recipe-16129-step-0-0"
+    },
+    {
+      "text": "In a small bowl, combine chicken and 1 cup of Monterey Jack cheese. Fill tortillas with this mixture and roll each one up then place seam side down in the prepared pan.",
+      "url": "https://www.gonnawantseconds.com/white-chicken-enchiladas/#wprm-recipe-16129-step-0-1"
+    },
+    {
+      "text": "Melt the butter in a skillet. Sprinkle flour over melted butter and whisk to combine. Cook for 1 minute to remove the flour taste. Remove the skillet from heat and whisk in broth. Place back on the heat and cook until the mixture has thickened and is bubbly. Cool sauce for 3-5 minutes. (Don't skip this step- if the sauce is too hot and you add the sour cream it will curdle it-yuck!) Add sour cream and chilies and stir until sauce is smooth and sour cream is completely dissolved.",
+      "url": "https://www.gonnawantseconds.com/white-chicken-enchiladas/#wprm-recipe-16129-step-0-2"
+    },
+    {
+      "text": "Pour sauce over enchiladas and add remaining cheese over top. Bake in preheated oven for 20-25 minutes or until enchiladas are heated through and sauce is bubbly. Turn on the broiler and broil until the top is nicely golden. Top with chopped green onions and serve.",
+      "url": "https://www.gonnawantseconds.com/white-chicken-enchiladas/#wprm-recipe-16129-step-0-3"
+    }
+  ],
+  "nutrition": {
+    "calories": "897 kcal",
+    "servingSize": "1 /4 of the recipe",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "191 mg",
+    "fatContent": "63 g",
+    "fiberContent": "1.5 g",
+    "proteinContent": "45 g",
+    "saturatedFatContent": "33 g",
+    "sodiumContent": "1472 mg",
+    "sugarContent": "5.5 g"
+  },
+  "aggregateRating": {
+    "ratingCount": 67,
+    "ratingValue": 5
+  },
+  "datePublished": "2023-01-12T07:00:02Z"
+}

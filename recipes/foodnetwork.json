@@ -1,0 +1,35 @@
+{
+  "url": "https://foodnetwork.co.uk/recipes/chicken-marsala",
+  "name": "Chicken Marsala",
+  "description": "This mouth-watering recipe is ready in just 20 minutes and the ingredients detailed below can serve up to 4 people.",
+  "inLanguage": "en",
+  "image": [
+    {
+      "url": "https://foodnetwork.co.uk/images/fallback-facebook.png"
+    }
+  ],
+  "publisher": {
+    "name": "Food Network UK",
+    "description": "TV channel Food Network UK official site with latest shows and thousands of global recipes, British dishes and cooking tips from the experts.",
+    "url": "https://foodnetwork.co.uk"
+  },
+  "prepTime": "PT15M",
+  "cookTime": "PT5M",
+  "totalTime": "PT20M",
+  "recipeCuisine": [
+    "American"
+  ],
+  "recipeYield": 4,
+  "recipeIngredient": [
+    "4 (225g) boneless skinless chicken breasts",
+    "Plain flour, for dredging, plus 2 tbsp",
+    "85g butter",
+    "1 tbsp olive oil",
+    "80g sliced mushrooms",
+    "2 tbsp minced garlic",
+    "4 tbsp Marsala wine",
+    "500ml beef stock"
+  ],
+  "dateModified": "2020-09-29T11:09:42Z",
+  "datePublished": "2015-09-04T13:16:56Z"
+}

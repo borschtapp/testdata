@@ -1,0 +1,95 @@
+{
+  "url": "https://www.recipetineats.com/vietnamese-caramel-pork/",
+  "name": "Vietnamese Caramel Pork",
+  "description": "Recipe VIDEO above. \"Thit Kho To\" - Tender pork in a sweet savoury glaze that has quite an intense flavour. Though made using coconut water as the broth, but it doesn't have a coconut flavour at all! It looks so unimpressive right up until the end when it magically transforms into sticky caramelised pork pieces!",
+  "inLanguage": "en-US",
+  "image": [
+    {
+      "url": "https://www.recipetineats.com/wp-content/uploads/2017/10/Vietnamese-Caramel-Pork_-2.jpg"
+    },
+    {
+      "url": "https://www.recipetineats.com/wp-content/uploads/2017/10/Vietnamese-Caramel-Pork_-2.jpg?w=500\u0026h=500\u0026crop=1"
+    },
+    {
+      "url": "https://www.recipetineats.com/wp-content/uploads/2017/10/Vietnamese-Caramel-Pork_-2.jpg?w=500\u0026h=375\u0026crop=1"
+    },
+    {
+      "url": "https://www.recipetineats.com/wp-content/uploads/2017/10/Vietnamese-Caramel-Pork_-2.jpg?w=480\u0026h=270\u0026crop=1"
+    }
+  ],
+  "author": {
+    "name": "Nagi",
+    "description": "I believe you can make great food with everyday ingredients even if you’re short on time and cost conscious. You just need to cook clever and get creative!",
+    "image": "https://secure.gravatar.com/avatar/400004f5258d5b43d30deed3aa6e9566?s=96\u0026d=https%3A%2F%2Fwww.recipetineats.com%2Fwp-content%2Fthemes%2Fonce-coupled-recipe-tin-eats%2Fassets%2Fimages%2Favatar-guest-temp-cache-bust-duplicate.png\u0026r=g"
+  },
+  "publisher": {
+    "name": "RecipeTin Eats",
+    "description": "Fast Prep, Big Flavours",
+    "url": "https://www.recipetineats.com",
+    "logo": "https://www.recipetineats.com/wp-content/uploads/2019/04/RecipeTinEats_logo_for_Knowledge_Graph_card.png"
+  },
+  "prepTime": "PT10M",
+  "cookTime": "PT1H30M",
+  "totalTime": "PT1H40M",
+  "recipeCategory": [
+    "Main"
+  ],
+  "recipeCuisine": [
+    "Vietnamese"
+  ],
+  "keywords": [
+    "Vietnamese caramel pork",
+    "Vietnamese pork recipe"
+  ],
+  "recipeYield": 4,
+  "recipeIngredient": [
+    "1/2 cup / 100g brown sugar, tightly packed",
+    "1 tbsp water",
+    "1 kg / 2 lb pork shoulder ((butt) or boneless skinless pork belly, cut into 3 cm / 1.2\" pieces (Note 1a))",
+    "1.5 cups / 375 ml coconut water ((Note 1b))",
+    "1 eschallot / shallot (, very finely sliced (Note 2))",
+    "2 garlic cloves (, minced)",
+    "1 1/2 tbsp fish sauce",
+    "1/4 tsp white pepper",
+    "Red chilli and finely sliced shallots/green onions"
+  ],
+  "recipeInstructions": [
+    {
+      "text": "Place sugar and water in a large pot over medium heat. Stir, then when it bubbles and the sugar is melted (it looks like caramel), add the rest of the ingredients.",
+      "url": "https://www.recipetineats.com/vietnamese-caramel-pork/#wprm-recipe-23404-step-0-0"
+    },
+    {
+      "text": "Stir, then adjust the heat so it is simmering fairly energetically. Not rapidly, not a slow simmer (I use medium heat on a weak stove, between medium and low on a strong stove).",
+      "url": "https://www.recipetineats.com/vietnamese-caramel-pork/#wprm-recipe-23404-step-0-1"
+    },
+    {
+      "text": "Simmer for 1.5 hours, uncovered. Stir once or twice while cooking.",
+      "url": "https://www.recipetineats.com/vietnamese-caramel-pork/#wprm-recipe-23404-step-0-2"
+    },
+    {
+      "text": "At around 1.5 hours, when the liquid has reduced down and the pork is tender, (see Note 3 if pork is not yet tender), the fat will separate (see video).",
+      "url": "https://www.recipetineats.com/vietnamese-caramel-pork/#wprm-recipe-23404-step-0-3"
+    },
+    {
+      "text": "Stir and the pork will brown and caramelise in the fat.",
+      "url": "https://www.recipetineats.com/vietnamese-caramel-pork/#wprm-recipe-23404-step-0-4"
+    },
+    {
+      "text": "Once the liquid is all gone and it's now stuck on the pork pieces, it's ready.",
+      "url": "https://www.recipetineats.com/vietnamese-caramel-pork/#wprm-recipe-23404-step-0-5"
+    },
+    {
+      "text": "Serve over rice, garnished with fresh chilli and shallots. Simple pickled vegetables are ideal for a side because the fresh acidity pairs well with the rich pork.",
+      "url": "https://www.recipetineats.com/vietnamese-caramel-pork/#wprm-recipe-23404-step-0-6"
+    }
+  ],
+  "nutrition": {
+    "calories": "727 kcal",
+    "servingSize": "365 g"
+  },
+  "aggregateRating": {
+    "ratingCount": 142,
+    "ratingValue": 4.93
+  },
+  "datePublished": "2017-10-04T15:55:09Z"
+}

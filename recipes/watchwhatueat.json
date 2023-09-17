@@ -1,0 +1,120 @@
+{
+  "url": "https://www.watchwhatueat.com/healthy-instant-pot-cauliflower-head/",
+  "name": "Healthy Instant Pot Cauliflower With Gravy",
+  "description": "Whole cauliflower head flavored with fresh garlic and herbs and cooked in the pressure cooker. Also, learn to make delicious gravy that compliments this steamed whole cauliflower dish.",
+  "inLanguage": "en-US",
+  "image": [
+    {
+      "url": "https://www.watchwhatueat.com/wp-content/uploads/2018/10/Instant-Pot-Whole-Cauliflower-6.jpg"
+    },
+    {
+      "url": "https://www.watchwhatueat.com/wp-content/uploads/2018/10/Instant-Pot-Whole-Cauliflower-6-500x500.jpg"
+    },
+    {
+      "url": "https://www.watchwhatueat.com/wp-content/uploads/2018/10/Instant-Pot-Whole-Cauliflower-6-500x375.jpg"
+    },
+    {
+      "url": "https://www.watchwhatueat.com/wp-content/uploads/2018/10/Instant-Pot-Whole-Cauliflower-6-480x270.jpg"
+    }
+  ],
+  "author": {
+    "name": "Swati Kadam Gulati",
+    "description": "We are Swati and Tushar, our passion for food and cooking has now led us to share some healthy, tasty recipes and the benefits of eating certain ingredients with the goal of inspiring you to eat well and live well.",
+    "url": "https://www.watchwhatueat.com/author/swatitushar/",
+    "image": "https://www.watchwhatueat.com/wp-content/uploads/2015/11/WWUE-logo-sub-96x96.png"
+  },
+  "publisher": {
+    "name": "Watch What U Eat",
+    "description": "Easy healthy meals | healthy family meals | healthy dinner recipes",
+    "url": "https://www.watchwhatueat.com",
+    "logo": "https://www.watchwhatueat.com/wp-content/uploads/2015/11/WWUE-logo-sub.png"
+  },
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "suitableForDiet": [
+    "https://schema.org/LowFatDiet"
+  ],
+  "recipeCategory": [
+    "Lunch / Dinner",
+    "Main Course"
+  ],
+  "recipeCuisine": [
+    "American Inspired"
+  ],
+  "keywords": [
+    "instant pot cauliflower",
+    "instant pot whole cauliflower"
+  ],
+  "recipeYield": 4,
+  "recipeIngredient": [
+    "1 large cauliflower head",
+    "3-4 garlic cloves finely chopped",
+    "1 tbsp fresh thyme (or 1 tsp dried)",
+    "1 tbsp fresh parsley finely chopped",
+    "1/2 tbsp olive oil",
+    "1 tbsp lemon juice",
+    "1 tsp smoked paprika",
+    "salt and pepper",
+    "1 onion cut into large pieces",
+    "1 tsp oil",
+    "2-3 garlic cloves whole",
+    "1 1/2 cup vegetable stock",
+    "1/2 tsp thyme (or more if fresh)",
+    "1/2 tbsp lemon juice",
+    "1 tbsp whole wheat flour"
+  ],
+  "recipeInstructions": [
+    {
+      "text": "In a small bowl combine all the ingredients listed under marinade.",
+      "url": "https://www.watchwhatueat.com/healthy-instant-pot-cauliflower-head/#wprm-recipe-3535-step-0-0"
+    },
+    {
+      "text": "Cut leaves from the bottom of the cauliflower head. Carefully trim the stem flush without cutting the florets. It will help the cauliflower to sit flat on the trivet.",
+      "url": "https://www.watchwhatueat.com/healthy-instant-pot-cauliflower-head/#wprm-recipe-3535-step-0-1"
+    },
+    {
+      "text": "Rub the prepared garlic-herb marinade on the cauliflower head evenly.",
+      "url": "https://www.watchwhatueat.com/healthy-instant-pot-cauliflower-head/#wprm-recipe-3535-step-0-2"
+    },
+    {
+      "text": "For the gravy heat oil in saute mode of the Instant Pot. Add onion and whole garlic cloves; cook until translucent.",
+      "url": "https://www.watchwhatueat.com/healthy-instant-pot-cauliflower-head/#wprm-recipe-3535-step-0-3"
+    },
+    {
+      "text": "Then add vegetable stock, thyme and lemon juice. Place the trivet into the Instant Pot.",
+      "url": "https://www.watchwhatueat.com/healthy-instant-pot-cauliflower-head/#wprm-recipe-3535-step-0-4"
+    },
+    {
+      "text": "Put the whole cauliflower head on the trivet. Cook for 3 min on manual high-pressure mode. Allow pressure to release naturally for 5 min and then quick release the remaining pressure.",
+      "url": "https://www.watchwhatueat.com/healthy-instant-pot-cauliflower-head/#wprm-recipe-3535-step-0-5"
+    },
+    {
+      "text": "Carefully transfer the cauliflower to an oven-safe dish or tray. Optionally, broil it 3-4 min in the oven to get a nice crust.",
+      "url": "https://www.watchwhatueat.com/healthy-instant-pot-cauliflower-head/#wprm-recipe-3535-step-0-6"
+    },
+    {
+      "text": "Turn on the saute mode in the Instant Pot. Add flour to the gravy base and blend everything using a hand blender until it gets to a smooth consistency. Add salt and pepper according to taste.",
+      "url": "https://www.watchwhatueat.com/healthy-instant-pot-cauliflower-head/#wprm-recipe-3535-step-0-7"
+    },
+    {
+      "text": "Cook the gravy for 3-4 min and serve warm with the cooked cauliflower.",
+      "url": "https://www.watchwhatueat.com/healthy-instant-pot-cauliflower-head/#wprm-recipe-3535-step-0-8"
+    }
+  ],
+  "nutrition": {
+    "calories": "99 kcal",
+    "servingSize": "1 serving",
+    "carbohydrateContent": "17.9 g",
+    "fatContent": "2.9 g",
+    "fiberContent": "6.4 g",
+    "proteinContent": "5.1 g",
+    "saturatedFatContent": "1 g",
+    "sugarContent": "7.2 g"
+  },
+  "aggregateRating": {
+    "ratingCount": 17,
+    "ratingValue": 4.59
+  },
+  "datePublished": "2018-10-17T13:39:21Z"
+}

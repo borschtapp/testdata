@@ -1,0 +1,136 @@
+{
+  "url": "https://tastesbetterfromscratch.com/hersheys-perfectly-chocolate-chocolate-cake/",
+  "name": "Hershey's \"perfectly chocolate\" Chocolate Cake",
+  "description": "Hershey's \"perfectly chocolate\" chocolate cake with 5 ingredient chocolate frosting is our favorite homemade chocolate cake recipe.",
+  "inLanguage": "en-US",
+  "image": [
+    {
+      "url": "https://tastesbetterfromscratch.com/wp-content/uploads/2010/06/Hersheys-Perfectly-Chocolate-Chocolate-Cake-13.jpg"
+    },
+    {
+      "url": "https://tastesbetterfromscratch.com/wp-content/uploads/2010/06/Hersheys-Perfectly-Chocolate-Chocolate-Cake-13-500x500.jpg"
+    },
+    {
+      "url": "https://tastesbetterfromscratch.com/wp-content/uploads/2010/06/Hersheys-Perfectly-Chocolate-Chocolate-Cake-13-500x375.jpg"
+    },
+    {
+      "url": "https://tastesbetterfromscratch.com/wp-content/uploads/2010/06/Hersheys-Perfectly-Chocolate-Chocolate-Cake-13-480x270.jpg"
+    }
+  ],
+  "author": {
+    "name": "Lauren Allen",
+    "description": "Welcome! I’m Lauren, a mom of four and lover of good food. Here you’ll find easy recipes and weeknight meal ideas made with real ingredients, with step-by-step photos and videos.",
+    "url": "https://tastesbetterfromscratch.com/about/",
+    "image": "https://secure.gravatar.com/avatar/dc0dc9ed2f606a1bde316b7fff89c9a8?s=96\u0026d=mm\u0026r=g"
+  },
+  "publisher": {
+    "name": "Tastes Better From Scratch",
+    "description": "Everything tastes better homemade!",
+    "url": "https://tastesbetterfromscratch.com",
+    "logo": "https://tastesbetterfromscratch.com/wp-content/uploads/2020/12/Circle-logo.jpg"
+  },
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT40M",
+  "recipeCategory": [
+    "Dessert"
+  ],
+  "recipeCuisine": [
+    "American"
+  ],
+  "keywords": [
+    "chocolate cake from scratch",
+    "chocolate cake recipe"
+  ],
+  "recipeYield": 16,
+  "recipeIngredient": [
+    "2 cups granulated sugar",
+    "1 3/4 cup + 2 Tablespoons all-purpose flour",
+    "3/4 cup unsweetened cocoa powder",
+    "1 1/2 teaspoons baking powder",
+    "1 1/2 teaspoons baking soda",
+    "1 teaspoon salt",
+    "2 large eggs",
+    "1 cup buttermilk",
+    "1/2 cup oil ((vegetable or canola oil))",
+    "2 teaspoons vanilla extract",
+    "1 cup boiling water (, or hot coffee)",
+    "1/2 cup melted butter",
+    "2/3 cup unsweetened cocoa powder",
+    "3 cups powdered sugar",
+    "1/3 cup milk",
+    "1 teaspoon vanilla extract"
+  ],
+  "recipeInstructions": [
+    {
+      "text": "Heat oven to 350°F. Line two 8 inch round baking pans with parchment paper and then spray lightly with non-stick cooking spray. Set aside.",
+      "url": "https://tastesbetterfromscratch.com/hersheys-perfectly-chocolate-chocolate-cake/#wprm-recipe-13824-step-0-0"
+    },
+    {
+      "text": "Stir together sugar, flour, cocoa, baking powder, baking soda and salt in large bowl.",
+      "url": "https://tastesbetterfromscratch.com/hersheys-perfectly-chocolate-chocolate-cake/#wprm-recipe-13824-step-0-1"
+    },
+    {
+      "text": "Add eggs, milk, oil and vanilla and mix until well combined.",
+      "url": "https://tastesbetterfromscratch.com/hersheys-perfectly-chocolate-chocolate-cake/#wprm-recipe-13824-step-0-2"
+    },
+    {
+      "text": "Stir in boiling water (or hot coffee). Batter will be thin, but that's okay! Pour batter into prepared pans.",
+      "url": "https://tastesbetterfromscratch.com/hersheys-perfectly-chocolate-chocolate-cake/#wprm-recipe-13824-step-0-3"
+    },
+    {
+      "text": "Bake 30 to 35 minutes or until a toothpick inserted in the center of the cake comes out clean.",
+      "url": "https://tastesbetterfromscratch.com/hersheys-perfectly-chocolate-chocolate-cake/#wprm-recipe-13824-step-0-4"
+    },
+    {
+      "name": "Chocolate Frosting:",
+      "itemListElement": [
+        {
+          "text": "Combine butter and cocoa powder.",
+          "url": "https://tastesbetterfromscratch.com/hersheys-perfectly-chocolate-chocolate-cake/#wprm-recipe-13824-step-1-0"
+        },
+        {
+          "text": "Add powdered sugar, milk, and vanilla extract. Mix for several minutes until smooth and fluffy.",
+          "url": "https://tastesbetterfromscratch.com/hersheys-perfectly-chocolate-chocolate-cake/#wprm-recipe-13824-step-1-1"
+        }
+      ]
+    },
+    {
+      "name": "Assemble:",
+      "itemListElement": [
+        {
+          "text": "Place one cake layer on serving tray. Spread a generous amount of frosting on top. Add second cake layer. Frost top and sides of cake with remaining frosting.",
+          "url": "https://tastesbetterfromscratch.com/hersheys-perfectly-chocolate-chocolate-cake/#wprm-recipe-13824-step-2-0"
+        },
+        {
+          "text": "Cut and serve.",
+          "url": "https://tastesbetterfromscratch.com/hersheys-perfectly-chocolate-chocolate-cake/#wprm-recipe-13824-step-2-1"
+        }
+      ]
+    }
+  ],
+  "nutrition": {
+    "calories": "383 kcal",
+    "servingSize": "1 serving",
+    "carbohydrateContent": "63 g",
+    "cholesterolContent": "37 mg",
+    "fatContent": "14 g",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "328 mg",
+    "sugarContent": "48 g"
+  },
+  "aggregateRating": {
+    "ratingCount": 555,
+    "ratingValue": 4.91
+  },
+  "video": {
+    "name": "Hershey's Perfectly Chocolate Chocolate Cake",
+    "description": "Hershey’s “perfectly chocolate” Chocolate Cake with 5 ingredient chocolate frosting is our favorite homemade chocolate cake recipe! Extra moist, with a perfect rich chocolate flavor and tender, smooth crumb.",
+    "contentUrl": "https://content.jwplatform.com/videos/xBVt35mn.mp4",
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/xBVt35mn-720.jpg",
+    "uploadDate": "2022-10-03T19:56:18Z"
+  },
+  "datePublished": "2021-04-25T01:00:00Z"
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://www.foodandwine.com/recipes/kwames-pepper-shrimp",
+  "name": "Kwame's Pepper Shrimp",
+  "description": "Kwame Onwuachi's Pepper Shrimp, a beloved Jamaican street food, has a subtle heat and fragrance from Scothch bonnet chiles and fresh ginger.",
+  "inLanguage": "en",
+  "image": [
+    {
+      "url": "https://www.foodandwine.com/thmb/BZ8hhoqmF0B8KlP_pHSEsxjhxnQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pepper-shrimp-FT-RECIPE0920-9b30018088cc419f88c91fa33564075c.jpg",
+      "width": 1500,
+      "height": 1000
+    }
+  ],
+  "author": {
+    "name": "Kwame Onwuachi",
+    "description": "Kwame Onwuachi is the chef of Tatiana in New York City and competed on Top Chef season 13. In 2019, he was a Food \u0026 Wine Best New Chef, the James Beard Foundation's Rising Star Chef of the Year, and Esquire's Chef of the Year. Kwame's the author of Notes from a Young Black Chef and My America: Recipes from a Young Black Chef .",
+    "url": "https://www.foodandwine.com/author/kwame-onwuachi"
+  },
+  "publisher": {
+    "name": "Food \u0026 Wine",
+    "url": "https://www.foodandwine.com",
+    "logo": "https://www.foodandwine.com/thmb/uV0O06O8WNrLepjgxkntdVuRpeE=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/brand_logo_schema-f3b2e548eb6f4243ad527798593483e0.png"
+  },
+  "totalTime": "PT20M",
+  "recipeIngredient": [
+    "1/2 cup unsalted butter (4 ounces)",
+    "5 large garlic cloves, minced",
+    "1 fresh Scotch bonnet chile, stemmed, unseeded, and minced (about 1 tablespoon)",
+    "1 1/2 teaspoons minced peeled fresh ginger",
+    "1/2 cup fresh lime juice",
+    "1/2 cup distilled white vinegar",
+    "1 thyme sprig",
+    "3 pounds unpeeled head-on raw large shrimp, deveined",
+    "1 teaspoon kosher salt"
+  ],
+  "recipeInstructions": [
+    {
+      "text": "Melt butter in a large pot over medium. Add garlic, chile, and ginger; cook, stirring often, until aromatic and tender, about 5 minutes. Add lime juice, vinegar, and thyme; bring to a simmer over medium. Increase heat to medium-high; add shrimp, and cook, stirring often, until shrimp are opaque and cooked through, about 5 minutes. Remove from heat. Sprinkle with salt, and serve immediately."
+    }
+  ],
+  "dateModified": "2020-09-01T08:55:43-04:00",
+  "datePublished": "2020-08-21T08:55:43-04:00"
+}

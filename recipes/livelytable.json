@@ -1,0 +1,108 @@
+{
+  "url": "https://livelytable.com/easy-chipotle-shrimp-tacos/",
+  "name": "Easy Chipotle Shrimp Tacos",
+  "description": "These easy chipotle shrimp tacos with a quick cilantro jalapeño sauce are flavorful, healthy and come together in just 15 minutes! They're perfect for weeknight dinners! (gluten-free)",
+  "inLanguage": "en-US",
+  "image": [
+    {
+      "url": "https://livelytable.com/wp-content/uploads/2017/05/chipotle-shrimp-tacos-225x225.jpg"
+    },
+    {
+      "url": "https://livelytable.com/wp-content/uploads/2017/05/chipotle-shrimp-tacos-260x195.jpg"
+    },
+    {
+      "url": "https://livelytable.com/wp-content/uploads/2017/05/chipotle-shrimp-tacos-320x180.jpg"
+    },
+    {
+      "url": "https://livelytable.com/wp-content/uploads/2017/05/chipotle-shrimp-tacos.jpg"
+    }
+  ],
+  "author": {
+    "name": "Kaleigh",
+    "jobTitle": "Registered Dietitian",
+    "description": "Kaleigh McMordie, MCN, RDN, LD, is a Registered Dietitian and Licensed Dietitian in Abilene, Texas, as well as a member of the Baby Led Weaning Dietitians Network. Kaleigh can be found at kaleighmcmordie.com.",
+    "knowsAbout": [
+      "Nutrition"
+    ],
+    "url": "https://livelytable.com/about/",
+    "image": "https://secure.gravatar.com/avatar/b62c4bc773289034d61bd347edff2007?s=96\u0026d=mm\u0026r=pg"
+  },
+  "publisher": {
+    "name": "Lively Table",
+    "url": "https://livelytable.com",
+    "logo": "https://livelytable.com/wp-content/uploads/2019/04/logo-white-background.png"
+  },
+  "prepTime": "PT10M",
+  "cookTime": "PT5M",
+  "totalTime": "PT15M",
+  "cookingMethod": "stovetop",
+  "recipeCategory": [
+    "main dish"
+  ],
+  "recipeCuisine": [
+    "Tex-mex"
+  ],
+  "keywords": [
+    "chipotle shrimp tacos",
+    "easy chipotle shrimp tacos",
+    "healthy shrimp tacos recipe"
+  ],
+  "recipeYield": 6,
+  "recipeIngredient": [
+    "1 lb raw large shrimp, peeled and deveined",
+    "1/2 tsp chipotle powder",
+    "1/2 tsp garlic powder",
+    "1/2 tsp ground cumin",
+    "1 tbsp olive or avocado oil",
+    "Juice from 1/2 lime",
+    "1/2 jalapeño, seeded and diced",
+    "1/4 cup cilantro leaves",
+    "2/3 cup nonfat plain greek yogurt",
+    "Juice from 1/2 lime",
+    "6 corn tortillas, warmed",
+    "Shredded purple cabbage",
+    "Cilantro",
+    "Crumbled cotija cheese",
+    "Lime wedges",
+    "Guacamole or diced avocado"
+  ],
+  "recipeInstructions": [
+    {
+      "text": "Place shrimp in a medium, nonreactive bowl.",
+      "url": "https://livelytable.com/easy-chipotle-shrimp-tacos/#instruction-step-1"
+    },
+    {
+      "text": "In a small bowl, combine chipotle, garlic powder, and cumin. Sprinkle over shrimp. Add oil and lime juice and stir well until shrimp are evenly coated. Set aside while you prepare the cilantro jalapeño sauce.",
+      "url": "https://livelytable.com/easy-chipotle-shrimp-tacos/#instruction-step-2"
+    },
+    {
+      "text": "In a food processor or blender, combine jalapeño, cilantro, yogurt, and lime juice. Process until smooth and pour into a small bowl for serving.",
+      "url": "https://livelytable.com/easy-chipotle-shrimp-tacos/#instruction-step-3"
+    },
+    {
+      "text": "Prepare remaining taco toppings.",
+      "url": "https://livelytable.com/easy-chipotle-shrimp-tacos/#instruction-step-4"
+    },
+    {
+      "text": "Heat a large non-stick skillet over medium heat. Add shrimp and cook about 3 minutes per side or until cooked through.",
+      "url": "https://livelytable.com/easy-chipotle-shrimp-tacos/#instruction-step-5"
+    },
+    {
+      "text": "Serve with warm corn tortillas and top as desired. Enjoy!",
+      "url": "https://livelytable.com/easy-chipotle-shrimp-tacos/#instruction-step-6"
+    }
+  ],
+  "nutrition": {
+    "calories": "147 calories",
+    "servingSize": "1 taco",
+    "carbohydrateContent": "9.9 g",
+    "cholesterolContent": "144.7 mg",
+    "fatContent": "2.8 g",
+    "fiberContent": "1.5 g",
+    "proteinContent": "21.4 g",
+    "saturatedFatContent": "0.6 g",
+    "sodiumContent": "134 mg",
+    "sugarContent": "1.4 g",
+    "transFatContent": "0 g"
+  }
+}
