@@ -9,9 +9,8 @@ github.com/astappiev/microdata v1.0.1 h1:FvwgAUlmBcuR9jSXZbZ+s8X2ztcqueo5EyNJYPI
 github.com/astappiev/microdata v1.0.1/go.mod h1:2l0xGMciuKomEZL4e4+zWdDuYDs3IhX6n4huN4IcevY=
 github.com/aymerick/douceur v0.2.0 h1:Mv+mAeH1Q+n9Fr+oyamOlAkUNPWPlA8PPGR0QAaYuPk=
 github.com/aymerick/douceur v0.2.0/go.mod h1:wlT5vV2O3h55X9m7iVYN0TBM0NH/MmbLnd30/FjWUq4=
-github.com/borschtapp/krip v0.1.3 h1:OUHhH2MbIHmUxIBbkeNv8ROjecYkHbb3OcUW69eUtJM=
-github.com/borschtapp/krip v0.1.3/go.mod h1:985ag2S9AFSV7UOb6yjgblA0FKCwpMDH6OKCCAgCv+Y=
-github.com/borschtapp/krip v1.0.1/go.mod h1:Vuh7341zxEImctfHTLOzUswEfh6+Vmxm52RX/Ocg6mo=
+github.com/borschtapp/krip v1.0.3 h1:ELkxUwqFgd+c15SGwgt2yCM3Jkx2qnoauh6lDfCyN1Q=
+github.com/borschtapp/krip v1.0.3/go.mod h1:Vuh7341zxEImctfHTLOzUswEfh6+Vmxm52RX/Ocg6mo=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
