@@ -67,9 +67,11 @@ func updateTestdata(url string) {
 		log.Println("Unable to fetch content: " + err.Error())
 		return
 	}
-	if resp != nil {
-		defer resp.Body.Close()
+	if resp == nil {
+		log.Println("Empty response received.")
+		return
 	}
+	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
 		log.Println("Bad response status: " + resp.Status)
