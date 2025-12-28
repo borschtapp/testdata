@@ -1,15 +1,31 @@
 {
-  "url": "https://www.pbs.org/food/recipes/20-second-chocolate-cake/",
-  "name": "Easy Chocolate Cake Recipe | Dessert Recipes | PBS Food",
-  "description": "This recipe for making a delicious chocolate cake in less than a minute is so simple and undeniably decadent. Try this chocolate cake recipe from PBS.",
+  "url": "https://www.pbs.org/food/recipes/20-second-chocolate-cake",
+  "name": "20 Second Chocolate Cake",
+  "description": "Making a cake has never been so simple, so there is no reason not to indulge. Food blogger Marc Matsumoto shares how he discovered the idea for this recipe in a",
   "inLanguage": "en-US",
   "image": [
     {
-      "url": "https://www.pbs.org/food/wp-content/blogs.dir/2/files/2012/02/chocolate-cake640x360.jpg"
+      "url": "https://dmlxzvnzyohme.cloudfront.net/2012/02/chocolate-cake640x360.jpg"
     }
   ],
   "publisher": {
-    "name": "PBS Food",
-    "url": "https://www.pbs.org/food"
-  }
+    "name": "Easy Chocolate Cake Recipe | Dessert Recipes | PBS Food",
+    "description": "This recipe for making a delicious chocolate cake in less than a minute is so simple and undeniably decadent. Try this chocolate cake recipe from PBS.",
+    "url": "https://www.pbs.org/food/recipes/20-second-chocolate-cake",
+    "logo": "https://dmlxzvnzyohme.cloudfront.net/Brand-imagery/_600x60_fit_center-center_82_none_ns/PBS_rgb.png?mtime=1701721781"
+  },
+  "totalTime": "PT0S",
+  "recipeCategory": [
+    "Dessert"
+  ],
+  "recipeIngredient": [
+    "1 egg - beaten",
+    "1/2 tsp vanilla extract (optional)",
+    "1 tbsp heavy cream",
+    "2 tbsp cocoa powder",
+    "2 tablespoons sugar",
+    "1/4 tsp baking powder",
+    "1 tsp oil"
+  ],
+  "datePublished": "2012-02-02T05:32:14-06:00"
 }

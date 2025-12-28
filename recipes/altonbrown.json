@@ -18,15 +18,15 @@
     }
   ],
   "author": {
-    "name": "Sarah Chanin"
+    "name": "Penny McCord Jewell"
   },
   "publisher": {
     "name": "Alton Brown",
     "url": "https://altonbrown.com"
   },
-  "prepTime": "PT2H",
-  "cookTime": "PT1H30M",
-  "totalTime": "PT3H30M",
+  "prepTime": "PT45M",
+  "cookTime": "PT35M",
+  "totalTime": "PT1H20M",
   "recipeCategory": [
     "Sweets"
   ],
@@ -65,7 +65,7 @@
       "url": "https://altonbrown.com/recipes/reloaded-gold-cake/#wprm-recipe-6429-step-0-3"
     },
     {
-      "text": "When the first half of the flour mix is worked in, add half of the milk and all of the vanilla. Stop and scrape the bowl yet again then return to low and slowly add the remaining flour. Then scrape one more time, making sure there’s no dry flour hiding in the bottom of the bowl. Congratulations, you’ve conquered the creaming method.",
+      "text": "When the first half of the flour mix is worked in, add half of the milk and all of the vanilla. Stop and scrape the bowl yet again then return to low and slowly add the remaining flour followed by the remaining milk. Scrape one more time, making sure there’s no dry flour hiding in the bottom of the bowl. Congratulations, you’ve conquered the creaming method.",
       "url": "https://altonbrown.com/recipes/reloaded-gold-cake/#wprm-recipe-6429-step-0-4"
     },
     {
@@ -77,13 +77,13 @@
       "url": "https://altonbrown.com/recipes/reloaded-gold-cake/#wprm-recipe-6429-step-0-6"
     },
     {
-      "text": "Remove from oven and cool cakes on a wire rack for 15 minutes then de-pan onto the rack and cool to room temp before frosting.",
+      "text": "Remove from oven and cool cakes on a wire rack for 15 minutes then de-pan onto the rack and cool to room temp before frosting with your icing of choice or our Cocoa Whipped Cream.",
       "url": "https://altonbrown.com/recipes/reloaded-gold-cake/#wprm-recipe-6429-step-0-7"
     }
   ],
   "aggregateRating": {
-    "ratingCount": 241,
-    "ratingValue": 4.3
+    "ratingCount": 313,
+    "ratingValue": 4.25
   },
   "datePublished": "2020-08-27T21:00:13Z"
 }

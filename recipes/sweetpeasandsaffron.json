@@ -18,15 +18,15 @@
     }
   ],
   "author": {
-    "name": "Denise Bustard",
-    "description": "Denise Bustard is the creator of Sweet Peas and Saffron, a meal prep-focussed food blog. With a PhD in biochemistry, Denise takes a scientific approach to perfecting her recipes. You can find Denise's work featured on Huffington Post, MSN, Self and more.",
-    "url": "https://sweetpeasandsaffron.com/author/denisebustardgmail-com/"
+    "name": "Annie",
+    "description": "Hi, I'm Annie. With a Bachelor of Science degree, a minor in nutrition and nearly 20 year of both classical training, and self-taught experience, I've spent my career proving that home cooking can be practical, delicious and inspiring. What started in 2013 as one food blog has grown into a full-time business. Today, my husband Clayton and I run five food websites that connect with millions of home cooks every month. When I'm not in the kitchen or behind the camera, I'm using fueling my love of travel, or chasing down new ideas that keep food fun and fresh.",
+    "url": "https://sweetpeasandsaffron.com/author/annie/"
   },
   "publisher": {
     "name": "Sweet Peas and Saffron",
     "description": "meal prep recipes for busy people",
     "url": "https://sweetpeasandsaffron.com",
-    "logo": "https://sweetpeasandsaffron.com/wp-content/uploads/2020/12/sweet-peas-saffron-logo-square.jpg"
+    "logo": "https://sweetpeasandsaffron.com/wp-content/uploads/2021/01/sweet-peas-saffron-logo-square.jpg"
   },
   "prepTime": "PT10M",
   "cookTime": "PT15M",
@@ -156,8 +156,16 @@
     "sugarContent": "7 g"
   },
   "aggregateRating": {
-    "ratingCount": 25,
-    "ratingValue": 4.6
+    "reviewCount": 5,
+    "ratingCount": 26,
+    "ratingValue": 4.62
+  },
+  "video": {
+    "name": "Steel Cut Oat Recipes",
+    "description": "How to cook perfect steel cut oats",
+    "contentUrl": "https://content.jwplatform.com/videos/PgYGMBVO.mp4",
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/PgYGMBVO-720.jpg",
+    "uploadDate": "2024-09-02T17:46:24Z"
   },
   "datePublished": "2020-04-14T01:48:00Z"
 }

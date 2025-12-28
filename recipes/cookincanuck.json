@@ -18,11 +18,11 @@
     }
   ],
   "author": {
-    "name": "Dara Michalski | Cookin' Canuck"
+    "name": "Dara"
   },
   "publisher": {
     "name": "Cookin Canuck",
-    "description": "Healthy Recipes Food Blog",
+    "description": "Easy Healthy Recipes, Full of Flavor",
     "url": "https://www.cookincanuck.com",
     "logo": "https://www.cookincanuck.com/wp-content/uploads/2021/05/Cookin-Canuck-Square-Logo-300x300-1.png"
   },
@@ -113,7 +113,7 @@
     "sugarContent": "19 g"
   },
   "aggregateRating": {
-    "ratingCount": 1,
+    "ratingCount": 2,
     "ratingValue": 5
   },
   "datePublished": "2011-12-13T03:30:02Z"

@@ -19,9 +19,9 @@
   ],
   "author": {
     "name": "Judy",
-    "description": "Judy is the mom of The Woks of Life family. Born in Shanghai, she arrived in the U.S. at age 16. Fluent in both English and three separate Chinese dialects, she's our professional menu translator when we're eating our way through China. Dedicated to preserving disappearing recipes and traditions, her specialty is all things traditional, from mooncakes to home-style stir-fries.",
+    "description": "Judy Leung is the matriarch of The Woks of Life family, working on the blog alongside husband Bill and daughters Sarah and Kaitlin. Born in Shanghai, China, she immigrated to the United States at sixteen. Fluent in both English and three Chinese dialects, she also plays the important role of researcher and menu translator! Drawing from over four decades of cooking experience and travel, Judy aims to bring Chinese culinary traditions to readers and preserve recipes that might otherwise be lost to time. Her expertise spans from Shanghainese cooking and everyday homestyle dishes to a variety of regional foodways, showcasing the depth and breadth of Chinese cuisine for a global audience. Over the last decade, she's helped transform The Woks of Life into what Saveur Magazine has deemed \"the internet's most popular Chinese cooking blog,\" co-written a New York Times bestselling cookbook, and become convinced that we will never run out of recipes to share!",
     "url": "https://thewoksoflife.com/author/jleung/",
-    "image": "https://thewoksoflife.com/wp-content/uploads/2020/10/judy.jpg"
+    "image": "https://thewoksoflife.com/wp-content/uploads/2020/10/judy-110x110.jpg"
   },
   "publisher": {
     "name": "The Woks of Life",
@@ -88,8 +88,9 @@
     "sugarContent": "3 g"
   },
   "aggregateRating": {
-    "ratingCount": 11,
-    "ratingValue": 4.91
+    "reviewCount": 3,
+    "ratingCount": 13,
+    "ratingValue": 4.93
   },
   "datePublished": "2018-01-13T15:28:44Z"
 }

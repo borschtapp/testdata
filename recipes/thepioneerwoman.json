@@ -1,8 +1,8 @@
 {
   "url": "https://www.thepioneerwoman.com/food-cooking/recipes/a10720/patty-melts/",
   "name": "Patty Melts",
-  "description": "Who doesn’t love a good old-fashioned patty melt? Here's the easiest way to make one at home that's beyond delicious.",
-  "inLanguage": "en-us",
+  "description": "Craving a patty melt? Make the diner classic at home using this recipe starring rye bread, caramelized onions, a beef burger patty, and Swiss cheese.",
+  "inLanguage": "en-US",
   "image": [
     {
       "url": "https://hips.hearstapps.com/hmg-prod/images/patty-melt-1597698088.jpg?crop=0.508xw:0.450xh;0.229xw,0.200xh\u0026resize=1200:*",
@@ -22,7 +22,10 @@
   ],
   "author": {
     "name": "Ree Drummond",
-    "url": "https://www.thepioneerwoman.com/author/1143543/pioneerwoman/"
+    "jobTitle": "The Pioneer Woman",
+    "description": "Ree Drummond is the founder of The Pioneer Woman and a lover of butter, basset hounds and life on the ranch! Ree started her blog in 2006, and now millions visit ThePioneerWoman.com every month for her trusted recipes and fun family stories. Here’s what she has been up to since it all began: New York Times Bestselling Author Ree has written two memoirs (Black Heels to Tractor Wheels, and Frontier Follies) plus nine bestselling cookbooks: The Pioneer Woman Cooks: Recipes from an Accidental Country Girl (2009) The Pioneer Woman Cooks: Food from My Frontier (2012) The Pioneer Woman Cooks: A Year of Holidays (2013) The Pioneer Woman Cooks: Dinnertime (2015) The Pioneer Woman Cooks: Come and Get It! (2017) The Pioneer Woman Cooks: The New Frontier (2019) The Pioneer Woman Cooks: Super Easy (2021) The Pioneer Woman Cooks: Dinner’s Ready! (2023) The Pioneer Woman Cooks: The Essential Recipes (2025) Food Network Host Since 2011, Ree has been sharing simple, family-friendly recipes—and the occasional kitchen prank!—on her award-winning show The Pioneer Woman, filmed right on Drummond Ranch. Ree is also a regular judge on Food Network competitions, including Christmas Cookie Challenge. Founder, The Pioneer Woman Collection Ree has been creating and selling kitchen and home products at Walmart since 2015 and she’s involved in designing every piece and pattern. The line now includes best-selling appliances (you have to see the floral blender!), plus hundreds of pieces of cookware, tableware, and more. Ree doesn’t like to play favorites but the Agatha print has a special place in her heart. Restaurant and Hotel Owner Together with her husband Ladd, Ree has opened several bustling businesses in Pawhuska, Oklahoma, including The Pioneer Woman Mercantile—a bakery, restaurant, and general store that draws visitors from across the country (many come for the biscuits alone!), P-Town Pizza, Charlie’s Ice Cream Shop, and The Boarding House, a charming hotel with eight different rooms decorated by Ree and Ladd. Media Personality Ree appears regularly on national TV shows like Today, Good Morning America and more—all while managing to keep flour off her shirt. Wife, Mom and…Grandma! Ree’s kids (daughters Alex and Paige and sons Bryce and Todd) are all grown up, and as of December 2024, Ree is the proud grandma of the cutest baby ever, Sofia Scott, born to Alex and her husband Mauricio. Ree still cooks for Ladd (and the kids when they’re home), and she also looks after a few mischievous ranch dogs.",
+    "url": "https://www.thepioneerwoman.com/author/1143543/pioneerwoman/",
+    "image": "https://hips.hearstapps.com/rover/profile_photos/d506dcf8-b59e-4ec9-8e30-c5187f20c75d_1755285871.file"
   },
   "publisher": {
     "name": "The Pioneer Woman",
@@ -33,13 +36,34 @@
   "cookTime": "PT25M",
   "totalTime": "PT35M",
   "recipeCategory": [
+    "Father's Day",
+    "Sunday lunch",
+    "Super Bowl",
+    "weeknight meals",
+    "comfort food",
     "main dish",
     "meat"
   ],
+  "recipeCuisine": [
+    "American",
+    "Comfort Food"
+  ],
   "keywords": [
-    "Recipes",
-    "Cooking",
-    "Food"
+    "content-type: Recipe",
+    "locale: US",
+    "displayType: recipe",
+    "shortTitle: Homemade Patty Melts Are Ready for Dinner",
+    "contentId: 329164e2-be09-4c2b-baa8-16487942893e",
+    "Recipes, Cooking, Food",
+    "OCCASION: Father's Day",
+    "OCCASION: Sunday lunch",
+    "OCCASION: Super Bowl",
+    "OCCASION: weeknight meals",
+    "CATEGORY: comfort food",
+    "CATEGORY: main dish",
+    "CATEGORY: meat",
+    "TOTALTIME: 00:35:00",
+    "FILTERTIME: \u003c1HR"
   ],
   "recipeYield": 4,
   "recipeIngredient": [
@@ -68,10 +92,23 @@
       "text": "Slice in half and serve immediately!"
     }
   ],
+  "nutrition": {
+    "calories": " 910 Calories",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "234 mg",
+    "fatContent": "75 g",
+    "fiberContent": "2 g",
+    "proteinContent": "46 g",
+    "saturatedFatContent": "37 g",
+    "sodiumContent": "719 mg",
+    "sugarContent": "2 g",
+    "transFatContent": "3 g"
+  },
   "aggregateRating": {
-    "reviewCount": 4,
+    "reviewCount": 7,
     "ratingValue": 5,
     "bestRating": 5,
     "worstRating": 1
-  }
+  },
+  "commentCount": 79
 }

@@ -5,31 +5,33 @@
   "inLanguage": "sv-SE",
   "image": [
     {
-      "url": "https://static.cdn-expressen.se/images/8b/46/8b46181ad1eb42e98d7b05cfdf21e0a9/1x1/1920@80.jpg"
-    },
-    {
-      "url": "https://static.cdn-expressen.se/images/8b/46/8b46181ad1eb42e98d7b05cfdf21e0a9/4x3/1920@80.jpg"
-    },
-    {
-      "url": "https://static.cdn-expressen.se/images/8b/46/8b46181ad1eb42e98d7b05cfdf21e0a9/16x9/1920@80.jpg"
+      "url": "https://static.bonniernews.se/images/8b/46/8b46181ad1eb42e98d7b05cfdf21e0a9/16x9/original.jpg",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "author": {
     "name": "gunilla von heland",
+    "description": "Gunilla jobbar som matspecialist på Allt om Mat och har varit på tidningen sedan 1999. Hon är utbildad inom hem- och konsumentkunskap, och har tidigare i sin karriär arbetat som lärare i hemkunskap, kock och representationsansvarig på ambassader. 2024 tilldelades hon Gastronomiska Akademiens Guldpenna.",
     "url": "https://www.expressen.se/av/gunilla-von-heland/",
-    "image": "https://static.cdn-expressen.se/images/34/e9/34e9b4b6f69d486da5cba523c43962b1/16x9/original.jpg"
+    "image": "https://static.bonniernews.se/images/34/e9/34e9b4b6f69d486da5cba523c43962b1/16x9/original.jpg"
   },
   "publisher": {
-    "name": "Bonnier Magazines \u0026 Brands AB",
-    "url": "https://alltommat.expressen.se"
+    "name": "Expressen",
+    "url": "https://www.expressen.se",
+    "logo": "https://www.expressen.se/images/logotype-for-sharing.png"
   },
-  "text": "alltom mat",
-  "totalTime": "PT20M",
+  "prepTime": "PT20M",
+  "cookTime": "PT2H15M",
+  "totalTime": "PT2H35M",
   "recipeCategory": [
     "Hamburgare"
   ],
   "keywords": [
-    "sections/recept"
+    "sections/recept",
+    "topic/matbröd",
+    "topic/bakning",
+    "topic/hamburgare"
   ],
   "recipeYield": 12,
   "recipeIngredient": [
@@ -55,7 +57,9 @@
     }
   ],
   "aggregateRating": {
-    "ratingCount": 829,
-    "ratingValue": 3.8
-  }
+    "ratingCount": 1082,
+    "ratingValue": 3.78003696857671
+  },
+  "dateModified": "2022-05-25T07:26:32.979Z",
+  "datePublished": "2017-07-11T12:24:42Z"
 }

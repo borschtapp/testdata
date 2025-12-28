@@ -1,7 +1,7 @@
 {
   "url": "https://www.davidlebovitz.com/faux-gras-foie-gras-vegetarian-lentil-mushroom-pate-recipe/",
   "name": "Faux Gras",
-  "description": "Adapted from Très Green, Très Clean, Très Chic by Rebecca Leffler Lentils double in volume when cooked, so 1 cup (160g) of dried lentils will yield close to the correct amount. They usually take about 20 to 30 minutes to cook until soft, but check the directions on the package for specific guidelines. If avoiding gluten, use tamari instead of soy sauce. For a vegan version, replace the butter with the same quantity of olive oil, for a total of 1/4 cup (60ml) of olive oil. The cognac or brandy is optional, but it does give the faux gras a little je ne sais quoi.",
+  "description": "Adapted from Très Green, Très Clean, Très Chic by Rebecca LefflerLentils double in volume when cooked, so 1 cup (160g) of dried lentils will yield close to the correct amount. They usually take about 20 to 30 minutes to cook until soft, but check the directions on the package for specific guidelines. If avoiding gluten, use tamari instead of soy sauce. For a vegan version, replace the butter with the same quantity of olive oil, for a total of 1/4 cup (60ml) of olive oil. Feel free to improvise with the fresh herbs, using what you'd like and what's available. The cognac or brandy is optional, but it does give the faux gras a little je ne sais quoi.",
   "inLanguage": "en-US",
   "image": [
     {
@@ -18,6 +18,19 @@
     "url": "https://www.davidlebovitz.com",
     "logo": "https://www.davidlebovitz.com/wp-content/uploads/2019/06/david-leb.png"
   },
+  "recipeCategory": [
+    "Appetizer"
+  ],
+  "recipeCuisine": [
+    "French"
+  ],
+  "keywords": [
+    "lentils",
+    "mushoom",
+    "pate",
+    "vegan"
+  ],
+  "recipeYield": 6,
   "recipeIngredient": [
     "12 medium-sized (100g, about 1 cup) button mushrooms",
     "2 tablespoons olive oil",
@@ -25,7 +38,7 @@
     "1 small onion (peeled and diced)",
     "2 cloves garlic (peeled and minced)",
     "2 cups (400g) cooked green lentils",
-    "1 cup (140g) toasted walnuts or pecans",
+    "1 cup (140g) toasted walnuts, cashews or pecans",
     "2 tablespoons freshly squeezed lemon juice",
     "1 tablespoon soy sauce or tamari",
     "2 teaspoons minced fresh rosemary",

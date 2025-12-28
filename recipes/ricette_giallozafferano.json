@@ -16,6 +16,9 @@
   "prepTime": "PT30M",
   "cookTime": "PT15M",
   "totalTime": "PT45M",
+  "suitableForDiet": [
+    "http://schema.org/GlutenFreeDiet"
+  ],
   "recipeCategory": [
     "Dolci"
   ],
@@ -86,18 +89,18 @@
     }
   ],
   "nutrition": {
-    "calories": "250 kcal",
-    "carbohydrateContent": "22.3 g",
-    "cholesterolContent": "125 mg",
-    "fatContent": "15.96 g",
-    "fiberContent": "1.9 g",
-    "saturatedFatContent": "8.61 g",
-    "sodiumContent": "115 mg",
-    "sugarContent": "22.3 g"
+    "calories": "312,8 kcal",
+    "carbohydrateContent": "25,4 g",
+    "cholesterolContent": "118,6 mg",
+    "fatContent": "22,4 g",
+    "fiberContent": "2,3 g",
+    "saturatedFatContent": "13,5 g",
+    "sodiumContent": "52,8 mg",
+    "sugarContent": "21,9 g"
   },
   "aggregateRating": {
-    "ratingCount": 25,
-    "ratingValue": 3.8,
+    "ratingCount": 27,
+    "ratingValue": 3.9,
     "bestRating": 5
   }
 }

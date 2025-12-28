@@ -25,7 +25,7 @@
   },
   "publisher": {
     "name": "Primal Edge Health",
-    "description": "Building healthy bodies, families, and communities together",
+    "description": "Easy Healthy Recipes",
     "url": "https://www.primaledgehealth.com"
   },
   "prepTime": "PT10M",
@@ -49,30 +49,35 @@
   ],
   "recipeYield": 2,
   "recipeIngredient": [
-    "1 tbsp grass-fed beef gelatin",
+    "1 tablespoon grass-fed beef gelatin",
     "1¼ cups half and half",
-    "1 tbsp sweetener (optional, see note)",
+    "1 tablespoon sweetener (optional, see note)",
     "½ teaspoon vanilla extract",
     "2 raw egg yolks"
   ],
   "recipeInstructions": [
     {
+      "name": "Sprinkle",
       "text": "Sprinkle the gelatin over 2 tablespoons of water in a wide, shallow dish. The more surface area to cover, the better. Set aside to thicken.",
       "url": "https://www.primaledgehealth.com/no-bake-custard/#wprm-recipe-52923-step-0-0"
     },
     {
+      "name": "Add",
       "text": "If sweetening: Warm the cream over low heat in a small saucepan on the stovetop. Add the sweetener and stir until it dissolves. Then stir in vanilla.If not sweetening: Add vanilla to half and half in a bowl without heating.",
       "url": "https://www.primaledgehealth.com/no-bake-custard/#wprm-recipe-52923-step-0-1"
     },
     {
+      "name": "Whisk",
       "text": "Whisk egg yolks into the half and half.",
       "url": "https://www.primaledgehealth.com/no-bake-custard/#wprm-recipe-52923-step-0-2"
     },
     {
+      "name": "Mix",
       "text": "Mix in the gelatin. Gently warm liquid over low heat until gelatin dissolves if needed.",
       "url": "https://www.primaledgehealth.com/no-bake-custard/#wprm-recipe-52923-step-0-3"
     },
     {
+      "name": "Chill",
       "text": "Divide into individual ramekins or use one single serving dish. Chill in the refrigerator for at least 1 hour until set. Serve cold.",
       "url": "https://www.primaledgehealth.com/no-bake-custard/#wprm-recipe-52923-step-0-4"
     }
@@ -89,7 +94,7 @@
     "sugarContent": "1 g"
   },
   "aggregateRating": {
-    "ratingCount": 3,
+    "ratingCount": 4,
     "ratingValue": 5
   },
   "datePublished": "2021-03-03T10:08:00Z"

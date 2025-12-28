@@ -43,12 +43,12 @@
     "1/2 cup unsalted butter",
     "1/2 cup all purpose flour",
     "1 1/2 cups whole milk",
-    "2 1/2 cups half and half",
-    "4 cups shredded medium sharp cheddar cheese (divided (measured after shredding))",
+    "2 1/2 cups half and half (**see chef tips #1 below**)",
+    "4 cups shredded medium cheddar cheese (divided (measured after shredding))",
     "2 cups shredded Gruyere cheese (divided (measured after shredding))",
     "1/2 Tbsp. salt",
     "1/2 tsp. black pepper",
-    "1/4 tsp. paprika"
+    "1/4 tsp. paprika (smoked paprika is our favorite!)"
   ],
   "recipeInstructions": [
     {
@@ -64,7 +64,7 @@
       "url": "https://www.thechunkychef.com/family-favorite-baked-mac-and-cheese/#wprm-recipe-9151-step-0-2"
     },
     {
-      "text": "Melt butter in a large saucepan over MED heat. Sprinkle in flour and whisk to combine. Mixture will look like very wet sand. Cook for approximately 1 minute, whisking often. Slowly pour in about 2 cups or so of the half and half, while whisking constantly, until smooth. Slowly pour in the remaining half and half and the whole milk, while whisking constantly, until combined and smooth.",
+      "text": "Melt butter in a large saucepan over MED heat. Sprinkle in flour and whisk to combine. Mixture will look like very wet sand. Cook for approximately 1 minute, whisking often. Slowly pour in about 2 cups or so of the half and half, while whisking constantly, until smooth. Slowly pour in the remaining half and half plus the whole milk, while whisking constantly, until combined and smooth.",
       "url": "https://www.thechunkychef.com/family-favorite-baked-mac-and-cheese/#wprm-recipe-9151-step-0-3"
     },
     {
@@ -97,8 +97,9 @@
     "sugarContent": "3 g"
   },
   "aggregateRating": {
-    "ratingCount": 2334,
-    "ratingValue": 4.83
+    "reviewCount": 10,
+    "ratingCount": 3723,
+    "ratingValue": 4.88
   },
   "video": {
     "name": "Mac n Cheese Rec",
@@ -106,7 +107,7 @@
     "duration": "PT105S",
     "embedUrl": "https://video.mediavine.com/videos/iVcxSy8F4.js",
     "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/t_original/v1616078219/iVcxSy8F4.mp4",
-    "thumbnailUrl": "https://mediavine-res.cloudinary.com/image/upload/s--JmO-8_LT--/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1616078221/nijjpdbtgxd0m7cszaiz.jpg",
+    "thumbnailUrl": "https://mediavine-res.cloudinary.com/image/upload/s--qLhBiqEp--/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1616078221/nijjpdbtgxd0m7cszaiz.jpg",
     "uploadDate": "2018-03-27T00:33:21Z"
   },
   "datePublished": "2019-09-30T20:49:54Z"

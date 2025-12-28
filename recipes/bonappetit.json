@@ -5,21 +5,6 @@
   "inLanguage": "en-US",
   "image": [
     {
-      "url": "https://assets.bonappetit.com/photos/59e4d7dc3279981dd6c79847/5:7/w_1936,h_2710,c_limit/pork-chops-with-celery-and-almond-salad.jpg"
-    },
-    {
-      "url": "https://assets.bonappetit.com/photos/59e4d7dc3279981dd6c79847/6:9/w_1941,h_2912,c_limit/pork-chops-with-celery-and-almond-salad.jpg"
-    },
-    {
-      "url": "https://assets.bonappetit.com/photos/59e4d7dc3279981dd6c79847/5:4/w_3525,h_2820,c_limit/pork-chops-with-celery-and-almond-salad.jpg"
-    },
-    {
-      "url": "https://assets.bonappetit.com/photos/59e4d7dc3279981dd6c79847/8:5/w_3519,h_2199,c_limit/pork-chops-with-celery-and-almond-salad.jpg"
-    },
-    {
-      "url": "https://assets.bonappetit.com/photos/59e4d7dc3279981dd6c79847/3:2/w_3524,h_2349,c_limit/pork-chops-with-celery-and-almond-salad.jpg"
-    },
-    {
       "url": "https://assets.bonappetit.com/photos/59e4d7dc3279981dd6c79847/16:9/w_3519,h_1979,c_limit/pork-chops-with-celery-and-almond-salad.jpg"
     },
     {
@@ -35,7 +20,7 @@
   "publisher": {
     "name": "Bon Appétit",
     "url": "https://www.bonappetit.com",
-    "logo": "https://www.bonappetit.com/verso/static/bon-appetit/assets/logo-seo.ab5ac9b5dc6ca6c75c6117c680b076ea664f167e.png"
+    "logo": "https://www.bonappetit.com/verso/static/bonappetit-us/assets/logo-seo.png"
   },
   "text": "This rich butter-basted pork is offset by a bright, crunchy celery salad that's a riff on a recipe from Joshua McFadden at Ava Gene's. P.S. Don't discard the inner leaves of your celery—they're tender and flavorful.",
   "keywords": [
@@ -45,6 +30,7 @@
     "main",
     "sear",
     "dinner",
+    "do not show on encore",
     "web"
   ],
   "recipeYield": 4,

@@ -18,16 +18,16 @@
     }
   ],
   "author": {
-    "name": "Beth - Budget Bytes",
+    "name": "Beth Moncel",
     "description": "I’m a food lover, number cruncher, and meticulous budgeter. I love science and art, and the way they come together when I cook. I love to create, problem solve, and learn new things. Making great food is my passion, my purpose, and my favorite thing to share with others.",
     "url": "https://www.budgetbytes.com/author/beth/",
-    "image": "https://www.budgetbytes.com/wp-content/uploads/2022/07/Beth-2022-3-96x96.jpg"
+    "image": "https://secure.gravatar.com/avatar/ba1bd0462fb679d2843531eee7ec6006d9d8bd5e121185288552dd38fcf68b6a?s=96\u0026d=mm\u0026r=g"
   },
   "publisher": {
     "name": "Budget Bytes",
     "description": "Delicious Recipes Designed for Small Budgets",
     "url": "https://www.budgetbytes.com",
-    "logo": "https://www.budgetbytes.com/wp-content/uploads/2020/11/budgetbytes_square_icon_transparent.png"
+    "logo": "https://www.budgetbytes.com/wp-content/uploads/2024/11/budgetbytes_square_icon_transparent-300x300-1.png"
   },
   "prepTime": "PT5M",
   "cookTime": "PT40M",
@@ -94,17 +94,18 @@
     "sodiumContent": "844.08 mg"
   },
   "aggregateRating": {
-    "ratingCount": 94,
-    "ratingValue": 4.97
+    "reviewCount": 13,
+    "ratingCount": 125,
+    "ratingValue": 4.98
   },
   "video": {
-    "name": "Creamy Coconut Curry Lentils with Spinach",
-    "description": "These rich, creamy, and earthy Coconut Curry Lentils are an easy and delicious vegan option for dinner or weekly meal prep!",
-    "duration": "PT61S",
-    "embedUrl": "https://video.mediavine.com/videos/cszu5igarnurncpmbfcm.js",
-    "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/t_original/v1569265779/cszu5igarnurncpmbfcm.mp4",
-    "thumbnailUrl": "https://mediavine-res.cloudinary.com/image/upload/s--z9Eq5SXb--/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1569265813/btmkatyr4rja3wjjfb5k.jpg",
-    "uploadDate": "2019-09-23T19:09:57Z"
+    "name": "Creamy Coconut Curried Lentils with Spinach",
+    "description": "These rich, creamy, and earthy Coconut Curry Lentils are an easy and delicious vegan option for dinner or weekly meal prep! FULL RECIPE BELOW. PRINTABLE RECIPE: https://www.budgetbytes.com/creamy-coconut-curry-lentils-with-spinach/ Full Recipe 👇👇👇 INGREDIENTS 2 Tbsp olive oil 2 cloves garlic 1 tsp grated fresh ginger 1 small yellow onion 1 Tbsp curry powder 1 cup brown lentils (dry) 2 cups vegetable broth 1 13oz. can coconut milk 3 cups fresh baby spinach FOR SERVING (OPTIONAL) 4 cups cooked rice 1/4 cup chopped fresh cilantro INSTRUCTIONS 1. Mince the garlic, grate the ginger, and dice the onion. Add the olive oil, garlic, and ginger to a deep skillet, Dutch oven, or soup pot. Sauté the garlic and ginger over medium heat for 1 minute, or just until the garlic becomes soft and fragrant. 2. Add the diced onion to the skillet and continue to sauté over medium until the onion is soft and translucent. Add the curry powder and continue to sauté for about one minute more to toast the spices. 3. Add the dry lentils and vegetable broth to the skillet. Stir to dissolve any browned bits from the bottom of the skillet. Place a lid on top, turn the heat up to medium-high, and bring the broth to a boil. Once boiling, turn the heat down to low, and let it simmer for 20 minutes, stirring occasionally. 4. After simmering for 20 minutes the lentils should be tender and most of the broth absorbed. Add the can of coconut milk and stir to combine. Turn the heat back up to medium and allow the skillet to come back up to a simmer. Let it simmer without a lid for an additional 10 minutes, stirring often, to thicken the mixture. 5. Once thickened, turn the heat off. Add the fresh spinach and stir gently until the spinach has wilted. Taste the mixture and adjust the salt or curry powder to your liking, if needed. 6. Serve over a bowl of rice, and top with chopped cilantro if desired. Instagram: budgetbytes Facebook: budgetbytes1 Pinterest: budgetbytes Twitter: budget_bytes",
+    "duration": "PT1M2S",
+    "embedUrl": "https://www.youtube.com/embed/KjuTLTQsRZE?feature=oembed",
+    "contentUrl": "https://www.youtube.com/watch?v=KjuTLTQsRZE",
+    "thumbnailUrl": "https://i.ytimg.com/vi/KjuTLTQsRZE/hqdefault.jpg",
+    "uploadDate": "2019-09-23T19:13:16Z"
   },
   "datePublished": "2019-07-13T19:00:50Z"
 }

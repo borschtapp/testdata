@@ -1,78 +1,93 @@
 {
-  "url": "https://www.tine.no/oppskrifter/middag-og-hovedretter/kylling-og-fjarkre/rask-kylling-tikka-masala",
+  "url": "https://www.tine.no/no/middag-og-hovedretter/kylling-og-fjarkre/rask-kylling-tikka-masala",
   "name": "Rask kylling tikka masala",
   "description": "En god og rask oppskrift på en kylling tikka masala. Dette er en rett med små smakseksplosjoner som sender tankene til India.",
-  "inLanguage": "nb-NO",
+  "inLanguage": "no-NO",
   "image": [
     {
-      "url": "https://www.tine.no/_/recipeimage/w_1080,h_1080,c_fill,x_2880,y_1920,g_xy_center/recipeimage/w1r3ydbmyeqcngqpxatv.jpg"
+      "url": "https://www.tine.no/_/recipeimage/w_1200,h_900,c_fill,x_2880,y_1920,g_xy_center/recipeimage/w1r3ydbmyeqcngqpxatv.jpg",
+      "width": 1200,
+      "height": 900
     },
     {
-      "url": "https://www.tine.no/_/recipeimage/w_1440,h_1080,c_fill,x_2880,y_1920,g_xy_center/recipeimage/w1r3ydbmyeqcngqpxatv.jpg"
+      "url": "https://www.tine.no/_/recipeimage/w_800,h_600,c_fill,x_2880,y_1920,g_xy_center/recipeimage/w1r3ydbmyeqcngqpxatv.jpg",
+      "width": 800,
+      "height": 600
     },
     {
-      "url": "https://www.tine.no/_/recipeimage/w_1600,h_900,c_fill,x_2880,y_1920,g_xy_center/recipeimage/w1r3ydbmyeqcngqpxatv.jpg"
+      "url": "https://www.tine.no/_/recipeimage/w_400,h_300,c_fill,x_2880,y_1920,g_xy_center/recipeimage/w1r3ydbmyeqcngqpxatv.jpg",
+      "width": 400,
+      "height": 300
     }
   ],
+  "author": {
+    "name": "TINE Kjøkken"
+  },
   "publisher": {
-    "name": "TINE",
+    "name": "Tine Oppskrifter",
     "url": "https://www.tine.no"
   },
-  "totalTime": "PT30M",
+  "cookTime": "PT30M",
   "recipeCategory": [
-    "middag"
-  ],
-  "recipeCuisine": [
-    "indisk"
+    "indisk",
+    "middag",
+    "kylling"
   ],
   "keywords": [
-    "kylling"
+    "easy"
   ],
   "recipeYield": 4,
   "recipeIngredient": [
     "4 dl basmatiris",
-    "400 g kyllingfileter",
+    "400 g kyllingfilet",
     "1 ss TINE® Meierismør til steking",
-    "1 stk paprika",
+    "1 stykk paprika",
     "0.5 dl chili",
-    "3 stk vårløk",
+    "3 stykk vårløk",
     "1 ts hvitløksfedd",
-    "1 ss hakket, frisk ingefær",
-    "0.5 dl hakket, frisk koriander",
+    "hakket, frisk 1 ss ingefær",
+    "hakket, frisk 0.5 dl koriander",
     "2 ts garam masala",
-    "3 dl TINE® Lett Crème Fraîche 18 %",
+    "3 dl TINE® Lett Crème Fraîche 17 %",
     "3 ss tomatpuré",
     "0.5 ts salt",
     "0.25 ts pepper",
     "0.5 dl slangeagurk",
     "3 dl TINE® Yoghurt Naturell Gresk Type",
-    "0.5 dl frisk mynte",
+    "frisk 0.5 dl mynte",
     "1 ts hvitløksfedd",
     "0.5 ts salt",
     "0.25 ts pepper"
   ],
   "recipeInstructions": [
     {
-      "name": "Oppskrift"
+      "name": "Step 1",
+      "text": "Kok ris etter anvisningen på pakken."
     },
     {
-      "name": "Tikka masala:"
+      "name": "Step 1",
+      "text": "Del kylling i biter. Brun kyllingen i smør i en stekepanne på middels varme."
     },
     {
-      "name": "Raita:"
+      "name": "Step 2",
+      "text": "Rens og hakk paprika, chili, vårløk og hvitløk og ha det i stekepannen sammen med kyllingen. Rens og finhakk ingefær og frisk koriander. Krydre med garam masala, koriander og ingefær."
+    },
+    {
+      "name": "Step 3",
+      "text": "Hell i crème fraîche og tomatpuré, og la småkoke i 5 minutter. Smak til med salt og pepper."
+    },
+    {
+      "name": "Step 1",
+      "text": "Riv agurk og bland den med yoghurt. Hakk mynte og hvitløk og bland det i. Smak til med salt og pepper."
     }
   ],
   "aggregateRating": {
-    "ratingCount": 437,
-    "ratingValue": 3.9
+    "ratingCount": 549,
+    "ratingValue": 4
   },
-  "commentCount": 37,
   "video": {
     "name": "Rask kylling tikka masala",
     "description": "Hvordan lage den indiske gryten tikka masala? I denne filmen har vi gjort det enkelt for deg.",
-    "embedUrl": "https://www.youtube.com/watch?v=hOgxD4CVRGU",
-    "thumbnailUrl": "https://www.tine.no/_/recipeimage/w_1200,h_675,c_fill,x_2880,y_1920,g_xy_center/recipeimage/w1r3ydbmyeqcngqpxatv.jpg"
-  },
-  "dateModified": "2022-12-19T09:14:12.161Z",
-  "datePublished": "2018-09-05T18:43:37.088Z"
+    "contentUrl": "https://www.youtube.com/watch?v=hOgxD4CVRGU"
+  }
 }

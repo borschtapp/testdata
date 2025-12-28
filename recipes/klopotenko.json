@@ -14,16 +14,14 @@
   "publisher": {
     "name": "Klopotenko",
     "description": "Ещё один сайт на WordPress",
-    "url": "https://klopotenko.com"
+    "url": "https://klopotenko.com",
+    "logo": "https://klopotenko.com/wp-content/uploads/2020/09/logo.svg"
   },
   "prepTime": "PT5M",
   "cookTime": "PT5M",
   "totalTime": "PT10M",
   "recipeCategory": [
-    "Салати",
-    "Салати без майонезу",
-    "Салати на Новий рік",
-    "Що приготувати на Новий Рік"
+    "Салати"
   ],
   "recipeCuisine": [
     "Європейська"
@@ -45,23 +43,23 @@
   ],
   "recipeInstructions": [
     {
-      "name": "Крок 1",
+      "name": "Step 1",
       "text": "200 г буряка запечіть або відваріть до готовності. Коли охолоне, очистіть від шкірки. 100 г вишні розморозьте при кімнатній температурі.",
       "url": "https://klopotenko.com/salat-z-buryakom-i-vishneu/#step--1"
     },
     {
-      "name": "Крок 2",
+      "name": "Step 2",
       "text": "Складіть вишні в невелику каструльку, додайте 30 г цукру, паличку кориці та трохи води, щоб вона лише покрила ягоди. Проваріть на середньому вогні протягом 5 хвилин, після чого витягніть з сиропу за допомогою шумівки.",
       "url": "https://klopotenko.com/salat-z-buryakom-i-vishneu/#step--2"
     },
     {
-      "name": "Крок 3",
+      "name": "Step 3",
       "text": "Очищений буряк і 150 г фети крупно поріжте, додайте 30 г волоських горіхів та 100 г руколи. Змішайте усі інгредієнти у салатнику, додайте сіль і перець до смаку. Заправте салат 1 ст. л оливкової олії.",
       "url": "https://klopotenko.com/salat-z-buryakom-i-vishneu/#step--3"
     }
   ],
   "aggregateRating": {
-    "ratingCount": 49,
-    "ratingValue": 4.9
+    "ratingCount": 75,
+    "ratingValue": 5
   }
 }

@@ -20,7 +20,7 @@
   "author": {
     "name": "Dana @ Minimalist Baker",
     "description": "Hi, I'm Dana! I am a food stylist, photographer, creator of the Food Photography School, and author of the 31 Meals Cookbook and Everyday Cooking. Find me on Twitter, Instagram, and Pinterest.",
-    "image": "https://secure.gravatar.com/avatar/83d23696ef5f7da8f411d78630a49041?s=96\u0026d=mm\u0026r=g"
+    "image": "https://secure.gravatar.com/avatar/a37a7f43d1ca99ce8fb4cc1b0998963b6f234a7fc92ed5b5c8957253b3ce8273?s=96\u0026d=mm\u0026r=g"
   },
   "publisher": {
     "name": "Minimalist Baker",
@@ -88,8 +88,9 @@
     "unsaturatedFatContent": "6.42 g"
   },
   "aggregateRating": {
-    "ratingCount": 10,
-    "ratingValue": 4.7
+    "reviewCount": 2,
+    "ratingCount": 12,
+    "ratingValue": 4.75
   },
   "video": {
     "name": "Cashew Ricotta Cheese (Soy-Free, Fast, Easy!) | Minimalist Baker Recipes",

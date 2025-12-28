@@ -20,7 +20,8 @@
   "author": {
     "name": "Alyssa",
     "description": "Hey there! I’m Alyssa, certified holistic nutritionist and founder of SQ. My goal is to help you take simple, practical and personal steps to living a healthier life so that you can be well + truly healthy. learn more",
-    "url": "https://www.simplyquinoa.com/author/alyssa/"
+    "url": "https://www.simplyquinoa.com/author/alyssa/",
+    "image": "https://www.simplyquinoa.com/wp-content/uploads/2020/03/alyssa-96x96.png"
   },
   "publisher": {
     "name": "Simply Quinoa",
@@ -38,9 +39,9 @@
     "American"
   ],
   "keywords": [
-    "fluffy pancakes",
-    "healthy pancakes",
-    "vegan pancakes"
+    "gluten free pancake recipes",
+    "gluten-free pancakes",
+    "recipe for gluten free pancakes"
   ],
   "recipeYield": 14,
   "recipeIngredient": [
@@ -89,10 +90,6 @@
     "saturatedFatContent": "1 g",
     "sodiumContent": "43 mg",
     "sugarContent": "2 g"
-  },
-  "aggregateRating": {
-    "ratingCount": 8,
-    "ratingValue": 5
   },
   "video": {
     "name": "The Best Quinoa Flour Pancakes",

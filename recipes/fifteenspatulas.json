@@ -1,6 +1,6 @@
 {
   "url": "https://www.fifteenspatulas.com/orange-scented-creme-brulee/",
-  "name": "Creme Brulee",
+  "name": "Creme Brulee Recipe",
   "description": "This Orange Creme Brulee is a twist on the classic creamy custard, with aromatic and flavorful orange throughout. It's a great make ahead dessert!",
   "inLanguage": "en-US",
   "image": [
@@ -18,7 +18,7 @@
     }
   ],
   "author": {
-    "name": "Joanne Ozug",
+    "name": "Joanne",
     "url": "https://www.fifteenspatulas.com/author/14spatulas1sn0teenoughnon0no34/"
   },
   "publisher": {
@@ -113,8 +113,9 @@
     "sugarContent": "1 g"
   },
   "aggregateRating": {
-    "ratingCount": 10,
+    "reviewCount": 4,
+    "ratingCount": 14,
     "ratingValue": 5
   },
-  "datePublished": "2022-11-18T18:58:00Z"
+  "datePublished": "2023-06-13T07:23:00Z"
 }

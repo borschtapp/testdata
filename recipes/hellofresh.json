@@ -16,26 +16,19 @@
   "recipeCategory": [
     "main course"
   ],
-  "recipeCuisine": [
-    "Thai"
-  ],
-  "keywords": [
-    "Calorie Smart",
-    "Not Suitable for Coeliacs"
-  ],
   "recipeYield": 2,
   "recipeIngredient": [
-    "150 grams Basmati Rice",
-    "1 unit(s) Echalion Shallot",
-    "2 unit(s) Garlic Clove",
-    "¼ unit(s) Red Chilli",
-    "2 unit(s) Spring Onion",
-    "150 grams Green Beans",
-    "300 grams Pork Mince",
-    "50 grams Ketjap Manis",
-    "25 milliliter(s) Soy Sauce",
-    "6 grams Fresh Thai Basil",
-    "300 milliliter(s) Water for the Rice"
+    "150 Basmati Rice",
+    "1 Echalion Shallot",
+    "2 Garlic Clove",
+    "¼ Red Chilli",
+    "2 Spring Onion",
+    "150 Green Beans",
+    "300 British Pork Mince",
+    "50 Ketjap Manis",
+    "25 Soy Sauce",
+    "6 Fresh Thai Basil",
+    "300 Water for the Rice"
   ],
   "recipeInstructions": [
     {
@@ -64,8 +57,14 @@
     "fatContent": "20 g",
     "proteinContent": "38 g",
     "saturatedFatContent": "6 g",
-    "sodiumContent": "3.25 g",
+    "sodiumContent": "3.3 g",
     "sugarContent": "20 g"
+  },
+  "aggregateRating": {
+    "ratingCount": 925,
+    "ratingValue": 4.625675678253174,
+    "bestRating": 5,
+    "worstRating": 1
   },
   "datePublished": "2017-11-07T14:46:26Z"
 }

@@ -19,13 +19,14 @@
   ],
   "author": {
     "name": "Eileen Gray",
+    "description": "Eileen Gray is a pastry chef, cookbook writer and the content creator behind Baking Sense. Eileen graduated from culinary school with high honors and was chosen class valedictorian. After graduation Eileen worked in fine dining restaurants, at a wholesale bakery, for a luxury hotel, at a retail bakery and even for a British tea shop. From 2007-2017 Eileen owned and operated an award-winning custom cake bakery (Cake Art Studio). Her cakes have been featured in regional and national cake decorating and bridal magazines.",
     "url": "https://www.baking-sense.com/author/baking-sense/"
   },
   "publisher": {
     "name": "Baking Sense®",
     "description": "The Art And Science of Baking",
     "url": "https://www.baking-sense.com",
-    "logo": "https://www.baking-sense.com/wp-content/uploads/2017/02/logo-new2.jpg"
+    "logo": "https://www.baking-sense.com/wp-content/uploads/2024/01/cropped-new-icon-no-background.jpg"
   },
   "prepTime": "PT20M",
   "cookTime": "PT40M",
@@ -47,7 +48,7 @@
     "2 large yolks (room temperature)",
     "1 tablespoon vanilla extract",
     "8 oz sourdough discard (1 cup, room temperature)",
-    "9 oz cake flour (2 cups)",
+    "9 oz cake flour (2 cups, see note)",
     "11 oz granulated sugar (1 1/3 cups)",
     "2 teaspoons baking powder",
     "1/2 teaspoon table salt",
@@ -124,8 +125,9 @@
     "unsaturatedFatContent": "4 g"
   },
   "aggregateRating": {
-    "ratingCount": 4,
-    "ratingValue": 4.75
+    "reviewCount": 2,
+    "ratingCount": 9,
+    "ratingValue": 4.89
   },
   "datePublished": "2020-05-13T10:00:00Z"
 }

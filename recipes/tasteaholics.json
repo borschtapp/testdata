@@ -11,7 +11,7 @@
   "author": {
     "name": "Amanda Bochain",
     "description": "Amanda is a professionally trained chef and expert in her field with over 17 years of culinary experience. She has a bachelors degree in Baking and Pastry Arts Management and owned her own bakery for several years. She is a mom to two young girls who are her official recipe taste testers.",
-    "image": "https://secure.gravatar.com/avatar/f193698051010881b80932a80421626b?s=96\u0026d=wavatar\u0026r=g"
+    "image": "https://secure.gravatar.com/avatar/f193698051010881b80932a80421626b?s=96\u0026d=blank\u0026r=g"
   },
   "publisher": {
     "name": "Tasteaholics",
@@ -65,7 +65,7 @@
     }
   ],
   "aggregateRating": {
-    "ratingCount": 4,
+    "ratingCount": 5,
     "ratingValue": 5
   }
 }

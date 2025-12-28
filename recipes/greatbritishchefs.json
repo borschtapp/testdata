@@ -5,17 +5,19 @@
   "inLanguage": "en",
   "image": [
     {
-      "url": "https://media-cdn.greatbritishchefs.com/media/mwtkdmv3/img73858.whqc_1426x713q90.jpg"
+      "url": "https://media-cdn2.greatbritishchefs.com/media/mwtkdmv3/img73858.whqc_1426x713q80.jpg"
     }
   ],
   "author": {
-    "name": "GBC Kitchen"
+    "name": "GBC Kitchen",
+    "url": "https://www.greatbritishchefs.com/contributors/the-kitchen-with-great-british-chefs"
   },
   "publisher": {
     "name": "Great British Chefs",
-    "url": "https://www.greatbritishchefs.com"
+    "url": "https://www.greatbritishchefs.com",
+    "logo": "https://media-cdn2.greatbritishchefs.com/media/kxtop14a/gbc_logo1.svg"
   },
-  "totalTime": "PT50M",
+  "totalTime": "PT40M",
   "recipeCategory": [
     "Main"
   ],
@@ -56,5 +58,10 @@
       "text": "Season with the honey, lime juice and salt. Stir through the coriander and serve with rice or as a taco filling"
     }
   ],
+  "aggregateRating": {
+    "ratingCount": 1,
+    "ratingValue": 5
+  },
+  "dateModified": "2025-04-16T12:11:15.38Z",
   "datePublished": "2018-01-30T00:00:00Z"
 }

@@ -20,23 +20,18 @@
   "author": {
     "name": "Holger Rørby Madsen",
     "jobTitle": "Ejer",
-    "description": "Jeg hedder Holger, og er manden bag Madens Verden. Med omkring 2 mio. brugere hver måned er madensverden.dk et af Danmarks største madmedier, og her får du tusindvis af opskrifter, masser af viden om mad og råvarer, bageskole, alt om sous vide og meget mere. God fornøjelse, og husk du altid er velkommen til at skrive, hvis du har spørgsmål.",
+    "description": "Jeg hedder Holger, og er manden bag Madens Verden. Jeg tror alle kan lave god mad med almindelige ingredienser - også på kort tid. Det handler om gode opskrifter, der er skrevet så alle kan forstå dem. Det får du her på Madens Verden.",
     "knowsAbout": [
       "opskrifter",
-      "mad",
-      "sousvide",
-      "kager",
-      "brød",
-      "madlavning",
-      "sovs"
+      "madlavning"
     ],
-    "image": "https://secure.gravatar.com/avatar/b5a662a1d102c2e0b934e247b9d7c8b9?s=96\u0026d=mm\u0026r=g"
+    "image": "https://madensverden.dk/wp-content/uploads/2024/02/cropped-holger-roerby-madsen-madens-verden-96x96.jpeg"
   },
   "publisher": {
     "name": "Madens Verden",
-    "description": "Opskrifter og viden om mad.",
+    "description": "Madens Verden - fordi gode opskrifter giver god mad",
     "url": "https://madensverden.dk",
-    "logo": "https://madensverden.dk/wp-content/uploads/2021/11/logo-circle.jpg"
+    "logo": "https://madensverden.dk/wp-content/uploads/2024/03/logo-madens-verden-kvadratisk.jpg"
   },
   "prepTime": "PT15M",
   "cookTime": "PT15M",
@@ -47,21 +42,18 @@
   "recipeCuisine": [
     "Dansk"
   ],
-  "keywords": [
-    "rabarber"
-  ],
   "recipeYield": 6,
   "recipeIngredient": [
-    "400 gram rabarber",
-    "75 gram sukker",
-    "10 gram vaniljesukker",
-    "2 pasteuriserede æggeblommer (1 bæger)",
-    "40 gram sukker",
-    "10 gram majsstivelse",
-    "2,5 deciliter sødmælk",
-    "2,5 deciliter piskefløde",
-    "100 gram makroner",
-    "40 gram mandelflager"
+    "400 g rabarber",
+    "75 g sukker",
+    "10 g vaniljesukker",
+    "2 pasteuriserede æggeblommer",
+    "40 g sukker",
+    "10 g majsstivelse",
+    "2,5 dl sødmælk",
+    "2,5 dl piskefløde",
+    "100 g makroner",
+    "40 g mandelflager"
   ],
   "recipeInstructions": [
     {
@@ -98,8 +90,8 @@
     "servingSize": "1 person"
   },
   "aggregateRating": {
-    "ratingCount": 26,
-    "ratingValue": 4.77
+    "ratingCount": 38,
+    "ratingValue": 4.72
   },
   "datePublished": "2022-05-18T04:50:00Z"
 }

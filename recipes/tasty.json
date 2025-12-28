@@ -1,7 +1,7 @@
 {
   "url": "https://tasty.co/recipe/red-wine-braised-short-ribs-with-cashew-cauliflower-mash",
   "name": "Red Wine-Braised Short Ribs With Cashew Cauliflower Mash Recipe by Tasty",
-  "description": "Here's what you need: bone in beef short ribs, kosher salt, kosher salt, freshly ground black pepper, avocado oil, large white onion, celery stalks, tomato paste, all purpose flour, dry red wine, garlic, small rainbow carrots, fresh thyme, low sodium beef broth, cauliflower, raw cashews, garlic, fresh parsley",
+  "description": "These fall-off-the-bone tender short ribs are slow-cooked in a flavorful red wine sauce and served with a creamy cashew cauliflower mash. It's a rich and satisfying dish that's perfect for a cozy night in.",
   "inLanguage": "en",
   "image": [
     {
@@ -16,8 +16,14 @@
     "url": "https://tasty.co",
     "logo": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/hive/binaries/471926.jpg"
   },
+  "prepTime": "PT1H",
+  "cookTime": "PT2H50M",
+  "totalTime": "PT3H50M",
   "recipeCategory": [
-    "Dinner"
+    "Meal"
+  ],
+  "recipeCuisine": [
+    "North American"
   ],
   "keywords": [
     "braised short ribs",
@@ -62,7 +68,7 @@
     "¼ cup fresh parsley, chopped, for garnish"
   ],
   "tool": [
-    "Oven Mitts"
+    "Sieve"
   ],
   "recipeInstructions": [
     {
@@ -111,14 +117,22 @@
       "text": "Enjoy!"
     }
   ],
+  "nutrition": {
+    "calories": "1257 calories",
+    "carbohydrateContent": "98 grams",
+    "fatContent": "56 grams",
+    "fiberContent": "18 grams",
+    "proteinContent": "78 grams",
+    "sugarContent": "27 grams"
+  },
   "aggregateRating": {
-    "ratingCount": 167,
+    "ratingCount": 187,
     "ratingValue": 4.7,
     "bestRating": 5
   },
   "video": {
     "name": "Red Wine-Braised Short Ribs With Cashew Cauliflower Mash Recipe by Tasty",
-    "description": "Here's what you need: bone in beef short ribs, kosher salt, kosher salt, freshly ground black pepper, avocado oil, large white onion, celery stalks, tomato paste, all purpose flour, dry red wine, garlic, small rainbow carrots, fresh thyme, low sodium beef broth, cauliflower, raw cashews, garlic, fresh parsley",
+    "description": "These fall-off-the-bone tender short ribs are slow-cooked in a flavorful red wine sauce and served with a creamy cashew cauliflower mash. It's a rich and satisfying dish that's perfect for a cozy night in.",
     "duration": "PT4M19S",
     "contentUrl": "https://vid.tasty.co/output/146781/landscape_480/1569518846",
     "thumbnailUrl": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/236025.jpg?resize=1200:*"

@@ -1,7 +1,7 @@
 {
   "url": "https://www.castironketo.net/blog/keto-jalapeno-popper-casserole-with-chicken/",
   "name": "Keto Jalapeño Popper Casserole with Chicken",
-  "description": "Keto Jalapeño Popper Casserole with Chicken! This easy low-carb dinner is made in one pan, a single cast-iron skillet for easy cleanup and minimal mess. Perfectly cheesy and topped with bacon 🥓 YUM!",
+  "description": "Keto Jalapeño Popper Casserole with Chicken: A deliciously creamy and spicy low-carb dish with shredded chicken, cream cheese, jalapenos, and bacon.",
   "inLanguage": "en-US",
   "image": [
     {
@@ -20,7 +20,8 @@
   "publisher": {
     "name": "Cast Iron Keto",
     "description": "Tasty Keto Recipes",
-    "url": "https://www.castironketo.net"
+    "url": "https://www.castironketo.net",
+    "logo": "https://www.castironketo.net/wp-content/uploads/2023/12/CastIronketo-retina-logo.png"
   },
   "prepTime": "PT30M",
   "cookTime": "PT15M",
@@ -32,16 +33,18 @@
     "American"
   ],
   "keywords": [
-    "keto casserole"
+    "keto",
+    "keto casserole",
+    "low carb"
   ],
   "recipeYield": 6,
   "recipeIngredient": [
-    "1 ½ lbs cooked shredded chicken breast",
+    "1 ½ pounds cooked shredded chicken breast",
     "4 green onions (chopped)",
     "1 teaspoon garlic salt",
     "½ teaspoon onion powder",
     "½ teaspoon paprika",
-    "8 oz cream cheese (softened)",
+    "8 ounces cream cheese (softened)",
     "½ cup heavy cream",
     "¼ cup chicken broth",
     "5 jalapeno peppers (halved (ribs removed if you like less spice))",

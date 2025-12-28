@@ -6,6 +6,15 @@
   "image": [
     {
       "url": "https://www.melskitchencafe.com/wp-content/uploads/2013/12/licorice-caramels3.jpg"
+    },
+    {
+      "url": "https://www.melskitchencafe.com/wp-content/uploads/2013/12/licorice-caramels3-500x500.jpg"
+    },
+    {
+      "url": "https://www.melskitchencafe.com/wp-content/uploads/2013/12/licorice-caramels3-500x375.jpg"
+    },
+    {
+      "url": "https://www.melskitchencafe.com/wp-content/uploads/2013/12/licorice-caramels3-480x270.jpg"
     }
   ],
   "author": {
@@ -13,7 +22,7 @@
   },
   "publisher": {
     "name": "Mel's Kitchen Cafe",
-    "description": "Delicious + easy recipes from my kitchen to yours!",
+    "description": "Delicious, easy recipes from my kitchen to yours!",
     "url": "https://www.melskitchencafe.com",
     "logo": "https://www.melskitchencafe.com/wp-content/uploads/convertkit-logo.png"
   },
@@ -21,16 +30,10 @@
   "cookTime": "PT20M",
   "totalTime": "PT2H30M",
   "recipeCategory": [
-    "Candy"
+    "Dessert"
   ],
-  "keywords": [
-    "anise extract",
-    "butter",
-    "corn syrup",
-    "food coloring",
-    "granulated sugar",
-    "sweetened condensed milk",
-    "vanilla extract"
+  "recipeCuisine": [
+    "American"
   ],
   "recipeYield": 50,
   "recipeIngredient": [
@@ -78,8 +81,9 @@
     "sugarContent": "18 g"
   },
   "aggregateRating": {
-    "ratingCount": 48,
-    "ratingValue": 4.59
+    "reviewCount": 6,
+    "ratingCount": 54,
+    "ratingValue": 4.58
   },
   "datePublished": "2013-12-10T06:00:27Z"
 }

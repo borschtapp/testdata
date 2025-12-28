@@ -84,7 +84,7 @@
     }
   ],
   "aggregateRating": {
-    "reviewCount": 8372,
+    "reviewCount": 4,
     "ratingCount": 3,
     "ratingValue": 5,
     "bestRating": 5,
@@ -93,7 +93,8 @@
   "video": {
     "name": "Köri Soslu Tavuklu Patates Topları Tarifi, Nasıl Yapılır? (Videolu)",
     "description": "Patates ve tavuk ikilisi yeniden bir araya geliyor, güçlerini birleştiriyorlar ve ortaya inanılmaz bir lezzet çıkıyor. Köri soslu patates topları burada!",
-    "embedUrl": "https://www.youtube.com/watch?v=81_WYEC1ih0",
-    "thumbnailUrl": "https://img.youtube.com/vi/81_WYEC1ih0/default.jpg"
+    "embedUrl": "https://www.youtube.com/embed/81_WYEC1ih0",
+    "thumbnailUrl": "https://img.youtube.com/vi/81_WYEC1ih0/default.jpg",
+    "uploadDate": "2020-06-02T14:03:33+03:00"
   }
 }

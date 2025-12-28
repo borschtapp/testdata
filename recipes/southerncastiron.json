@@ -1,7 +1,7 @@
 {
   "url": "https://southerncastiron.com/apple-cider-doughnuts/",
   "name": "Apple Cider Doughnuts",
-  "description": "These quintessential fall delights are delicious rolled in cinnamon-sugar and dunked in apple cider syrup. Save Recipe Print Apple Cider Doughnuts Serves: 8-10 Ingredients 4 cups apple cider* 2 tablespoons unsalted butter, softened 1½ cups sugar, divided 1 teaspoon vanilla extract 1 large egg ⅔ cup sour cream 2¼ cups all-purpose flour 1½ teaspoons baking […]",
+  "description": "These quintessential fall delights are delicious rolled in cinnamon-sugar and dunked in apple cider syrup. Apple Cider Doughnuts Serves: 8-10 Ingredients 4 cups apple cider* 2 tablespoons unsalted butter, softened 1½ cups sugar, divided 1 teaspoon vanilla extract 1 large egg ⅔ cup sour cream 2¼ cups all-purpose flour 1½ teaspoons baking powder 1¼",
   "inLanguage": "en-US",
   "image": [
     {
@@ -9,13 +9,14 @@
     }
   ],
   "author": {
-    "name": "Admin",
+    "name": "admin",
     "url": "https://southerncastiron.com/author/admin/",
-    "image": "https://secure.gravatar.com/avatar/cccde296dc0ddcc59a29c2fdfbf30d84?s=96\u0026amp;d=mm\u0026amp;r=g"
+    "image": "https://secure.gravatar.com/avatar/f1b4cb1433004cead6efab480b43d88a3878d31849474711b4d692ec54eea507?s=96\u0026d=mm\u0026r=g"
   },
   "publisher": {
     "name": "Southern Cast Iron",
-    "url": "https://southerncastiron.com"
+    "url": "https://southerncastiron.com",
+    "logo": "https://i0.wp.com/southerncastiron.com/wp-content/uploads/2017/06/sthCastIron-logo-272x90.png?fit=273%2C90\u0026ssl=1"
   },
   "recipeYield": 8,
   "recipeIngredient": [

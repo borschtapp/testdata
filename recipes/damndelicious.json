@@ -1,7 +1,7 @@
 {
   "url": "https://damndelicious.net/2019/08/28/greek-chicken-kabobs/",
   "name": "Greek Chicken Kabobs",
-  "description": "Super juicy, tender kabobs made with the best marinade ever! Olive oil, lemon juice, paprika, oregano, basil, thyme, garlic. SO BOMB.",
+  "description": "Super juicy, tender kabobs made with the best marinade! Olive oil, lemon juice, paprika, oregano, basil, thyme, garlic. SO GOOD.",
   "inLanguage": "en-US",
   "image": [
     {
@@ -9,14 +9,14 @@
     }
   ],
   "author": {
-    "name": "Chungah @ Damn Delicious",
+    "name": "Chungah",
     "description": "Chungah is the recipe developer and photographer of Damn Delicious, a blog that was founded in 2011. She thought she would become an epidemiologist, obtaining a sociology degree at UCLA and a Masters in Public Health at USC. But what began as a grad school hobby blog is now her full-time job. Originally from Queens and living most of her life in Los Angeles, she now resides in Chicago with her crazy corgi duo, Butters and Cartman. She loves donuts and binging on Grey's Anatomy reruns, and hopes to one day start her very own corgi rescue."
   },
   "publisher": {
-    "name": "Damn Delicious",
+    "name": "Damn Delicious Food Recipes",
     "description": "Simple ingredients. Elegant dishes.",
     "url": "https://damndelicious.net",
-    "logo": "https://s23209.pcdn.co/wp-content/uploads/2022/08/DDLogo.png"
+    "logo": "https://damndelicious.net/wp-content/uploads/2022/08/DDLogo.png"
   },
   "prepTime": "PT2H30M",
   "cookTime": "PT20M",
@@ -31,9 +31,9 @@
     "2 teaspoons dried basil",
     "1 teaspoon dried thyme",
     "3 cloves garlic (minced)",
-    "1 shallot (minced)",
+    "1 shallot (diced)",
     "Kosher salt and freshly ground black pepper (to taste)",
-    "2 pounds boneless skinless chicken thighs (cut into 1-inch chunks)"
+    "2 pounds boneless, skinless chicken thighs (cut into 1-inch chunks)"
   ],
   "recipeInstructions": [
     {
@@ -62,8 +62,16 @@
     }
   ],
   "aggregateRating": {
-    "ratingCount": 98,
-    "ratingValue": 4.95
+    "reviewCount": 16,
+    "ratingCount": 148,
+    "ratingValue": 4.97
+  },
+  "video": {
+    "name": "Greek Chicken Kabobs",
+    "description": "Super juicy, tender kabobs made with the best marinade ever! Olive oil, lemon juice, paprika, oregano, basil, thyme, garlic. SO BOMB.",
+    "contentUrl": "https://content.jwplatform.com/videos/kGBliAJM.mp4",
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/kGBliAJM-720.jpg",
+    "uploadDate": "2022-05-06T16:05:38Z"
   },
   "datePublished": "2019-08-28T21:00:39Z"
 }

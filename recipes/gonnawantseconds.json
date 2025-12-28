@@ -21,7 +21,7 @@
     "name": "Kathleen",
     "description": "I’m a home cook and my favorite place to be is in my kitchen cooking up a storm. I’m also a wife, mother, Bernese Mountain dog lover, friend, daughter, sister, and reluctant exerciser.",
     "url": "https://www.gonnawantseconds.com/author/food-admin/",
-    "image": "https://secure.gravatar.com/avatar/f6202f5cce19cacd71fcdf70fbebc7a5?s=96\u0026d=mm\u0026r=g"
+    "image": "https://secure.gravatar.com/avatar/cc872ef202735031e0650b36f4c6232cbc8b4ad26f7f2072125aa43db150c9d9?s=96\u0026d=mm\u0026r=g"
   },
   "publisher": {
     "name": "Gonna Want Seconds",
@@ -53,30 +53,30 @@
     "3 tablespoons flour",
     "2 cups chicken broth",
     "1 cup sour cream",
-    "1 (4-ounce can) diced green chilies mild",
+    "1 (4-ounce) can diced green chilies mild",
     "2-3 tablespoons green onions (sliced)"
   ],
   "recipeInstructions": [
     {
-      "text": "Spray a 9 X 13-inch baking dish with cooking spray and set aside. Preheat oven to 350 degrees.",
+      "text": "Spray a 9x13-inch baking dish with cooking spray and set aside. Preheat oven to 350ºF (177ºC).",
       "url": "https://www.gonnawantseconds.com/white-chicken-enchiladas/#wprm-recipe-16129-step-0-0"
     },
     {
-      "text": "In a small bowl, combine chicken and 1 cup of Monterey Jack cheese. Fill tortillas with this mixture and roll each one up then place seam side down in the prepared pan.",
+      "text": "In a small bowl, combine chicken (3 cups) and 1 cup of Monterey Jack cheese. Fill tortillas (8-10) with this mixture and roll each one up then place seam side down in the prepared pan.",
       "url": "https://www.gonnawantseconds.com/white-chicken-enchiladas/#wprm-recipe-16129-step-0-1"
     },
     {
-      "text": "Melt the butter in a skillet. Sprinkle flour over melted butter and whisk to combine. Cook for 1 minute to remove the flour taste. Remove the skillet from heat and whisk in broth. Place back on the heat and cook until the mixture has thickened and is bubbly. Cool sauce for 3-5 minutes. (Don't skip this step- if the sauce is too hot and you add the sour cream it will curdle it-yuck!) Add sour cream and chilies and stir until sauce is smooth and sour cream is completely dissolved.",
+      "text": "Melt the butter (3 tablespoons) in a skillet. Sprinkle flour (3 tablespoons) over melted butter and whisk to combine. Cook for 1 minute to remove the flour taste. Remove the skillet from heat and whisk in broth (2 cups). Place back on the heat and cook until the mixture has thickened and is bubbly. Cool sauce for 3-5 minutes. (Don't skip this step- if the sauce is too hot and you add the sour cream it will curdle it-yuck!). Add sour cream (1 cup) and chilies (1 can) and stir until the sauce is smooth and the sour cream is completely dissolved.",
       "url": "https://www.gonnawantseconds.com/white-chicken-enchiladas/#wprm-recipe-16129-step-0-2"
     },
     {
-      "text": "Pour sauce over enchiladas and add remaining cheese over top. Bake in preheated oven for 20-25 minutes or until enchiladas are heated through and sauce is bubbly. Turn on the broiler and broil until the top is nicely golden. Top with chopped green onions and serve.",
+      "text": "Pour sauce over enchiladas and add remaining cheese over top. Bake in the preheated oven for 20-25 minutes or until the enchiladas are heated through and the sauce is bubbly. Turn on the broiler and broil until the top is nicely golden. Top with chopped green onions (2-3 tablespoons) and serve.",
       "url": "https://www.gonnawantseconds.com/white-chicken-enchiladas/#wprm-recipe-16129-step-0-3"
     }
   ],
   "nutrition": {
     "calories": "897 kcal",
-    "servingSize": "1 /4 of the recipe",
+    "servingSize": "1 g",
     "carbohydrateContent": "39 g",
     "cholesterolContent": "191 mg",
     "fatContent": "63 g",
@@ -87,8 +87,9 @@
     "sugarContent": "5.5 g"
   },
   "aggregateRating": {
-    "ratingCount": 67,
+    "reviewCount": 8,
+    "ratingCount": 129,
     "ratingValue": 5
   },
-  "datePublished": "2023-01-12T07:00:02Z"
+  "datePublished": "2024-04-26T07:00:02Z"
 }

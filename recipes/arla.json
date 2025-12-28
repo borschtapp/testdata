@@ -5,7 +5,7 @@
   "inLanguage": "sv-se",
   "image": [
     {
-      "url": "https://images.arla.com/recordid/FB2425A1-47CE-4EFB-8D47570F80762F18/reuben-sandwich.jpg?width=1300\u0026height=525"
+      "url": "https://images.arla.com/recordid/FB2425A1-47CE-4EFB-8D47570F80762F18/reuben-sandwich.jpg?width=1300\u0026height=525\u0026mode=crop\u0026crop=(0,332,0,-312)\u0026format=webp"
     }
   ],
   "author": {
@@ -16,6 +16,8 @@
     "url": "https://www.arla.se",
     "logo": "https://www.arla.se/UI/img/arla-logo@2x.02d13ae2.png"
   },
+  "prepTime": "PT30M",
+  "cookTime": "PT0S",
   "totalTime": "PT40M",
   "recipeCategory": [
     "Brunch",
@@ -27,15 +29,15 @@
     "Amerikansk"
   ],
   "keywords": [
-    "Reuben sandwich"
+    "Smörgås"
   ],
   "recipeYield": 4,
   "recipeIngredient": [
     "400 g pastrami, kokt oxbringa eller skivad grillad rostbiff",
     "1 dl surkål",
-    "1 dl riven Arla Präst® ost",
+    "1 dl riven Arla Ko Präst® Ost 31%",
     "8 skivor surdegsbröd",
-    "50 g Arla® Svenskt Smör, smält",
+    "50 g Svenskt Smör från Arla®, smält",
     "4 saltgurkor",
     "1 schalottenlök",
     "½ grön paprika",
@@ -78,13 +80,15 @@
     }
   ],
   "nutrition": {
-    "calories": "920 kcal",
-    "carbohydrateContent": "49 g",
-    "fatContent": "61 g",
-    "proteinContent": "43 g"
+    "calories": "752 kcal",
+    "servingSize": "st",
+    "carbohydrateContent": "65,4 g",
+    "fatContent": "39,5 g",
+    "fiberContent": "4,7 g",
+    "proteinContent": "33,8 g"
   },
   "aggregateRating": {
-    "ratingCount": 6,
-    "ratingValue": 4.8
+    "ratingCount": 32,
+    "ratingValue": 4.2
   }
 }

@@ -1,2211 +1,1009 @@
 <!DOCTYPE html>
-<html lang="en" class="">
-
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
 <head>
-  <title>Chowhound</title>
-  <link rel="canonical" href="https://www.chowhound.com" />
-  <meta name="description" content="Chowhound" />
-  <meta property="og:title" content="Chowhound" />
-  <meta property="og:description" content="Chowhound" />
-  <meta property="og:type" content="article" />
-  <meta property="og:url" content="https://www.chowhound.com/" />
-  <meta name="twitter:title" content="Chowhound" />
-  <meta name="twitter:description" content="Chowhound" />
-  <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport" />
-  <style>
-    .css-1egta35 {
-      cursor: pointer;
-      text-decoration: underline;
-      border-color: currentColor;
-      color: #231f20;
-    }
-
-    .css-1egta35:hover {
-      color: #de2b5c;
-    }
-
-    .css-1egta35:hover img,
-    .css-1egta35:hover .image {
-      opacity: 0.8;
-    }
-
-    .css-1egta35:hover svg {
-      fill: currentColor;
-    }
-
-    .css-1egta35:active {
-      color: #de2b5c;
-    }
-
-    @keyframes animation-b7n1on {
-      0% {
-        transform: rotate(0deg);
-      }
-
-      100% {
-        transform: rotate(360deg);
-      }
-    }
-
-    hr {
-      box-sizing: content-box;
-      height: 0;
-      overflow: visible;
-    }
-
-    pre {
-      font-family: monospace, monospace;
-      font-size: 1em;
-    }
-
-    a {
-      background-color: transparent;
-      -webkit-text-decoration-skip: objects;
-    }
-
-    a:active,
-    a:hover {
-      outline-width: 0;
-    }
-
-    abbr[title] {
-      border-bottom: none;
-      text-decoration: underline;
-      text-decoration: underline dotted;
-    }
-
-    b,
-    strong {
-      font-weight: inherit;
-    }
-
-    b,
-    strong {
-      font-weight: bolder;
-    }
-
-    code,
-    kbd,
-    samp {
-      font-family: monospace, monospace;
-      font-size: 1em;
-    }
-
-    dfn {
-      font-style: italic;
-    }
-
-    small {
-      font-size: 80%;
-    }
-
-    sub,
-    sup {
-      font-size: 75%;
-      line-height: 0;
-      position: relative;
-      vertical-align: baseline;
-    }
-
-    sub {
-      bottom: -0.25em;
-    }
-
-    sup {
-      top: -0.5em;
-    }
-
-    audio:not([controls]) {
-      display: none;
-      height: 0;
-    }
-
-    svg:not(:root) {
-      overflow: hidden;
-    }
-
-    button,
-    input,
-    optgroup,
-    select,
-    textarea {
-      font-family: sans-serif;
-      font-size: 100%;
-      line-height: 1.15;
-      margin: 0;
-    }
-
-    button,
-    input {
-      overflow: visible;
-    }
-
-    button,
-    select {
-      text-transform: none;
-    }
-
-    button,
-    html [type="button"],
-    [type="reset"],
-    [type="submit"] {
-      -webkit-appearance: button;
-    }
-
-    button::-moz-focus-inner,
-    [type="button"]::-moz-focus-inner,
-    [type="reset"]::-moz-focus-inner,
-    [type="submit"]::-moz-focus-inner {
-      border-style: none;
-      padding: 0;
-    }
-
-    button:-moz-focusring,
-    [type="button"]:-moz-focusring,
-    [type="reset"]:-moz-focusring,
-    [type="submit"]:-moz-focusring {
-      outline: 1px dotted ButtonText;
-    }
-
-    fieldset {
-      border: 1px solid #c0c0c0;
-      margin: 0 2px;
-      padding: 0.35em 0.625em 0.75em;
-    }
-
-    legend {
-      box-sizing: border-box;
-      color: inherit;
-      display: table;
-      max-width: 100%;
-      padding: 0;
-      white-space: normal;
-    }
-
-    progress {
-      display: inline-block;
-      vertical-align: baseline;
-    }
-
-    textarea {
-      overflow: auto;
-    }
-
-    [type="checkbox"],
-    [type="radio"] {
-      box-sizing: border-box;
-      padding: 0;
-    }
-
-    [type="number"]::-webkit-inner-spin-button,
-    [type="number"]::-webkit-outer-spin-button {
-      height: auto;
-    }
-
-    [type="search"] {
-      -webkit-appearance: textfield;
-      outline-offset: -2px;
-    }
-
-    [type="search"]::-webkit-search-cancel-button,
-    [type="search"]::-webkit-search-decoration {
-      -webkit-appearance: none;
-    }
-
-    ::-webkit-file-upload-button {
-      -webkit-appearance: button;
-      font: inherit;
-    }
-
-    details,
-    menu {
-      display: block;
-    }
-
-    summary {
-      display: list-item;
-    }
-
-    @font-face {
-      font-family: "Circular Pro Fallback";
-      src: local("Arial");
-      size-adjust: 105%;
-      ascent-override: 90%;
-    }
-
-    * {
-      -moz-osx-font-smoothing: grayscale;
-      -webkit-font-smoothing: antialiased;
-    }
-
-    *,
-    *:before,
-    *:after {
-      box-sizing: inherit;
-    }
-
-    :-moz-ui-invalid {
-      box-shadow: none;
-    }
-
-    html {
-      box-sizing: border-box;
-      text-size-adjust: 100%;
-      cursor: default;
-      font-size: 17px;
-      line-height: 1.15;
-      -webkit-text-size-adjust: 100%;
-      font-family: sans-serif;
-      color: #231f20;
-    }
-
-    html,
-    body {
-      height: 100%;
-      width: 100%;
-      margin: 0;
-      overflow-anchor: auto;
-    }
-
-    .sro {
-      position: absolute;
-      left: -10000px;
-      top: auto;
-      width: 1px;
-      height: 1px;
-      overflow: hidden;
-    }
-
-    button {
-      font-family: sans-serif;
-      font-weight: bold;
-      font-size: 16px;
-      line-height: 20px;
-    }
-
-    figure {
-      margin: 0;
-    }
-
-    form {
-      margin-bottom: 0;
-      margin-top: 0;
-    }
-
-    h1,
-    .h1 {
-      font-family: sans-serif;
-      font-weight: bold;
-      font-size: 28px;
-      line-height: 38px;
-      margin-bottom: 15px;
-      margin-top: 25px;
-    }
-
-    h2,
-    .h2 {
-      font-weight: bold;
-      position: relative;
-      clear: both;
-      font-family: sans-serif;
-      font-size: 26px;
-      line-height: 36px;
-      margin-bottom: 15px;
-      margin-top: 30px;
-    }
-
-    h3,
-    .h3 {
-      font-weight: bold;
-      clear: both;
-      font-family: sans-serif;
-      font-size: 22px;
-      line-height: 32px;
-      margin-bottom: 15px;
-      margin-top: 30px;
-    }
-
-    h4 {
-      font-weight: bold;
-      font-size: 17px;
-      line-height: 26px;
-      margin-bottom: 15px;
-      margin-top: 20px;
-      font-family: sans-serif;
-      font-size: 20px;
-      line-height: 30px;
-      margin-bottom: 15px;
-      margin-top: 20px;
-    }
-
-    h5 {
-      font-family: sans-serif;
-      font-size: 18px;
-      line-height: 28px;
-    }
-
-    hr {
-      border: none;
-      border-top: 1px solid #dcdbdb;
-      line-height: 0;
-      margin-bottom: 20px;
-      margin-top: 30px;
-    }
-
-    img {
-      -webkit-user-select: none;
-      -moz-user-select: none;
-      user-select: none;
-      max-width: 100%;
-    }
-
-    iframe {
-      max-width: 100%;
-    }
-
-    li {
-      font-size: 17px;
-      line-height: 30px;
-      margin-bottom: 8px;
-    }
-
-    ol.hl-long-line>li,
-    ul.hl-long-line>li {
-      margin-bottom: 15px;
-    }
-
-    p,
-    .p {
-      font-family: sans-serif;
-      font-size: 17px;
-      line-height: 30px;
-      margin-bottom: 20px;
-      margin-top: 20px;
-    }
-
-    ul {
-      list-style-image: url("data:image/svg+xml,%3Csvg width='10' height='10' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='5' cy='5' r='2.5' fill='%23231F20'/%3E%3C/svg%3E");
-    }
-
-    ul li>ul {
-      list-style-image: url("data:image/svg+xml,%3Csvg width='10' height='10' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='5' cy='5' r='2.5' fill='%23FFF' stroke='%23231F20'/%3E%3C/svg%3E");
-    }
-
-    small {
-      font-family: sans-serif;
-      font-size: 14px;
-      line-height: 20px;
-    }
-
-    table {
-      border-collapse: collapse;
-      font-size: 16px;
-      line-height: 24px;
-      font-family: sans-serif;
-    }
-
-    .article-body table .content-link {
-      cursor: pointer;
-      text-decoration: none;
-      border-color: currentColor;
-      color: #de2b5c;
-    }
-
-    .article-body table .content-link:hover {
-      color: #af214b;
-    }
-
-    .article-body table .content-link:hover img,
-    .article-body table .content-link:hover .image {
-      opacity: 0.8;
-    }
-
-    .article-body table .content-link:hover svg {
-      fill: currentColor;
-    }
-
-    .article-body table .content-link:active {
-      color: #af214b;
-    }
-
-    .__chrome {
-      display: flex;
-      flex-direction: column;
-      min-height: 100%;
-    }
-
-    #__next {
-      flex-grow: 1;
-    }
-
-    body:not(.user-is-tabbing) :focus {
-      outline: none;
-    }
-
-    body .aa-Panel {
-      z-index: 500;
-    }
-
-    @keyframes animation-hh42uh {
-      0% {
-        opacity: 0;
-        transform: translateY(-15%);
-      }
-
-      100% {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-
-    @keyframes animation-1acbpvw {
-      0% {
-        opacity: 0;
-      }
-
-      100% {
-        opacity: 1;
-      }
-    }
-
-    .QSIEmbeddedTarget div:first-child {
-      border: 0 !important;
-    }
-
-    .QSIEmbeddedTarget img[alt="Close"] {
-      top: 0 !important;
-      right: 0 !important;
-      padding: 12px;
-    }
-
-    .css-hbgm1l {
-      width: 100vw;
-      height: auto;
-    }
-
-    .css-hv4hnw {
-      line-height: 0;
-      vertical-align: top;
-    }
-
-    .css-1nvar7l {
-      max-width: 100%;
-      margin-left: auto;
-      margin-right: auto;
-    }
-
-    .css-1a3lwum {
-      margin-left: calc((100vw - 100%) / -2);
-      margin-right: calc((100vw - 100%) / -2);
-    }
-
-    .css-ktewup {
-      max-width: 550px;
-      width: calc(100vw - 40px);
-      margin: 0 auto;
-      padding-left: 0;
-      color: #767474;
-      display: block;
-      font-size: 14px;
-      line-height: 20px;
-      margin-bottom: 5px;
-      margin-top: 5px;
-    }
-
-    .css-ktewup a[href] {
-      cursor: pointer;
-      text-decoration: underline;
-      border-color: currentColor;
-      color: #231f20;
-      color: inherit;
-      text-decoration: underline;
-    }
-
-    .css-ktewup a[href]:hover {
-      color: #de2b5c;
-    }
-
-    .css-ktewup a[href]:hover img,
-    .css-ktewup a[href]:hover .image {
-      opacity: 0.8;
-    }
-
-    .css-ktewup a[href]:hover svg {
-      fill: currentColor;
-    }
-
-    .css-ktewup a[href]:active {
-      color: #de2b5c;
-    }
-
-    .css-ktewup p {
-      font-size: 14px;
-    }
-
-    .css-ktewup li {
-      font-size: 14px;
-    }
-
-    .css-wj03hc {
-      cursor: pointer;
-      text-decoration: underline;
-      border-color: currentColor;
-      color: #231f20;
-      color: inherit;
-    }
-
-    .css-wj03hc:hover {
-      color: #de2b5c;
-    }
-
-    .css-wj03hc:hover img,
-    .css-wj03hc:hover .image {
-      opacity: 0.8;
-    }
-
-    .css-wj03hc:hover svg {
-      fill: currentColor;
-    }
-
-    .css-wj03hc:active {
-      color: #de2b5c;
-    }
-
-    .css-a10gts {
-      display: flex;
-      flex-direction: row;
-      align-items: center;
-      position: absolute;
-      bottom: 0;
-      right: 0;
-    }
-
-    .css-79elbk {
-      position: relative;
-    }
-
-    .css-oei5ji {
-      margin: 25px -20px;
-    }
-
-    .css-d2znx6 {
-      margin-bottom: 25px;
-    }
-
-    .css-1l95nvm {
-      margin: 0;
-      padding: 0;
-    }
-
-    .css-9z9hxf {
-      display: flex;
-      list-style: none;
-      margin-bottom: 40px;
-    }
-
-    .css-9z9hxf:last-child {
-      margin-bottom: 0;
-    }
-
-    .css-9z9hxf:last-child .css-13hztve::after {
-      display: none;
-    }
-
-    .css-15xqzls {
-      margin-left: 7px;
-      position: relative;
-      top: 1px;
-    }
-
-    .css-zya54r {
-      display: block;
-      min-height: 0px;
-    }
-
-    .css-1qdahb7 {
-      margin: 0;
-      order: 1;
-      flex: 1;
-      text-align: center;
-    }
-
-    .css-47twm5 {
-      position: fixed;
-      position: -webkit-sticky;
-      position: sticky;
-      top: 0;
-      width: 100%;
-      z-index: 402;
-      height: auto;
-    }
-
-    .css-1op7gxx {
-      top: 50px;
-      z-index: 401;
-      pointer-events: none;
-      position: -webkit-sticky;
-      position: sticky;
-    }
-
-    .css-nfhy3k {
-      position: relative;
-      align-items: center;
-      display: flex;
-      padding: 8px 0;
-      width: 100%;
-      height: 50px;
-    }
-
-    .css-1p4i9fu {
-      background-color: #000000;
-      border-bottom: none;
-      bottom: 0;
-      left: 0;
-      position: absolute;
-      right: 0;
-      top: 0;
-      z-index: 1;
-    }
-
-    .css-stl7tm {
-      margin-left: auto;
-      margin-right: auto;
-      max-width: 550px;
-      width: calc(100vw - 40px);
-    }
-
-    .css-5kzy8o {
-      margin-left: auto;
-      margin-right: auto;
-      max-width: 550px;
-      width: calc(100vw - 40px);
-      align-items: center;
-      display: flex;
-      position: relative;
-      z-index: 1;
-    }
-
-    .css-4fp6s3 {
-      width: 175px;
-      height: 50px;
-      display: inline-block;
-    }
-
-    .css-4fp6s3 svg {
-      width: 100%;
-      height: 100%;
-      vertical-align: middle;
-    }
-
-    .css-45mfor {
-      cursor: pointer;
-      text-decoration: none;
-      color: inherit;
-      display: block;
-    }
-
-    .css-tx27ic {
-      background: transparent;
-      border: none;
-      cursor: pointer;
-      display: flex;
-      flex: none;
-      justify-content: center;
-      margin: 0;
-      padding: 0;
-      outline: none;
-      width: 20px;
-      order: 0;
-    }
-
-    .css-tx27ic svg {
-      fill: white;
-    }
-
-    .css-1yhoegy {
-      display: none;
-    }
-
-    .css-15i111y {
-      display: block;
-      height: 20px;
-      width: 20px;
-    }
-
-    .css-15i111y svg {
-      fill: white;
-      height: 20px;
-      width: 20px;
-    }
-
-    .css-aqgyuc {
-      align-items: center;
-      display: flex;
-      margin-left: auto;
-      margin-right: 12px;
-      order: 2;
-    }
-
-    .css-p993tp {
-      height: 20px;
-      padding-top: 0;
-      padding-bottom: 0;
-      cursor: pointer;
-      -webkit-appearance: none;
-      -moz-appearance: none;
-      appearance: none;
-      background: none;
-      border: none;
-      color: white;
-      font-size: 16px;
-      text-transform: uppercase;
-    }
-
-    .css-p993tp:hover {
-      color: #de2b5c;
-    }
-
-    .css-2xnzz8 {
-      background: transparent;
-      border: none;
-      cursor: pointer;
-      display: flex;
-      flex: none;
-      justify-content: center;
-      margin: 0;
-      padding: 0;
-      outline: none;
-      width: 20px;
-      order: 3;
-    }
-
-    .css-2xnzz8 svg {
-      fill: white;
-      height: 20px;
-    }
-
-    .css-1hjaa0k {
-      position: fixed;
-    }
-
-    .css-1h1rean {
-      display: block;
-      justify-content: space-between;
-      width: 100%;
-    }
-
-    .css-1s9nzu7 {
-      cursor: pointer;
-      text-decoration: underline;
-      border-color: currentColor;
-      color: #231f20;
-      text-decoration: none;
-      color: #de2b5c;
-    }
-
-    .css-1s9nzu7:hover {
-      color: #de2b5c;
-    }
-
-    .css-1s9nzu7:hover img,
-    .css-1s9nzu7:hover .image {
-      opacity: 0.8;
-    }
-
-    .css-1s9nzu7:hover svg {
-      fill: currentColor;
-    }
-
-    .css-1s9nzu7:active {
-      color: #de2b5c;
-    }
-
-    .css-1s9nzu7:hover,
-    .css-1s9nzu7:active {
-      color: #af214b;
-    }
-
-    .css-1s9nzu7:visited {
-      color: #de2b5c;
-    }
-
-    .css-umsscj {
-      clear: both;
-      margin-left: auto;
-      margin-right: auto;
-      margin-top: 30px;
-      margin-bottom: 30px;
-      min-height: 250px;
-      width: 300px;
-      display: block;
-    }
-
-    .css-1l7cd95 {
-      display: block;
-      justify-content: center;
-      min-height: 250px;
-      width: 300px;
-    }
-
-    .css-10gx9pb {
-      z-index: 0;
-      clear: both;
-      position: relative;
-      text-align: center;
-      display: block;
-      margin-left: -10px;
-      margin-right: -10px;
-      min-height: 250px;
-      width: 300px;
-    }
-
-    .css-10gx9pb::before {
-      content: "ADVERTISEMENT";
-      display: block;
-      position: absolute;
-      top: -20px;
-      left: 0;
-      right: 0;
-      height: 20px;
-      font-size: 9px;
-      line-height: 20px;
-      -webkit-letter-spacing: 1px;
-      -moz-letter-spacing: 1px;
-      letter-spacing: 1px;
-      color: #bcbfc5;
-    }
-
-    .css-10gx9pb:empty::before {
-      display: none;
-    }
-
-    .css-2p23kd {
-      margin-top: 0;
-      margin-bottom: 20px;
-      text-transform: none;
-      font-weight: 400;
-      font-family: sans-serif;
-      font-style: italic;
-      font-size: 22px;
-      line-height: 32px;
-      font-weight: 400;
-    }
-
-    .css-128bpl6 {
-      margin-bottom: 40px;
-    }
-
-    .css-6b9hi2 {
-      text-align: center;
-      font-size: 0;
-      line-height: 0;
-      flex: none;
-      margin: 0 0 20px;
-    }
-
-    .css-ae1yz3 {
-      width: 100%;
-      display: block;
-      display: block;
-      text-align: center;
-      font-size: 0;
-      line-height: 0;
-      outline: none;
-      position: relative;
-      -webkit-touch-callout: none;
-      -webkit-user-select: none;
-      -moz-user-select: none;
-      user-select: none;
-      z-index: 0;
-    }
-
-    .css-1lyqwde {
-      left: 0;
-      bottom: 0;
-      top: 0;
-    }
-
-    .css-1767n2d {
-      display: block;
-    }
-
-    .css-fr6udr {
-      width: 100%;
-      height: 100%;
-      position: absolute;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      top: 0;
-      left: 0;
-      z-index: 1;
-    }
-
-    .css-188hu7u {
-      cursor: pointer;
-      text-decoration: underline;
-      border-color: currentColor;
-      color: #231f20;
-      color: inherit;
-      font-family: sans-serif;
-      font-weight: bold;
-      text-decoration: none;
-      display: block;
-      color: #231f20;
-      margin: 0;
-      font-size: 26px;
-      line-height: 36px;
-    }
-
-    .css-188hu7u:hover {
-      color: #de2b5c;
-    }
-
-    .css-188hu7u:hover img,
-    .css-188hu7u:hover .image {
-      opacity: 0.8;
-    }
-
-    .css-188hu7u:hover svg {
-      fill: currentColor;
-    }
-
-    .css-188hu7u:active {
-      color: #de2b5c;
-    }
-
-    .css-onvglr {
-      cursor: pointer;
-      text-decoration: none;
-      color: inherit;
-      margin: 10px 0 20px 0;
-      overflow: hidden;
-      -webkit-box-orient: vertical;
-      -webkit-line-clamp: calc(2);
-      display: -webkit-box;
-    }
-
-    .css-3i8epm {
-      cursor: pointer;
-      text-decoration: underline;
-      border-color: currentColor;
-      color: #231f20;
-      font-size: 16px;
-      font-weight: 600;
-      text-align: center;
-      margin: 0 auto 20px;
-      margin-top: 30px;
-      margin-bottom: 0;
-      font-family: sans-serif;
-      font-weight: bold;
-      font-size: 16px;
-      line-height: 20px;
-      cursor: pointer;
-      text-decoration: none;
-      border-color: currentColor;
-      color: #de2b5c;
-      font-family: sans-serif;
-      font-weight: bold;
-      font-size: 16px;
-      line-height: 20px;
-      cursor: pointer;
-      text-decoration: none;
-      border-color: currentColor;
-      color: #de2b5c;
-    }
-
-    .css-3i8epm:hover {
-      color: #de2b5c;
-    }
-
-    .css-3i8epm:hover img,
-    .css-3i8epm:hover .image {
-      opacity: 0.8;
-    }
-
-    .css-3i8epm:hover svg {
-      fill: currentColor;
-    }
-
-    .css-3i8epm:active {
-      color: #de2b5c;
-    }
-
-    .css-3i8epm:active,
-    .css-3i8epm:hover:not(:focus) {
-      outline: none;
-    }
-
-    .css-3i8epm:hover {
-      color: #af214b;
-    }
-
-    .css-3i8epm:hover img,
-    .css-3i8epm:hover .image {
-      opacity: 0.8;
-    }
-
-    .css-3i8epm:hover svg {
-      fill: currentColor;
-    }
-
-    .css-3i8epm:active {
-      color: #af214b;
-    }
-
-    .css-3i8epm:hover {
-      color: #af214b;
-    }
-
-    .css-3i8epm:hover img,
-    .css-3i8epm:hover .image {
-      opacity: 0.8;
-    }
-
-    .css-3i8epm:hover svg {
-      fill: currentColor;
-    }
-
-    .css-3i8epm:active {
-      color: #af214b;
-    }
-
-    .css-1q67gt9 {
-      flex: none;
-      height: 50px;
-      width: 50px;
-      line-height: 0;
-      margin-right: 20px;
-      position: relative;
-    }
-
-    .css-xc63cd {
-      border-radius: 100%;
-      overflow: hidden;
-      background-color: #faf2cf;
-    }
-
-    .css-20w1gi {
-      clear: both;
-      margin-left: auto;
-      margin-right: auto;
-      margin-top: 30px;
-      margin-bottom: 30px;
-      min-height: 250px;
-      width: 300px;
-      display: block;
-    }
-
-    .css-1t05dkn {
-      display: block;
-      justify-content: center;
-      min-height: 250px;
-      width: 300px;
-    }
-
-    .css-1sq15os {
-      z-index: 0;
-      clear: both;
-      position: relative;
-      text-align: center;
-      display: block;
-      margin-left: -10px;
-      margin-right: -10px;
-      min-height: 250px;
-      width: 300px;
-    }
-
-    .css-1sq15os::before {
-      content: "ADVERTISEMENT";
-      display: block;
-      position: absolute;
-      top: -20px;
-      left: 0;
-      right: 0;
-      height: 20px;
-      font-size: 9px;
-      line-height: 20px;
-      -webkit-letter-spacing: 1px;
-      -moz-letter-spacing: 1px;
-      letter-spacing: 1px;
-      color: #bcbfc5;
-    }
-
-    .css-1sq15os:empty::before {
-      display: none;
-    }
-
-    .css-1iy5qit {
-      width: 100%;
-      position: relative;
-      margin-left: auto;
-      margin-right: auto;
-      max-width: 550px;
-      margin-top: 20px;
-    }
-
-    .css-1jujhzn {
-      width: 100%;
-      max-width: 550px;
-      position: relative;
-      flex: 1;
-      max-width: 100%;
-    }
-
-    .css-1jujhzn::after {
-      content: "";
-      clear: both;
-      display: block;
-      height: 2px;
-      margin-top: 40px;
-      margin-left: -20px;
-      margin-right: -20px;
-      background: #f0efef;
-    }
-
-    .css-9whsf3 {
-      max-width: 100%;
-    }
-
-    .css-b4bh2t {
-      width: 100%;
-      height: 80vh;
-      min-height: 550px;
-      object-fit: cover;
-      max-width: 2000px;
-    }
-
-    .css-9zhr85 {
-      line-height: 0;
-      margin: 0 auto;
-      width: 100%;
-      max-width: 2000px;
-      margin-bottom: 0;
-    }
-
-    .css-grjdx8 {
-      margin: 0;
-      font-size: 10px;
-      line-height: 10px;
-      font-family: sans-serif;
-      text-transform: uppercase;
-    }
-
-    .css-e0ge5q {
-      text-align: center;
-      display: flex;
-      justify-content: center;
-      flex-direction: column;
-      height: 80vh;
-      color: white;
-      max-width: 550px;
-      min-height: 550px;
-      width: calc(100vw - 40px);
-    }
-
-    .css-e0ge5q h1 {
-      font-size: 42px;
-      line-height: 48px;
-      margin: 25px 0 20px 0;
-    }
-
-    .css-e0ge5q a featureWhisper {
-      font-weight: 600;
-      line-height: 20px;
-      font-size: 16px;
-    }
-
-    .css-1n5b15n {
-      position: absolute;
-      width: 100vw;
-      display: flex;
-      justify-content: center;
-      min-height: 550px;
-      max-width: 2000px;
-    }
-
-    .css-ehwum4 {
-      display: block;
-      line-height: 20px;
-      align-items: center;
-      flex-direction: row;
-      font-weight: 400;
-      margin-bottom: 27px;
-      font-size: 14px;
-      font-family: sans-serif;
-      margin-top: -10px;
-      max-width: 200px;
-      padding: 0 35px 0 30px;
-    }
-
-    .css-ehwum4 div:first-of-type {
-      margin-bottom: 15px;
-    }
-
-    .css-1bsuu3t {
-      height: 3px;
-      width: 30px;
-      background-color: #231f20;
-      margin-left: 30px;
-      margin-bottom: 26px;
-    }
-
-    .css-18zqvya {
-      display: flex;
-      line-height: 20px;
-      align-items: center;
-      flex-direction: row;
-      font-weight: bold;
-      margin-bottom: 25px;
-      font-size: 14px;
-      font-family: sans-serif;
-      margin-top: -10px;
-    }
-
-    .css-1hrhf66 {
-      position: absolute;
-      top: -405px;
-      left: -200px;
-      display: none;
-    }
-
-    .css-i9gxme {
-      flex-grow: 1;
-    }
-
-    .css-1azb1jl {
-      margin-bottom: 50px;
-    }
-
-    .css-9g0nft {
-      font-size: 14px;
-      background-color: #000000;
-    }
-
-    .css-1dppxl0 {
-      margin-left: 0;
-      margin-right: 0;
-      max-width: none;
-      width: 100%;
-      padding: 40px 0;
-    }
-
-    .css-1b2ri56 {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-
-    .css-mhjtvv {
-      width: 100%;
-      max-width: 550px;
-    }
-
-    .css-fextg5 {
-      width: 100%;
-      max-width: 550px;
-      margin-right: 0;
-    }
-
-    .css-1xceiwh {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: space-between;
-    }
-
-    .css-1dl6fic {
-      display: flex;
-      flex-direction: row;
-      justify-content: space-around;
-      flex-wrap: wrap;
-      max-width: max-content;
-    }
-
-    .css-mh9sdv {
-      display: flex;
-      flex-direction: column;
-      align-items: flex-start;
-      list-style: none;
-      padding: 0;
-      margin: 0;
-      font-family: sans-serif;
-      color: white;
-      width: 40%;
-      margin: 0 20px;
-    }
-
-    .css-qz2gsg {
-      margin: 0 0 20px;
-      font-size: 14px;
-      line-height: 20px;
-      font-weight: bold;
-    }
-
-    .css-13lrjqr {
-      cursor: pointer;
-      text-decoration: underline;
-      border-color: currentColor;
-      color: #231f20;
-      color: #dcdbdb;
-      font-weight: bold;
-      display: inline-block;
-      padding: 4px 0;
-      text-decoration: none;
-    }
-
-    .css-13lrjqr:hover {
-      color: #de2b5c;
-    }
-
-    .css-13lrjqr:hover img,
-    .css-13lrjqr:hover .image {
-      opacity: 0.8;
-    }
-
-    .css-13lrjqr:hover svg {
-      fill: currentColor;
-    }
-
-    .css-13lrjqr:active {
-      color: #de2b5c;
-    }
-
-    .css-13lrjqr:hover {
-      color: #de2b5c;
-    }
-
-    .css-at5xib {
-      display: flex;
-      flex-direction: column;
-      align-items: flex-start;
-      list-style: none;
-      padding: 0;
-      margin: 0;
-      font-family: sans-serif;
-      color: white;
-      flex: 1;
-    }
-
-    .css-1h2wssn {
-      margin: 0 0 20px;
-      font-size: 14px;
-      line-height: 20px;
-      font-weight: bold;
-      display: none;
-    }
-
-    .css-1uwrjr9 {
-      font-weight: normal;
-      font-size: 14px;
-      width: 100%;
-      padding: 0 20px;
-      color: #dcdbdb;
-    }
-
-    .css-q5kuqw {
-      cursor: pointer;
-      text-decoration: underline;
-      border-color: currentColor;
-      color: #231f20;
-      color: #dcdbdb;
-      text-decoration: underline;
-    }
-
-    .css-q5kuqw:hover {
-      color: #de2b5c;
-    }
-
-    .css-q5kuqw:hover img,
-    .css-q5kuqw:hover .image {
-      opacity: 0.8;
-    }
-
-    .css-q5kuqw:hover svg {
-      fill: currentColor;
-    }
-
-    .css-q5kuqw:active {
-      color: #de2b5c;
-    }
-
-    .css-13khl4i {
-      font-weight: normal;
-      font-size: 14px;
-      width: 100%;
-      padding: 0 20px;
-      color: #dcdbdb;
-      display: block;
-    }
-
-    .css-8arm8m {
-      margin-bottom: 30px;
-    }
-
-    .css-tdxv2w {
-      height: 72px;
-      width: 49px;
-    }
-
-    .css-1avdltx {
-      display: inline-block;
-      width: 49px;
-      height: 72px;
-      margin-left: 0;
-    }
-
-    .css-1xb6euj {
-      background-color: #000000;
-      width: 100%;
-      color: #dcdbdb;
-      border-top: 1px solid #3e3e3e;
-    }
-
-    .css-11upubx {
-      margin-left: 0;
-      margin-right: 0;
-      max-width: none;
-      width: 100%;
-      display: flex;
-      flex-direction: column;
-      justify-content: flex-end;
-      align-items: center;
-      padding: 40px 0 50px;
-    }
-
-    .css-nwyfqx {
-      cursor: pointer;
-      text-decoration: underline;
-      border-color: currentColor;
-      color: #231f20;
-      display: inline-block;
-      margin-right: 0;
-    }
-
-    .css-nwyfqx:hover {
-      color: #de2b5c;
-    }
-
-    .css-nwyfqx:hover img,
-    .css-nwyfqx:hover .image {
-      opacity: 0.8;
-    }
-
-    .css-nwyfqx:hover svg {
-      fill: currentColor;
-    }
-
-    .css-nwyfqx:active {
-      color: #de2b5c;
-    }
-
-    .css-d2oo9m {
-      display: flex;
-      flex-direction: column;
-      justify-content: flex-end;
-    }
-
-    .css-s2uf1z {
-      text-align: right;
-    }
-
-    .css-1036sed {
-      cursor: pointer;
-      text-decoration: underline;
-      border-color: currentColor;
-      color: #231f20;
-      text-decoration: underline;
-      color: #dcdbdb;
-      display: inline-block;
-    }
-
-    .css-1036sed:hover {
-      color: #de2b5c;
-    }
-
-    .css-1036sed:hover img,
-    .css-1036sed:hover .image {
-      opacity: 0.8;
-    }
-
-    .css-1036sed:hover svg {
-      fill: currentColor;
-    }
-
-    .css-1036sed:active {
-      color: #de2b5c;
-    }
-
-    .css-1036sed:after {
-      display: inline-block;
-      content: "|";
-      margin: 0 1rem;
-      cursor: default;
-    }
-
-    .css-1036sed:last-of-type: {
-      margin-right: 0;
-    }
-
-    .css-1036sed:last-of-type::after {
-      display: none;
-      margin-left: 0;
-    }
-
-    .css-1036sed:hover {
-      color: #de2b5c;
-    }
-
-    .css-1036sed:hover:after {
-      color: #dcdbdb;
-    }
-
-    .css-f2jc3i {
-      display: flex;
-      flex-direction: column;
-      flex-wrap: nowrap;
-      justify-content: flex-start;
-      align-items: center;
-      margin-top: 30px;
-      margin-bottom: 40px;
-      line-height: 20px;
-    }
-
-    .css-10ifx10 {
-      display: inline-block;
-      font-size: 14px;
-      margin: 0;
-      padding: 0;
-      font-weight: bold;
-      color: #dcdbdb;
-    }
-
-    .css-nvxgav {
-      cursor: pointer;
-      text-decoration: underline;
-      border-color: currentColor;
-      color: #231f20;
-      text-decoration: underline;
-      color: #dcdbdb;
-      margin-right: 0;
-    }
-
-    .css-nvxgav:hover {
-      color: #de2b5c;
-    }
-
-    .css-nvxgav:hover img,
-    .css-nvxgav:hover .image {
-      opacity: 0.8;
-    }
-
-    .css-nvxgav:hover svg {
-      fill: currentColor;
-    }
-
-    .css-nvxgav:active {
-      color: #de2b5c;
-    }
-
-    .css-nvxgav:last-of-type {
-      margin-right: 0;
-    }
-
-    .css-nvxgav:hover {
-      color: #de2b5c;
-    }
-
-    .css-pa82n9 {
-      cursor: pointer;
-      text-decoration: underline;
-      border-color: currentColor;
-      color: #231f20;
-      flex-shrink: 0;
-    }
-
-    .css-pa82n9:hover {
-      color: #de2b5c;
-    }
-
-    .css-pa82n9:hover img,
-    .css-pa82n9:hover .image {
-      opacity: 0.8;
-    }
-
-    .css-pa82n9:hover svg {
-      fill: currentColor;
-    }
-
-    .css-pa82n9:active {
-      color: #de2b5c;
-    }
-
-    @media (hover: hover) {
-      .css-tx27ic:hover>svg {
-        fill: #de2b5c;
-      }
-
-      .css-2xnzz8:hover>svg {
-        fill: #de2b5c;
-      }
-    }
-
-    @media all and (-ms-high-contrast: none),
-    (-ms-high-contrast: active) {
-      .css-1op7gxx {
-        padding-top: 70px;
-      }
-    }
-
-    @media (min-width: 550px) {
-      .css-oei5ji {
-        margin-left: auto;
-        margin-right: auto;
-      }
-    }
-
-    @media (min-width: 768px) {
-      h2.with-image-at-left {
-        float: right;
-      }
-
-      h2.with-image-at-right {
-        float: left;
-      }
-
-      h2.with-image-at-left,
-      h2.with-image-at-right {
-        width: calc(100% - 280px);
-      }
-
-      html {
-        font-size: 18px;
-        line-height: 1.44;
-      }
-
-      html,
-      body {
-        overflow-anchor: none;
-      }
-
-      h1,
-      .h1 {
-        font-size: 40px;
-        line-height: 56px;
-        margin-bottom: 30px;
-        margin-top: 30px;
-      }
-
-      h2,
-      .h2 {
-        font-size: 34px;
-        line-height: 44px;
-        margin-top: 45px;
-      }
-
-      h3,
-      .h3 {
-        font-size: 30px;
-        line-height: 40px;
-        margin-bottom: 20px;
-        margin-top: 35px;
-      }
-
-      h4 {
-        font-size: 24px;
-        line-height: 34px;
-        margin-bottom: 20px;
-        margin-top: 25px;
-      }
-
-      h5 {
-        font-size: 20px;
-        line-height: 30px;
-      }
-
-      li {
-        font-size: 18px;
-      }
-
-      p,
-      .p {
-        font-size: 18px;
-        margin-bottom: 25px;
-        margin-top: 25px;
-      }
-
-      .css-ktewup {
-        max-width: 1100px;
-        width: calc(100vw - 90px);
-      }
-
-      .css-oei5ji {
-        margin: 30px auto;
-      }
-
-      .css-1tmarpy {
-        margin-top: -10px;
-      }
-
-      .css-nfhy3k {
-        height: 70px;
-      }
-
-      .css-stl7tm {
-        max-width: 989px;
-        width: calc(100vw - 110px);
-      }
-
-      .css-5kzy8o {
-        max-width: 989px;
-        width: calc(100vw - 110px);
-      }
-
-      .css-tx27ic {
-        width: 30px;
-      }
-
-      .css-1yhoegy {
-        display: inline;
-      }
-
-      .css-15i111y {
-        display: none;
-      }
-
-      .css-aqgyuc {
-        margin-right: 220px;
-        order: 1;
-      }
-
-      .css-p993tp {
-        height: inherit;
-      }
-
-      .css-2xnzz8 svg {
-        height: 100%;
-      }
-
-      .css-2xnzz8 {
-        display: none;
-      }
-
-      .css-2xnzz8 {
-        width: 30px;
-      }
-
-      .css-umsscj {
-        margin-top: 40px;
-      }
-
-      .css-10gx9pb {
-        margin-left: auto;
-        margin-right: auto;
-      }
-
-      .css-2p23kd {
-        margin-bottom: 40px;
-      }
-
-      .css-lm0pdr {
-        display: flex;
-      }
-
-      .css-6b9hi2 {
-        margin-right: 30px;
-        width: 200px;
-      }
-
-      .css-188hu7u {
-        font-size: 34px;
-        line-height: 44px;
-      }
-
-      .css-3i8epm {
-        margin-top: 20px;
-      }
-
-      .css-20w1gi {
-        margin-top: 40px;
-      }
-
-      .css-1sq15os {
-        margin-left: auto;
-        margin-right: auto;
-      }
-
-      .css-1iy5qit {
-        max-width: 625px;
-      }
-
-      .css-1jujhzn::after {
-        margin-left: 0;
-        margin-right: 0;
-      }
-
-      .css-1jujhzn {
-        max-width: 879px;
-      }
-
-      .css-b4bh2t {
-        height: 85vh;
-        min-height: 500px;
-      }
-
-      .css-grjdx8 {
-        font-size: 14px;
-        line-height: 14px;
-      }
-
-      .css-e0ge5q h1 {
-        font-size: 70px;
-        line-height: 74px;
-        margin: 45px 0 50px 0;
-      }
-
-      .css-e0ge5q {
-        height: 85vh;
-        max-width: 625px;
-        min-height: 500px;
-        width: calc(100vw - 90px);
-      }
-
-      .css-1n5b15n {
-        min-height: 500px;
-      }
-
-      .css-ehwum4 {
-        margin-top: -20px;
-      }
-
-      .css-18zqvya {
-        margin-bottom: 35px;
-        margin-top: -20px;
-      }
-
-      .css-1azb1jl {
-        margin-bottom: 0;
-      }
-
-      .css-1dl6fic {
-        max-width: 375px;
-      }
-
-      .css-1uwrjr9 {
-        padding: 0;
-      }
-
-      .css-13khl4i {
-        padding: 0;
-      }
-    }
-
-    @media (min-width: 990px) {
-      .css-1a3lwum {
-        margin-top: 30px;
-        margin-bottom: 40px;
-      }
-
-      .css-ktewup {
-        padding-left: 70px;
-      }
-
-      .css-stl7tm {
-        max-width: 1100px;
-        width: calc(100vw - 90px);
-      }
-
-      .css-5kzy8o {
-        max-width: 1100px;
-        width: calc(100vw - 90px);
-      }
-
-      .css-aqgyuc {
-        margin-left: 40px;
-      }
-
-      .css-1h1rean {
-        display: flex;
-      }
-
-      .css-umsscj {
-        display: none;
-      }
-
-      .css-10gx9pb {
-        display: none;
-      }
-
-      .css-1q67gt9 {
-        height: 75px;
-        width: 75px;
-      }
-
-      .css-20w1gi {
-        display: none;
-      }
-
-      .css-1sq15os {
-        display: none;
-      }
-
-      .css-1iy5qit {
-        width: calc(100% - 350px);
-        max-width: 750px;
-        margin-top: 60px;
-      }
-
-      .css-1jujhzn {
-        max-width: 1100px;
-      }
-
-      .css-b4bh2t {
-        min-height: 450px;
-      }
-
-      .css-e0ge5q h1 {
-        margin: 43px 0 50px 0;
-      }
-
-      .css-e0ge5q {
-        max-width: 750px;
-        min-height: 450px;
-      }
-
-      .css-1n5b15n {
-        min-height: 450px;
-      }
-
-      .css-ehwum4 {
-        font-family: sans-serif;
-        font-weight: bold;
-      }
-
-      .css-ehwum4 {
-        font-size: 16px;
-        margin-top: 27px;
-      }
-
-      .css-18zqvya {
-        font-family: sans-serif;
-        font-weight: bold;
-      }
-
-      .css-18zqvya {
-        display: none;
-        font-size: 16px;
-        margin-top: 27px;
-      }
-
-      .css-1hrhf66 {
-        display: none;
-      }
-
-      .css-1dppxl0 {
-        margin-left: auto;
-        margin-right: auto;
-        max-width: 1100px;
-        width: calc(100vw - 90px);
-        padding: 60px 0;
-      }
-
-      .css-1b2ri56 {
-        flex-direction: row;
-        align-items: flex-start;
-      }
-
-      .css-mhjtvv {
-        width: 50%;
-      }
-
-      .css-fextg5 {
-        width: 50%;
-        margin-right: 80px;
-      }
-
-      .css-1xceiwh {
-        align-items: flex-start;
-      }
-
-      .css-1dl6fic {
-        max-width: max-content;
-      }
-
-      .css-mh9sdv {
-        width: 150px;
-        margin: 0 20px 0 0;
-      }
-
-      .css-1h2wssn {
-        display: block;
-      }
-
-      .css-13khl4i {
-        display: none;
-      }
-
-      .css-8arm8m {
-        margin-bottom: 0;
-      }
-
-      .css-1avdltx {
-        margin-left: 50px;
-      }
-
-      .css-11upubx {
-        margin-left: auto;
-        margin-right: auto;
-        max-width: 1100px;
-        width: calc(100vw - 90px);
-        flex-direction: row;
-        padding: 35px 0;
-      }
-
-      .css-nwyfqx {
-        margin-right: auto;
-      }
-
-      .css-f2jc3i {
-        flex-direction: row;
-        margin-top: 15px;
-        margin-bottom: 0;
-      }
-
-      .css-10ifx10 {
-        margin: 0 20px 0 0;
-      }
-
-      .css-nvxgav {
-        margin-right: 20px;
-      }
-    }
-
-    @media (min-width: 1190px) {
-      .css-20w1gi {
-        min-height: 90px;
-        width: 728px;
-        display: block;
-      }
-
-      .css-1t05dkn {
-        min-height: 90px;
-        width: 728px;
-      }
-
-      .css-1sq15os {
-        display: block;
-        min-height: 90px;
-        width: 728px;
-      }
-    }
-
-    @media (max-width: 767px) {
-      .css-15xqzls {
-        display: none;
-      }
-
-      .css-3i8epm {
-        display: block;
-        font-size: 14px;
-        padding: 9px 18px 10px 16px;
-        width: 210px;
-        color: white;
-        background: magenta;
-      }
-
-      .css-3i8epm:hover {
-        color: white;
-        background: #af214b;
-      }
-
-      .css-3i8epm {
-        font-family: sans-serif;
-        font-weight: bold;
-        font-size: 16px;
-        line-height: 20px;
-        background: #231f20;
-        color: white;
-      }
-
-      .css-3i8epm:hover {
-        color: white;
-      }
-
-      .css-3i8epm:active {
-        color: white;
-      }
-
-      .css-3i8epm {
-        font-family: sans-serif;
-        font-weight: bold;
-        font-size: 16px;
-        line-height: 20px;
-        background: #231f20;
-        color: white;
-      }
-
-      .css-3i8epm:hover {
-        color: white;
-      }
-
-      .css-3i8epm:active {
-        color: white;
-      }
-    }
-  </style>
-</head>
-
-<body style="overflow: auto">
-  <div class="__chrome">
-    <div class="css-fdjy12">
-      <div class="css-47twm5">
-        <header id="site-header" class="css-nfhy3k">
-          <div class="css-1p4i9fu"></div>
-          <div class="css-5kzy8o">
-            <div class="css-1qdahb7">
-              <div class="css-4fp6s3">
-                <svg width="701px" class="ch_svg_logo_full" height="84px" viewBox="0 0 701 84" version="1.1"
-                  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <g class="svg-Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                    <g class="svg-ch-logo" fill="#FFF">
-                      <path
-                        d="M37.5,83.8 C55.5,83.8 68.9,75.5 73.6,57.5 L55.6,52.3 C51.7,63 47.5,67.8 39,67.8 C30.4,67.8 26,63.3 26,54.3 C26,49.6 27.2,43.5 28.8,37.9 C32.8,23.7 38.2,16.9 47.4,16.9 C56.9,16.9 59.7,24 57.5,33.9 L76.9,33.9 L85.3,2.1 L72.1,2.1 L66.1,11.5 C63.3,5.7 56.2,0.3 43.5,0.3 C17.8,0.3 0.8,22.5 0.8,50 C0.9,71.9 15,83.8 37.5,83.8 Z M121.5,0.6 C118.2,1.4 112.6,2.2 106.1,2.2 L91.2,2.2 L87.9,14.6 L91.9,14.6 C93.7,14.6 94.1,15.6 93.1,19.1 L76,82.1 L99.2,82.1 C107,53.1 113.2,36.5 121.4,36.5 C123.9,36.5 125.6,37.8 125.6,40.4 C125.6,45.6 116.9,63.9 116.9,71.8 C116.9,80.7 122.2,83.8 131.6,83.8 C135.8,83.8 140.3,83.3 144.5,82.1 L147.6,69.9 C146.5,70.3 145.4,70.5 144.3,70.5 C142.7,70.5 141.6,69.8 141.6,67.7 C141.6,62.6 150.8,43.9 150.8,34.3 C150.8,25.9 143.9,21.2 134.8,21.2 C125.4,21.2 118,25.4 112.3,33.4 L121.5,0.6 Z M182,70.3 C176.7,70.3 174.3,67.2 174.3,62.6 C174.3,55.5 179,34.9 188.3,34.9 C193.4,34.9 195.9,38 195.9,42.5 C195.9,49.5 191.3,70.3 182,70.3 Z M182.9,83.8 C203,83.8 217.9,68.5 217.9,48.5 C217.9,30.7 205,21.3 186.9,21.3 C166.6,21.3 152.4,36.1 152.4,56 C152.3,73.9 164.9,83.8 182.9,83.8 Z M287.8,68.7 C283.9,68.7 282.3,67.1 282.3,64.5 C282.3,61.5 283.7,56.7 285.3,51.6 L293.4,22.9 L270,22.9 L262.5,49.6 C260,58.5 255.1,68.6 248.8,68.6 C246.1,68.6 244.3,67.2 244.3,64.5 C244.3,62 245.5,57.8 246.6,53.8 L255.9,21.4 C252.6,22.2 245.2,22.8 238.7,22.8 L225.3,22.8 L222,35.2 L226.6,35.2 C228.4,35.2 228.5,37.8 227.9,39.7 L222.6,56.6 C220.9,61.9 219.3,66.5 219.3,70.7 C219.3,79 226.2,83.7 235.3,83.7 C245.8,83.7 255,79 261.6,69.6 L261.6,70.1 C261.6,77 266.2,83.7 279,83.7 C306.1,83.7 323.3,56 323.3,35.9 C323.3,26.9 318.1,21.2 309.8,21.2 C302.2,21.2 296.8,26.5 296.8,34.8 C296.8,41.7 300.7,45.4 306.3,46.6 C301.5,60.9 295.6,68.7 287.8,68.7 Z M365.1,0.6 C361.8,1.4 356.2,2.2 349.7,2.2 L334.9,2.2 L331.6,14.6 L335.6,14.6 C337.4,14.6 337.8,15.6 336.8,19.1 L319.7,82.2 L342.9,82.2 C350.7,53.2 356.9,36.6 365.1,36.6 C367.6,36.6 369.3,37.9 369.3,40.5 C369.3,45.7 360.6,64 360.6,71.9 C360.6,80.8 365.9,83.9 375.3,83.9 C379.5,83.9 384,83.4 388.2,82.2 L391.3,70 C390.2,70.4 389.1,70.6 388,70.6 C386.4,70.6 385.3,69.9 385.3,67.8 C385.3,62.7 394.5,44 394.5,34.4 C394.5,26 387.6,21.3 378.5,21.3 C369.1,21.3 361.7,25.5 355.9,33.5 L365.1,0.6 Z M428.1,70.3 C422.8,70.3 420.4,67.2 420.4,62.6 C420.4,55.5 425.1,34.9 434.4,34.9 C439.5,34.9 442,38 442,42.5 C441.9,49.5 437.3,70.3 428.1,70.3 Z M428.9,83.8 C449,83.8 463.9,68.5 463.9,48.5 C463.9,30.7 451,21.3 432.9,21.3 C412.6,21.3 398.4,36.1 398.4,56 C398.4,73.9 410.9,83.8 428.9,83.8 Z M506.7,71.7 C506.7,79.5 512,83.7 521.7,83.7 C526.2,83.7 529.9,83 534,82 L537,70 C536,70.2 534.8,70.5 533.9,70.5 C532.2,70.5 531,69.9 531,67.6 C531,66.2 531.7,63.9 532.7,61.1 L543.1,21.5 C540.1,22.3 535.3,22.9 529.5,22.9 L519.4,22.9 C511.4,52.8 505.5,68.7 497.3,68.7 C494.5,68.7 492.8,67.3 492.8,64.6 C492.8,62.1 494,57.9 495.1,53.9 L504.4,21.5 C501.1,22.3 493.7,22.9 487.2,22.9 L473.8,22.9 L470.5,35.3 L475.1,35.3 C476.9,35.3 477,37.9 476.4,39.8 L471.1,56.7 C469.4,62 467.8,66.6 467.8,70.8 C467.8,79.1 474.7,83.8 483.8,83.8 C493.4,83.8 500.9,79.5 506.8,71.2 C506.7,71.4 506.7,71.7 506.7,71.7 Z M581.8,21.5 C578.5,22.3 573,22.9 566.5,22.9 L551.7,22.9 L548.4,35.3 L553.1,35.3 C554.9,35.3 555.3,36.4 554.4,39.8 L542.8,82.1 L566,82.1 C573.7,53.1 579.9,36.5 588.1,36.5 C590.6,36.5 592.3,37.8 592.3,40.4 C592.3,45.6 583.6,63.9 583.6,71.8 C583.6,80.7 588.9,83.8 598.3,83.8 C602.5,83.8 607,83.3 611.1,82.1 L614.2,69.9 C613.1,70.3 612.2,70.5 611.1,70.5 C609.4,70.5 608.4,69.8 608.4,67.7 C608.4,62.6 617.7,43.9 617.7,34.3 C617.7,25.9 610.8,21.2 601.7,21.2 C591.7,21.2 584.1,25.8 578.2,34.4 L581.8,21.5 Z M640,83.8 C647.8,83.8 654.4,79.6 658.8,73.7 C659.6,80.3 664.6,83.8 673.6,83.8 C677.9,83.8 681.9,83.1 686,82.1 L689.1,69.9 C687.9,70.3 686.9,70.5 685.8,70.5 C684.2,70.5 682.9,69.8 682.9,67.5 C682.9,66.1 683.7,63.8 684.6,61 L700.8,0.5 C697.5,1.3 692,2.1 685.5,2.1 L671,2.1 L667.7,14.5 L671.1,14.5 C673.2,14.5 673.5,15.6 672.5,19.3 L668.9,31.9 C666.9,25.4 661.3,21.2 653.8,21.2 C633.2,21.2 620.3,42.8 620.3,62.5 C620.3,74.8 627.8,83.8 640,83.8 Z M650.1,69.5 C646.1,69.5 643.2,67.1 643.2,62.4 C643.2,49.9 650.3,35.5 658,35.5 C662.1,35.5 664.8,38.5 664.8,42.5 C664.8,54.3 658,69.5 650.1,69.5 Z"
-                        class="svg-Shape"></path>
-                    </g>
-                  </g>
-                </svg>
-              </div>
+            
+        <script type="text/javascript" async="async" data-noptimize="1" data-cfasync="false" src="https://scripts.mediavine.com/tags/chowhound.js"></script>            <link rel="preload" href="/wp-content/themes/unified/css/home.chowhound.min.css?design=3&v=1761058487" as="style">
+<link class="preloadFont" rel="preload" href="https://www.chowhound.com/font/Inter-Medium.woff2" as="font" crossorigin>
+<link class="preloadFont" rel="preload" href="https://www.chowhound.com/font/Inter-ExtraBold.woff2" as="font" crossorigin>
+<link class="preloadFont" rel="preload" href="https://www.chowhound.com/font/Lexia-ExtraBold-Italic.woff2" as="font" crossorigin>
+
+        <link rel="stylesheet" type="text/css" href="/wp-content/themes/unified/css/home.chowhound.min.css?design=3&v=1761058487" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="Content-Security-Policy" content="block-all-mixed-content" />
+        <meta http-equiv="X-UA-Compatible" content="IE=10" />
+        
+        
+        
+        <title>Chowhound - The Site for Food Nerds: Cooking Tips, Culinary How-To's, & More.</title>
+        <meta name='description' content="Chowhound is the site for food nerds - from expert chef tips to culinary how-to's, helpful ingredient lists, baking science, and more." />
+        
+        
+                <meta property="og:site_name" content="Chowhound" />
+        <meta property="og:title" content="Chowhound - The Site for Food Nerds: Cooking Tips, Culinary How-To's, & More.">
+        <meta property="og:image" content="https://www.chowhound.com/img/chowhound-share-image-1280x720.png" />
+        <meta property="og:description" content="Chowhound is the site for food nerds - from expert chef tips to culinary how-to's, helpful ingredient lists, baking science, and more.">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://www.chowhound.com/">
+                <meta name="twitter:title" content="Chowhound - The Site for Food Nerds: Cooking Tips, Culinary How-To's, & More.">
+        <meta name="twitter:description" content="Chowhound is the site for food nerds - from expert chef tips to culinary how-to's, helpful ingredient lists, baking science, and more.">
+        <meta name="twitter:site" content="@CHOW">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="https://www.chowhound.com/img/chowhound-share-image-1280x720.png">
+        
+        
+        <link rel="shortcut icon" href="https://www.chowhound.com/img/chowhound-favicon-506x506.png">
+        <link rel="icon" href="https://www.chowhound.com/img/chowhound-favicon-506x506.png">
+        <link rel="canonical" href="https://www.chowhound.com/"/>
+        <link rel="alternate" type="application/rss+xml" title="News - Chowhound" href="https://www.chowhound.com/category/news/feed/" />
+
+        
+        <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","address":{"@type":"PostalAddress","streetAddress":"11787 Lantern Road #201","addressLocality":"Fishers","addressRegion":"IN","postalCode":"46038","addressCountry":"US"},"contactPoint":{"@type":"ContactPoint","telephone":"(908) 514-8038","contactType":"customer support","email":"staff@chowhound.com"},"publishingPrinciples":"https:\/\/www.chowhound.com\/policies\/","@id":"https:\/\/www.chowhound.com\/","name":"Chowhound","url":"https:\/\/www.chowhound.com\/","logo":{"@type":"ImageObject","url":"https:\/\/www.chowhound.com\/img\/chowhound-share-image-1280x720.png","caption":"Chowhound Logo"},"description":"Chowhound is the site for food nerds - from expert chef tips to culinary how-to's, helpful ingredient lists, baking science, and more.","sameAs":["https:\/\/www.facebook.com\/chowhound","https:\/\/twitter.com\/CHOW","https:\/\/flipboard.com\/@chowhound","https:\/\/www.pinterest.com\/chowhound","https:\/\/bsky.app\/profile\/chowhoundofficial.bsky.social","https:\/\/subscribe.chowhound.com\/newsletter"]}</script>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://www.chowhound.com/feed/" />                </head>
+<body>
+<div id="wrapper">
+    <div class="page-wrap">
+        <header id="header" class="index">
+            <div class="nav-drop">
+                <div class="jcf-scrollable">
+                    <div class="aside-holder">
+                                    <nav id="aside-nav">
+                <div class="nav-top">
+                    <div class="logo">
+                        <a href="/" class="logo-holder">
+                            <img src="https://www.chowhound.com/img/Chowhound-Logo-Default.svg" alt="Chowhound" width="197" height="26">
+                        </a>
+                        <a href="#" class="nav-opener close"></a>
+                    </div>
+                </div>
+                
+                <ul class="main-nav"><li class="navlink navlink-recipes"><a href="/category/recipes/">Recipes</a><input type="checkbox" id="subnav-button-recipes"><label for="subnav-button-recipes"></label><ul class="main-nav"><li class="subnavlink navlink-course"><a href="/category/course/">Course</a></li><li class="subnavlink navlink-dish-type"><a href="/category/dish-type/">Dish Type</a></li><li class="subnavlink navlink-main-ingredients"><a href="/category/main-ingredients/">Main Ingredients</a></li><li class="subnavlink navlink-drink-recipes"><a href="/category/drink-recipes/">Drink Recipes</a></li><li class="subnavlink navlink-dietary-considerations"><a href="/category/dietary-considerations/">Dietary Considerations</a></li><li class="subnavlink navlink-preparation"><a href="/category/preparation/">Preparation</a></li><li class="subnavlink navlink-cuisine"><a href="/category/cuisine/">Cuisine</a></li></ul></li><li class="navlink navlink-cooking-guides"><a href="/category/cooking-guides/">Cooking</a><input type="checkbox" id="subnav-button-cooking-guides"><label for="subnav-button-cooking-guides"></label><ul class="main-nav"><li class="subnavlink navlink-baking"><a href="/category/baking/">Baking</a></li><li class="subnavlink navlink-grilling-and-smoking"><a href="/category/grilling-and-smoking/">Grilling & Smoking</a></li></ul></li><li class="navlink navlink-drink-guides"><a href="/category/drink-guides/">Drinks</a><input type="checkbox" id="subnav-button-drink-guides"><label for="subnav-button-drink-guides"></label><ul class="main-nav"><li class="subnavlink navlink-coffee-and-tea"><a href="/category/coffee-and-tea/">Coffee & Tea</a></li><li class="subnavlink navlink-cocktails-and-spirits"><a href="/category/cocktails-and-spirits/">Cocktails & Spirits</a></li><li class="subnavlink navlink-beer-and-wine"><a href="/category/beer-and-wine/">Beer & Wine</a></li><li class="subnavlink navlink-mixology-and-techniques"><a href="/category/mixology-and-techniques/">Mixology & Techniques</a></li></ul></li><li class="navlink navlink-kitchen-tips"><a href="/category/kitchen-tips/">Kitchen</a><input type="checkbox" id="subnav-button-kitchen-tips"><label for="subnav-button-kitchen-tips"></label><ul class="main-nav"><li class="subnavlink navlink-tips"><a href="/category/tips/">Tips</a></li><li class="subnavlink navlink-how-to"><a href="/category/how-to/">How-To</a></li><li class="subnavlink navlink-kitchen-tools"><a href="/category/kitchen-tools/">Kitchen Tools</a></li><li class="subnavlink navlink-storage-and-preservation"><a href="/category/storage-and-preservation/">Storage & Preservation</a></li><li class="subnavlink navlink-cleaning"><a href="/category/cleaning/">Cleaning</a></li><li class="subnavlink navlink-design-and-decor"><a href="/category/design-and-decor/">Design & Decor</a></li></ul></li><li class="navlink navlink-shopping-guides"><a href="/category/shopping-guides/">Shopping</a><input type="checkbox" id="subnav-button-shopping-guides"><label for="subnav-button-shopping-guides"></label><ul class="main-nav"><li class="subnavlink navlink-shopping-tips"><a href="/category/shopping-tips/">Shopping Tips</a></li><li class="subnavlink navlink-stores-and-chains"><a href="/category/stores-and-chains/">Stores & Chains</a></li></ul></li><li class="navlink navlink-food-facts"><a href="/category/food-facts/">Facts</a><input type="checkbox" id="subnav-button-food-facts"><label for="subnav-button-food-facts"></label><ul class="main-nav"><li class="subnavlink navlink-food-science"><a href="/category/food-science/">Food Science</a></li><li class="subnavlink navlink-food-history"><a href="/category/food-history/">Food History</a></li></ul></li><li class="navlink navlink-restaurant-guides"><a href="/category/restaurant-guides/">Restaurants</a><input type="checkbox" id="subnav-button-restaurant-guides"><label for="subnav-button-restaurant-guides"></label><ul class="main-nav"><li class="subnavlink navlink-fast-food"><a href="/category/fast-food/">Fast Food</a></li><li class="subnavlink navlink-pizzerias"><a href="/category/pizzerias/">Pizzerias</a></li><li class="subnavlink navlink-coffee-shops"><a href="/category/coffee-shops/">Coffee Shops</a></li></ul></li><li class="navlink navlink-eat-like-a-local"><a href="/category/eat-like-a-local/">Eat Like A Local</a><input type="checkbox" id="subnav-button-eat-like-a-local"><label for="subnav-button-eat-like-a-local"></label><ul class="main-nav"><li class="subnavlink navlink-atlanta-georgia"><a href="/category/atlanta-georgia/">Atlanta, Georgia</a></li><li class="subnavlink navlink-chicago-illinois"><a href="/category/chicago-illinois/">Chicago, Illinois</a></li><li class="subnavlink navlink-denver-colorado"><a href="/category/denver-colorado/">Denver, Colorado</a></li><li class="subnavlink navlink-las-vegas-nevada"><a href="/category/las-vegas-nevada/">Las Vegas, Nevada</a></li><li class="subnavlink navlink-los-angeles-california"><a href="/category/los-angeles-california/">Los Angeles, California</a></li><li class="subnavlink navlink-miami-florida"><a href="/category/miami-florida/">Miami, Florida</a></li><li class="subnavlink navlink-new-orleans-louisiana"><a href="/category/new-orleans-louisiana/">New Orleans, Louisiana</a></li><li class="subnavlink navlink-new-york-city-new-york"><a href="/category/new-york-city-new-york/">New York City, New York</a></li><li class="subnavlink navlink-san-francisco-california"><a href="/category/san-francisco-california/">San Francisco, California</a></li></ul></li><li class="navlink navlink-gardening"><a href="/category/gardening/">Gardening</a></li><li class="navlink navlink-features"><a href="/category/features/">Features</a></li></ul>        <ul class="social-buttons">
+            <li><a href="http://www.facebook.com/chowhound" target="_blank" title="Facebook" aria-label="Facebook"><svg class="icon"><use xlink:href="#facebook"></use></svg></a></li><li><a href="https://twitter.com/CHOW" target="_blank" title="Twitter" aria-label="Twitter"><svg class="icon"><use xlink:href="#twitter"></use></svg></a></li><li><a href="https://flipboard.com/@chowhound" target="_blank" title="Flipboard" aria-label="Flipboard"><svg class="icon"><use xlink:href="#flipboard"></use></svg></a></li><li><a href="https://www.pinterest.com/chowhound" target="_blank" title="Pinterest" aria-label="Pinterest"><svg class="icon"><use xlink:href="#pinterest"></use></svg></a></li><li><a href="https://bsky.app/profile/chowhoundofficial.bsky.social" target="_blank" title="Bluesky" aria-label="Bluesky"><svg class="icon"><use xlink:href="#bluesky"></use></svg></a></li><li><a href="/feed/" target="_blank" title="RSS" aria-label="RSS"><svg class="icon"><use xlink:href="#rss"></use></svg></a></li>
+            
+            <li class="menu-btn newsletter-btn"><a href="https://subscribe.chowhound.com/newsletter?utm_source=chowhound&utm_medium=side-nav" target="_blank" title="Newsletter" aria-label="Newsletter"><svg class="icon"><use xlink:href="#revue"></use></svg>Newsletter</a></li>
+        </ul>            <ul class="info-links">
+                <li class="info-link first-info-link"><a href="/about/">About</a></li>
+                <li class="info-link"><a href="/policies/">Editorial Policies</a></li>
+                
+                <li class="info-link"><a href="/our-experts/">Our Experts</a></li>
+                <li class="info-link"><a href="https://www.chowhound.com/privacy-policy/" target="_blank">Privacy Policy</a></a>
+                <li class="info-link"><a href="https://www.static.com/terms" target="_blank">Terms of Use</a></li>
+            </ul>
+            </nav>                        <div class="nav-bottom">
+                            <span class="copyright-info">&copy; 2025                                <a href="https://www.static.com/" target="_blank">Static Media</a>. All Rights Reserved
+                            </span>
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
+            <div id="bg"></div>
+         
+            <div id="header-container">
+                <div id="hamburger-holder">
+                    <div class="hamburger nav-opener"></div>
+                </div>
+
+                    <h1 id="logo" class="top-nav-standard">
+        <a href="/"><img src="https://www.chowhound.com/img/Chowhound-Logo-Default.svg" alt="Chowhound" width="197" height="26"></a>
+    </h1>
+                <div id="logo-icon" class="top-nav-scrolled">
+                    <a href="/" >
+                        <img src="https://www.chowhound.com/img/Chowhound-RGB-Icon-Default.svg" alt="Chowhound" width="40" height="40">                    </a>
+                </div>
+
+                <div id="top-nav-title" class="top-nav-scrolled">Chowhound - The Site for Food Nerds: Cooking Tips, Culinary How-To's, & More.</div>
+
+                            <div id="top-nav" class="top-nav-standard">
+                <nav id="top-nav-holder">
+                    
+                    <a href="/category/recipes/" class="navlink-recipes">Recipes</a>
+<a href="/category/cooking-guides/" class="navlink-cooking-guides">Cooking</a>
+<a href="/category/drink-guides/" class="navlink-drink-guides">Drinks</a>
+<a href="/category/kitchen-tips/" class="navlink-kitchen-tips">Kitchen</a>
+<a href="/category/shopping-guides/" class="navlink-shopping-guides">Shopping</a>
+<a href="/category/food-facts/" class="navlink-food-facts">Facts</a>
+<a href="/category/restaurant-guides/" class="navlink-restaurant-guides">Restaurants</a>
+<a href="/category/eat-like-a-local/" class="navlink-eat-like-a-local">Eat Like A Local</a>
+<a href="/category/gardening/" class="navlink-gardening">Gardening</a>
+<a href="/category/features/" class="navlink-features">Features</a>
+
+                </nav>
+            </div>                <svg width="0" height="0" class="hidden">
+            <symbol version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="rss">
+    <path d="M2.13 11.733c-1.175 0-2.13 0.958-2.13 2.126 0 1.174 0.955 2.122 2.13 2.122 1.179 0 2.133-0.948 2.133-2.122-0-1.168-0.954-2.126-2.133-2.126zM0.002 5.436v3.067c1.997 0 3.874 0.781 5.288 2.196 1.412 1.411 2.192 3.297 2.192 5.302h3.080c-0-5.825-4.739-10.564-10.56-10.564zM0.006 0v3.068c7.122 0 12.918 5.802 12.918 12.932h3.076c0-8.82-7.176-16-15.994-16z"></path>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="twitter">
+    <path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="facebook">
+    <path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"></path>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14" id="flipboard">
+    <path d="m 6.9999999,0.99982 5.9993001,0 0,1.99835 0,1.99357 -1.993367,0 -1.9980673,0 -0.014998,1.99357 -0.01,1.99835 -1.9980669,0.01 -1.9933674,0.0146 -0.014998,1.99835 -0.01,1.99357 -1.9834686,0 -1.9836686,0 0,-6.00006 0,-5.99994 5.9992001,0 z"></path>
+</symbol>
+        <symbol viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" id="instagram">
+    <path d="M17.3183118,0.0772036939 C18.5358869,0.132773211 19.3775594,0.311686093 20.156489,0.614412318 C20.9357539,0.917263935 21.5259307,1.30117806 22.1124276,1.88767349 C22.6988355,2.47414659 23.0827129,3.06422396 23.3856819,3.84361655 C23.688357,4.62263666 23.8672302,5.46418415 23.9227984,6.68172489 C23.9916356,8.19170553 24,8.72394829 24,11.9999742 C24,15.2760524 23.9916355,15.808302 23.9227954,17.3182896 C23.8672306,18.5358038 23.6883589,19.3773584 23.3855877,20.1566258 C23.0826716,20.9358162 22.6987642,21.5259396 22.1124276,22.1122749 C21.5259871,22.6987804 20.9357958,23.0827198 20.1563742,23.3856323 C19.3772192,23.6883583 18.5357324,23.8672318 17.3183209,23.9227442 C15.8086874,23.9916325 15.2765626,24 12,24 C8.72343739,24 8.19131258,23.9916325 6.68172382,23.9227463 C5.46426077,23.8672314 4.62270711,23.6883498 3.84342369,23.3855738 C3.0641689,23.0827004 2.47399369,22.6987612 1.88762592,22.1123283 C1.30117312,21.525877 0.91721975,20.9357071 0.614318116,20.1563835 C0.311643016,19.3773633 0.132769821,18.5358159 0.0772038909,17.3183251 C0.0083529426,15.8092887 0,15.2774634 0,11.9999742 C0,8.7225328 0.00835296697,8.19071076 0.0772047368,6.68165632 C0.132769821,5.46418415 0.311643016,4.62263666 0.614362729,3.84350174 C0.91719061,3.06430165 1.30113536,2.4741608 1.88757245,1.88772514 C2.47399369,1.30123879 3.0641689,0.917299613 3.84345255,0.614414972 C4.62236201,0.311696581 5.46409415,0.132773979 6.68163888,0.0772035898 C8.19074867,0.00835221992 8.72252573,0 12,0 C15.2774788,0 15.8092594,0.00835235053 17.3183118,0.0772036939 Z M12,2.66666667 C8.75959504,2.66666667 8.26400713,2.67445049 6.80319929,2.74109814 C5.87614637,2.78341009 5.31952221,2.90172878 4.80947575,3.09995521 C4.37397765,3.26922052 4.09725505,3.44924273 3.77324172,3.77329203 C3.44916209,4.09737087 3.26913181,4.37408574 3.09996253,4.80937168 C2.90169965,5.31965737 2.78340891,5.87618164 2.74109927,6.80321713 C2.67445122,8.26397158 2.66666667,8.75960374 2.66666667,11.9999742 C2.66666667,15.2403924 2.67445121,15.7360281 2.74109842,17.1967643 C2.78340891,18.1238184 2.90169965,18.6803426 3.09990404,19.1904778 C3.26914133,19.6259017 3.44919889,19.9026659 3.77329519,20.2267614 C4.09725505,20.5507573 4.37397765,20.7307795 4.80932525,20.8999863 C5.31971515,21.0982887 5.87621193,21.2165784 6.80323907,21.2588497 C8.26460439,21.3255353 8.76051223,21.3333333 12,21.3333333 C15.2394878,21.3333333 15.7353956,21.3255353 17.1968056,21.2588476 C18.123775,21.216579 18.6802056,21.0982995 19.1905083,20.9000309 C19.6260288,20.7307713 19.9027426,20.5507596 20.2267583,20.226708 C20.5507492,19.9027179 20.7308046,19.6259456 20.9000375,19.1906283 C21.0983009,18.6803412 21.2165908,18.1238118 21.2588986,17.196779 C21.3255376,15.7350718 21.3333333,15.2390126 21.3333333,11.9999742 C21.3333333,8.76098665 21.3255376,8.26493375 21.2589016,6.80323567 C21.2165911,5.87618164 21.0983004,5.31965737 20.9001178,4.80957831 C20.7308131,4.37403932 20.550774,4.09729207 20.2267583,3.77324038 C19.9027658,3.44924868 19.6260264,3.26922777 19.1905015,3.09996643 C18.6803988,2.90171817 18.1238378,2.78341062 17.1967608,2.74109868 C15.7359966,2.67445057 15.2404012,2.66666667 12,2.66666667 Z M12,18.2222222 C8.56356156,18.2222222 5.77777778,15.4364384 5.77777778,12 C5.77777778,8.56356156 8.56356156,5.77777778 12,5.77777778 C15.4364384,5.77777778 18.2222222,8.56356156 18.2222222,12 C18.2222222,15.4364384 15.4364384,18.2222222 12,18.2222222 Z M12,15.5555556 C13.9636791,15.5555556 15.5555556,13.9636791 15.5555556,12 C15.5555556,10.0363209 13.9636791,8.44444444 12,8.44444444 C10.0363209,8.44444444 8.44444444,10.0363209 8.44444444,12 C8.44444444,13.9636791 10.0363209,15.5555556 12,15.5555556 Z M18.2222222,7.11111111 C17.4858426,7.11111111 16.8888889,6.51415744 16.8888889,5.77777778 C16.8888889,5.04139811 17.4858426,4.44444444 18.2222222,4.44444444 C18.9586019,4.44444444 19.5555556,5.04139811 19.5555556,5.77777778 C19.5555556,6.51415744 18.9586019,7.11111111 18.2222222,7.11111111 Z"/>
+</symbol>
+         <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" id="linkedin">
+    <path d="M100.3 448H7.4V148.9h92.9zM53.8 108.1C24.1 108.1 0 83.5 0 53.8a53.8 53.8 0 0 1 107.6 0c0 29.7-24.1 54.3-53.8 54.3zM447.9 448h-92.7V302.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V448h-92.8V148.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V448z"/>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240.1 113.49" id="muckrack">
+    <path class="b" d="M223.2,73.59c11.2-7.6,16.8-20.3,16.9-33.3C240.1,20.39,226.8.09,199.4.09c-8.35-.1-18.27-.1-28.14-.07-9.86.02-19.66.07-27.76.07v113.4h29.6v-35h17l17.1,35h30.6l.8-5-18.7-33.4c2.5-.8,3.3-1.5,3.3-1.5ZM199,54.29h-25.8v-29.7h25.8c8.4,0,12.3,7.4,12.3,14.6s-4.1,15.1-12.3,15.1Z"/><polygon class="b" points="0 .14 10.9 .14 64.5 49.24 117.9 .14 129.3 .14 129.3 113.34 99.7 113.34 99.7 54.24 66.1 83.74 62.7 83.74 29.6 54.24 29.6 113.34 0 113.34 0 .14"/>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="7 2 2 12" id="youtube">
+    <path d="M15.841 4.8c0 0-0.156-1.103-0.637-1.587-0.609-0.637-1.291-0.641-1.603-0.678-2.237-0.163-5.597-0.163-5.597-0.163h-0.006c0 0-3.359 0-5.597 0.163-0.313 0.038-0.994 0.041-1.603 0.678-0.481 0.484-0.634 1.587-0.634 1.587s-0.159 1.294-0.159 2.591v1.213c0 1.294 0.159 2.591 0.159 2.591s0.156 1.103 0.634 1.588c0.609 0.637 1.409 0.616 1.766 0.684 1.281 0.122 5.441 0.159 5.441 0.159s3.363-0.006 5.6-0.166c0.313-0.037 0.994-0.041 1.603-0.678 0.481-0.484 0.637-1.588 0.637-1.588s0.159-1.294 0.159-2.591v-1.213c-0.003-1.294-0.162-2.591-0.162-2.591zM6.347 10.075v-4.497l4.322 2.256-4.322 2.241z"></path>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="pinterest">
+    <g>
+    <path d="M220.646,338.475C207.223,408.825,190.842,476.269,142.3,511.5
+            c-14.996-106.33,21.994-186.188,39.173-270.971c-29.293-49.292,3.518-148.498,65.285-124.059
+            c76.001,30.066-65.809,183.279,29.38,202.417c99.405,19.974,139.989-172.476,78.359-235.054
+            C265.434-6.539,95.253,81.775,116.175,211.161c5.09,31.626,37.765,41.22,13.062,84.884c-57.001-12.65-74.005-57.6-71.822-117.533
+            c3.53-98.108,88.141-166.787,173.024-176.293c107.34-12.014,208.081,39.398,221.991,140.376
+            c15.67,113.978-48.442,237.412-163.23,228.529C258.085,368.704,245.023,353.283,220.646,338.475z">
+    </path>
+    </g>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="tiktok">
+    <path d="M 22.472559,-3.8146973e-6 C 23.000559,4.5408962 25.535059,7.2481962 29.941559,7.5361962 v 5.1073998 c -2.5536,0.2496 -4.7905,-0.5856 -7.3922,-2.1601 v 9.5523 c 0,12.1348 -13.2292004,15.927 -18.5478004,7.2291 -3.4177,-5.597 -1.3248,-15.4181 9.6387004,-15.8117 v 5.3857 c -0.8352,0.1344 -1.728,0.3456 -2.5441,0.6241 -2.4384004,0.8256 -3.8209004,2.3712 -3.4369004,5.0977 0.7392,5.2226 10.3204004,6.7682 9.5235004,-3.4369 V 0.00959619 h 5.2898 z" />
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="twitch">
+    <path d="M3 0l-3 5v23h8v4h4l4-4h5l9-9v-19h-27zM26 17l-5 5h-5l-4 4v-4h-6v-18h20v13z"></path><path d="M19 8h3v8h-3v-8z"></path><path d="M13 8h3v8h-3v-8z"></path>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512.016 512.016" id="snapchat" >
+    <g>
+        <g>
+            <path d="M500.459,375.368c-64.521-10.633-93.918-75.887-97.058-83.294c-0.06-0.145-0.307-0.666-0.375-0.819
+                c-3.234-6.571-4.036-11.904-2.347-15.838c3.388-8.013,17.741-12.553,26.931-15.462c2.586-0.836,5.009-1.604,6.938-2.372
+                c18.586-7.339,27.913-16.717,27.716-27.895c-0.179-8.866-7.134-17.007-17.434-20.651c-3.55-1.485-7.774-2.295-11.887-2.295
+                c-2.842,0-7.066,0.401-11.102,2.287c-7.868,3.678-14.865,5.658-20.156,5.888c-2.355-0.094-4.139-0.486-5.427-0.922
+                c0.162-2.79,0.35-5.658,0.529-8.585l0.094-1.493c2.193-34.807,4.915-78.123-6.673-104.081
+                c-34.27-76.834-106.999-82.807-128.478-82.807l-10.018,0.094c-21.436,0-94.029,5.965-128.265,82.756
+                c-11.614,26.018-8.866,69.316-6.664,104.115c0.213,3.422,0.427,6.758,0.614,10.01c-1.468,0.503-3.584,0.947-6.46,0.947
+                c-6.161,0-13.542-1.997-21.931-5.922c-12.126-5.683-34.295,1.911-37.291,17.647c-1.63,8.516,1.801,20.796,27.383,30.908
+                c1.988,0.785,4.489,1.587,7.561,2.56c8.576,2.722,22.929,7.27,26.325,15.266c1.681,3.951,0.879,9.284-2.662,16.512
+                c-1.263,2.944-31.65,72.124-98.765,83.174c-6.963,1.143-11.93,7.322-11.537,14.353c0.111,1.954,0.563,3.917,1.399,5.897
+                c5.641,13.193,27.119,22.349,67.55,28.766c0.887,2.295,1.92,7.006,2.509,9.737c0.853,3.9,1.749,7.927,2.97,12.1
+                c1.229,4.224,4.881,11.307,15.445,11.307c3.575,0,7.714-0.811,12.211-1.681c6.468-1.271,15.309-2.995,26.274-2.995
+                c6.084,0,12.416,0.546,18.825,1.604c12.092,2.005,22.699,9.506,35.004,18.202c18.116,12.809,34.586,22.605,67.524,22.605
+                c0.87,0,1.732-0.026,2.577-0.085c1.22,0.06,2.449,0.085,3.695,0.085c28.851,0,54.246-7.62,75.494-22.63
+                c11.742-8.311,22.835-16.162,34.935-18.176c6.426-1.058,12.766-1.604,18.85-1.604c10.513,0,18.901,1.348,26.385,2.816
+                c5.06,0.998,9.02,1.476,12.672,1.476c7.373,0,12.8-4.053,14.874-11.127c1.195-4.113,2.091-8.021,2.961-12.015
+                c0.461-2.125,1.57-7.211,2.509-9.66c39.851-6.34,60.203-15.138,65.835-28.297c0.845-1.894,1.34-3.9,1.476-6.033
+                C512.372,382.707,507.422,376.529,500.459,375.368z"/>
+        </g>
+    </g>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" id="threads">
+    <path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z" />
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="bluesky">
+    <path d="M111.8 62.2C170.2 105.9 233 194.7 256 242.4c23-47.6 85.8-136.4 144.2-180.2c42.1-31.6 110.3-56 110.3 21.8c0 15.5-8.9 130.5-14.1 149.2C478.2 298 412 314.6 353.1 304.5c102.9 17.5 129.1 75.5 72.5 133.5c-107.4 110.2-154.3-27.6-166.3-62.9l0 0c-1.7-4.9-2.6-7.8-3.3-7.8s-1.6 3-3.3 7.8l0 0c-12 35.3-59 173.1-166.3 62.9c-56.5-58-30.4-116 72.5-133.5C100 314.6 33.8 298 15.7 233.1C10.4 214.4 1.5 99.4 1.5 83.9c0-77.8 68.2-53.4 110.3-21.8z"/>
+</symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 618 478" id="google">
+    <path d="M617.84 456.59C617.82 467.86 608.68 477 597.41 477.02H20.43C9.16 477 0.02 467.86 0 456.59V20.43C0.02 9.16 9.16 0.02 20.43 0H597.41C608.68 0.02 617.82 9.16 617.84 20.43V456.59ZM516.79 342.6V302.74C516.79 301.26 515.59 300.06 514.11 300.06H335.02V345.46H514.11C515.61 345.44 516.82 344.2 516.79 342.7C516.79 342.67 516.79 342.64 516.79 342.6ZM544.02 256.35V216.31C544.04 214.83 542.86 213.61 541.38 213.59C541.37 213.59 541.35 213.59 541.34 213.59H335.02V258.99H541.34C542.79 259.02 543.99 257.86 544.02 256.41C544.02 256.36 544.02 256.32 544.02 256.27V256.36V256.35ZM516.79 170.1V129.88C516.79 128.4 515.59 127.2 514.11 127.2H335.02V172.6H514.11C515.56 172.58 516.74 171.42 516.79 169.97V170.11V170.1ZM180.59 218.08V258.93H239.6C234.74 283.9 212.77 302.01 180.59 302.01C144.24 300.72 115.81 270.2 117.11 233.84C118.34 199.3 146.05 171.59 180.59 170.36C196.12 170.1 211.13 175.97 222.35 186.7L253.49 155.6C233.78 137.06 207.65 126.88 180.59 127.18C120.42 127.18 71.64 175.96 71.64 236.13C71.64 296.3 120.42 345.08 180.59 345.08C240.76 345.08 285 300.82 285 238.49C284.96 231.59 284.39 224.69 283.27 217.88L180.59 218.06V218.08Z"/>
+</symbol>
+        <symbol id="website" viewBox="0 0 17 17" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1.91041 1.47245C3.56879 -0.185927 6.25755 -0.185927 7.91592 1.47245L10.9186 4.47521C12.577 6.13361 12.577 8.82231 10.9186 10.4807C10.5041 10.8954 9.83185 10.8954 9.41728 10.4807C9.00271 10.0661 9.00271 9.39389 9.41728 8.97932C10.2465 8.15019 10.2465 6.80573 9.41728 5.97659L6.41454 2.97383C5.58535 2.14465 4.24097 2.14465 3.41178 2.97383C2.58261 3.80302 2.58261 5.1474 3.41178 5.97659L4.16248 6.72728C4.57708 7.14185 4.57707 7.81407 4.16248 8.22864C3.74789 8.64321 3.07569 8.64321 2.6611 8.22864L1.91041 7.47796C0.252031 5.81959 0.252031 3.13083 1.91041 1.47245ZM7.91592 5.9766C8.33049 6.39116 8.33049 7.06339 7.91592 7.47796C7.08678 8.3072 7.08678 9.65155 7.91592 10.4807L10.9186 13.4835C11.7479 14.3127 13.0922 14.3127 13.9215 13.4835C14.7506 12.6543 14.7506 11.3099 13.9215 10.4807L13.1708 9.73C12.7561 9.31544 12.7561 8.64321 13.1708 8.22864C13.5854 7.81407 14.2575 7.81407 14.6722 8.22864L15.4228 8.97932C17.0812 10.6377 17.0812 13.3265 15.4228 14.9849C13.7645 16.6433 11.0757 16.6433 9.41728 14.9849L6.41455 11.9822C4.75618 10.3238 4.75618 7.63498 6.41455 5.9766C6.82912 5.562 7.50135 5.562 7.91592 5.9766Z"/>
+</symbol>
+            <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="revue">
+        <path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"/>
+    </symbol>
+        
+        
+        
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="advertise">
+            <g clip-path="url(#clip0_1911_5435)">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M12 1.40497L2.26973 4.27073L0 2.34144V12.6558L2.26967 10.7271L3.84476 11.191V14.1933C3.84529 15.229 4.55813 16.067 5.43904 16.0676H9.23405C9.67247 16.0682 10.0745 15.8571 10.3609 15.5183C10.6488 15.1814 10.8284 14.709 10.8278 14.1932V13.2478L12 13.593V1.40497ZM5.09306 14.5997C5.00434 14.4935 4.95039 14.3537 4.94986 14.1932V11.5168L9.72281 12.9219V14.1932C9.72227 14.3537 9.66885 14.4935 9.5796 14.5997C9.48985 14.7047 9.37052 14.7676 9.23409 14.7676H5.4391C5.30214 14.7676 5.18281 14.7047 5.09306 14.5997Z" />
+            <path d="M13 1.11045L17 -0.067627V15.0654L13 13.8875V1.11045Z" />
+            </g>
+            <defs>
+            <clipPath id="clip0_1911_5435">
+            <rect width="16" height="16" fill="white"/>
+            </clipPath>
+            </defs>
+        </symbol>
+    
+</svg>                    <nav id="social-nav-holder" class="top-nav-standard">
+        <ul class="social-buttons">
+            <li><a href="http://www.facebook.com/chowhound" target="_blank" title="Facebook" aria-label="Facebook"><svg class="icon"><use xlink:href="#facebook"></use></svg></a></li><li><a href="https://twitter.com/CHOW" target="_blank" title="Twitter" aria-label="Twitter"><svg class="icon"><use xlink:href="#twitter"></use></svg></a></li><li><a href="https://flipboard.com/@chowhound" target="_blank" title="Flipboard" aria-label="Flipboard"><svg class="icon"><use xlink:href="#flipboard"></use></svg></a></li><li><a href="https://www.pinterest.com/chowhound" target="_blank" title="Pinterest" aria-label="Pinterest"><svg class="icon"><use xlink:href="#pinterest"></use></svg></a></li><li><a href="https://bsky.app/profile/chowhoundofficial.bsky.social" target="_blank" title="Bluesky" aria-label="Bluesky"><svg class="icon"><use xlink:href="#bluesky"></use></svg></a></li><li><a href="/feed/" target="_blank" title="RSS" aria-label="RSS"><svg class="icon"><use xlink:href="#rss"></use></svg></a></li>
+            
+            <li class="menu-btn newsletter-btn"><a href="https://subscribe.chowhound.com/newsletter?utm_source=chowhound&utm_medium=top-nav" target="_blank" title="Newsletter" aria-label="Newsletter"><svg class="icon"><use xlink:href="#revue"></use></svg>Newsletter</a></li>
+        </ul>
+    </nav>
+                            </div>
+            <div id="is-tablet"></div>
+            <div id="is-mobile"></div>
         </header>
-        <div class="css-1vcjrad"></div>
-
-        <div class="css-stl7tm">
-          <div class="css-1iy5qit">
-            <div style="position: relative">
-              <article class="article-body css-d2znx6 css-yftz9e">
-                <p>
-                  Thank you for making Chowhound a vibrant and passionate
-                  community of food trailblazers for 25 years. We wish you all
-                  the best on your future culinary endeavors.
-                </p>
-              </article>
-            </div>
-          </div>
+    <main id="index" class="chowhound">
+                <ul id="featured">
+        
+        <li class="article-item primary">
+    <article class="article-block">
+        <div class="image-holder">
+            <a href="/2057973/canned-chickpeas-make-casserole/">
+                <picture>
+                    <source
+                        srcset="https://www.chowhound.com/img/gallery/too-many-canned-chickpeas-sitting-around-throw-them-in-a-casserole/intro-1765993451.webp"
+                        type="image/webp">
+                    <img src="https://www.chowhound.com/img/gallery/too-many-canned-chickpeas-sitting-around-throw-them-in-a-casserole/intro-1765993451.jpg" width="426" height="240" alt="cooked chickpeas in a white bowl"
+                </picture>
+            </a>
         </div>
-      </div>
-      <div id="place-modal"></div>
-      <div></div>
-      <div></div>
-    </div>
-    <div class="css-i9gxme"></div>
-    <footer class="css-9g0nft">
-      <div class="css-1dppxl0"></div>
-      <div class="css-1xb6euj"></div>
-    </footer>
-    <div id="foot-pad"></div>
-    <div id="consent-modal"></div>
-  </div>
-</body>
+        <div class="article-description">
+            <div class="more-article-info">
+                <span class="category"><a href="/category/cooking-guides/">Cooking</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Megan Shoop-Volz</span>
+            </div>
+            <h1><a href="/2057973/canned-chickpeas-make-casserole/">Too Many Canned Chickpeas Sitting Around? Throw Them In A Casserole</a></h1>
+            <p class="article-excerpt">If you&#39;re fully stocked on canned chickpeas and looking to use some up, add a can or two to a casserole. Here&#39;s how to make this flavorful chickpea dish.</p>
+            <span class="read-more"><a href="/2057973/canned-chickpeas-make-casserole/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="secondary-index"><ul>        <li class="article-item secondary">
+            <article class="article-block">
+                <div class="image-holder">
+                    <a href="/2057970/meat-cut-more-affordable-sams-club-costco-brisket/">
+                        <picture>
+                            <source
+                                srcset="https://www.chowhound.com/img/gallery/the-popular-meat-cut-thats-much-more-affordable-at-sams-club-than-costco/intro-1765995241.webp"
+                                type="image/webp">
+                            <img src="https://www.chowhound.com/img/gallery/the-popular-meat-cut-thats-much-more-affordable-at-sams-club-than-costco/intro-1765995241.jpg" width="426" height="240" alt="Refrigerator with meat at grocery store"
+                        </picture>
+                    </a>
+                    <div class="category-label label-costco parent-shopping-guides"><a href="/category/costco/">Costco</a></div>
+                </div>
+                <div class="article-description">
+                    <div class="more-article-info"><span class="author"><span class="by">By&nbsp;</span>Julia Mullaney</span></div>
+                    <h3><a href="/2057970/meat-cut-more-affordable-sams-club-costco-brisket/">The Popular Meat Cut That's Much More Affordable At Sam's Club Than Costco</a></h3>
+                    <p class="article-excerpt">Costco is known for its meat department, but Sam&#39;s Club offers a competitive price per pound on several meats, including this large beef cut.</p>
+                    <span class="read-more"><a href="/2057970/meat-cut-more-affordable-sams-club-costco-brisket/">Read More</a></span>
+                </div>
+            </article>
+        </li>        <li class="article-item secondary">
+            <article class="article-block">
+                <div class="image-holder">
+                    <a href="/2057965/olive-garden-fresh-breadsticks-to-go-ordering-hack/">
+                        <picture>
+                            <source
+                                srcset="https://www.chowhound.com/img/gallery/the-olive-garden-ordering-hack-that-guarantees-fresh-breadsticks-to-go/intro-1765934986.webp"
+                                type="image/webp">
+                            <img src="https://www.chowhound.com/img/gallery/the-olive-garden-ordering-hack-that-guarantees-fresh-breadsticks-to-go/intro-1765934986.jpg" width="426" height="240" alt="Olive Garden breadsticks in a basket next to a bowl of soup"
+                        </picture>
+                    </a>
+                    <div class="category-label label-restaurant-guides"><a href="/category/restaurant-guides/">Restaurants</a></div>
+                </div>
+                <div class="article-description">
+                    <div class="more-article-info"><span class="author"><span class="by">By&nbsp;</span>Shriya Swaminathan</span></div>
+                    <h3><a href="/2057965/olive-garden-fresh-breadsticks-to-go-ordering-hack/">The Olive Garden Ordering Hack That Guarantees Fresh Breadsticks To-Go</a></h3>
+                    <p class="article-excerpt">If you&#39;re craving Olive Garden breadsticks on the go, make sure to use this hack when ordering them to guarantee fresh, pillowy, perfect breadsticks.</p>
+                    <span class="read-more"><a href="/2057965/olive-garden-fresh-breadsticks-to-go-ordering-hack/">Read More</a></span>
+                </div>
+            </article>
+        </li>        <li class="article-item secondary">
+            <article class="article-block">
+                <div class="image-holder">
+                    <a href="/2057963/fast-food-chains-with-sweet-tea/">
+                        <picture>
+                            <source
+                                srcset="https://www.chowhound.com/img/gallery/7-fast-food-chains-with-sweet-tea-on-the-menu/intro-1765932303.webp"
+                                type="image/webp">
+                            <img src="https://www.chowhound.com/img/gallery/7-fast-food-chains-with-sweet-tea-on-the-menu/intro-1765932303.jpg" width="426" height="240" alt="Close up of sweet tea with lemon slice on edge"
+                        </picture>
+                    </a>
+                    <div class="category-label label-coffee-and-tea parent-drink-guides"><a href="/category/coffee-and-tea/">Coffee And Tea</a></div>
+                </div>
+                <div class="article-description">
+                    <div class="more-article-info"><span class="author"><span class="by">By&nbsp;</span>Lauren Bulla</span></div>
+                    <h3><a href="/2057963/fast-food-chains-with-sweet-tea/">7 Fast Food Chains With Sweet Tea On The Menu</a></h3>
+                    <p class="article-excerpt">Not every fast food chain has sweet tea on the menu, and we&#39;ve compiled a list so you don&#39;t have to go searching for your next sugary beverage!</p>
+                    <span class="read-more"><a href="/2057963/fast-food-chains-with-sweet-tea/">Read More</a></span>
+                </div>
+            </article>
+        </li></ul></li>
+                </ul>
+        
+        <div id="index-table">
+            <section id="features">
+                <h2 class="section-header">More Stories</h2>
+                                <ul id="article-container" class="article-index article-holder">
+                
+                <li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2056161/do-vegetables-lose-nutrition-benefits-when-cooked/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/do-vegetables-lose-nutritional-benefits-when-cooked/intro-1766081985.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/do-vegetables-lose-nutritional-benefits-when-cooked/intro-1766081985.jpg" width="426" height="240" alt="roasted veggies in a sheet pan">
+                </picture>
+            </a>
+                        <div class="category-label label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Megan Shoop-Volz</span> <span class="timestamp">1 hour ago</span>
+            </div>
+            <h3><a href="/2056161/do-vegetables-lose-nutrition-benefits-when-cooked/">Do Vegetables Lose Nutritional Benefits When Cooked?</a></h3>
+            <p class="article-excerpt">Eating as many vegetables as possible is typically good for your health, but you might wonder if there are cooking methods that strip out needed nutrients.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Megan Shoop-Volz</span> <span class="timestamp">1 hour ago</span>
+            <span class="read-more"><a href="/2056161/do-vegetables-lose-nutrition-benefits-when-cooked/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057960/best-way-cook-ribs-slow-cooker/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/for-the-best-fall-off-the-bone-ribs-ditch-your-grill-and-oven/intro-1765909638.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/for-the-best-fall-off-the-bone-ribs-ditch-your-grill-and-oven/intro-1765909638.jpg" width="426" height="240" alt="Baby back ribs with sauce">
+                </picture>
+            </a>
+                        <div class="category-label label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Amara Michelle</span> <span class="timestamp">2 hours ago</span>
+            </div>
+            <h3><a href="/2057960/best-way-cook-ribs-slow-cooker/">For The Best Fall-Off-The-Bone Ribs, Ditch Your Grill And Oven</a></h3>
+            <p class="article-excerpt">The juiciest bone-in ribs shouldn't be cooked on the grill or in your oven. Here's the appliance you need to make mouthwateringly tender ribs.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Amara Michelle</span> <span class="timestamp">2 hours ago</span>
+            <span class="read-more"><a href="/2057960/best-way-cook-ribs-slow-cooker/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057958/nijmegen-worlds-only-two-michelin-star-vegan-restaurant/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/this-european-countrys-oldest-city-is-home-to-the-worlds-only-2-michelin-starred-vegan-restaurant/intro-1765911109.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/this-european-countrys-oldest-city-is-home-to-the-worlds-only-2-michelin-starred-vegan-restaurant/intro-1765911109.jpg" width="426" height="240" alt="Street in Nijmegen">
+                </picture>
+            </a>
+                        <div class="category-label label-restaurant-guides"><a href="/category/restaurant-guides/">Restaurants</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-restaurant-guides"><a href="/category/restaurant-guides/">Restaurants</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Amanda Berkey</span> <span class="timestamp">2 hours ago</span>
+            </div>
+            <h3><a href="/2057958/nijmegen-worlds-only-two-michelin-star-vegan-restaurant/">This European Country's Oldest City Is Home To The World's Only 2-Michelin-Starred Vegan Restaurant</a></h3>
+            <p class="article-excerpt">This restaurant earned its Michelin stars through elegant preparation and refined flavors using plant-based ingredients, but you may need a flight to enjoy it.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Amanda Berkey</span> <span class="timestamp">2 hours ago</span>
+            <span class="read-more"><a href="/2057958/nijmegen-worlds-only-two-michelin-star-vegan-restaurant/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2050295/stouffers-frozen-steak-queso-rice-worst/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/a-family-sized-disaster-why-we-ranked-this-frozen-steak-dinner-the-absolute-worst/intro-1765556778.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/a-family-sized-disaster-why-we-ranked-this-frozen-steak-dinner-the-absolute-worst/intro-1765556778.jpg" width="426" height="240" alt="An array of Stouffers products in a supermarket freezer.">
+                </picture>
+            </a>
+                        <div class="category-label label-shopping-tips parent-shopping-guides"><a href="/category/shopping-tips/">Shopping Tips</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-shopping-tips parent-shopping-guides"><a href="/category/shopping-tips/">Shopping Tips</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Tim Forster</span> <span class="timestamp">2 hours ago</span>
+            </div>
+            <h3><a href="/2050295/stouffers-frozen-steak-queso-rice-worst/">'A Family-Sized Disaster': Why We Ranked This Frozen Steak Dinner The Absolute Worst</a></h3>
+            <p class="article-excerpt">We tried eight frozen steak dinners, and this "family-sized disaster" from a leading brand was the absolute worst of them all. Avoid this dud.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Tim Forster</span> <span class="timestamp">2 hours ago</span>
+            <span class="read-more"><a href="/2050295/stouffers-frozen-steak-queso-rice-worst/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2049804/best-seattle-hot-dog-restaurants-reviews-local/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/5-seattle-hot-dog-restaurants-with-the-best-reviews/intro-1765485686.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/5-seattle-hot-dog-restaurants-with-the-best-reviews/intro-1765485686.jpg" width="426" height="240" alt="2 Seattle hot dogs on a tray next to a container of cream cheese">
+                </picture>
+            </a>
+                        <div class="category-label label-eat-like-a-local"><a href="/category/eat-like-a-local/">Eat Like A Local</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-eat-like-a-local"><a href="/category/eat-like-a-local/">Eat Like A Local</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Inge Pham-Swann</span> <span class="timestamp">2 hours ago</span>
+            </div>
+            <h3><a href="/2049804/best-seattle-hot-dog-restaurants-reviews-local/">The 5 Best Spots For Hot Dogs In Seattle, According To Reviews</a></h3>
+            <p class="article-excerpt">We scoured the internet to find the places customers rave about most when it comes to this iconic hot dog creation for which Seattle is known.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Inge Pham-Swann</span> <span class="timestamp">2 hours ago</span>
+            <span class="read-more"><a href="/2049804/best-seattle-hot-dog-restaurants-reviews-local/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057954/ina-garten-four-ingredient-lemon-capellini/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/ina-gartens-bougie-4-ingredient-pasta-is-both-low-effort-and-show-stealing/intro-1765906038.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/ina-gartens-bougie-4-ingredient-pasta-is-both-low-effort-and-show-stealing/intro-1765906038.jpg" width="426" height="240" alt="Ina Garten smiling at an event">
+                </picture>
+            </a>
+                        <div class="category-label label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Julia Mullaney</span> <span class="timestamp">3 hours ago</span>
+            </div>
+            <h3><a href="/2057954/ina-garten-four-ingredient-lemon-capellini/">Ina Garten's Bougie 4-Ingredient Pasta Is Both Low-Effort And Show-Stealing</a></h3>
+            <p class="article-excerpt">Sometimes the best way to take advantage of a luxurious ingredient is to prepare it in a simple pasta dish, and this Ina Garten recipe is a perfect example.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Julia Mullaney</span> <span class="timestamp">3 hours ago</span>
+            <span class="read-more"><a href="/2057954/ina-garten-four-ingredient-lemon-capellini/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057949/restaurant-reservation-app-tracking-dining-behavior/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/heres-how-one-restaurant-reservation-making-app-is-quietly-tracking-your-dining-behavior-and-what-it-means-for-you/intro-1765839216.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/heres-how-one-restaurant-reservation-making-app-is-quietly-tracking-your-dining-behavior-and-what-it-means-for-you/intro-1765839216.jpg" width="426" height="240" alt="Reserved sign on a restaurant table">
+                </picture>
+            </a>
+                        <div class="category-label label-food-facts"><a href="/category/food-facts/">Facts</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-food-facts"><a href="/category/food-facts/">Facts</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Amy Andrews</span> <span class="timestamp">3 hours ago</span>
+            </div>
+            <h3><a href="/2057949/restaurant-reservation-app-tracking-dining-behavior/">Here's How One Restaurant Reservation-Making App Is Quietly Tracking Your Dining Behavior (And What It Means For You)</a></h3>
+            <p class="article-excerpt">You might not know how often you order dessert or how much you spend when dining out, but restaurants that use this reservation service may be keeping tabs.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Amy Andrews</span> <span class="timestamp">3 hours ago</span>
+            <span class="read-more"><a href="/2057949/restaurant-reservation-app-tracking-dining-behavior/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2048641/does-soy-sauce-go-well-with-mashed-potatoes/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/the-staple-ingredient-that-takes-mashed-potatoes-from-boring-to-bold/intro-1765387490.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/the-staple-ingredient-that-takes-mashed-potatoes-from-boring-to-bold/intro-1765387490.jpg" width="426" height="240" alt="Mashing potatoes in a pot.">
+                </picture>
+            </a>
+                        <div class="category-label label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Emmy Schneider-Green</span> <span class="timestamp">3 hours ago</span>
+            </div>
+            <h3><a href="/2048641/does-soy-sauce-go-well-with-mashed-potatoes/">The Staple Ingredient That Takes Mashed Potatoes From Boring To Bold</a></h3>
+            <p class="article-excerpt">Mashed potatoes are a bland, mushy mess until you add another ingredient. A dash of this condiment can give your spuds the salty boost they deserve.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Emmy Schneider-Green</span> <span class="timestamp">3 hours ago</span>
+            <span class="read-more"><a href="/2048641/does-soy-sauce-go-well-with-mashed-potatoes/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057948/dollar-tree-fridge-storage-fresh-food/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/11-dollar-tree-fridge-storage-solutions-that-truly-keep-food-fresher/intro-1765828362.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/11-dollar-tree-fridge-storage-solutions-that-truly-keep-food-fresher/intro-1765828362.jpg" width="426" height="240" alt="Storage containers in refrigerator">
+                </picture>
+            </a>
+                        <div class="category-label label-shopping-tips parent-shopping-guides"><a href="/category/shopping-tips/">Shopping Tips</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-shopping-tips parent-shopping-guides"><a href="/category/shopping-tips/">Shopping Tips</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Julia Mullaney</span> <span class="timestamp">3 hours ago</span>
+            </div>
+            <h3><a href="/2057948/dollar-tree-fridge-storage-fresh-food/">11 Dollar Tree Fridge Storage Solutions That Truly Keep Food Fresher</a></h3>
+            <p class="article-excerpt">If you're looking to keep your food fresher, make sure to check out these 11 storage solutions that you can find for super cheap at Dollar Tree.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Julia Mullaney</span> <span class="timestamp">3 hours ago</span>
+            <span class="read-more"><a href="/2057948/dollar-tree-fridge-storage-fresh-food/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057947/best-way-cook-gooey-cinnamon-rolls-slow-cooker/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/the-easiest-method-for-gooey-cinnamon-rolls-doesnt-require-an-oven/intro-1765826965.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/the-easiest-method-for-gooey-cinnamon-rolls-doesnt-require-an-oven/intro-1765826965.jpg" width="426" height="240" alt="Frosted cinnamon rolls in a baking dish">
+                </picture>
+            </a>
+                        <div class="category-label label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Tony Cooper</span> <span class="timestamp">4 hours ago</span>
+            </div>
+            <h3><a href="/2057947/best-way-cook-gooey-cinnamon-rolls-slow-cooker/">The Easiest Method For Gooey Cinnamon Rolls Doesn't Require An Oven</a></h3>
+            <p class="article-excerpt">Whether you're making them from scratch or grabbing a can from the store, nothing beats a sticky cinnamon roll. Here's the best way to get that gooey texture.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Tony Cooper</span> <span class="timestamp">4 hours ago</span>
+            <span class="read-more"><a href="/2057947/best-way-cook-gooey-cinnamon-rolls-slow-cooker/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057946/tile-kitchen-backsplash-idea/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/the-kitchen-backsplash-so-beautiful-youll-want-to-redo-your-entire-space/intro-1765827268.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/the-kitchen-backsplash-so-beautiful-youll-want-to-redo-your-entire-space/intro-1765827268.jpg" width="426" height="240" alt="An array of tile options">
+                </picture>
+            </a>
+                        <div class="category-label label-design-and-decor parent-kitchen-tips"><a href="/category/design-and-decor/">Design &amp; Decor</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-design-and-decor parent-kitchen-tips"><a href="/category/design-and-decor/">Design &amp; Decor</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Sonora Slater</span> <span class="timestamp">5 hours ago</span>
+            </div>
+            <h3><a href="/2057946/tile-kitchen-backsplash-idea/">The Kitchen Backsplash So Beautiful You'll Want To Redo Your Entire Space</a></h3>
+            <p class="article-excerpt">The standard sleek, white subway tile had its moment as a kitchen backsplash, but this style builds on the classic, adding a more contemporary touch.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Sonora Slater</span> <span class="timestamp">5 hours ago</span>
+            <span class="read-more"><a href="/2057946/tile-kitchen-backsplash-idea/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057945/cheap-filling-enchiladas-sweet-potatoes/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/give-chicken-a-break-make-delicious-affordable-enchiladas-with-this-unexpected-filling/intro-1765989083.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/give-chicken-a-break-make-delicious-affordable-enchiladas-with-this-unexpected-filling/intro-1765989083.jpg" width="426" height="240" alt="enchiladas dressed with sauce, cheese, and guacamole">
+                </picture>
+            </a>
+                        <div class="category-label label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Megan Shoop-Volz</span> <span class="timestamp">5 hours ago</span>
+            </div>
+            <h3><a href="/2057945/cheap-filling-enchiladas-sweet-potatoes/">Give Chicken A Break – Make Delicious, Affordable Enchiladas With This Unexpected Filling</a></h3>
+            <p class="article-excerpt">Amp up your enchiladas by swapping the main ingredient with this surprising, yet tasty and inexpensive, filling option that will mix up your dinner routine.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Megan Shoop-Volz</span> <span class="timestamp">5 hours ago</span>
+            <span class="read-more"><a href="/2057945/cheap-filling-enchiladas-sweet-potatoes/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2058346/grape-juice-brands-ranked-worst-best/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/i-tried-10-grape-juice-brands-and-ranked-them-worst-to-best/intro-1766755200.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/i-tried-10-grape-juice-brands-and-ranked-them-worst-to-best/intro-1766755200.jpg" width="426" height="240" alt="Bottles of grape juice on the countertop">
+                </picture>
+            </a>
+                        <div class="category-label label-shopping-tips parent-shopping-guides"><a href="/category/shopping-tips/">Shopping Tips</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-shopping-tips parent-shopping-guides"><a href="/category/shopping-tips/">Shopping Tips</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Sara Klimek</span> <span class="timestamp">5 hours ago</span>
+            </div>
+            <h3><a href="/2058346/grape-juice-brands-ranked-worst-best/">I Tried 10 Grape Juice Brands And Ranked Them Worst To Best</a></h3>
+            <p class="article-excerpt">Though grape juice might seem pretty straightforward, it turns out that not all brands taste the same and some are definitely better than others.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Sara Klimek</span> <span class="timestamp">5 hours ago</span>
+            <span class="read-more"><a href="/2058346/grape-juice-brands-ranked-worst-best/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057943/what-is-beanless-coffee/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/the-future-of-your-morning-cup-of-coffee-might-be-beanless/intro-1766159080.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/the-future-of-your-morning-cup-of-coffee-might-be-beanless/intro-1766159080.jpg" width="426" height="240" alt="cup of coffee surrounded by beans">
+                </picture>
+            </a>
+                        <div class="category-label label-coffee-and-tea parent-drink-guides"><a href="/category/coffee-and-tea/">Coffee And Tea</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-coffee-and-tea parent-drink-guides"><a href="/category/coffee-and-tea/">Coffee And Tea</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Shriya Swaminathan</span> <span class="timestamp">6 hours ago</span>
+            </div>
+            <h3><a href="/2057943/what-is-beanless-coffee/">The Future Of Your Morning Cup Of Coffee Might Be Beanless</a></h3>
+            <p class="article-excerpt">All things change in time. While you might enjoy your coffee beans now, you'll likely enjoy these beanless coffee options sometime in the future.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Shriya Swaminathan</span> <span class="timestamp">6 hours ago</span>
+            <span class="read-more"><a href="/2057943/what-is-beanless-coffee/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057939/worst-kitchen-design-trends-80s/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/6-of-the-worst-kitchen-design-trends-from-the-80s/intro-1766162274.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/6-of-the-worst-kitchen-design-trends-from-the-80s/intro-1766162274.jpg" width="426" height="240" alt="1980s kitchen">
+                </picture>
+            </a>
+                        <div class="category-label label-design-and-decor parent-kitchen-tips"><a href="/category/design-and-decor/">Design &amp; Decor</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-design-and-decor parent-kitchen-tips"><a href="/category/design-and-decor/">Design &amp; Decor</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Hilary Wheelan Remley</span> <span class="timestamp">7 hours ago</span>
+            </div>
+            <h3><a href="/2057939/worst-kitchen-design-trends-80s/">6 Of The Worst Kitchen Design Trends From The '80s</a></h3>
+            <p class="article-excerpt">The 1980s still offers plenty to love today in terms of kitchen design trends, even though these six trends should definitely stay in the past.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Hilary Wheelan Remley</span> <span class="timestamp">7 hours ago</span>
+            <span class="read-more"><a href="/2057939/worst-kitchen-design-trends-80s/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057935/cabinet-cupboard-is-there-a-difference/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/is-there-really-a-difference-between-cabinets-and-cupboards/intro-1766101072.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/is-there-really-a-difference-between-cabinets-and-cupboards/intro-1766101072.jpg" width="426" height="240" alt="A bright kitchen has white, marble countertops and lots of cabinets.">
+                </picture>
+            </a>
+                        <div class="category-label label-food-facts"><a href="/category/food-facts/">Facts</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-food-facts"><a href="/category/food-facts/">Facts</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Amber Sutherland-Namako</span> <span class="timestamp">7 hours ago</span>
+            </div>
+            <h3><a href="/2057935/cabinet-cupboard-is-there-a-difference/">Is There Really A Difference Between Cabinets And Cupboards?</a></h3>
+            <p class="article-excerpt">Cabinets and cupboards are the two main systems of storage in most kitchens, though you might wonder if there is any noticeable difference between the two.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Amber Sutherland-Namako</span> <span class="timestamp">7 hours ago</span>
+            <span class="read-more"><a href="/2057935/cabinet-cupboard-is-there-a-difference/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057928/thrifted-coffee-can-kitchen-utensil-holder/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/how-to-use-a-thrifted-coffee-can-to-add-charming-style-to-any-kitchen-on-a-budget/intro-1766176172.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/how-to-use-a-thrifted-coffee-can-to-add-charming-style-to-any-kitchen-on-a-budget/intro-1766176172.jpg" width="426" height="240" alt="A sign reading "second hand" appears on a table at a thrift store.">
+                </picture>
+            </a>
+                        <div class="category-label label-design-and-decor parent-kitchen-tips"><a href="/category/design-and-decor/">Design &amp; Decor</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-design-and-decor parent-kitchen-tips"><a href="/category/design-and-decor/">Design &amp; Decor</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Amber Sutherland-Namako</span> <span class="timestamp">8 hours ago</span>
+            </div>
+            <h3><a href="/2057928/thrifted-coffee-can-kitchen-utensil-holder/">How To Use A Thrifted Coffee Can To Add Charming Style To Any Kitchen On A Budget</a></h3>
+            <p class="article-excerpt">A thrifted coffee can is a versatile decor piece, not to mention an excellent storage solution. Here's how to find and use the best thrifted coffee cans.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Amber Sutherland-Namako</span> <span class="timestamp">8 hours ago</span>
+            <span class="read-more"><a href="/2057928/thrifted-coffee-can-kitchen-utensil-holder/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057927/canned-hack-quick-chili-skip-simmering/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/the-canned-ingredient-you-need-for-quick-chili-that-tastes-like-it-simmered-all-day/intro-1766068228.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/the-canned-ingredient-you-need-for-quick-chili-that-tastes-like-it-simmered-all-day/intro-1766068228.jpg" width="426" height="240" alt="Chili and guacamole">
+                </picture>
+            </a>
+                        <div class="category-label label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Julia Mullaney</span> <span class="timestamp">9 hours ago</span>
+            </div>
+            <h3><a href="/2057927/canned-hack-quick-chili-skip-simmering/">The Canned Ingredient You Need For Quick Chili That Tastes Like It Simmered All Day</a></h3>
+            <p class="article-excerpt">Want to make chili in a hurry? This easy canned ingredient only needs a few quick enhancements to transform into a hearty dinner that tastes homemade.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Julia Mullaney</span> <span class="timestamp">9 hours ago</span>
+            <span class="read-more"><a href="/2057927/canned-hack-quick-chili-skip-simmering/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2058299/one-pot-vegetable-red-curry-recipe/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/one-pot-vegetable-red-curry-recipe/intro-1766169230.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/one-pot-vegetable-red-curry-recipe/intro-1766169230.jpg" width="426" height="240" alt="bowl of curry with rice">
+                </picture>
+            </a>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-one-pot-recipes parent-recipes"><a href="/category/one-pot-recipes/">One-Pot Recipes</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Miriam Hahn</span> <span class="timestamp">9 hours ago</span>
+            </div>
+            <h3><a href="/2058299/one-pot-vegetable-red-curry-recipe/">One-Pot Vegetable Red Curry Recipe</a></h3>
+            <p class="article-excerpt">Our one-pot vegetable red curry is a vibrant and satisfying dish, with a slight kick from the red curry paste that balances nicely with tender vegetables.</p>
+            <span class="read-more"><a href="/2058299/one-pot-vegetable-red-curry-recipe/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2054073/luksusowa-affordable-cocktail-vodka/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/the-20-vodka-that-tastes-way-more-expensive-than-it-looks/intro-1765918865.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/the-20-vodka-that-tastes-way-more-expensive-than-it-looks/intro-1765918865.jpg" width="426" height="240" alt="an unmarked bottle of vodka and four shots">
+                </picture>
+            </a>
+                        <div class="category-label label-cocktails-and-spirits parent-drink-guides"><a href="/category/cocktails-and-spirits/">Cocktails And Spirits</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-cocktails-and-spirits parent-drink-guides"><a href="/category/cocktails-and-spirits/">Cocktails And Spirits</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Tara Bowen</span> <span class="timestamp">10 hours ago</span>
+            </div>
+            <h3><a href="/2054073/luksusowa-affordable-cocktail-vodka/">The $20 Vodka That Tastes Way More Expensive Than It Looks</a></h3>
+            <p class="article-excerpt">If you're looking for a great vodka that doesn't break the bank, try picking up this one from your local liquor store. Here's why it's such a fan-favorite.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Tara Bowen</span> <span class="timestamp">10 hours ago</span>
+            <span class="read-more"><a href="/2054073/luksusowa-affordable-cocktail-vodka/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2048541/tips-you-need-cooking-chicken-pot-pie/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/16-tips-you-need-when-cooking-chicken-pot-pie/intro-1765310790.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/16-tips-you-need-when-cooking-chicken-pot-pie/intro-1765310790.jpg" width="426" height="240" alt="Whole chicken pot pie with a piece missing in a ceramic white baking dish">
+                </picture>
+            </a>
+                        <div class="category-label label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Monika Sudakov</span> <span class="timestamp">10 hours ago</span>
+            </div>
+            <h3><a href="/2048541/tips-you-need-cooking-chicken-pot-pie/">16 Tips You Need When Cooking Chicken Pot Pie</a></h3>
+            <p class="article-excerpt">From selecting the right type of chicken to ensuring the crust remains flaky, these expert tricks can make the difference between pot pie failure and success.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Monika Sudakov</span> <span class="timestamp">10 hours ago</span>
+            <span class="read-more"><a href="/2048541/tips-you-need-cooking-chicken-pot-pie/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057924/difference-between-pot-roast-rump-roast/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/the-difference-between-a-rump-roast-and-pot-roast/intro-1766070978.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/the-difference-between-a-rump-roast-and-pot-roast/intro-1766070978.jpg" width="426" height="240" alt="An uncooked cut of beef placed atop chopped carrots, celery, and garlic cloves">
+                </picture>
+            </a>
+                        <div class="category-label label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Amber Sutherland-Namako</span> <span class="timestamp">11 hours ago</span>
+            </div>
+            <h3><a href="/2057924/difference-between-pot-roast-rump-roast/">The Difference Between A Rump Roast And Pot Roast</a></h3>
+            <p class="article-excerpt">When you're scanning meat options at the store, you may see some packages labeled as pot roast while others say rump or round roast. Is there a difference?</p>
+            <span class="author"><span class="by">By&nbsp;</span>Amber Sutherland-Namako</span> <span class="timestamp">11 hours ago</span>
+            <span class="read-more"><a href="/2057924/difference-between-pot-roast-rump-roast/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057964/martins-tavern-classic-american-food-dc/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/the-dc-tavern-known-for-classic-american-eats-and-political-lore/intro-1766106506.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/the-dc-tavern-known-for-classic-american-eats-and-political-lore/intro-1766106506.jpg" width="426" height="240" alt="The dining room at historic Martin's Tavern in DC has wooden booths and white tablecloths">
+                </picture>
+            </a>
+                        <div class="category-label label-restaurant-guides"><a href="/category/restaurant-guides/">Restaurants</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-restaurant-guides"><a href="/category/restaurant-guides/">Restaurants</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Amber Sutherland-Namako</span> <span class="timestamp">13 hours ago</span>
+            </div>
+            <h3><a href="/2057964/martins-tavern-classic-american-food-dc/">The DC Tavern Known For Classic American Eats And Political Lore</a></h3>
+            <p class="article-excerpt">For decades, political figures, tourists, and locals alike who've found themselves hungry in Washington D.C. have sat down for a meal at this classic spot.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Amber Sutherland-Namako</span> <span class="timestamp">13 hours ago</span>
+            <span class="read-more"><a href="/2057964/martins-tavern-classic-american-food-dc/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057898/chicken-pot-pie-baked-potato-topping/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/how-one-canned-ingredient-turns-a-baked-potato-into-a-10-minute-comfort-meal/intro-1766155248.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/how-one-canned-ingredient-turns-a-baked-potato-into-a-10-minute-comfort-meal/intro-1766155248.jpg" width="426" height="240" alt="Baked potatoes cut in half">
+                </picture>
+            </a>
+                        <div class="category-label label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Julia Mullaney</span> <span class="timestamp">17 hours ago</span>
+            </div>
+            <h3><a href="/2057898/chicken-pot-pie-baked-potato-topping/">How One Canned Ingredient Turns A Baked Potato Into A 10-Minute Comfort Meal</a></h3>
+            <p class="article-excerpt">Baked potatoes are an amazing base for many foods, easily turning a smaller meal into a feast with the right toppers. This canned topper is among the best.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Julia Mullaney</span> <span class="timestamp">17 hours ago</span>
+            <span class="read-more"><a href="/2057898/chicken-pot-pie-baked-potato-topping/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057903/costco-kirkland-canned-coffee-recall-info/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/the-massive-kirkland-coffee-recall-that-still-haunts-costco/intro-1766387382.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/the-massive-kirkland-coffee-recall-that-still-haunts-costco/intro-1766387382.jpg" width="426" height="240" alt="a shopping cart in a Costco aisle">
+                </picture>
+            </a>
+                        <div class="category-label label-costco parent-shopping-guides"><a href="/category/costco/">Costco</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-costco parent-shopping-guides"><a href="/category/costco/">Costco</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Sean Pagnotti</span> <span class="timestamp">20 hours ago</span>
+            </div>
+            <h3><a href="/2057903/costco-kirkland-canned-coffee-recall-info/">The Massive Kirkland Coffee Recall That Still Haunts Costco</a></h3>
+            <p class="article-excerpt">Costco has dealt with many recalls through the years. But this particular case was a large scale recall involving millions of coffee cans being contaminated.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Sean Pagnotti</span> <span class="timestamp">20 hours ago</span>
+            <span class="read-more"><a href="/2057903/costco-kirkland-canned-coffee-recall-info/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057911/slow-cooker-lasagna/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/the-kitchen-appliance-that-makes-extra-easy-set-it-and-forget-it-lasagna/intro-1766382737.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/the-kitchen-appliance-that-makes-extra-easy-set-it-and-forget-it-lasagna/intro-1766382737.jpg" width="426" height="240" alt="Lasagna close up">
+                </picture>
+            </a>
+                        <div class="category-label label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-cooking-guides"><a href="/category/cooking-guides/">Cooking</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Jenna Rapsis</span> <span class="timestamp">21 hours ago</span>
+            </div>
+            <h3><a href="/2057911/slow-cooker-lasagna/">The Kitchen Appliance That Makes Extra-Easy, Set-It-And-Forget-It Lasagna</a></h3>
+            <p class="article-excerpt">Making lasagna is a time-consuming, hands-on process. If you want a more effortless version that cooks practically unattended, swap the oven for this appliance.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Jenna Rapsis</span> <span class="timestamp">21 hours ago</span>
+            <span class="read-more"><a href="/2057911/slow-cooker-lasagna/">Read More</a></span>
+        </div>
+    </article>
+</li><li class="article-item">
+    <article class="article-block">
+        <div class="image-holder">
+                        <a href="/2057914/unexpected-prosecco-mixers/">
+                <picture>
+                    <source srcset="https://www.chowhound.com/img/gallery/5-unexpected-mixers-for-prosecco-that-just-work/intro-1766375409.sm.webp" type="image/webp"><img src="https://www.chowhound.com/img/gallery/5-unexpected-mixers-for-prosecco-that-just-work/intro-1766375409.jpg" width="426" height="240" alt="Two flute glasses of fizzy Prosecco, one placed slightly behind the other.">
+                </picture>
+            </a>
+                        <div class="category-label label-cocktails-and-spirits parent-drink-guides"><a href="/category/cocktails-and-spirits/">Cocktails And Spirits</a></div>
+        </div>
+        <div class="article-description">
+            <div class="more-article-info">
+                            <span class="category label-cocktails-and-spirits parent-drink-guides"><a href="/category/cocktails-and-spirits/">Cocktails And Spirits</a></span>
+                <span class="author"><span class="by">By&nbsp;</span>Macy Sandel</span> <span class="timestamp">21 hours ago</span>
+            </div>
+            <h3><a href="/2057914/unexpected-prosecco-mixers/">5 Unexpected Mixers For Prosecco That Just Work</a></h3>
+            <p class="article-excerpt">Prosecco is typically mixed with Aperol and fruity liquids like orange juice. But you can actually get pretty creative with the mixers for this sparkling wine.</p>
+            <span class="author"><span class="by">By&nbsp;</span>Macy Sandel</span> <span class="timestamp">21 hours ago</span>
+            <span class="read-more"><a href="/2057914/unexpected-prosecco-mixers/">Read More</a></span>
+        </div>
+    </article>
+</li>
+                                </ul>
+                            </section>
+                    </div>
 
+        <div class="loading-more">
+    <svg class="loading-spinner" version="1.1" id="loader-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+        <path d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+            <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"/>
+        </path>
+    </svg>
+</div>        <div class='page-link-container'><div class='page-left-side'><a class='page-link disabled' title='Prev' id='prev-page' data-href='/page/'>Back</a></div><div class='page-right-side'><a class='page-link' title='Ahead' id='next-page' href='/page/2/'>Next</a></div></div>    </main>
+
+            <footer id="footer">
+            <div class="mobile-ad-placeholder footer-ad" data-ad-height="any" data-ad-width="any" data-ad-pos="footer"></div>
+            <div class="holder">
+                <div id="footer-bottom">
+                    <div id="footer-link-container">
+                        <span><a href="/about/">About</a></span>
+                        <span>
+                        <a href="https://www.chowhound.com/privacy-policy/" target="_blank">Privacy Policy</a>
+                        </span>
+                    </div>
+                    <div id="footer-detail-container">
+                        <span class="copyright-text">&copy; 2025 <a href="https://www.static.com/" target="_blank">Static Media</a><sup>&reg;</sup></span>
+                        <span class="site-domain-name">Chowhound.com</span>
+                        <span class="rights-text">All Rights Reserved</span>
+                        <div class="more-label">More From Static Media</div>
+                        <div class="brand-links"><a href='https://www.bgr.com/' target='_blank'>BGR</a><span></span><a href='https://www.cuteness.com/' target='_blank'>Cuteness</a><span></span><a href='https://www.explore.com/' target='_blank'>Explore</a><span></span><a href='https://www.foodie.com/' target='_blank'>Foodie</a><span></span><a href='https://www.foodrepublic.com/' target='_blank'>Food Republic</a><span></span><a href='https://www.gardenguides.com/' target='_blank'>Garden Guides</a><span></span><a href='https://www.glam.com/' target='_blank'>Glam</a><span></span><a href='https://www.grunge.com/' target='_blank'>Grunge</a><span></span><a href='https://www.healthdigest.com/' target='_blank'>Health Digest</a><span></span><a href='https://www.housedigest.com/' target='_blank'>House Digest</a><span></span><a href='https://www.hunker.com/' target='_blank'>Hunker</a><span></span><a href='https://www.islands.com/' target='_blank'>Islands</a><span></span><a href='https://www.jalopnik.com/' target='_blank'>Jalopnik</a><span></span><a href='https://www.looper.com/' target='_blank'>Looper</a><span></span><a href='https://www.mashed.com/' target='_blank'>Mashed</a><span></span><a href='https://www.moneydigest.com/' target='_blank'>Money Digest</a><span></span><a href='https://www.nickiswift.com/' target='_blank'>Nicki Swift</a><span></span><a href='https://www.outdoorguide.com/' target='_blank'>Outdoor Guide</a><span></span><a href='https://www.planetware.com/' target='_blank'>PlanetWare</a><span></span><a href='https://www.sciencing.com/' target='_blank'>Sciencing</a><span></span><a href='https://www.slashfilm.com/' target='_blank'>SlashFilm</a><span></span><a href='https://www.slashgear.com/' target='_blank'>SlashGear</a><span></span><a href='https://www.svg.com/' target='_blank'>SVG</a><span></span><a href='https://www.tastingtable.com/' target='_blank'>Tasting Table</a><span></span><a href='https://www.thedailymeal.com/' target='_blank'>The Daily Meal</a><span></span><a href='https://www.thelist.com/' target='_blank'>The List</a><span></span><a href='https://www.thetakeout.com/' target='_blank'>The Takeout</a><span></span><a href='https://www.tvline.com/' target='_blank'>TVLine</a><span></span><a href='https://www.women.com/' target='_blank'>Women</a><span></span><a href='https://www.wrestlinginc.com/' target='_blank'>Wrestling Inc.</a></div>
+                    </div>
+                    <img src="https://www.chowhound.com/img/Chowhound-RGB-Icon-Default.svg" alt="Chowhound" width="86" height="86" />
+                </div>
+            </div>
+        </footer></div>
+</div>
+
+            
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-BS5J06C4XR"></script>
+<script>
+    window.LooperConfig = window.LooperConfig || {};
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);} 
+    gtag('js', new Date());
+    window.LooperConfig.ga4tag = "G-BS5J06C4XR";
+    window.LooperConfig.ga4data = {"post_id":"Homepage","trello_board":""};
+    window.LooperReady = function(){
+        LooperConfig.params = false;
+        try {
+            LooperConfig.params = (new URL(document.location)).searchParams;
+        } catch( e ) {
+            //do nothing
+        }
+        
+        var validZSource = {"newsletter":"newsletter","flipboard":"flipboard","smartnews":"smartnews","smartnews_sponsored":"smartnews_sponsored","msnsyndicated":"msnsyndicated","newsbreakapp":"newsbreakapp","topbuzz":"topbuzz","zinf_abtest":"zinf_abtest","nexthighlights":"nexthighlights","fb":"fb","fb_ios":"fb_ios","fb_android":"fb_android","gemini":"gemini","facebook_organic":"facebook_organic","gdiscover_sponsored":"gdiscover_sponsored","googlenewsapp":"googlenewsapp","snapchat":"snapchat","dt_app":"dt_app","youtube":"youtube"};
+
+        if (window.location.href.indexOf("zsource") !== -1) {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value.toLowerCase();
+            });
+            if (typeof( vars['zsource'] !== "undefined") && typeof( validZSource[vars['zsource']] ) !== "undefined") {
+                LooperConfig['zsource'] = validZSource[vars['zsource']];
+                document.cookie = "zsource=" + LooperConfig['zsource'] + "; path=/; max-age=600";
+            }
+        } else if (document.cookie.indexOf("zsource") !== -1) {
+            var cookieval = document.cookie;
+            var zsource = "";
+            if (cookieval) {
+                var arr = cookieval.split(";");
+                if (arr.length) {
+                    for (var i = 0; i < arr.length; i++) {
+                        var keyval = arr[i].split("=");
+                        if (keyval.length && keyval[0].indexOf("zsource") !== -1) {
+                            zsource = keyval[1].trim();
+                        }
+                    }
+                }
+            }
+            if (typeof( validZSource[zsource] !== "undefined" )) {
+                LooperConfig['zsource'] = validZSource[zsource];
+            }
+        }
+
+        if (typeof( LooperConfig['zsource'] ) !== "undefined") {
+            LooperConfig['ga4data']["zsource"] = LooperConfig['zsource'];
+        }
+
+        // ga4 first view setup
+        LooperConfig['ga4data']["first_view"] = false;
+        var ga4CookieName = '_ga_BS5J06C4XR' ;
+
+        let decodedCookie = decodeURIComponent(document.cookie);
+        let decodedCookieArray = decodedCookie.split(';').map((d) => d.trim()).filter((d) => d.substring(0, ga4CookieName.length) === ga4CookieName);
+        var isGa4CookiePresent =  decodedCookieArray.length > 0;
+        if(!isGa4CookiePresent) {
+            LooperConfig['ga4data']["first_view"] = true;
+        }
+        LooperConfig['ga4data']['send_page_view'] = false;
+        
+        LooperConfig['ga4data']['view_type'] = this.viewType;
+        LooperConfig['ga4data']['last_id'] = this.lastID;
+        LooperConfig['ga4data']['last_url'] = this.lastURL;
+        LooperConfig['ga4data']['infinite_position'] = 0;
+        
+        gtag("config", LooperConfig.ga4tag, LooperConfig.ga4data);
+        gtag("event", "page_view");
+    };
+</script>        <script type="text/javascript" src="/wp-content/themes/unified/js/loopin.min.js?v=1763058001"></script>
+        <script>
+        (function(){
+            window.Looper = new LoopIn({
+                selector: "#article-container",
+                featuredFound: null,
+                
+                ready: window.LooperReady || function(){}
+            });
+        })();
+        </script>
+        
+        <script>
+    (function(){
+        !function(){"use strict";function e(e){var t=!(arguments.length>1&&void 0!==arguments[1])||arguments[1],c=document.createElement("script");c.src=e,t?c.type="module":(c.async=!0,c.type="text/javascript",c.setAttribute("nomodule",""));var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(c,n)}!function(t,c){!function(t,c,n){var a,o,r;n.accountId=c,null!==(a=t.marfeel)&&void 0!==a||(t.marfeel={}),null!==(o=(r=t.marfeel).cmd)&&void 0!==o||(r.cmd=[]),t.marfeel.config=n;var i="https://sdk.mrf.io/statics";e("".concat(i,"/marfeel-sdk.js?id=").concat(c),!0),e("".concat(i,"/marfeel-sdk.es5.js?id=").concat(c),!1)}(t,c,arguments.length>2&&void 0!==arguments[2]?arguments[2]:{})}(window,3544,{} /*config*/)}();
+     })();
+</script>
+        
+    <script async id="ebx" src="https://applets.ebxcdn.com/ebx.js"></script>
+
+            <script>
+    window.LooperConfig = window.LooperConfig || {};
+    window.LooperConfig.clip = {"readmore":{"text":"Read More: "},"followus":{"text":"Follow Us: ","enabled":0},"visitus":{"text":"Visit Us At: ","enabled":0}};
+    
+</script>
+</body>
 </html>

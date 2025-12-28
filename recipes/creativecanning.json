@@ -5,110 +5,122 @@
   "inLanguage": "en-US",
   "image": [
     {
-      "url": "https://creativecanning.com/wp-content/uploads/2021/02/Zucchini-Relish-61-720x720.jpg"
+      "url": "https://creativecanning.com/wp-content/uploads/2021/02/Zucchini-Relish-61.jpg"
     },
     {
-      "url": "https://creativecanning.com/wp-content/uploads/2021/02/Zucchini-Relish-61-720x540.jpg"
+      "url": "https://creativecanning.com/wp-content/uploads/2021/02/Zucchini-Relish-61-500x500.jpg"
     },
     {
-      "url": "https://creativecanning.com/wp-content/uploads/2021/02/Zucchini-Relish-61-540x720.jpg"
+      "url": "https://creativecanning.com/wp-content/uploads/2021/02/Zucchini-Relish-61-500x375.jpg"
     },
     {
-      "url": "https://creativecanning.com/wp-content/uploads/2021/02/Zucchini-Relish-61-720x405.jpg"
-    },
-    {
-      "url": "https://creativecanning.com/wp-content/uploads/2021/02/Zucchini-Relish-61-735x490.jpg"
+      "url": "https://creativecanning.com/wp-content/uploads/2021/02/Zucchini-Relish-61-480x270.jpg"
     }
   ],
   "author": {
-    "name": "Ashley Adamant"
+    "name": "Ashley Adamant",
+    "description": "I'm an off-grid homesteader in rural Vermont and the author of Creative Canning, a blog that helps people create their own safe home canning recipes.",
+    "image": "https://creativecanning.com/wp-content/uploads/2024/09/Headshot-May-2021-3-768x1024.jpg"
   },
   "publisher": {
     "name": "Creative Canning",
+    "description": "Create Your Own Safe Home Canned Recipes",
     "url": "https://creativecanning.com"
   },
   "prepTime": "PT2H10M",
   "cookTime": "PT10M",
   "totalTime": "PT2H30M",
-  "recipeYield": 4,
+  "recipeCategory": [
+    "Relish"
+  ],
+  "recipeCuisine": [
+    "American"
+  ],
+  "keywords": [
+    "zucchini canning recipes"
+  ],
+  "recipeYield": 32,
   "recipeIngredient": [
-    "2 cups zucchini, diced (about 3 medium)",
-    "1 cup onion, diced (about 1 medium)",
-    "1 cup red bell pepper, diced (about 2 small or 1 large)",
-    "2 Tablespoons Salt (pickling and canning salt, or kosher salt)",
-    "1 3/4 cups sugar",
-    "2 teaspoons celery seed (whole)",
-    "1 teaspoon mustard seed (whole)",
+    "2 cups zucchini (diced (about 3 medium))",
+    "1 cup onion (diced (about 1 medium))",
+    "1 cup red bell pepper (diced (about 2 small or 1 large))",
+    "2 Tbsp salt (pickling and canning salt, or kosher salt)",
+    "1 3/4 cup sugar",
+    "2 tsp celery seed (whole)",
+    "1 tsp mustard seed (whole)",
     "1 cup cider vinegar (5% acidity)",
     "Pickle Crisp Granules (optional, helps veggies stay firm after canning)"
   ],
   "recipeInstructions": [
     {
       "text": "Wash vegetables.",
-      "url": "https://creativecanning.com/zucchini-relish/#mv_create_41_1"
+      "url": "https://creativecanning.com/zucchini-relish/#wprm-recipe-22305-step-0-0"
     },
     {
-      "name": "Remove stem and blossom ends from zucchini and...",
       "text": "Remove stem and blossom ends from zucchini and dice into 1/4 to 1/2 inch pieces. Measure 2 cups.",
-      "url": "https://creativecanning.com/zucchini-relish/#mv_create_41_2"
+      "url": "https://creativecanning.com/zucchini-relish/#wprm-recipe-22305-step-0-1"
     },
     {
       "text": "Peel and dice onion. Measure 1 cup.",
-      "url": "https://creativecanning.com/zucchini-relish/#mv_create_41_3"
+      "url": "https://creativecanning.com/zucchini-relish/#wprm-recipe-22305-step-0-2"
     },
     {
-      "name": "Stem and seed peppers, then dice. Measure 1...",
       "text": "Stem and seed peppers, then dice. Measure 1 cup.",
-      "url": "https://creativecanning.com/zucchini-relish/#mv_create_41_4"
+      "url": "https://creativecanning.com/zucchini-relish/#wprm-recipe-22305-step-0-3"
     },
     {
-      "name": "Important, don't skip this step! Combine diced vegetables...",
       "text": "Important, don't skip this step! Combine diced vegetables in a large bowl and sprinkle salt over the top. Stir gently to distribute the salt, then add water until vegetables are completely submerged. Allow the vegetables to soak in the saltwater for 2 hours, then drain completely.",
-      "url": "https://creativecanning.com/zucchini-relish/#mv_create_41_5"
+      "url": "https://creativecanning.com/zucchini-relish/#wprm-recipe-22305-step-0-4"
     },
     {
-      "name": "Prepare a water bath canner (optional, only if...",
       "text": "Prepare a water bath canner (optional, only if canning).",
-      "url": "https://creativecanning.com/zucchini-relish/#mv_create_41_6"
+      "url": "https://creativecanning.com/zucchini-relish/#wprm-recipe-22305-step-0-5"
     },
     {
-      "name": "In a separate saucepan or stockpot, bring vinegar,...",
       "text": "In a separate saucepan or stockpot, bring vinegar, sugar, and spices to a gentle simmer (180 degrees F). Do not add salt, the salt is only used to soak veggies before draining.",
-      "url": "https://creativecanning.com/zucchini-relish/#mv_create_41_7"
+      "url": "https://creativecanning.com/zucchini-relish/#wprm-recipe-22305-step-0-6"
     },
     {
-      "name": "Add drained vegetables to the simmering vinegar/spices and...",
       "text": "Add drained vegetables to the simmering vinegar/spices and gently simmer for 10 minutes.",
-      "url": "https://creativecanning.com/zucchini-relish/#mv_create_41_8"
+      "url": "https://creativecanning.com/zucchini-relish/#wprm-recipe-22305-step-0-7"
     },
     {
-      "name": "Pack hot relish into prepared half-pint or pint...",
       "text": "Pack hot relish into prepared half-pint or pint jars, leaving 1/2 inch headspace.",
-      "url": "https://creativecanning.com/zucchini-relish/#mv_create_41_9"
+      "url": "https://creativecanning.com/zucchini-relish/#wprm-recipe-22305-step-0-8"
     },
     {
-      "name": "If not canning, just seal jars and allow...",
       "text": "If not canning, just seal jars and allow them to cool on the counter before storing in the refrigerator.",
-      "url": "https://creativecanning.com/zucchini-relish/#mv_create_41_10"
+      "url": "https://creativecanning.com/zucchini-relish/#wprm-recipe-22305-step-0-9"
     },
     {
-      "name": "If canning, de-bubble jars, wipe rims, and adjust...",
       "text": "If canning, de-bubble jars, wipe rims, and adjust headspace to ensure 1/2 inch. Seal with 2 part canning lids.",
-      "url": "https://creativecanning.com/zucchini-relish/#mv_create_41_11"
+      "url": "https://creativecanning.com/zucchini-relish/#wprm-recipe-22305-step-0-10"
     },
     {
-      "name": "Process in a water bath canner for 10...",
       "text": "Process in a water bath canner for 10 minutes, then turn off the heat. Allow the jars to sit in the canner for another 5 minutes to cool slightly, then remove the jars to cool on a towel on the counter.",
-      "url": "https://creativecanning.com/zucchini-relish/#mv_create_41_12"
+      "url": "https://creativecanning.com/zucchini-relish/#wprm-recipe-22305-step-0-11"
     },
     {
-      "name": "Leave the jars undisturbed for 24 hours, then...",
       "text": "Leave the jars undisturbed for 24 hours, then check seals. Store any unsealed jars in the refrigerator for immediate use. Properly canned and sealed jars should maintain peak quality on the pantry shelf for 12-18 months.",
-      "url": "https://creativecanning.com/zucchini-relish/#mv_create_41_13"
+      "url": "https://creativecanning.com/zucchini-relish/#wprm-recipe-22305-step-0-12"
     }
   ],
+  "nutrition": {
+    "calories": "49 kcal",
+    "servingSize": "1 serving",
+    "carbohydrateContent": "12 g",
+    "fatContent": "0.1 g",
+    "fiberContent": "0.3 g",
+    "proteinContent": "0.2 g",
+    "saturatedFatContent": "0.02 g",
+    "sodiumContent": "438 mg",
+    "sugarContent": "12 g",
+    "unsaturatedFatContent": "0.07 g"
+  },
   "aggregateRating": {
-    "reviewCount": 5,
-    "ratingValue": 4
-  }
+    "reviewCount": 2,
+    "ratingCount": 13,
+    "ratingValue": 4.47
+  },
+  "datePublished": "2021-08-16T17:13:58Z"
 }

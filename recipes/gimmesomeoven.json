@@ -5,21 +5,23 @@
   "inLanguage": "en-US",
   "image": [
     {
-      "url": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Authentic-Spanish-Sangria-Recipe-3-1-225x225.jpg"
+      "url": "https://www.gimmesomeoven.com/wp-content/uploads/2021/07/How-To-Make-Sangria-Recipe-7-225x225.jpg"
     },
     {
-      "url": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Authentic-Spanish-Sangria-Recipe-3-1-260x195.jpg"
+      "url": "https://www.gimmesomeoven.com/wp-content/uploads/2021/07/How-To-Make-Sangria-Recipe-7-260x195.jpg"
     },
     {
-      "url": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Authentic-Spanish-Sangria-Recipe-3-1-320x180.jpg"
+      "url": "https://www.gimmesomeoven.com/wp-content/uploads/2021/07/How-To-Make-Sangria-Recipe-7-320x180.jpg"
     },
     {
-      "url": "https://www.gimmesomeoven.com/wp-content/uploads/2019/06/Authentic-Spanish-Sangria-Recipe-3-1.jpg"
+      "url": "https://www.gimmesomeoven.com/wp-content/uploads/2021/07/How-To-Make-Sangria-Recipe-7.jpg"
     }
   ],
   "author": {
     "name": "Ali",
-    "url": "https://www.gimmesomeoven.com/author/ali/"
+    "description": "Hi, I'm Ali Martin! I created this site in 2009 to celebrate good food and gathering around the table. I live in Kansas City with my husband and two young boys and love creating simple, reliable, delicious recipes that anyone can make!",
+    "url": "https://www.gimmesomeoven.com/about/",
+    "image": "https://secure.gravatar.com/avatar/2a46f70c682717622ea29d081ed6cbfed1d8b1d89faa6e768a984b7970610c83?s=96\u0026d=mm\u0026r=pg"
   },
   "publisher": {
     "name": "Gimme Some Oven",
@@ -31,7 +33,7 @@
   "totalTime": "PT10M",
   "recipeYield": 12,
   "recipeIngredient": [
-    "2 bottles Spanish red wine (Rioja wine is most popular)",
+    "2 bottles Spanish red wine (Rioja is most popular)",
     "1/2 cup brandy",
     "2 oranges, one juiced and one diced",
     "1 green apple, diced",
@@ -55,13 +57,14 @@
     }
   ],
   "aggregateRating": {
-    "reviewCount": 17,
+    "reviewCount": 19,
     "ratingValue": 5
   },
   "video": {
     "name": "Sangria Recipe",
     "description": "Learn how to make authentic Spanish sangria with this easy sangria recipe. It only takes a few minutes to prep, it’s easy to customize with your favorite wine and fruit, and it’s great for entertaining a crowd!",
     "contentUrl": "https://content.jwplatform.com/videos/7UuSrE1t.mp4",
-    "thumbnailUrl": "https://content.jwplatform.com/thumbs/7UuSrE1t-720.jpg"
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/7UuSrE1t-720.jpg",
+    "uploadDate": "2019-09-17T06:44:14Z"
   }
 }

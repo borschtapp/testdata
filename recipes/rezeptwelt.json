@@ -1,17 +1,18 @@
 {
-  "url": "https://www.rezeptwelt.de/sonstige-hauptgerichte-rezepte/nudelsalat/mbc1phgz-e2d56-160794-cfcd2-x6yic6yp",
+  "url": "http://www.rezeptwelt.de/sonstige-Hauptgerichte-rezepte/Nudelsalat/mbc1phgz-e2d56-160794-cfcd2-x6yic6yp",
   "name": "Nudelsalat",
-  "description": "Nudelsalat, ein Rezept der Kategorie sonstige Hauptgerichte. Mehr Thermomix ® Rezepte auf www.rezeptwelt.de",
+  "description": "Nudelsalat, ein Rezept der Kategorie sonstige Hauptgerichte. Mehr Thermomix® Rezepte auf www.rezeptwelt.de",
   "inLanguage": "de-DE",
   "image": [
     {
-      "url": "https://de.rc-cdn.community.thermomix.com/recipeimage/mbc1phgz-e2d56-160794-cfcd2-x6yic6yp/69b775cf-693a-443e-b61e-990e025b3ef5/main/nudelsalat.jpg"
+      "url": "https://d1a52lafkyga3q.cloudfront.net/recipeimage/mbc1phgz-e2d56-160794-cfcd2-x6yic6yp/69b775cf-693a-443e-b61e-990e025b3ef5/original/nudelsalat.jpg"
     }
   ],
   "author": {
-    "name": "THERMOMIX ® REZEPT"
+    "name": "Thermomix Rezeptentwicklung",
+    "url": "http://www.rezeptwelt.de/user/73da52e0-2bf4-4f1d-b96d-1df9cf779236"
   },
-  "cookTime": "PT15M",
+  "prepTime": "PT15M",
   "totalTime": "PT15M",
   "recipeCategory": [
     "sonstige Hauptgerichte"
@@ -20,16 +21,16 @@
     "Deutsch"
   ],
   "keywords": [
-    "einfach",
-    "schnell",
-    "party",
-    "buffet",
-    "grillen",
-    "mittagessen",
-    "abendessen",
-    "beilage",
-    "deutsch",
-    "nudelgericht"
+    "Einfach",
+    "Schnell",
+    "Party",
+    "Buffet",
+    "Grillen",
+    "Mittagessen",
+    "Abendessen",
+    "Beilage",
+    "Deutsch",
+    "Nudelgericht"
   ],
   "recipeYield": 6,
   "recipeIngredient": [
@@ -62,8 +63,9 @@
     }
   ],
   "aggregateRating": {
-    "reviewCount": 27,
-    "ratingValue": 4.04,
-    "bestRating": 5
+    "reviewCount": 29,
+    "ratingValue": 4,
+    "bestRating": 5,
+    "worstRating": 1
   }
 }

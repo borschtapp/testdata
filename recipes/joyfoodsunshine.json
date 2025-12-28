@@ -18,13 +18,14 @@
     }
   ],
   "author": {
-    "name": "Laura"
+    "name": "Laura",
+    "image": "https://joyfoodsunshine.com/wp-content/uploads/2023/04/cropped-author-avatar-96x96.jpg"
   },
   "publisher": {
     "name": "JoyFoodSunshine",
-    "description": "Recipes for real life.",
+    "description": "Simple \u0026 delicious recipes!",
     "url": "https://joyfoodsunshine.com",
-    "logo": "https://joyfoodsunshine.com/wp-content/uploads/2017/01/NewLogo.png"
+    "logo": "https://joyfoodsunshine.com/wp-content/uploads/2023/04/easy-delicious-recipes.png"
   },
   "prepTime": "PT5M",
   "cookTime": "PT25M",
@@ -58,13 +59,13 @@
     "1 cup warm water ((105 degrees F))",
     "1 Tablespoon granulated sugar",
     "1 Tablespoon active dry yeast",
-    "1 TBSaTablespoon olive oil",
+    "1 Tablespoon olive oil",
     "2 to 2 ½ cups all-purpose flour*",
     "1 tsp fine sea salt"
   ],
   "recipeInstructions": [
     {
-      "text": "Preheat oven to 500 degrees F. Put a pizza stone in the oven while it preheats, and let it warm at 500 degrees F for at least 10 minutes.*",
+      "text": "Preheat oven to 500 degrees Fahrenheit (260 degrees Celsius). Put a pizza stone in the oven while it preheats, and let it warm at 500 degrees F for at least 10 minutes.*",
       "url": "https://joyfoodsunshine.com/easy-homemade-pizza-dough/#wprm-recipe-8919-step-0-0"
     },
     {
@@ -97,7 +98,7 @@
       ]
     },
     {
-      "name": "Assemble the pizza",
+      "name": "Assemble the Pizza",
       "itemListElement": [
         {
           "text": "Roll the dough into your desired shape and put it on a piece of parchment paper.",
@@ -106,18 +107,23 @@
         {
           "text": "Add pizza sauce, cheese and toppings of choice.",
           "url": "https://joyfoodsunshine.com/easy-homemade-pizza-dough/#wprm-recipe-8919-step-2-1"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Bake The Pizza",
+      "itemListElement": [
         {
           "text": "Use a pizza peel to transfer the pizza to the preheated pizza stone in the oven.",
-          "url": "https://joyfoodsunshine.com/easy-homemade-pizza-dough/#wprm-recipe-8919-step-2-2"
+          "url": "https://joyfoodsunshine.com/easy-homemade-pizza-dough/#wprm-recipe-8919-step-3-0"
         },
         {
-          "text": "Bake on the preheated pizza stone for 12-15 minutes, or until the bottom of the crust is golden brown.",
-          "url": "https://joyfoodsunshine.com/easy-homemade-pizza-dough/#wprm-recipe-8919-step-2-3"
+          "text": "Bake on the preheated pizza stone for 11-14 minutes, or until the bottom of the crust is golden brown.",
+          "url": "https://joyfoodsunshine.com/easy-homemade-pizza-dough/#wprm-recipe-8919-step-3-1"
         },
         {
           "text": "Remove the pizza from the oven with the pizza peel and put it on a wire rack to cool for at 5-10 minutes before cutting and serving.",
-          "url": "https://joyfoodsunshine.com/easy-homemade-pizza-dough/#wprm-recipe-8919-step-2-4"
+          "url": "https://joyfoodsunshine.com/easy-homemade-pizza-dough/#wprm-recipe-8919-step-3-2"
         }
       ]
     }
@@ -135,17 +141,16 @@
     "unsaturatedFatContent": "1 g"
   },
   "aggregateRating": {
-    "ratingCount": 567,
-    "ratingValue": 4.98
+    "reviewCount": 7,
+    "ratingCount": 1147,
+    "ratingValue": 4.99
   },
   "video": {
     "name": "Easy Homemade Pizza Dough Recipe",
     "description": "This Easy Homemade Pizza Dough recipe yields the best ever homemade pizza in 30 minutes from start to finish! It’s made with only 5 ingredients and does not require any rising! Plus it is vegan with a gluten-free option.",
-    "duration": "PT56S",
-    "embedUrl": "https://video.mediavine.com/videos/iayin3r41bw5bamy8j8c.js",
-    "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/t_original/v1535926464/iayin3r41bw5bamy8j8c.mp4",
-    "thumbnailUrl": "https://mediavine-res.cloudinary.com/image/upload/s--WeZpeAD7--/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1628258740/izifkdb7dhcuwkpbepwt.jpg",
-    "uploadDate": "2018-09-02T22:14:51Z"
+    "contentUrl": "https://content.jwplatform.com/videos/tXZ0rOvL.mp4",
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/tXZ0rOvL-720.jpg",
+    "uploadDate": "2018-09-02T00:00:00Z"
   },
   "datePublished": "2018-09-02T12:00:28Z"
 }

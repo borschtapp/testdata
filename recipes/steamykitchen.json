@@ -9,10 +9,12 @@
     }
   ],
   "author": {
-    "name": "Steamy Kitchen Team"
+    "name": "Steamy Kitchen Team",
+    "url": "https://steamykitchen.com/author/amanda"
   },
   "publisher": {
     "name": "Steamy Kitchen Recipes Giveaways",
+    "description": "Steamy Kitchen: fast recipes, simple recipes, with fresh ingredients to create delicious meals.",
     "url": "https://steamykitchen.com",
     "logo": "https://steamykitchen.com/wp-content/uploads/2014/10/SK-logo-100514-JERF1.jpg"
   },

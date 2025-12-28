@@ -1,49 +1,72 @@
 {
-  "url": "https://headbangerskitchen.com/recipe/keto-omelet-indian-style/",
+  "url": "https://headbangerskitchen.com/keto-omelet-indian-style/",
   "name": "Keto Omelet (Indian Style)",
   "description": "The best Indian egg dish",
   "inLanguage": "en-US",
   "image": [
     {
-      "url": "https://headbangerskitchen.com/wp-content/uploads/2020/11/KETOMASALAOMELET-Vertical-150x150.jpg"
+      "url": "https://headbangerskitchen.com/wp-content/uploads/2020/11/KETOMASALAOMELET-Vertical.jpg"
+    },
+    {
+      "url": "https://headbangerskitchen.com/wp-content/uploads/2020/11/KETOMASALAOMELET-Vertical-500x500.jpg"
+    },
+    {
+      "url": "https://headbangerskitchen.com/wp-content/uploads/2020/11/KETOMASALAOMELET-Vertical-500x375.jpg"
+    },
+    {
+      "url": "https://headbangerskitchen.com/wp-content/uploads/2020/11/KETOMASALAOMELET-Vertical-480x270.jpg"
     }
   ],
   "author": {
-    "name": "Sahil Makhija"
+    "name": "Sahil Makhija",
+    "description": "Hi, I’m Sahil, I’m the creator of Headbanger’s Kitchen. For 14 years I’ve been blogging about food, publishing over 500 recipes, and connecting with more than 800,000 followers who share my passion for cooking.",
+    "url": "https://headbangerskitchen.com/author/sahil-makhija/",
+    "image": "https://secure.gravatar.com/avatar/4e04aa66bd1c2131aab44a5a86513e41?s=96\u0026d=mm\u0026r=g"
   },
   "publisher": {
-    "name": "Headbanger's Kitchen - Keto All The Way!",
+    "name": "Headbangerskitchen",
     "description": "Your one-stop resource for the best low carb and keto recipes on the internet. Make keto tasty again! Plus: Vlogs, blogs and just enough jibber jabber.",
-    "url": "https://headbangerskitchen.com"
+    "url": "https://headbangerskitchen.com",
+    "logo": "https://headbangerskitchen.com/wp-content/uploads/2017/10/HKWEBSITEHEADER2.png"
   },
   "prepTime": "PT5M",
   "cookTime": "PT5M",
   "totalTime": "PT10M",
+  "recipeCategory": [
+    "Breakfast"
+  ],
+  "recipeCuisine": [
+    "Indian"
+  ],
   "recipeYield": 1,
   "recipeIngredient": [
     "3 Eggs",
     "20 grams Cheese",
     "20 grams Red onion",
-    "1 Tbsp Heavy Whipping Cream Order online",
-    "1/2 Tsp Tumeric Order online",
-    "1/2 Tsp Kashmiri Red Chilli Powder Order online",
+    "1 Tbsp Heavy Whipping Cream ( Order online )",
+    "1/2 Tsp Tumeric ( Order online )",
+    "1/2 Tsp Kashmiri Red Chilli Powder ( Order online )",
     "1 Tbsp Ghee",
     "salt and pepper to taste",
     "1 Tsp Coriander"
   ],
   "recipeInstructions": [
     {
-      "text": "Crack the 3 eggs into a bowl and add in the chopped onion, coriander, salt, pepper, tumeric, chilli powder and heavy cream and beat well."
+      "text": "Crack the 3 eggs into a bowl and add in the chopped onion, coriander, salt, pepper, tumeric, chilli powder and heavy cream and beat well.",
+      "url": "https://headbangerskitchen.com/keto-omelet-indian-style/#wprm-recipe-68759-step-0-0"
     },
     {
-      "text": "Heat the ghee in a frying pan and once melted add in the beaten eggs. Grate in the cheese and cover and cook for about 4 minutes. Fold the egg and finish cooking."
+      "text": "Heat the ghee in a frying pan and once melted add in the beaten eggs. Grate in the cheese and cover and cook for about 4 minutes. Fold the egg and finish cooking.",
+      "url": "https://headbangerskitchen.com/keto-omelet-indian-style/#wprm-recipe-68759-step-0-1"
     },
     {
-      "text": "Serve with a side of salad."
+      "text": "Serve with a side of salad.",
+      "url": "https://headbangerskitchen.com/keto-omelet-indian-style/#wprm-recipe-68759-step-0-2"
     }
   ],
   "aggregateRating": {
-    "ratingCount": 9,
-    "ratingValue": 4.33
-  }
+    "ratingCount": 10,
+    "ratingValue": 4.41
+  },
+  "datePublished": "2020-11-18T13:48:41Z"
 }

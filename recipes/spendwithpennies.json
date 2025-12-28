@@ -19,15 +19,15 @@
   ],
   "author": {
     "name": "Holly Nilsson",
-    "description": "Holly is a wine and cheese lover, recipe creator, shopping enthusiast and self appointed foodie. Her greatest passion is creating in the kitchen and making deliciously comforting recipes for the everyday home cook!",
+    "description": "Holly Nilsson is the creator of Spend With Pennies, where she creates easy, comforting recipes made for real life. She is also the author of “Everyday Comfort,” which promises to inspire even more hearty, home-cooked meals.",
     "url": "https://www.spendwithpennies.com/author/holly/",
-    "image": "https://secure.gravatar.com/avatar/fa4bdeb9d2aa6450536af2064fac2481?s=96\u0026r=g"
+    "image": "https://secure.gravatar.com/avatar/4996e7e08612c9ba4308e0cf9b40568daafbe42e98cda742f8b5301caa5a1847?s=96\u0026r=g"
   },
   "publisher": {
     "name": "Spend With Pennies",
-    "description": "Easy Recipes, home tips, time savers and more!",
+    "description": "Easy, family friendly recipes using simple, everyday ingredients.",
     "url": "https://www.spendwithpennies.com",
-    "logo": "https://www.spendwithpennies.com/wp-content/uploads/2020/03/icon-spend-with-pennies-1-300x300-1.png"
+    "logo": "https://www.spendwithpennies.com/wp-content/uploads/2021/08/cropped-favicon.jpg"
   },
   "prepTime": "PT5M",
   "cookTime": "PT30M",
@@ -48,14 +48,14 @@
   "recipeYield": 6,
   "recipeIngredient": [
     "¾ cup all-purpose flour",
-    "½ cup sugar",
+    "½ cup granulated sugar",
     "½ cup unsweetened cocoa powder",
     "1 ½ teaspoons baking powder",
     "⅔ cup milk",
     "2 tablespoons vegetable oil",
-    "1 teaspoon vanilla",
+    "1 teaspoon vanilla extract",
     "⅔ cup brown sugar (packed)",
-    "¼ cup cocoa powder",
+    "¼ cup unsweetened cocoa powder",
     "¼ cup miniature semisweet chocolate chips",
     "1 ¼ cups very hot water"
   ],
@@ -94,8 +94,9 @@
     "sugarContent": "45 g"
   },
   "aggregateRating": {
-    "ratingCount": 120,
-    "ratingValue": 4.91
+    "reviewCount": 5,
+    "ratingCount": 170,
+    "ratingValue": 4.94
   },
   "datePublished": "2020-05-13T08:00:12Z"
 }

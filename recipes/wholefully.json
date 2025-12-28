@@ -5,86 +5,89 @@
   "inLanguage": "en-US",
   "image": [
     {
-      "url": "https://wholefully.com/wp-content/uploads/2017/06/IMG_9301-150x150.jpg"
+      "url": "https://wholefully.com/wp-content/uploads/2014/09/IMG_9301.jpg"
     }
   ],
   "author": {
     "name": "Cassie Johnston",
-    "description": "Cassie is the founder and CEO of Wholefully. She's a home cook and wellness junkie with a love of all things healthy living. She lives on a small hobby farm in Southern Indiana with her husband, daughter, two dogs, two cats, and 15 chickens.",
-    "url": "https://wholefully.com/author/backtoherroots/"
+    "description": "Cassie is a holistic nutritionist, cookbook author, and all-around food lover. She grew up cooking dinner with her parents every evening, and her passion for home cooking has been strong ever since. Cassie is the author of two published cookbooks (Cooking with Greek Yogurt and Chia, Quinoa, Kale, Oh My!) and dozens of recipes published in major magazines and newspapers. Cassie has been sharing her award-winning recipes on Wholefully since 2010. She loves dark chocolate, homegrown tomatoes, motorsports, and anything that sparkles. She lives in Indiana with her family on a small homestead.",
+    "knowsAbout": [
+      "Canning",
+      "Food Preservation",
+      "Meal Planning",
+      "Healthy Cooking",
+      "Budget Cooking",
+      "Christmas Cooking",
+      "Family Meals",
+      "Halloween Recipes"
+    ],
+    "image": "https://secure.gravatar.com/avatar/b42ea39437658f47fafbaf284cc0eef8ebab08d315ad3ab6ddf48fc706248934?s=96\u0026d=mm\u0026r=g"
   },
   "publisher": {
     "name": "Wholefully",
-    "description": "Fresh Family Meals - Made for Everyday Life",
+    "description": "Homemade simplified.",
     "url": "https://wholefully.com",
     "logo": "https://wholefully.com/wp-content/uploads/2021/12/wholefully.jpg"
   },
   "prepTime": "PT10M",
   "cookTime": "PT20M",
   "totalTime": "PT30M",
-  "suitableForDiet": [
-    "VegetarianDiet"
-  ],
   "recipeCategory": [
-    "Breads"
+    "Main Dishes"
   ],
   "recipeCuisine": [
     "American"
   ],
   "keywords": [
     "blue cornbread",
-    "what to do with blue corn meal",
-    "how to make blue cornbread",
     "homemade blue cornbread",
     "homemade cornbread",
-    "how to make cornbread",
-    "vegetarian cornbread recipe"
+    "how to make blue cornbread"
   ],
   "recipeYield": 8,
   "recipeIngredient": [
     "1 cup finely ground blue cornmeal",
-    "3/4 cup all-purpose flour",
-    "1/2 teaspoon baking soda",
-    "1/2 teaspoon salt",
+    "¾ cup all-purpose flour",
+    "½ teaspoon baking soda",
+    "½ teaspoon salt",
     "1 cup plain Greek yogurt",
     "2 eggs",
-    "1/4 cup melted butter",
-    "1/4 cup milk",
+    "¼ cup melted butter",
+    "¼ cup milk",
     "2 cups frozen corn kernels"
   ],
   "recipeInstructions": [
     {
-      "name": "Preheat oven to 375°. In a medium mixing...",
-      "text": "Preheat oven to 375°. In a medium mixing bowl, whisk together the cornmeal, flour, baking soda and salt, set aside.",
-      "url": "https://wholefully.com/blue-cornbread/#mv_create_84_1"
+      "text": "Preheat oven to 375°F. In a medium mixing bowl, whisk together the cornmeal, flour, baking soda and salt, set aside.",
+      "url": "https://wholefully.com/blue-cornbread/#wprm-recipe-46302-step-0-0"
     },
     {
-      "name": "In a small bowl, whisk together the yogurt,...",
       "text": "In a small bowl, whisk together the yogurt, eggs, butter, and milk. Pour into the cornmeal mixture and stir until just combined—do not overmix. Fold in the corn kernels.",
-      "url": "https://wholefully.com/blue-cornbread/#mv_create_84_2"
+      "url": "https://wholefully.com/blue-cornbread/#wprm-recipe-46302-step-0-1"
     },
     {
-      "name": "Pour the batter into a well-seasoned cast iron...",
       "text": "Pour the batter into a well-seasoned cast iron skillet or a square baking dish. Bake in preheated oven for 15-20 minutes or until the top is golden brown, and a toothpick inserted in the center comes out clean.",
-      "url": "https://wholefully.com/blue-cornbread/#mv_create_84_3"
+      "url": "https://wholefully.com/blue-cornbread/#wprm-recipe-46302-step-0-2"
     }
   ],
   "nutrition": {
-    "calories": "223 calories",
+    "calories": "233 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "30 grams carbohydrates",
-    "cholesterolContent": "64 milligrams cholesterol",
-    "fatContent": "8 grams fat",
-    "fiberContent": "2 grams fiber",
-    "proteinContent": "9 grams protein",
-    "saturatedFatContent": "4 grams saturated fat",
-    "sodiumContent": "294 grams sodium",
-    "sugarContent": "3 grams sugar",
-    "transFatContent": "0 grams trans fat",
-    "unsaturatedFatContent": "3 grams unsaturated fat"
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "58 mg",
+    "fatContent": "9 g",
+    "fiberContent": "3 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "372 mg",
+    "sugarContent": "3 g",
+    "transFatContent": "0.2 g",
+    "unsaturatedFatContent": "4 g"
   },
   "aggregateRating": {
-    "reviewCount": 30,
-    "ratingValue": 4.3
-  }
+    "reviewCount": 1,
+    "ratingCount": 39,
+    "ratingValue": 4.36
+  },
+  "datePublished": "2014-09-26T06:00:00Z"
 }

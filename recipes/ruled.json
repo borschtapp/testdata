@@ -5,13 +5,13 @@
   "inLanguage": "en-US",
   "image": [
     {
-      "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E"
+      "url": "https://www.ruled.me/wp-content/uploads/2022/03/Keto-Eggwiches-Featured.jpg"
     }
   ],
   "author": {
     "name": "Sarah Shaeffer",
     "url": "https://www.ruled.me/author/sarah/",
-    "image": "https://secure.gravatar.com/avatar/b796d9bcc8c04350a35c1b282fe6f502?s=96\u0026d=mm\u0026r=g"
+    "image": "https://secure.gravatar.com/avatar/ac0febec06e2aa53409c1bffd76c448785676d3c95f6379a286510962315c96a?s=96\u0026d=mm\u0026r=g"
   },
   "publisher": {
     "name": "Ruled Me",
@@ -23,37 +23,46 @@
   "recipeIngredient": [
     "6 large egg",
     "1 tablespoon heavy cream",
-    "4 slice cooked bacon, chopped",
-    "1 cup spinach, chopped",
+    "4 slice cooked bacon (chopped)",
+    "1 cup spinach (chopped)",
     "Salt and pepper to taste",
-    "5 ounce breakfast sausage, cooked",
-    "3 ounce cheddar cheese, sliced"
+    "5 ounce breakfast sausage (cooked)",
+    "3 ounce cheddar cheese (sliced)"
   ],
   "recipeInstructions": [
     {
-      "text": "Measure out and prepare all of the ingredients."
+      "text": "Measure out and prepare all of the ingredients.",
+      "url": "https://www.ruled.me/keto-eggwiches/#wprm-recipe-54215-step-0-0"
     },
     {
-      "text": "In a bowl, combine the eggs, heavy cream, chopped bacon, chopped spinach, salt, and pepper. Mix together until everything is combined well."
+      "text": "In a bowl, combine the eggs, heavy cream, chopped bacon, chopped spinach, salt, and pepper. Mix together until everything is combined well.",
+      "url": "https://www.ruled.me/keto-eggwiches/#wprm-recipe-54215-step-0-1"
     },
     {
-      "text": "In a frying pan over medium heat, add oil and an egg ring. This will help to create a perfect circle."
+      "text": "In a frying pan over medium heat, add oil and an egg ring. This will help to create a perfect circle.",
+      "url": "https://www.ruled.me/keto-eggwiches/#wprm-recipe-54215-step-0-2"
     },
     {
-      "text": "Add the mixture into the egg ring until it gets full. Let this cook for about 2 minutes."
+      "text": "Add the mixture into the egg ring until it gets full. Let this cook for about 2 minutes.",
+      "url": "https://www.ruled.me/keto-eggwiches/#wprm-recipe-54215-step-0-3"
     },
     {
-      "text": "Remove the egg ring and flip. Let the other side cook for about 1-2 minutes. Repeat this until all of the egg mixture is gone."
+      "text": "Remove the egg ring and flip. Let the other side cook for about 1-2 minutes. Repeat this until all of the egg mixture is gone.",
+      "url": "https://www.ruled.me/keto-eggwiches/#wprm-recipe-54215-step-0-4"
     },
     {
-      "text": "On top of an egg circle, add the cooked breakfast sausage and a slice of cheese. Top with another egg circle."
+      "text": "On top of an egg circle, add the cooked breakfast sausage and a slice of cheese. Top with another egg circle.",
+      "url": "https://www.ruled.me/keto-eggwiches/#wprm-recipe-54215-step-0-5"
     },
     {
-      "text": "Serve immediately and enjoy!"
+      "text": "Serve immediately and enjoy!",
+      "url": "https://www.ruled.me/keto-eggwiches/#wprm-recipe-54215-step-0-6"
     }
   ],
   "nutrition": {
-    "calories": "547",
-    "fatContent": "42.7g"
-  }
+    "calories": "547 kcal",
+    "servingSize": "1 serving",
+    "fatContent": "42.7 g"
+  },
+  "datePublished": "2022-06-14T05:00:21Z"
 }

@@ -5,32 +5,32 @@
   "inLanguage": "en-US",
   "image": [
     {
-      "url": "https://www.simplywhisked.com/wp-content/uploads/2016/02/Buffalo-Chicken-Chili-4-1-225x225.jpg"
-    },
-    {
-      "url": "https://www.simplywhisked.com/wp-content/uploads/2016/02/Buffalo-Chicken-Chili-4-1-260x195.jpg"
-    },
-    {
-      "url": "https://www.simplywhisked.com/wp-content/uploads/2016/02/Buffalo-Chicken-Chili-4-1-320x180.jpg"
-    },
-    {
       "url": "https://www.simplywhisked.com/wp-content/uploads/2016/02/Buffalo-Chicken-Chili-4-1.jpg"
+    },
+    {
+      "url": "https://www.simplywhisked.com/wp-content/uploads/2016/02/Buffalo-Chicken-Chili-4-1-500x500.jpg"
+    },
+    {
+      "url": "https://www.simplywhisked.com/wp-content/uploads/2016/02/Buffalo-Chicken-Chili-4-1-500x375.jpg"
+    },
+    {
+      "url": "https://www.simplywhisked.com/wp-content/uploads/2016/02/Buffalo-Chicken-Chili-4-1-480x270.jpg"
     }
   ],
   "author": {
     "name": "Melissa Belanger",
-    "image": "https://secure.gravatar.com/avatar/ec052bce28b2db5163f58eed82302dcc?s=96\u0026d=mm\u0026r=g"
+    "description": "Melissa Belanger is the founder and food-obsessed visionary behind Simply Whisked, where she creates dairy free recipes with simple ingredients. She lives in Wisconsin with her milk-allergic husband and two kids. Melissa's experience in developing dairy free recipes is unparalleled and she strives to make dairy-free living accessible and enjoyable. In addition to running Simply Whisked, Melissa also manages two other publications: Another Cocktail Blog, a cocktail recipe website, and The Pasta Twins, a joint venture with her twin sister.",
+    "image": "https://secure.gravatar.com/avatar/58197cf8c5f72c7ade6f4ed9dc0a436c620c82173b8178ebce31a2c1350bf0ef?s=96\u0026d=mm\u0026r=g"
   },
   "publisher": {
     "name": "Simply Whisked",
     "description": "Dairy Free Recipes",
     "url": "https://www.simplywhisked.com",
-    "logo": "https://www.simplywhisked.com/wp-content/uploads/2023/01/new-logo-2.png"
+    "logo": "https://www.simplywhisked.com/wp-content/uploads/2024/08/2024-SW-logo-BLACK.png"
   },
   "prepTime": "PT15M",
   "cookTime": "PT30M",
   "totalTime": "PT45M",
-  "cookingMethod": "Stovetop",
   "recipeCategory": [
     "Soups"
   ],
@@ -38,24 +38,24 @@
     "American"
   ],
   "keywords": [
-    "easy",
-    "dairy free",
-    "egg free",
-    "healthy",
-    "chili",
     "beans",
-    "buffalo"
+    "buffalo",
+    "chili",
+    "dairy free",
+    "easy",
+    "egg free",
+    "healthy"
   ],
   "recipeYield": 8,
   "recipeIngredient": [
     "2 tablespoons olive oil",
-    "1 small onion, chopped (about 1 cup)",
-    "2 stalks celery, chopped",
-    "6 garlic cloves, minced",
-    "1 1/2 – 2 pounds ground chicken",
+    "1 small onion (chopped (about 1 cup))",
+    "2 stalks celery (chopped)",
+    "6 garlic cloves (minced)",
+    "1 1/2 - 2 pounds ground chicken",
     "1 cup water (or reduced-sodium broth)",
-    "1 15-ounce can petite diced tomatoes",
-    "2 15-ounce cans chili beans, with sauce",
+    "1 15- ounce can petite diced tomatoes",
+    "2 15- ounce cans chili beans (with sauce)",
     "2 tablespoos chili powder",
     "2 teaspoons ground cumin",
     "2 teaspoons paprika",
@@ -67,40 +67,41 @@
   "recipeInstructions": [
     {
       "text": "In a large stockpot or dutch oven, heat olive oil to medium-high. Add the bell pepper, onion, celery and garlic. Sauté until onions are translucent, about 5 minutes.",
-      "url": "https://www.simplywhisked.com/buffalo-chicken-chili/#instruction-step-1"
+      "url": "https://www.simplywhisked.com/buffalo-chicken-chili/#wprm-recipe-18267-step-0-0"
     },
     {
       "text": "Add ground chicken. Breaking up the meat as chicken browns, cook until no longer pink, about 5 minutes.",
-      "url": "https://www.simplywhisked.com/buffalo-chicken-chili/#instruction-step-2"
+      "url": "https://www.simplywhisked.com/buffalo-chicken-chili/#wprm-recipe-18267-step-0-1"
     },
     {
       "text": "Add water, tomatoes, beans, chili powder, cumin, bay leaf, buffalo sauce, and salt \u0026 pepper. Bring to a simmer.",
-      "url": "https://www.simplywhisked.com/buffalo-chicken-chili/#instruction-step-3"
+      "url": "https://www.simplywhisked.com/buffalo-chicken-chili/#wprm-recipe-18267-step-0-2"
     },
     {
       "text": "Cover and allow chili to cook for at least 15 minutes, simmering to desired thickness.",
-      "url": "https://www.simplywhisked.com/buffalo-chicken-chili/#instruction-step-4"
+      "url": "https://www.simplywhisked.com/buffalo-chicken-chili/#wprm-recipe-18267-step-0-3"
     },
     {
       "text": "Before serving, remove bay leaf and adjust seasoning with salt \u0026 pepper, to taste.",
-      "url": "https://www.simplywhisked.com/buffalo-chicken-chili/#instruction-step-5"
+      "url": "https://www.simplywhisked.com/buffalo-chicken-chili/#wprm-recipe-18267-step-0-4"
     }
   ],
   "nutrition": {
-    "calories": "203 calories",
-    "servingSize": "1 bowl",
-    "carbohydrateContent": "8.6 g",
-    "cholesterolContent": "63 mg",
-    "fatContent": "12.2 g",
-    "fiberContent": "1.4 g",
-    "proteinContent": "15.8 g",
-    "saturatedFatContent": "3.3 g",
-    "sodiumContent": "620.6 mg",
-    "sugarContent": "2.5 g",
-    "transFatContent": "0 g"
+    "calories": "240 kcal",
+    "servingSize": "1 serving",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "73 mg",
+    "fatContent": "11 g",
+    "fiberContent": "4 g",
+    "proteinContent": "19 g",
+    "sodiumContent": "1318 mg",
+    "sugarContent": "6 g",
+    "transFatContent": "0.1 g"
   },
   "aggregateRating": {
     "reviewCount": 1,
+    "ratingCount": 1,
     "ratingValue": 5
-  }
+  },
+  "datePublished": "2020-10-12T08:00:00Z"
 }

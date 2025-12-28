@@ -5,24 +5,6 @@
   "inLanguage": "en-US",
   "image": [
     {
-      "url": "https://assets.epicurious.com/photos/568194b8fb9544f72b678fd4/2:1/w_2000,h_1000,c_limit/Ramen-Noodle-Bowl-With-Escarole.jpg"
-    },
-    {
-      "url": "https://assets.epicurious.com/photos/568194b8fb9544f72b678fd4/4:1/w_2000,h_500,c_limit/Ramen-Noodle-Bowl-With-Escarole.jpg"
-    },
-    {
-      "url": "https://assets.epicurious.com/photos/568194b8fb9544f72b678fd4/4:6/w_888,h_1332,c_limit/Ramen-Noodle-Bowl-With-Escarole.jpg"
-    },
-    {
-      "url": "https://assets.epicurious.com/photos/568194b8fb9544f72b678fd4/5:4/w_1665,h_1332,c_limit/Ramen-Noodle-Bowl-With-Escarole.jpg"
-    },
-    {
-      "url": "https://assets.epicurious.com/photos/568194b8fb9544f72b678fd4/6:4/w_1998,h_1332,c_limit/Ramen-Noodle-Bowl-With-Escarole.jpg"
-    },
-    {
-      "url": "https://assets.epicurious.com/photos/568194b8fb9544f72b678fd4/9:4/w_1997,h_887,c_limit/Ramen-Noodle-Bowl-With-Escarole.jpg"
-    },
-    {
       "url": "https://assets.epicurious.com/photos/568194b8fb9544f72b678fd4/16:9/w_2000,h_1125,c_limit/Ramen-Noodle-Bowl-With-Escarole.jpg"
     },
     {
@@ -38,7 +20,7 @@
   "publisher": {
     "name": "Epicurious",
     "url": "https://www.epicurious.com",
-    "logo": "https://www.epicurious.com/verso/static/epicurious/assets/logo-seo.efde9fc575f00192ccc378f32f362af39d4e81fe.png"
+    "logo": "https://www.epicurious.com/verso/static/epicurious-us/assets/logo-seo.png"
   },
   "text": "Give an hour to prepping these components, and thank yourself all week long.",
   "keywords": [

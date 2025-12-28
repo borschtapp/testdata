@@ -1,35 +1,46 @@
 {
   "url": "https://www.forksoverknives.com/recipes/vegan-pasta-noodles/butternut-mac-and-cheese-broccoli/",
   "name": "Butternut Squash Mac and Cheese with Broccoli",
-  "description": "Spiced butternut squash blended with nutritional yeast and a little plant milk makes a delightfully rich and “cheesy” sauce for pasta and broccoli. Pumpkin, acorn squash, or delicata squash will also work in this recipe. To make this recipe gluten-free, chose a whole grain pasta made with rice, corn, and/or quinoa.",
+  "description": "Spiced butternut squash blended with nutritional yeast and plant milk makes a rich sauce for this vegan mac and cheese with broccoli. Get the recipe!",
   "inLanguage": "en-US",
   "image": [
     {
-      "url": "https://www.forksoverknives.com/wp-content/uploads/butternut-broccoli-mac-and-cheese-wordpress.jpg"
+      "url": "https://www.forksoverknives.com/uploads/butternut-broccoli-mac-and-cheese-wordpress.jpg?format=webp\u0026optimize=high\u0026precrop=16%3A9%2Csmart"
+    },
+    {
+      "url": "https://www.forksoverknives.com/uploads/butternut-broccoli-mac-and-cheese-wordpress.jpg?format=webp\u0026optimize=high\u0026precrop=4%3A3%2Csmart"
+    },
+    {
+      "url": "https://www.forksoverknives.com/uploads/butternut-broccoli-mac-and-cheese-wordpress.jpg?format=webp\u0026optimize=high\u0026precrop=1%3A1%2Csmart"
     }
   ],
   "author": {
     "name": "Darshana Thacker Wendel",
-    "description": "Darshana Thacker Wendel is a whole-food, plant-based chef and former culinary projects manager for Forks Over Knives. A graduate of the Natural Gourmet Institute, she is the author of Forks Over Knives: Flavor! She created the recipes for Forks Over Knives Family and was a lead recipe contributor to the New York Times bestseller The Forks Over Knives Plan. Her recipes have been published in The Prevent and Reverse Heart Disease Cookbook, Forks Over Knives—The Cookbook, Forks Over Knives: The Plant-Based Way to Health, and LA Yoga magazine online. Visit DarshanasKitchen.com and follow her on Instagram for more."
+    "description": "Darshana Thacker Wendel is a whole-food, plant-based chef and former culinary projects manager for Forks Over Knives. A graduate of the Natural Gourmet Institute, she is the author of Forks Over Knives: Flavor! She created the recipes for Forks Over Knives Family and was a lead recipe contributor to the New York Times bestseller The Forks Over Knives Plan. Her recipes have been published in The Prevent and Reverse Heart Disease Cookbook, Forks Over Knives—The Cookbook, Forks Over Knives: The Plant-Based Way to Health, and LA Yoga magazine online. Visit DarshanasKitchen.com and follow her on Instagram for more.",
+    "url": "https://www.forksoverknives.com/contributors/darshana-thacker/",
+    "image": "https://www.forksoverknives.com/uploads/Darshana-Thacker-732x506-1.jpg?auto=webp"
   },
   "publisher": {
     "name": "Forks Over Knives",
     "url": "https://www.forksoverknives.com"
   },
   "prepTime": "PT30M",
-  "totalTime": "PT30M",
+  "cookTime": "PT30M",
+  "totalTime": "PT1H",
   "recipeCategory": [
-    "Pasta \u0026 Noodles"
+    "Vegan Noodles \u0026 Pasta Recipes"
   ],
+  "recipeYield": 6,
   "recipeIngredient": [
     "1 medium butternut squash (1¾ lb.)",
+    "1 tablespoon extra-virgin olive oil (optional, learn more)",
     "1 onion, finely chopped (1 cup)",
     "4 cloves garlic, minced",
     "½ teaspoon finely chopped fresh thyme",
-    "2 cups unsweetened, unflavored plant milk, such as almond, soy, cashew, or rice",
+    "1 cup unsweetened, unflavored plant milk",
     "2 tablespoons nutritional yeast",
     "1 tablespoon white wine vinegar",
-    "¼ teaspoon sea salt",
+    "½ teaspoon sea salt",
     "⅛ teaspoon freshly ground black pepper",
     "3 cups dried whole grain penne pasta (8 oz.)",
     "3 cups small broccoli florets",
@@ -40,7 +51,7 @@
       "text": "Peel squash; halve squash and remove seeds. Cut squash into large pieces. Place squash pieces in a steamer basket in a large pan. Add water to saucepan to just below basket. Bring to boiling. Steam, covered, about 12 minutes or until tender."
     },
     {
-      "text": "Heat a large saucepan over medium. Add onion, garlic, thyme, and ¼ cup water to pan. Cook about 10 minutes or until onion is tender, stirring occasionally and adding water, 1 to 2 Tbsp. at a time, as needed to prevent sticking."
+      "text": "For oil-free: Heat a medium saucepan over medium. Add onion, garlic, thyme, and ¼ cup water to pan. Cook about 6 minutes or until onion is tender, stirring occasionally and adding water, 1 to 2 tablespoons. at a time, as needed to prevent sticking. (If using oil: In a medium saucepan, heat olive oil, then add onion, garlic, and thyme. Cook about 6 minutes or until onion is tender, stirring occasionally.)"
     },
     {
       "text": "Transfer onion mixture to a blender. Add squash and the next five ingredients (through pepper). Cover and blend until smooth. Pour squash mixture into a large saucepan."
@@ -49,8 +60,20 @@
       "text": "Cook pasta according to package directions, adding broccoli the last 5 minutes of cooking; drain. Add drained pasta and broccoli to squash mixture; toss to coat. Serve warm topped with fresh basil."
     }
   ],
+  "nutrition": {
+    "calories": "490 calories",
+    "servingSize": "2 cups",
+    "carbohydrateContent": "104 grams",
+    "cholesterolContent": "0 milligrams",
+    "fatContent": "5 grams",
+    "fiberContent": "10 grams",
+    "proteinContent": "22 grams",
+    "saturatedFatContent": "0 grams",
+    "sodiumContent": "651 grams",
+    "sugarContent": "12 grams"
+  },
   "aggregateRating": {
-    "reviewCount": 49,
-    "ratingValue": 4.06
+    "reviewCount": 67,
+    "ratingValue": 5
   }
 }

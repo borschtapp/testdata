@@ -5,13 +5,28 @@
   "inLanguage": "en-US",
   "image": [
     {
-      "url": "https://static01.nyt.com/images/2020/05/28/dining/lp-cacio-e-pepe-crackers/merlin_172657737_693784a8-529d-4496-9e60-3ff2af3c7735-mediumSquareAt3X.jpg"
+      "url": "https://static01.nyt.com/images/2020/05/28/dining/lp-cacio-e-pepe-crackers/merlin_172657737_693784a8-529d-4496-9e60-3ff2af3c7735-videoSixteenByNineJumbo1600.jpg",
+      "width": 1600,
+      "height": 900,
+      "caption": "Recipe: Cacio e pepe cheese crackers NYTCREDIT: Johnny Miller for The New York Times. Food Stylist: Rebecca Jurkevich."
     },
     {
-      "url": "https://static01.nyt.com/images/2020/05/28/dining/lp-cacio-e-pepe-crackers/merlin_172657737_693784a8-529d-4496-9e60-3ff2af3c7735-videoSixteenByNineJumbo1600.jpg"
+      "url": "https://static01.nyt.com/images/2020/05/28/dining/lp-cacio-e-pepe-crackers/merlin_172657737_693784a8-529d-4496-9e60-3ff2af3c7735-threeByTwoLargeAt2X.jpg",
+      "width": 4763,
+      "height": 3175,
+      "caption": "Recipe: Cacio e pepe cheese crackers NYTCREDIT: Johnny Miller for The New York Times. Food Stylist: Rebecca Jurkevich."
     },
     {
-      "url": "https://static01.nyt.com/images/2020/05/28/dining/lp-cacio-e-pepe-crackers/merlin_172657737_693784a8-529d-4496-9e60-3ff2af3c7735-superJumbo.jpg"
+      "url": "https://static01.nyt.com/images/2020/05/28/dining/lp-cacio-e-pepe-crackers/merlin_172657737_693784a8-529d-4496-9e60-3ff2af3c7735-mediumSquareAt3X.jpg",
+      "width": 1800,
+      "height": 1800,
+      "caption": "Recipe: Cacio e pepe cheese crackers NYTCREDIT: Johnny Miller for The New York Times. Food Stylist: Rebecca Jurkevich."
+    },
+    {
+      "url": "https://static01.nyt.com/images/2020/05/28/dining/lp-cacio-e-pepe-crackers/merlin_172657737_693784a8-529d-4496-9e60-3ff2af3c7735-facebookJumbo.jpg",
+      "width": 1050,
+      "height": 550,
+      "caption": "Recipe: Cacio e pepe cheese crackers NYTCREDIT: Johnny Miller for The New York Times. Food Stylist: Rebecca Jurkevich."
     }
   ],
   "author": {
@@ -19,7 +34,8 @@
   },
   "publisher": {
     "name": "NYT Cooking",
-    "url": "https://cooking.nytimes.com"
+    "url": "https://cooking.nytimes.com",
+    "logo": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg"
   },
   "totalTime": "PT45M",
   "recipeCategory": [
@@ -85,14 +101,15 @@
     "fatContent": "14 grams",
     "fiberContent": "1 gram",
     "proteinContent": "10 grams",
-    "saturatedFatContent": "9 grams",
-    "sodiumContent": "282 milligrams",
+    "saturatedFatContent": "8 grams",
+    "sodiumContent": "261 milligrams",
     "sugarContent": "0 grams",
     "transFatContent": "0 grams",
-    "unsaturatedFatContent": "4 grams"
+    "unsaturatedFatContent": "5 grams"
   },
   "aggregateRating": {
-    "ratingCount": 221,
+    "ratingCount": 248,
     "ratingValue": 4
-  }
+  },
+  "datePublished": "2020-05-28T00:00:00Z"
 }

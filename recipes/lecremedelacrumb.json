@@ -19,7 +19,18 @@
   ],
   "author": {
     "name": "Tiffany",
-    "description": "Hey there, I’m Tiffany - cook, photographer, mother, and avid taco eater. I am passionate about turning simple flavors and ingredients into tasty meals the whole family will love, with minimal prep and cleanup so there’s more time to spend eating and enjoying. Stay awhile, and help yourself to a taco or two."
+    "jobTitle": "Food Blogger, Founder, Chef, Recipe Developer",
+    "description": "Hey there, I’m Tiffany - cook, photographer, mother, and avid taco eater. I am passionate about turning simple flavors and ingredients into tasty meals the whole family will love, with minimal prep and cleanup so there’s more time to spend eating and enjoying. Stay awhile, and help yourself to a taco or two.",
+    "knowsAbout": [
+      "Food Blogging. Recipe Development",
+      "Food Photography",
+      "Baking",
+      "Desserts",
+      "Quick and Easy Meals",
+      "Dinner Recipses",
+      "Family Recipes"
+    ],
+    "image": "https://secure.gravatar.com/avatar/15e5a64f2145d0c2ab195cf65dee614b4b97440fc62a6c08fcf241a783abd9bf?s=96\u0026d=mm\u0026r=g"
   },
   "publisher": {
     "name": "Creme De La Crumb",
@@ -86,8 +97,16 @@
     "transFatContent": "1 g"
   },
   "aggregateRating": {
-    "ratingCount": 147,
-    "ratingValue": 4.83
+    "reviewCount": 15,
+    "ratingCount": 186,
+    "ratingValue": 4.84
+  },
+  "video": {
+    "name": "Instant Pot Shredded Chicken Tacos",
+    "description": "These are the BEST easy Instant Pot Shredded Chicken Tacos, hands down. You can even use frozen chicken breasts or thighs, and use a crockpot instead!",
+    "contentUrl": "https://content.jwplatform.com/videos/tgpivBOr.mp4",
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/tgpivBOr-720.jpg",
+    "uploadDate": "2019-05-31T00:00:00Z"
   },
   "datePublished": "2019-01-11T07:00:28Z"
 }

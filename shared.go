@@ -95,16 +95,16 @@ func MockRequests(t *testing.T) {
 
 		if err != nil {
 			return httpmock.NewStringResponse(http.StatusInternalServerError, "HttpMock: "+err.Error()), nil
-		} else {
-			response := httpmock.NewBytesResponse(http.StatusOK, data)
-			response.Request = req
-			if req.Header.Get("Accept") == "application/json" {
-				response.Header.Set("Content-Type", "application/json")
-			} else {
-				response.Header.Set("Content-Type", "text/html; charset=utf-8")
-			}
-			return response, nil
 		}
+
+		response := httpmock.NewBytesResponse(http.StatusOK, data)
+		response.Request = req
+		if req.Header.Get("Accept") == "application/json" {
+			response.Header.Set("Content-Type", "application/json")
+		} else {
+			response.Header.Set("Content-Type", "text/html; charset=utf-8")
+		}
+		return response, nil
 	})
 
 	t.Cleanup(httpmock.Deactivate)

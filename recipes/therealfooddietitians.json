@@ -26,7 +26,7 @@
     "name": "The Real Food Dietitians",
     "description": "Eat well. Live well. Be well.",
     "url": "https://therealfooddietitians.com",
-    "logo": "https://therealfooddietitians.com/wp-content/uploads/2019/05/RFD_Logo_500-x-500px.png"
+    "logo": "https://therealfooddietitians.com/wp-content/uploads/2024/05/submark-color-watermark.png"
   },
   "prepTime": "PT20M",
   "totalTime": "PT20M",
@@ -89,9 +89,12 @@
     "ratingValue": 5
   },
   "video": {
-    "name": "”Sweet",
-    "description": "”Change",
-    "contentUrl": "https://content.jwplatform.com/videos/”6iw7vmhg”.mp4",
-    "thumbnailUrl": "https://content.jwplatform.com/thumbs/”6iw7vmhg”-720.jpg"
+    "name": "Sweet and Smoky Brussels Slaw",
+    "description": "Shredded Brussels sprouts, smoked almonds, crisp bacon, thinly sliced shallots, and chopped sweet dates come together in this unique and delicious slaw, tossed in a garlicky-lemon dressing. It’s a side-dish that makes for a great addition to a summer barbecue menu but really can be enjoyed anytime of the year.",
+    "duration": "PT54S",
+    "embedUrl": "https://video.mediavine.com/videos/i6iw7vmhg.js",
+    "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/t_original/v1659624736/i6iw7vmhg.mp4",
+    "thumbnailUrl": "https://mediavine-res.cloudinary.com/image/upload/s--Wa5Jg4I5--/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1716569932/fvxtqzna5d0aof6tbido.jpg",
+    "uploadDate": "2019-10-21T13:32:46Z"
   }
 }

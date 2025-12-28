@@ -5,9 +5,9 @@
   "inLanguage": "en",
   "image": [
     {
-      "url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-405483_12-cee017a.jpg?resize=768,574",
-      "width": 768,
-      "height": 574
+      "url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-405483_12-cee017a.jpg?resize=440,400",
+      "width": 440,
+      "height": 400
     }
   ],
   "author": {
@@ -15,9 +15,9 @@
     "url": "https://www.bbcgoodfood.com/author/goodfood"
   },
   "publisher": {
-    "name": "BBC Good Food",
+    "name": "Good Food",
     "url": "https://www.bbcgoodfood.com",
-    "logo": "https://images.immediate.co.uk/production/volatile/sites/30/2022/12/cropped-GF-logos2022CMYK-PrintUKONLY10-2-434430d-f5051ed.png?resize=265,70"
+    "logo": "https://images.immediate.co.uk/production/volatile/sites/30/2024/03/cropped-GF-new-teal-1-7004649-a80b70d.png?resize=265,65"
   },
   "prepTime": "PT15M",
   "cookTime": "PT20M",
@@ -53,15 +53,15 @@
     "250g self-raising flour",
     "25g cocoa powder",
     "175g light muscovado sugar",
-    "85g unsalted butter, melted",
+    "85g unsalted butter melted",
     "5 tbsp vegetable or sunflower oil",
     "150g pot fat-free natural yogurt",
     "1 tsp vanilla extract",
     "3 large eggs",
-    "85g unsalted butter, softened",
+    "85g unsalted butter softened",
     "1 tbsp milk",
     "½ tsp vanilla extract",
-    "200g icing sugar, sifted",
+    "200g icing sugar sifted",
     "food colourings (optional)",
     "sweets and sprinkles, to decorate"
   ],
@@ -84,5 +84,5 @@
     "sugarContent": "36 grams sugar"
   },
   "dateModified": "2022-11-08T13:06:40Z",
-  "datePublished": "2010-09-23T02:46:40Z"
+  "datePublished": "2010-09-23T03:46:40+01:00"
 }

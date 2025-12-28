@@ -1,40 +1,40 @@
 {
-  "url": "https://www.framedcooks.com/2011/02/ham-and-egg-crepe-squares.html",
+  "url": "https://www.framedcooks.com/ham-and-egg-crepe-squares/",
   "name": "Ham and Egg Crepe Squares",
   "description": "These perfect little packages of sunny side up egg and ham all wrapped up in a soft crepe are a treat for breakfast, lunch or dinner!",
   "inLanguage": "en-US",
   "image": [
     {
-      "url": "https://www.framedcooks.com/wp-content/uploads/2017/08/1175910236_uTQuN-M-225x225.jpg"
+      "url": "https://www.framedcooks.com/wp-content/uploads/2011/02/ham-and-egg-crepes-154-225x225.jpg"
     },
     {
-      "url": "https://www.framedcooks.com/wp-content/uploads/2017/08/1175910236_uTQuN-M-260x195.jpg"
+      "url": "https://www.framedcooks.com/wp-content/uploads/2011/02/ham-and-egg-crepes-154-260x195.jpg"
     },
     {
-      "url": "https://www.framedcooks.com/wp-content/uploads/2017/08/1175910236_uTQuN-M-320x180.jpg"
+      "url": "https://www.framedcooks.com/wp-content/uploads/2011/02/ham-and-egg-crepes-154-320x180.jpg"
     },
     {
-      "url": "https://www.framedcooks.com/wp-content/uploads/2017/08/1175910236_uTQuN-M.jpg"
+      "url": "https://www.framedcooks.com/wp-content/uploads/2011/02/ham-and-egg-crepes-154.jpg"
     }
   ],
   "author": {
     "name": "Kate Morgan Jackson",
     "description": "Hi there! I’m Kate, and I’m a recipe writer, food photographer and devoted bacon lover. I started Framed Cooks in 2009, and my mission is to create and share family-friendly recipes that make cooking both easy and fun…yes, I said FUN! My kitchen is my happy place, and I want yours to be that place too. And if you make this recipe, I would love you to tag @FramedCooks on Instagram so I can see the deliciousness!",
-    "url": "https://www.framedcooks.com/author/kate",
-    "image": "https://secure.gravatar.com/avatar/febacc0a38e399ed4c166e38efb86b81?s=96\u0026d=https%3A%2F%2Fwww.framedcooks.com%2Fwp-content%2Fthemes%2FFramedCooksV2%2Fimages%2Favatar.png\u0026r=g"
+    "url": "https://www.framedcooks.com/about/",
+    "image": "https://secure.gravatar.com/avatar/9f4978aec82eb3dbec57ba0be012b6f8962571a8ad91ff87bfe426aedd6d5a88?s=96\u0026r=g"
   },
   "publisher": {
     "name": "Framed Cooks",
     "description": "My life. One recipe at a time.",
     "url": "https://www.framedcooks.com",
-    "logo": "https://www.framedcooks.com/wp-content/uploads/2019/06/fc-logo-1-e1614369298246.jpg"
+    "logo": "https://www.framedcooks.com/wp-content/uploads/2019/06/bowl-icon-e1695831640149.png"
   },
   "prepTime": "PT15M",
-  "cookTime": "PT1H10M",
-  "totalTime": "PT1H25M",
+  "cookTime": "PT45M",
+  "totalTime": "PT1H",
   "cookingMethod": "Stovetop",
   "recipeCategory": [
-    "Dinner"
+    "Breakfast"
   ],
   "recipeCuisine": [
     "American"
@@ -61,23 +61,23 @@
   "recipeInstructions": [
     {
       "text": "Combine flour, sugar, salt, milk, four eggs and the melted butter in a blender and blend on high for 30 seconds. Let the mixture rest for 15 minutes.",
-      "url": "https://www.framedcooks.com/2011/02/ham-and-egg-crepe-squares.html#instruction-step-1"
+      "url": "https://www.framedcooks.com/ham-and-egg-crepe-squares/#instruction-step-1"
     },
     {
       "text": "Heat a 12 inch non-stick skillet over medium heat and lightly coat with butter. Add 1/3 cup batter and swirl to completely cover skillet. Cook until underside of crepe is very lightly starting to brown, about 2 minutes.",
-      "url": "https://www.framedcooks.com/2011/02/ham-and-egg-crepe-squares.html#instruction-step-2"
+      "url": "https://www.framedcooks.com/ham-and-egg-crepe-squares/#instruction-step-2"
     },
     {
       "text": "Loosen edge of crepe with spatula and then either using large spatula or your fingers, lift it up and flip it over. Cook another 1-2 minutes and then slide out of skillet onto wax paper. Repeat until all crepes are done. You should have about 9 when you are done.",
-      "url": "https://www.framedcooks.com/2011/02/ham-and-egg-crepe-squares.html#instruction-step-3"
+      "url": "https://www.framedcooks.com/ham-and-egg-crepe-squares/#instruction-step-3"
     },
     {
       "text": "Preheat oven to 350. Place crepes on a rimmed baking sheet (you can fit 3-4 per sheet). Place ham slice in center of crepe and carefully crack egg onto ham. Fold edges of crepe toward center, using the egg white as a kind of glue. Season with salt and pepper and bake until egg white is set, about 10-12 minutes.",
-      "url": "https://www.framedcooks.com/2011/02/ham-and-egg-crepe-squares.html#instruction-step-4"
+      "url": "https://www.framedcooks.com/ham-and-egg-crepe-squares/#instruction-step-4"
     },
     {
       "text": "Sprinkle with chopped parsley and serve at once.",
-      "url": "https://www.framedcooks.com/2011/02/ham-and-egg-crepe-squares.html#instruction-step-5"
+      "url": "https://www.framedcooks.com/ham-and-egg-crepe-squares/#instruction-step-5"
     }
   ],
   "nutrition": {
@@ -92,9 +92,5 @@
     "sodiumContent": "481.4 mg",
     "sugarContent": "3.8 g",
     "transFatContent": "0.1 g"
-  },
-  "aggregateRating": {
-    "reviewCount": 3,
-    "ratingValue": 3.7
   }
 }

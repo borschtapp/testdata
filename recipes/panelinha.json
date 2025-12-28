@@ -1,16 +1,44 @@
 {
-  "url": "https://www.panelinha.com.br/receita/rosbife",
+  "url": "https://panelinha.com.br/receita/rosbife",
   "name": "Rosbife",
   "description": "Clássico é clássico! Com a técnica certa, o rosbife fica perfeito. Atente para os tempos e as temperaturas. Ele não pode estar gelado e precisa mesmo do descanso depois de assado.",
-  "inLanguage": "pt-br",
+  "inLanguage": "pt-BR",
   "image": [
     {
-      "url": "https://cdn.panelinha.com.br/receita/1569505884207-rosbife.jpg"
+      "url": "https://i.panelinha.com.br/i1/bk-9959-rosbife.webp",
+      "width": 1140,
+      "height": 760
     }
   ],
-  "publisher": {
-    "name": "Panelinha",
-    "url": "https://www.panelinha.com.br"
+  "author": {
+    "name": "Panelinha"
   },
-  "recipeYield": 4
+  "publisher": {
+    "name": "Panelinha - Receitas que funcionam",
+    "url": "https://panelinha.com.br"
+  },
+  "recipeCategory": [
+    "Carnes",
+    "Pratos principais"
+  ],
+  "recipeCuisine": [
+    "Inglesa",
+    "Prática",
+    "Clássica",
+    "Argentina",
+    "Sem Glúten"
+  ],
+  "recipeIngredient": [
+    "750 g de filé mignon em peça para rosbife",
+    "1 colher (chá) de mostarda amarela em pó",
+    "1 colher (chá) de páprica defumada",
+    "azeite a gosto",
+    "sal e pimenta-do-reino moída na hora a gosto"
+  ],
+  "recipeInstructions": [
+    {},
+    {},
+    {},
+    {}
+  ]
 }

@@ -10,8 +10,9 @@
   ],
   "author": {
     "name": "Sweet Basil",
-    "description": "Lover of all things beautiful, good and delicious. Wife, mother, friend, foodie.",
-    "url": "https://ohsweetbasil.com/author/cc64688/"
+    "description": "Carrian Cheney is the creative force behind ‘Oh, Sweet Basil,’ a food blog she co-authors with her husband, Cade. She creates fresh, family-friendly recipes that encourage togetherness in the kitchen.",
+    "url": "https://ohsweetbasil.com/about/carrian-cheney/",
+    "image": "https://secure.gravatar.com/avatar/6f12a28a39e36996d0fc8f9e0c47a0323958984aa3071f9dab4b37ae540aae8e?s=96\u0026d=mm\u0026r=g"
   },
   "publisher": {
     "name": "Oh Sweet Basil",
@@ -37,8 +38,8 @@
   "recipeYield": 1,
   "recipeIngredient": [
     "2 Cups Flour",
-    "1 Teaspoon Baking Soda",
-    "1/2 Teaspoon Salt",
+    "1 teaspoon Baking Soda",
+    "1/2 teaspoon Salt",
     "1/3 Cup Canola Oil",
     "1 Cup Sugar",
     "2 Large Eggs",
@@ -97,17 +98,16 @@
     "unsaturatedFatContent": "7 g"
   },
   "aggregateRating": {
-    "ratingCount": 172,
-    "ratingValue": 4.35
+    "reviewCount": 4,
+    "ratingCount": 189,
+    "ratingValue": 4.36
   },
   "video": {
     "name": "The very Best Banana Bread",
     "description": "I've made over 100 banana bread recipes for over 3 years in search of the VERY BEST Banana Bread Recipe, and I've finally found it and am ready to share it with you!",
-    "duration": "PT84S",
-    "embedUrl": "https://video.mediavine.com/videos/vruvc6ixevpkbkskne3k.js",
-    "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/t_original/v1517259361/vruvc6ixevpkbkskne3k.mp4",
-    "thumbnailUrl": "https://mediavine-res.cloudinary.com/video/upload/s--0czh5nnj--/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1517259361/vruvc6ixevpkbkskne3k.jpg",
-    "uploadDate": "2018-01-29T20:59:34Z"
+    "contentUrl": "https://content.jwplatform.com/videos/JgglQE2l.mp4",
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/JgglQE2l-720.jpg",
+    "uploadDate": "2018-01-29T00:00:00Z"
   },
   "datePublished": "2018-02-18T02:11:43Z"
 }

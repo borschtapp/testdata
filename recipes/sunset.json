@@ -13,8 +13,9 @@
   },
   "publisher": {
     "name": "Sunset Magazine",
+    "description": "The original Western lifestyle publication since 1898.",
     "url": "https://www.sunset.com",
-    "logo": "https://www.sunset.com/wp-content/themes/sunset-magazine-v4/static/img/favicons/favicon-180.png"
+    "logo": "https://www.sunset.com/wp-content/themes/sunset-magazine-v5/assetsfavicons/favicon-180.png"
   },
   "prepTime": "PT1H30M",
   "cookTime": "PT0S",
@@ -74,14 +75,14 @@
     }
   ],
   "nutrition": {
-    "calories": "164",
-    "carbohydrateContent": "25",
-    "cholesterolContent": "16",
-    "fatContent": "4.3",
-    "fiberContent": "1.4",
-    "proteinContent": "5.6",
-    "saturatedFatContent": "2.6",
-    "sodiumContent": "363"
+    "calories": "164 calories",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "16 mg",
+    "fatContent": "4.3 g",
+    "fiberContent": "1.4 g",
+    "proteinContent": "5.6 g",
+    "saturatedFatContent": "2.6 g",
+    "sodiumContent": "363 mg"
   },
   "aggregateRating": {
     "ratingCount": 30,

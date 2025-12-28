@@ -21,7 +21,7 @@
     "name": "Karlynn Johnston",
     "description": "I’m a busy mom of two, wife \u0026 cookbook author who loves creating fast, fresh meals for my little family on the Canadian prairies. Karlynn Facts: I'm allergic to broccoli. I've never met a cocktail that I didn't like. I would rather burn down my house than clean it. Most of all, I love helping YOU get dinner ready because there's nothing more important than connecting with our loved ones around the dinner table!",
     "url": "https://www.thekitchenmagpie.com/author/karlynn/",
-    "image": "https://secure.gravatar.com/avatar/34653196b5e69c6569d180a47a8e4484?s=96\u0026r=g"
+    "image": "https://secure.gravatar.com/avatar/c4f8ef9244b9183fc492728d3f3d4f664809465b1464f87b058b8dab6d340d0a?s=96\u0026r=g"
   },
   "publisher": {
     "name": "The Kitchen Magpie",
@@ -93,8 +93,9 @@
     "transFatContent": "1 g"
   },
   "aggregateRating": {
-    "ratingCount": 78,
-    "ratingValue": 5
+    "reviewCount": 4,
+    "ratingCount": 7,
+    "ratingValue": 4.72
   },
   "datePublished": "2021-03-03T04:00:24Z"
 }

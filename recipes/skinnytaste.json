@@ -1,7 +1,7 @@
 {
   "url": "https://www.skinnytaste.com/grilled-chicken-with-spinach-and-melted/",
-  "name": "Grilled Chicken with Spinach and Melted Mozzarella",
-  "description": "Grilled chicken topped with sauteed garlicky spinach, mozzarella and roasted peppers – a quick and easy chicken dish your family will love!",
+  "name": "Grilled Chicken with Spinach and Mozzarella",
+  "description": "Easy Grilled chicken topped with sauteed garlicky spinach, mozzarella and roasted peppers – a quick and easy, high-protein chicken dish your family will love!",
   "inLanguage": "en-US",
   "image": [
     {
@@ -18,8 +18,8 @@
     }
   ],
   "author": {
-    "name": "Gina",
-    "image": "https://www.skinnytaste.com/wp-content/uploads/2023/01/Gina-headshot-sq-96x96.jpg"
+    "name": "Gina Homolka",
+    "image": "https://www.skinnytaste.com/wp-content/uploads/2025/04/cropped-gina-author-white-96x96.jpg"
   },
   "publisher": {
     "name": "Skinnytaste",
@@ -45,12 +45,12 @@
   ],
   "recipeYield": 6,
   "recipeIngredient": [
-    "24 oz 3 large chicken breasts sliced in half lengthwise to make 6",
-    "kosher salt and pepper to taste",
+    "24 oz chicken breasts sliced in half lengthwise to make 6 (from 3 large )",
+    "kosher salt ( and black pepper to taste)",
     "1 tsp olive oil",
     "3 cloves garlic (crushed)",
-    "10 oz frozen spinach (drained)",
-    "3 oz shredded part skim mozzarella",
+    "10 ounces frozen spinach (drained)",
+    "3 ounces shredded part skim mozzarella",
     "1/2 cup roasted red pepper (sliced in strips (packed in water))",
     "olive oil spray"
   ],
@@ -82,8 +82,9 @@
     "sugarContent": "0.5 g"
   },
   "aggregateRating": {
-    "ratingCount": 19,
-    "ratingValue": 4.85
+    "reviewCount": 17,
+    "ratingCount": 26,
+    "ratingValue": 4.81
   },
   "datePublished": "2020-07-11T18:23:00Z"
 }

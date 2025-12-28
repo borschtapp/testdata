@@ -2,7 +2,7 @@
   "url": "https://www.koket.se/mitt-kok/tommy-myllymaki/myllymakis-toast-skagen",
   "name": "Myllymäkis toast skagen",
   "description": "Toast skagen är en klassisk förrätt på årets festdag - nyårsafton. Tommys variant görs med hemslagen majonnäs, pepparrot och löjrom.",
-  "inLanguage": "sv-se",
+  "inLanguage": "sv",
   "image": [
     {
       "url": "https://img.koket.se/standard-mega/myllymakis-toast-skagen-2.jpg"
@@ -51,7 +51,7 @@
     }
   ],
   "aggregateRating": {
-    "ratingCount": 376,
+    "ratingCount": 397,
     "ratingValue": 3.6,
     "bestRating": 5,
     "worstRating": 1
@@ -59,8 +59,8 @@
   "video": {
     "name": "Myllymäkis toast skagen",
     "description": "Myllymäkis toast skagen",
-    "embedUrl": "https://www.tv4play.se/iframe/video/3036821?autoload=true",
-    "contentUrl": "https://www.tv4play.se/iframe/video/3036821?autoload=true",
+    "embedUrl": "https://www.tv4play.se/iframe/video/20277435?autoload=true",
+    "contentUrl": "https://www.tv4play.se/iframe/video/20277435?autoload=true",
     "thumbnailUrl": "https://img.koket.se/standard-mega/myllymakis-toast-skagen-2.jpg",
     "uploadDate": "2014-12-29T05:00:00Z"
   }

@@ -5,16 +5,17 @@
   "inLanguage": "no",
   "image": [
     {
-      "url": "https://images.matprat.no/dxgehtetqy"
+      "url": "https://images.matprat.no/xftestavbe"
     }
   ],
   "publisher": {
-    "name": "MatPrat",
+    "name": "Matprat",
     "url": "https://www.matprat.no"
   },
   "prepTime": "PT1H20M",
   "cookTime": "PT1H20M",
   "totalTime": "PT2H40M",
+  "cookingMethod": "Blande",
   "recipeCategory": [
     "Kyllingfilet",
     "Gryter"
@@ -46,16 +47,16 @@
     "1 ss rapsolje eller sennepsolje",
     "100 g cashewnøtter",
     "8 stk. tomat",
-    "2 ss olje",
+    "2 ss nøytral olje",
     "4 båter finhakket hvitløk",
     "0,5 ss revet frisk ingefær",
     "0,5 ss chilipulver (helst indisk)",
     "2 stk. hel kardemomme",
     "2 ts hel bukkehornkløver",
-    "2 ss flytende honning",
+    "2 ss honning",
     "1 stk. grønn chili",
     "2 ss smør",
-    "1 dl fløte",
+    "1 dl kremfløte eller matfløte",
     "0,5 potte frisk koriander"
   ],
   "recipeInstructions": [
@@ -75,7 +76,7 @@
       "text": "Lag smør- og tomatcurry: Bløtlegg cashewnøtter i litt lunkent vann i minst 30 minutter. Hell av vannet og mos nøttene i hurtigmikser eller med stavmikser. Sett til side."
     },
     {
-      "text": "Del tomater i biter. Varm en sauteringspanne med olje og fres tomater, hvitløk, ingefær, chilipulver, Kardemomme og bukkehornkløver på middels varme til tomatene er helt myke."
+      "text": "Del tomater i biter. Varm en sauteringspanne med olje og fres tomater, hvitløk, ingefær, chilipulver, kardemomme og bukkehornkløver på middels varme til tomatene er helt myke."
     },
     {
       "text": "Tilsett cashewpuré og bruk stavmikser eller hurtigmikser til å finmose sausen. Sil gjerne sausen gjennom en grov sikt for å få ut rester av skall, hvis du vil ha den ekstra fin."
@@ -87,9 +88,15 @@
       "text": "Legg kyllingbitene i sausen og la alt bli gjennomvarmt. Pynt med koriander."
     }
   ],
+  "nutrition": {
+    "calories": "657 KCAL",
+    "carbohydrateContent": "15 G",
+    "fatContent": "45 G",
+    "proteinContent": "46 G"
+  },
   "aggregateRating": {
-    "ratingCount": 179,
-    "ratingValue": 4.76536312849162
+    "ratingCount": 366,
+    "ratingValue": 4.80054644808743
   },
   "video": {
     "name": "Butter Chicken - kjapt og greit! | MatPrat",

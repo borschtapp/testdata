@@ -18,9 +18,7 @@
     }
   ],
   "author": {
-    "name": "Emmi",
-    "description": "Ich ❤ die einfache, schnörkellose Küche und möchte Dir Inspiration geben, wenn Du Dir mal wieder die Frage stellst: „Was soll ich heute für meine Lieben und mich bloß kochen?“",
-    "image": "https://secure.gravatar.com/avatar/af2550b34a8abe25c76d80f44d0dc231?s=96\u0026d=mm\u0026r=g"
+    "name": "Emmi"
   },
   "publisher": {
     "name": "emmikochteinfach",
@@ -88,9 +86,26 @@
       "image": "https://emmikochteinfach.de/wp-content/uploads/2022/02/Ablauf-Klassisches-Rindergulasch-2022-500.jpg"
     }
   ],
+  "nutrition": {
+    "calories": "549 kcal",
+    "servingSize": "1 Portion",
+    "carbohydrateContent": "8 g",
+    "fatContent": "38 g",
+    "proteinContent": "32 g"
+  },
   "aggregateRating": {
-    "ratingCount": 635,
-    "ratingValue": 4.99
+    "reviewCount": 8,
+    "ratingCount": 1376,
+    "ratingValue": 5
+  },
+  "video": {
+    "name": "Klassisches Rindergulasch selber machen – Einfaches Rezept zum Nachkochen!",
+    "description": "Zum einfachen Rindergulasch Rezept: 👉https://emmikochteinfach.de/klassisches-rindergulasch/ Mein Rindergulasch lässt sich leicht zubereiten; dank einiger Tipps und Tricks gelingt dir Gulasch garantiert immer. 🍲 00:00 Begrüßung \u0026 Intro 00:37 Zutaten 01:14 Rezept 01:19 Vorbereitung 02:12 Kochen 03:47 Alkoholfreie Variante 03:54 Verabschiedung \u0026 Outro Was ist das Besondere an meinem Rindergulasch-Rezept? Das Geheimnis meines Rezeptes sind die Schalotten. Aufgrund ihres milden Aromas und ihrer süßlichen Zwiebelnote. Sie sorgen für eine besonders sämige Sauce. Wichtig: Achte auf die Qualität des Fleisches, mehr dazu verrate ich dir im Video. ✔️ Hat das Fleisch eine gute Qualität, gelingt das Rindergulasch immer aufgrund des einfachen Rezepts. ✔️ Du brauchst nur wenige Zutaten, diese bekommst du das ganze Jahr über in jedem Supermarkt. 🛒 ✔️ Die Sauce ist sehr sämig, das Gulasch erhält besonders leckere Röstaromen. ✔️ Mein Rezept eignet sich auch für Kochanfänger, du benötigst nur ein bisschen Geduld. ✔️ Mein Rezept ist ideal für die ganze Familie 👪 oder um mehrere Gäste zu bewirten. ✔️ Es lässt sich gut vorbereiten: Durchgezogen am nächsten Tag schmeckt es noch besser. ✔️ Du kannst das Rindergulasch ohne Wein zubereiten, das habe ich mehrfach getestet. 🍷❌ Willkommen bei EMMI KOCHT EINFACH. Wenn Dir mein Video gefällt, lass mir gerne einen 👍 da. Vergiss auch nicht meinen Kanal zu abonnieren und die 🔔 zu aktivieren, um keine Folge mit einfachen Rezepten mehr zu verpassen.",
+    "duration": "PT4M18S",
+    "embedUrl": "https://www.youtube.com/embed/kng0jk_uK4g?feature=oembed",
+    "contentUrl": "https://www.youtube.com/watch?v=kng0jk_uK4g",
+    "thumbnailUrl": "https://i.ytimg.com/vi/kng0jk_uK4g/hqdefault.jpg",
+    "uploadDate": "2024-10-10T10:00:51Z"
   },
   "datePublished": "2022-02-10T23:00:38Z"
 }

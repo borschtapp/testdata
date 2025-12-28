@@ -1,25 +1,25 @@
 {
   "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/",
   "name": "Yaki Onigiri (Grilled Rice Ball)",
-  "description": "A favorite at Izakaya restaurants, Yaki Onigiri are Japanese grilled rice balls covered in savory soy sauce. With a crispy crust on the outside and soft sticky rice on the inside, these rice balls are simply irresistible and easy to make at home!",
+  "description": "Level up your Japanese rice balls with my tasty Yaki Onigiri (Grilled Rice Ball) recipe. I'll show you how to shape and pan-grill them with a savory soy glaze until they're golden and caramelized. With a crispy crust and tender interior, these grilled onigiri are truly irresistible!",
   "inLanguage": "en-US",
   "image": [
     {
-      "url": "https://www.justonecookbook.com/wp-content/uploads/2020/03/Yaki-Onigiri-Grilled-Rice-Ball-9532-I.jpg"
+      "url": "https://www.justonecookbook.com/wp-content/uploads/2025/06/Yaki-Onigiri-Grilled-Rice-Ball-3074-I-2.jpg"
     },
     {
-      "url": "https://www.justonecookbook.com/wp-content/uploads/2020/03/Yaki-Onigiri-Grilled-Rice-Ball-9532-I-500x500.jpg"
+      "url": "https://www.justonecookbook.com/wp-content/uploads/2025/06/Yaki-Onigiri-Grilled-Rice-Ball-3074-I-2-500x500.jpg"
     },
     {
-      "url": "https://www.justonecookbook.com/wp-content/uploads/2020/03/Yaki-Onigiri-Grilled-Rice-Ball-9532-I-500x375.jpg"
+      "url": "https://www.justonecookbook.com/wp-content/uploads/2025/06/Yaki-Onigiri-Grilled-Rice-Ball-3074-I-2-500x375.jpg"
     },
     {
-      "url": "https://www.justonecookbook.com/wp-content/uploads/2020/03/Yaki-Onigiri-Grilled-Rice-Ball-9532-I-480x270.jpg"
+      "url": "https://www.justonecookbook.com/wp-content/uploads/2025/06/Yaki-Onigiri-Grilled-Rice-Ball-3074-I-2-480x270.jpg"
     }
   ],
   "author": {
-    "name": "Nami",
-    "description": "I'm Nami, a Japanese home cook based in San Francisco. Have fun exploring the 1000+ classic \u0026 modern Japanese recipes I share with step-by-step photos and How-To YouTube videos.",
+    "name": "Namiko Hirasawa Chen",
+    "description": "Born and raised in Japan, I’m the founder and recipe developer behind Just One Cookbook, the largest English-language website for authentic Japanese recipes. Since 2011, I’ve shared over 1,200 easy, foolproof recipes with step-by-step photos to help you cook delicious Japanese meals with confidence at home.",
     "url": "https://www.justonecookbook.com/author/administrator/"
   },
   "publisher": {
@@ -40,82 +40,149 @@
   "keywords": [
     "japanese rice"
   ],
-  "recipeYield": 6,
+  "recipeYield": 9,
   "recipeIngredient": [
-    "2 rice cooker cups uncooked Japanese short-grain rice",
-    "400 ml water",
-    "1 Tbsp kosher salt (Diamond Crystal; use half for table salt) ((you do not need to use all of it))",
-    "1 Tbsp neutral-flavored oil (vegetable, rice bran, canola, etc.)",
-    "soy sauce ((I love using my homemade unagi sauce))"
+    "2¼ cups uncooked Japanese short-grain white rice",
+    "2½ cups water ((or 1⅔ cups (400 ml) for 2 rice cooker cups))",
+    "3 Tbsp soy sauce ((or 2 Tbsp for 2 rice cooker cups))",
+    "1 Tbsp sugar ((or 2 tsp for 2 rice cooker cups))",
+    "1 Tbsp toasted sesame oil ((or 2 tsp for 2 rice cooker cups))",
+    "¼ tsp Diamond Crystal kosher salt ((or ⅛ tsp for 2 rice cooker cups))",
+    "1 Tbsp soy sauce",
+    "1 tsp toasted sesame oil"
   ],
   "recipeInstructions": [
     {
-      "text": "Gather all the ingredients. Cook the rice with a rice cooker, a pot over the stove, an instant pot, or a donabe. Let the cooked rice cool a little bit until you can hold rice without burning your hands. Do not let the rice completely cool down.",
-      "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-0-0",
-      "image": "https://www.justonecookbook.com/wp-content/uploads/2012/06/Yaki-Onigiri-Ingredients.jpg"
-    },
-    {
-      "name": "To Make Rice Balls",
+      "name": "Before You Start...",
       "itemListElement": [
         {
-          "text": "First, wet both of your hands with water so the rice won’t stick.",
-          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-1-0",
-          "image": "https://www.justonecookbook.com/wp-content/uploads/2012/06/Yaki-Onigiri-1.jpg"
+          "text": "Japanese short-grain white rice requires a soaking time of 20–30 minutes. The rice-to-water ratio is 1 to 1.1 (or 1.2) for short-grain white rice. Please note that 2¼ cups (450 g, 3 rice cooker cups) of uncooked Japanese short-grain rice yield 6⅔ cups (990 g) of cooked white rice. This is enough for 9 onigiri rice balls (typically 110 g each). Optional: To make 5–6 rice balls, cook 1½ cups (300 g, 2 rice cooker cups) of uncooked Japanese short-grain rice in 1⅔ cups water (400 ml) to yield 4⅓ cups (660 g) of cooked white rice.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-0-0"
         },
         {
-          "text": "Then put some salt in your hands and rub to spread all around.",
-          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-1-1",
-          "image": "https://www.justonecookbook.com/wp-content/uploads/2012/06/Yaki-Onigiri-2.jpg"
-        },
-        {
-          "text": "Scoop about a half cup of rice onto your palm.",
-          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-1-2",
-          "image": "https://www.justonecookbook.com/wp-content/uploads/2012/06/Yaki-Onigiri-3.jpg"
-        },
-        {
-          "text": "Cover the rice with the other hand and gently form the rice into a triangle.",
-          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-1-3",
-          "image": "https://www.justonecookbook.com/wp-content/uploads/2012/06/Yaki-Onigiri-4.jpg"
-        },
-        {
-          "text": "Make sure the covering hand (my right hand) should be forming a triangle shape. When forming the onigiri shape, your hands should be just firm enough so the onigiri doesn't fall apart. You don't want to squeeze the rice too tight.",
-          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-1-4",
-          "image": "https://www.justonecookbook.com/wp-content/uploads/2012/06/Yaki-Onigiri-5.jpg"
-        },
-        {
-          "text": "I use three fingers (thumb, index finger, middle finger) to cover the area to make a nice triangle shape. Then rotate onigiri to make a perfect triangle.",
-          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-1-5",
-          "image": "https://www.justonecookbook.com/wp-content/uploads/2012/06/Yaki-Onigiri-6.jpg"
-        },
-        {
-          "text": "While you squeeze onigiri firmly with both hands, one of your hands has to press onigiri to keep a nice form.",
-          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-1-6",
-          "image": "https://www.justonecookbook.com/wp-content/uploads/2012/06/Yaki-Onigiri-7.jpg"
-        },
-        {
-          "text": "Gently squeeze the center of the triangle on both sides so there is a slight indentation (for grilling onigiri). Now onigiri is ready! You can tell I’m not a good onigiri maker – no matter how many years I have been practicing.",
-          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-1-7",
-          "image": "https://www.justonecookbook.com/wp-content/uploads/2012/06/Yaki-Onigiri-8.jpg"
+          "text": "Cook the rice; see how with a rice cooker, pot over the stove, Instant Pot, or donabe. To my rice cooker, I added 2½ cups water to 2¼ cups uncooked Japanese short-grain white rice. Once the rice is cooked, gather all the ingredients.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-0-1",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-Grilled-Rice-Ball-Ingredients.jpg"
         }
       ]
     },
     {
-      "name": "To Grill Rice Ball",
+      "name": "To Season the Cooked Rice",
       "itemListElement": [
         {
-          "text": "Lightly oil a cast-iron skillet and put it on medium heat.",
+          "text": "Combine 3 Tbsp soy sauce and 1 Tbsp sugar in a small bowl and microwave until the mixture is hot, about 30–60 seconds. Whisk it all together until the sugar dissolves.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-1-0",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-1.jpg"
+        },
+        {
+          "text": "Add 1 Tbsp toasted sesame oil and ¼ tsp Diamond Crystal kosher salt and mix it all together.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-1-1",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-2.jpg"
+        },
+        {
+          "text": "Transfer the hot cooked rice to a large bowl and add the seasoning mixture.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-1-2",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-3.jpg"
+        },
+        {
+          "text": "With a rice paddle, use a slicing motion to gently combine the seasoning and cooked rice well. Try not to mash the rice. Nami's Tip: Be sure to let the cooked rice cool a little bit until you can hold it without burning your hands. Rice must be hot or warm when making onigiri in order to hold its shape.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-1-3",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-4.jpg"
+        }
+      ]
+    },
+    {
+      "name": "To Shape the Onigiri With a Mold",
+      "itemListElement": [
+        {
+          "text": "Prepare a small bowl filled with water. Dip the onigiri mold and lid in the water to moisten so the rice doesn‘t stick to it. Remove the mold and drain the excess water.",
           "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-2-0",
-          "image": "https://www.justonecookbook.com/wp-content/uploads/2012/06/Yaki-Onigiri-9.jpg"
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-5.jpg"
         },
         {
-          "text": "Grill onigiri until all sides are crispy and lightly browned. Rice will release itself when it forms a nice crust. Don’t flip it quickly. Just work on one side at a time and avoid turning over frequently, which may end up breaking into pieces.",
+          "text": "Fill the onigiri mold with the hot seasoned rice all the way to the top edge, making sure to fill the corners. Cover with the lid and push down firmly. You should feel a slight resistance; if not, add a bit more rice.",
           "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-2-1",
-          "image": "https://www.justonecookbook.com/wp-content/uploads/2012/06/Yaki-Onigiri-10.jpg"
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-6.jpg"
         },
         {
-          "text": "Once all nicely toasted and lightly brown, lower heat to medium-low heat. Brush all sides with soy sauce (or unagi sauce). Rotate to make sure all sides become crispy. Be careful not to burn onigiri after you brush it with the sauce.",
+          "text": "Remove the lid. Flip over the mold onto a baking sheet or plate lined with parchment paper. Then, push the “button” on the mold‘s bottom to release your onigiri. Nami's Tip: Always dip your fingers in water before touching onigiri to prevent the rice from sticking to them.",
           "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-2-2",
-          "image": "https://www.justonecookbook.com/wp-content/uploads/2012/06/Yaki-Onigiri-11.jpg"
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-7.jpg"
+        },
+        {
+          "text": "Repeat with the remaining rice.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-2-3",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-8.jpg"
+        },
+        {
+          "text": "Now, firmly hand press the rice balls to keep them from falling apart while grilling. Press them a bit more tightly than you would a regular onigiri. First, moisten both palms with a bit of water to prevent the rice from sticking. Then, pick up a rice ball in your non-dominant hand. Make a \"mountain\" shape with your dominant hand. Place it on top of the rice and gently press the triangle corner while you squeeze the fingers and heel of your bottom hand to gently press the sides flat.Now, rotate toward you the triangle corner you just pressed. A new corner will now point up. Repeat the above “press and rotate” steps to hand press the second triangle corner and then the third one, always keeping your non-dominant hand on the bottom and your dominant hand on top. Press and rotate a final 2–3 more times to finish.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-2-4",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-9.jpg"
+        },
+        {
+          "text": "In the image below, the top row is hand pressed while the bottom row is not.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-2-5",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-10.jpg"
+        },
+        {
+          "text": "Optional: You can press the onigiri with plastic wrap instead if you don‘t want to touch the rice with your hands: Lay a piece of plastic wrap on the work surface, wet your fingers, and place the onigiri in the middle.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-2-6",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-11.jpg"
+        },
+        {
+          "text": "Gather the corners of the plastic wrap and twist it a few times to tighten it around the rice. Form the rice into a triangle shape in the same manner that I described above.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-2-7",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-12.jpg"
+        }
+      ]
+    },
+    {
+      "name": "To Shape the Onigiri with Plastic Wrap (optional)",
+      "itemListElement": [
+        {
+          "text": "Instead of using an onigiri mold, you can use plastic wrap to shape the rice ball. Place a piece of plastic film on the working surface, wet your fingers, and put the rice on top. Gather the corners of the plastic film and twist it a few times to tighten it around the rice.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-3-0",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-13.jpg"
+        },
+        {
+          "text": "Form the rice into a triangle shape through the plastic in the same manner that I described above for hand-pressing the onigiri. Repeat with the remaining rice. Nami's Tip: To shape the onigiri with your hands the traditional way, see the step-by-step instructions and images in my Onigiri (Japanese Rice Balls) post.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-3-1",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-14.jpg"
+        }
+      ]
+    },
+    {
+      "name": "To Pan-Grill",
+      "itemListElement": [
+        {
+          "text": "Combine 1 Tbsp soy sauce and 1 tsp toasted sesame oil for the glaze. Place a sheet of parchment paper on a large frying pan.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-4-0",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-15.jpg"
+        },
+        {
+          "text": "Gently place the rice balls on the parchment paper and grill on medium-low heat until all sides are crispy and lightly browned. Once browned on the bottom, turn them over (I use two silicone spatulas). Don’t flip them until browned; work on one side at a time and avoid handling them too much, which may cause the onigiri to break into pieces.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-4-1",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-16.jpg"
+        },
+        {
+          "text": "Rotate the onigiri to grill all sides and make sure they become crispy.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-4-2",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-17.jpg"
+        }
+      ]
+    },
+    {
+      "name": "To Glaze",
+      "itemListElement": [
+        {
+          "text": "Once they are toasted and lightly brown, turn the heat to low (or turn off the heat). Brush the onigiri sides with the soy sauce glaze and turn over to grill on the sauce side. Then, brush on the other side.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-5-0",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-18.jpg"
+        },
+        {
+          "text": "Be careful not to burn the onigiri after you brush it with the glaze. Optionally, you can brush them with my homemade unagi sauce and teriyaki sauce. Your Yaki Onigiri are now ready to enjoy.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-5-1",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/09/Yaki-Onigiri-20.jpg"
         }
       ]
     },
@@ -123,26 +190,38 @@
       "name": "To Store",
       "itemListElement": [
         {
-          "text": "Rice gets hard when you refrigerate. You can individually wrap the Yaki Onigiri in plastic wrap and cover them with a thick kitchen towel and store in the refrigerator for up to 2 days. The towel will prevent the rice from getting too cold and keep the food stay cool but not cold. When you're ready to eat, bring it back to room temperature and reheat in a microwave or frying pan.",
-          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-3-0"
+          "text": "Individually seal each yaki onigiri in plastic wrap and freeze for up to a month. Rice gets hard and dry in the fridge, so I recommend freezing over refrigerating. If you must store it in the fridge, cover the individually wrapped yaki onigiri with a thick kitchen towel and refrigerate for up to 2 days. The towel will keep the food cool but prevent it from getting too cold. When you‘re ready to eat, bring it back to room temperature and reheat in a microwave or frying pan.",
+          "url": "https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/#wprm-recipe-59479-step-6-0",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2012/06/Yaki-Onigiri-21.jpg"
         }
       ]
     }
   ],
   "nutrition": {
-    "calories": "147 kcal",
+    "calories": "207 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "31 g",
-    "fatContent": "1 g",
-    "proteinContent": "3 g",
-    "saturatedFatContent": "1 g",
-    "sodiumContent": "53 mg",
-    "transFatContent": "1 g",
+    "carbohydrateContent": "42 g",
+    "fatContent": "2 g",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "0.3 g",
+    "sodiumContent": "420 mg",
+    "sugarContent": "1 g",
     "unsaturatedFatContent": "2 g"
   },
   "aggregateRating": {
-    "ratingCount": 60,
-    "ratingValue": 4.66
+    "reviewCount": 8,
+    "ratingCount": 84,
+    "ratingValue": 4.67
   },
-  "datePublished": "2012-06-25T00:00:18Z"
+  "video": {
+    "name": "The Ultimate Guide to Perfect Yaki Onigiri 焼きおにぎり",
+    "description": "A favorite at izakaya restaurants, Yaki Onigiri are Japanese rice balls that are pan-grilled and glazed in savory soy sauce. With a crispy crust on the outside and tender rice on the inside, these rice balls are simply irresistible and easy to make at home! RECIPE \u0026 INGREDIENTS: https://www.justonecookbook.com/yaki-onigiri-grilled-rice-ball/ MORE RECIPES How to Cook Rice on the Stovetop: https://www.justonecookbook.com/how-to-cook-rice/ https://www.youtube.com/watch?v=xjkottdHL_k\u0026list=PLKd5kbO3-K91ZkDy0ur3TYYwJKrEbViUI https://www.youtube.com/watch?v=TbB1lqdrlkc\u0026list=PLKd5kbO3-K91WAD9wdgmfccb_67l5nzsX 🔪MY FAVORITES (always in my kitchen!) [affiliate] ►JOC Amazon Storefront: https://www.amazon.com/shop/justonecookbook ►ALL KITCHEN TOOLS: https://amzn.to/4aRCa1Z ▷Japanese knife: https://kikuichi.net/ ▷Cutting board: https://amzn.to/48NyLzl ▷Flat whisk: https://amzn.to/3Hi0wUZ ▷Garlic press: https://amzn.to/3NXiPTj ►ALL JAPANESE TOOLS: https://amzn.to/3TTMfWm ▷Tamagoyaki Pan: https://amzn.to/47sJf6p ▷Japanese Grator: https://amzn.to/48q4DKO (I use 6\") ▷Yukihira Nabe Saucepans: https://amzn.to/48LEHsU ▷Miso Muddler: https://amzn.to/48SM3LD ►ALL COOKWARE: https://amzn.to/3NU99sG ▷Carbon Steel Fry Pans: https://amzn.to/41OgC2k (I use 10\", 11\") ▷Dutch Oven by Staub: https://amzn.to/3vmH7zA (I use 2.75 and 5.5 QT) ►ALL KITCHEN APPLIANCES: https://amzn.to/3Sa8cyU ▷Rice cooker: https://amzn.to/48Lxyst ▷Instant Pot: https://amzn.to/47qIESD ▷Stand Mixer: https://amzn.to/3TTllhd ►ALL JAPANESE INGREDIENTS: https://amzn.to/47v1PKW ▷Dashi packet: https://amzn.to/3tCJMoz ▷Miso: https://amzn.to/4aPOcsU ►MY COOKBOOK Vol 1: https://amzn.to/3vloz2I ►MY COOKBOOK Vol 2: https://amzn.to/47y800N ►MY COOKBOOK Vol 3: https://amzn.to/3tzTFU0 🙋🏻‍♀️STAY CONNECTED 💌 Sign-up for our newsletters: https://justonecookbook.com/subscribe/ 📲 Instagram: https://instagram.com/justonecookbook/ 📲 TikTok: https://tiktok.com/@justonecookbook 📲 Facebook: https://facebook.com/justonecookbook/ 📲 Pinterest: https://pinterest.com/justonecookbook/ CHAPTERS 0:00 – Intro 0:28 – Make steamed rice 0:46 – Season the rice 1:13 – Shape rice balls into a triangle shape 1:41 – Use a onigiri mold to make rice balls 2:12 – Set up the grilling station 2:17 – Make the graze 2:24 – Grill rice balls 2:48 – Serve 3:02 – Outro 🎙️ Voiceover: Me 🙋🏻‍♀️ 🎥 Filming and Editing: Jason (https://instagram.com/xninjason/) Let's cook EASY + AUTHENTIC Japanese recipes at home! Konnichiwa! I'm Nami, the creator of the Just One Cookbook website and cooking blog. I am glad that you are here with me. Here and on JustOneCookbook.com, you can find over 1,200 recipes, cooking tips, step-by-step instructions, ingredients, and shopping guides focused on Japanese cuisine. I'm a native Japanese, born and raised in Yokohama, Japan, and now live in San Francisco, California, with my husband Mr. JOC, two high school kids, and a dog named Miso. I also wrote three Japanese cookbooks, where I share popular recipes like Oyakodon, Tamagoyaki, Chawanmushi, Sushi, Okonomiyaki, Mochi Ice Cream, Gyoza, Ramen, and more!",
+    "duration": "PT3M22S",
+    "embedUrl": "https://www.youtube.com/embed/sIGDkQf0EJ0?feature=oembed",
+    "contentUrl": "https://www.youtube.com/watch?v=sIGDkQf0EJ0",
+    "thumbnailUrl": "https://i.ytimg.com/vi/sIGDkQf0EJ0/hqdefault.jpg",
+    "uploadDate": "2024-03-22T13:00:48Z"
+  },
+  "datePublished": "2025-06-23T17:00:00Z"
 }

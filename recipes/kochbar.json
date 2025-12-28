@@ -1,7 +1,7 @@
 {
   "url": "https://www.kochbar.de/rezept/549118/Ligurisches-Huehnerragout-mit-Zucchini-Spezzatino-con-zucchine.html",
-  "name": "Ligurisches Hühnerragout mit Zucchini – Spezzatino con zucchine",
-  "description": "Eine gut gewürztes Ragout als Zwischenmahlzeit oder mit Baquettebrot eine vollständige Mahlzeit.",
+  "name": "Ligurisches Hühnerragout mit Zucchini – Spezzatino con zucchine - von Antareja",
+  "description": "Hervorragendes Rezept für Ligurisches Hühnerragout mit Zucchini – Spezzatino con zucchine - toll \u0026 oft gelobt. Mit ausführlichen Nährwertangaben. Jetzt als Favorit merken!",
   "inLanguage": "de-DE",
   "image": [
     {
@@ -20,24 +20,20 @@
   "totalTime": "PT1H10M",
   "recipeCategory": [
     "Mittagstisch",
-    "Beilagen",
-    "Fleisch",
-    "Geflügel",
-    "gegart",
-    "Europa",
-    "Italien",
     "Hauptspeise",
     "festlich",
-    "preiswerte",
+    "Europa",
+    "Italien",
+    "Beilagen",
     "braten",
     "marinieren",
-    "pfannenrühren"
+    "pfannenrühren",
+    "Fleisch"
   ],
   "recipeCuisine": [
-    "Europa"
+    "Internationale Küche"
   ],
   "keywords": [
-    "Ligurisches Hühnerragout mit Zucchini – Spezzatino con zucchine",
     "Hühnerbrust",
     "ohne Knochen",
     "Knoblauchzehen",
@@ -94,17 +90,16 @@
     }
   ],
   "nutrition": {
-    "calories": "0 kcal",
+    "calories": "127 kcal",
     "servingSize": "100 g",
-    "carbohydrateContent": "0 g",
-    "fatContent": "0 g",
-    "proteinContent": "0 g"
+    "carbohydrateContent": "2.9 g",
+    "fatContent": "11.2 g",
+    "proteinContent": "2.5 g"
   },
   "aggregateRating": {
     "ratingCount": 4,
-    "ratingValue": 4.75,
+    "ratingValue": 5,
     "bestRating": 5,
     "worstRating": 1
-  },
-  "datePublished": "2020-06-26T09:05:00+02:00"
+  }
 }

@@ -1,27 +1,35 @@
 {
-  "url": "https://www.finedininglovers.com/recipes/main-course/zucchini-raw-vegan-lasagna",
+  "url": "https://www.finedininglovers.com/explore/recipes/zucchini-raw-vegan-lasagna",
   "name": "Zucchini Raw Vegan Lasagna",
   "description": "An easy raw vegan lasagna recipe made with zucchini, basil pesto and macadamia cheese: a tasty dish, perfect whether you follow a vegan or a raw food diet. Yum!",
   "inLanguage": "en",
   "image": [
     {
-      "url": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/Original_2242_zucchini-lasagna-raw-vegan.jpg"
+      "url": "https://www.finedininglovers.com/sites/default/files/recipe_content_images/Original_2242_zucchini-lasagna-raw-vegan.jpg",
+      "width": 694,
+      "height": 383
     }
   ],
   "author": {
     "name": "Uno Cookbook"
   },
+  "publisher": {
+    "name": "Fine Dining Lovers",
+    "url": "https://www.finedininglovers.com"
+  },
+  "prepTime": "PT50S",
+  "cookTime": "PT49M10S",
   "totalTime": "PT50M",
   "recipeCategory": [
     "Main Course"
   ],
-  "recipeYield": 4,
+  "recipeYield": 1,
   "recipeIngredient": [
     "Zucchini",
     "Basil",
     "Pine nuts",
     "Extra virgin olive oil",
-    "Yeast Flakes",
+    "Yeast flakes",
     "Garlic",
     "Salt",
     "Tomatoes",
@@ -31,35 +39,23 @@
     "Pepper",
     "Brown sugar",
     "Oregano",
-    "Macadamia Nuts",
-    "Yeast Flakes",
+    "Macadamia nuts",
+    "Yeast flakes",
     "Salt",
     "Limes"
   ],
   "recipeInstructions": [
     {
-      "text": "For the macadamia cheese Pour all ingredients in a blender and mix until a thick cream. Set aside. For the tomato cream Pour all ingredients into a blender and mix until creamy. Set aside. For the basil pesto Pour all ingredients into a blender and mix until creamy. Set aside. Wash zucchini and cut them into very thin slices. Make the raw vegan lasagna alternating a layer of zucchini"
+      "name": "For the macadamia cheese",
+      "text": "Pour all ingredients in a blender and mix until a thick cream.Set aside. minimal_rich_text"
     },
     {
-      "text": "a layer of macadamia cheese"
+      "name": "For the tomato cream",
+      "text": "Pour all ingredients into a blender and mix until creamy.Set aside. minimal_rich_text"
     },
     {
-      "text": "a layer of zucchini"
-    },
-    {
-      "text": "a layer of tomato sauce"
-    },
-    {
-      "text": "a layer of zucchini"
-    },
-    {
-      "text": "a layer of basil pesto. Keep the lasagna in the fridge and serve decorated with fresh basil and pine nuts."
+      "name": "For the basil pesto",
+      "text": "Pour all ingredients into a blender and mix until creamy. Set aside.Wash zucchini and cut them into very thin slices.Make the raw vegan lasagna alternating a layer of zucchini a layer of macadamia cheese a layer of zucchini a layer of tomato sauce a layer of zucchini a layer of basil pesto.Keep the lasagna in the fridge and serve decorated with fresh basil and pine nuts. minimal_rich_text"
     }
-  ],
-  "aggregateRating": {
-    "ratingCount": 58,
-    "ratingValue": 3.12,
-    "bestRating": 5,
-    "worstRating": 1
-  }
+  ]
 }

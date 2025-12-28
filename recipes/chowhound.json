@@ -1,6 +1,17 @@
 {
-  "url": "https://www.chowhound.com",
-  "name": "Chowhound",
-  "description": "Chowhound",
-  "inLanguage": "en"
+  "url": "https://www.chowhound.com/",
+  "name": "Chowhound - The Site for Food Nerds: Cooking Tips, Culinary How-To's, \u0026 More.",
+  "description": "Chowhound is the site for food nerds - from expert chef tips to culinary how-to's, helpful ingredient lists, baking science, and more.",
+  "inLanguage": "en-US",
+  "image": [
+    {
+      "url": "https://www.chowhound.com/img/chowhound-share-image-1280x720.png"
+    }
+  ],
+  "publisher": {
+    "name": "Chowhound",
+    "description": "Chowhound is the site for food nerds - from expert chef tips to culinary how-to's, helpful ingredient lists, baking science, and more.",
+    "url": "https://www.chowhound.com",
+    "logo": "https://www.chowhound.com/img/chowhound-share-image-1280x720.png"
+  }
 }

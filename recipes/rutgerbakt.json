@@ -1,7 +1,7 @@
 {
   "url": "https://rutgerbakt.nl/taart-recepten/abrikozenvlaai/",
   "name": "Abrikozenvlaai",
-  "description": "Met dit recept kun je zelf een heerlijke abrikozenvlaai bakken! Deze vlaai is het lekkerst met verse abrikozen, maar buiten het seizoen kun je die oo",
+  "description": "Met dit recept maak je een klassieke abrikozenvlaai zoals je ‘m kent uit Limburg: een heerlijke vlaaibodem, een romige abrikozenvlaai vulling van ban",
   "inLanguage": "nl-NL",
   "image": [
     {
@@ -10,7 +10,7 @@
   ],
   "author": {
     "name": "Rutger",
-    "image": "https://secure.gravatar.com/avatar/0c28b9708ffdb69a116a17038323dd69?s=96\u0026d=mm\u0026r=g"
+    "image": "https://secure.gravatar.com/avatar/91819a3786fd5734ea45899242304abfe8acf892ca0f2ee0eaf1bedd11630fd1?s=96\u0026d=mm\u0026r=g"
   },
   "publisher": {
     "name": "Rutger Bakt",
@@ -33,11 +33,11 @@
   ],
   "recipeInstructions": [
     {
-      "text": "Met dit recept kun je zelf een heerlijke abrikozenvlaai bakken! Deze vlaai is het lekkerst met verse abrikozen, maar buiten het seizoen kun je die oo"
+      "text": "Met dit recept maak je een klassieke abrikozenvlaai zoals je ‘m kent uit Limburg: een heerlijke vlaaibodem, een romige abrikozenvlaai vulling van ban"
     }
   ],
   "aggregateRating": {
-    "reviewCount": 130,
+    "reviewCount": 134,
     "ratingValue": 4
   }
 }

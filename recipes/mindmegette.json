@@ -1,49 +1,68 @@
 {
-  "url": "https://www.mindmegette.hu/tepsis-krumpli-ceklaval-es-repaval.recept/",
-  "name": "Tepsis krumpli céklával és répával Recept képpel - Mindmegette.hu",
-  "description": "Készítsd el a Tepsis krumpli céklával és répával kipróbált, bevált receptjét. A Mindmegette.hu receptgyűjteményében mindent megtalálsz.",
-  "inLanguage": "hu",
+  "url": "https://www.mindmegette.hu/recept/tepsis-krumpli-ceklaval-es-repaval",
+  "name": "Tepsis krumpli céklával és répával | Mindmegette.hu",
+  "description": "Villámgyors, mégis rendkívül ízes köret, mely remekül passzol sült húsok és fasírtok mellé, de akár kímélő vacsorának magában is tökéletes választás lehet.",
+  "inLanguage": "hu-HU",
   "image": [
     {
-      "url": "https://www.mindmegette.hu/images/283/O/tepsis-ceklas.jpg"
+      "url": "https://cdn.mindmegette.hu/2024/04/M2QuOAkvbSLG68tEfpiI_r-9J0qCMutuGEHKdrhgtII/fill/0/0/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JlZjljMjEzYzg2OTQxNDZiYzY2Y2ExOTc2NmVkZGI4.webp"
     }
   ],
   "author": {
-    "name": "MME"
+    "name": "Mindmegette"
   },
   "publisher": {
     "name": "Mindmegette.hu",
     "url": "https://www.mindmegette.hu"
   },
-  "totalTime": "PT45M",
+  "prepTime": "PT15M",
+  "cookTime": "PT25M",
+  "totalTime": "PT40M",
   "recipeCategory": [
-    "egytálétel",
-    "köret"
+    "alapanyagtípus"
+  ],
+  "recipeCuisine": [
+    "magyar"
   ],
   "keywords": [
-    "Tepsis krumpli céklával és répával",
-    "vegetáriánus",
-    "klasszikus",
-    "ebéd-vacsora otthonra",
-    "átlagos",
-    "egyszerű",
-    "45 perc",
-    "egytálétel",
-    "köret",
-    "krumplis",
-    "tepsis",
-    "céklás",
+    "tepsis köret",
+    "tepsis krumpli",
+    "krumpli",
     "burgonya",
-    "rozmaringos - MME"
+    "köret",
+    "sárgarépa",
+    "répa",
+    "cékla"
   ],
+  "recipeYield": 4,
   "recipeIngredient": [
-    "6 db burgonya",
-    "2 db cékla",
+    "6 db Burgonya",
+    "2 db Cékla",
     "8 db répa",
-    "4 db lilahagyma",
-    "6 gerezd fokhagyma",
+    "4 db Lilahagyma",
+    "6 gerezd Fokhagyma",
     "friss rozmaring",
-    "só",
-    "bors"
-  ]
+    "Só",
+    "Bors"
+  ],
+  "recipeInstructions": [
+    {
+      "name": "1. lépés",
+      "text": "A zöldségeket megpucoljuk és megmossuk."
+    },
+    {
+      "name": "2. lépés",
+      "text": "A burgonyát vastagabb szeletekre vágjuk, a répákat hosszában elfelezzük, a lilahagymát félbe vagy negyedbe vágjuk, a céklát szeleteljük, a fokhagymát egészben hagyjuk."
+    },
+    {
+      "name": "3. lépés",
+      "text": "Az összes, előkészített zöldséget egy tepsibe tesszük, meglocsoljuk olívaolajjal, sózzuk és borsozzuk, kézzel összeforgatjuk az egészet, majd friss rozmaringot teszünk rá."
+    },
+    {
+      "name": "4. lépés",
+      "text": "Lefedjük alufóliával, 180 fokon 20 percig sütjük, majd fólia nélkül, amíg minden zöldség meg nem puhul. Grill funkció esetén az utolsó 5 percben meg is piríthatjuk. Sült húsok mellé kiváló, laktató köret."
+    }
+  ],
+  "nutrition": {},
+  "datePublished": "2023-11-13T08:02:00Z"
 }

@@ -1,5 +1,5 @@
 {
-  "url": "http://www.simply-cookit.com/de/rezepte/gnocchi-zuckerschoten-parmesansauce",
+  "url": "https://www.simply-cookit.com/de/rezepte/gnocchi-zuckerschoten-parmesansauce",
   "name": "Gnocchi mit Zuckerschoten und getrockneten Tomaten in Parmesansauce",
   "description": "Ein besonders schnell zubereitetes Gericht - mit feiner Tomaten-Parmesansauce!",
   "inLanguage": "de",
@@ -10,14 +10,17 @@
   ],
   "author": {
     "name": "simply-cookit.com",
-    "url": "http://www.simply-cookit.com"
+    "url": "https://www.simply-cookit.com"
   },
   "publisher": {
     "name": "Cookit",
-    "url": "http://www.simply-cookit.com"
+    "url": "https://www.simply-cookit.com"
   },
   "cookTime": "PT21M",
   "totalTime": "PT21M",
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
   "recipeCategory": [
     "Vegetarisch"
   ],
@@ -30,8 +33,8 @@
   "recipeYield": 4,
   "recipeIngredient": [
     "90 g Parmesan",
-    "1 Zwiebel",
-    "1 Knoblauchzehe",
+    "1Zwiebel",
+    "1Knoblauchzehe",
     "0,5 TL Salz",
     "30 g Butter",
     "3 TL Weizenmehl, Type 405"
@@ -51,8 +54,8 @@
     "proteinContent": "19 g"
   },
   "aggregateRating": {
-    "ratingCount": 1,
-    "ratingValue": 5,
+    "ratingCount": 4,
+    "ratingValue": 4.5,
     "bestRating": 5,
     "worstRating": 1
   }

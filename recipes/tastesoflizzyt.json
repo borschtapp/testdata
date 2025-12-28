@@ -1,7 +1,7 @@
 {
   "url": "https://www.tastesoflizzyt.com/soft-baked-gingerbread-cookies/",
-  "name": "Soft Baked Molasses Cookies",
-  "description": "Molasses Cookies have the taste of gingerbread cookies, but are soft and thick. Roll the dough balls in sugar for the perfect sweetness!",
+  "name": "Soft Molasses Christmas Cookies",
+  "description": "Molasses Christmas Cookies have the taste of gingerbread cookies, but are soft and thick. Roll the dough balls in sugar for the perfect sweetness!",
   "inLanguage": "en-US",
   "image": [
     {
@@ -16,8 +16,8 @@
   ],
   "author": {
     "name": "Julie Clark",
-    "url": "https://www.tastesoflizzyt.com/author/tastesoflizzytgmail-com/",
-    "image": "https://secure.gravatar.com/avatar/18bbc418351e1e576272e281cffb8a51?s=96\u0026d=mm\u0026r=g"
+    "description": "I'm Julie Clark, CEO and recipe developer of Tastes of Lizzy T. With my B.A. in Education and over 30 years of cooking and baking, I want to teach YOU the best of our family recipes.",
+    "url": "https://www.tastesoflizzyt.com/author-julie-clark/"
   },
   "publisher": {
     "name": "Tastes of Lizzy T",
@@ -27,7 +27,7 @@
   },
   "prepTime": "PT15M",
   "cookTime": "PT8M",
-  "totalTime": "PT27M",
+  "totalTime": "PT23M",
   "recipeCategory": [
     "Dessert"
   ],
@@ -43,57 +43,67 @@
   ],
   "recipeYield": 60,
   "recipeIngredient": [
-    "1 cup shortening",
+    "1 cup shortening (or room temperature butter*)",
     "1 cup brown sugar (packed)",
     "1 cup molasses",
     "1 cup buttermilk",
     "5 1/2 cups all-purpose flour",
     "4 teaspoons baking soda",
-    "1 teaspoon ginger",
-    "3/4 teaspoon cinnamon",
-    "1/4 teaspoon nutmeg",
-    "1/4 teaspoon cloves",
+    "1 teaspoon ground ginger",
+    "3/4 teaspoon ground cinnamon",
+    "1/4 teaspoon ground nutmeg",
+    "1/4 teaspoon ground cloves",
     "1 teaspoons salt",
-    "1/2 cup extra sugar for rolling dough"
+    "1/2 cup extra granulated sugar for rolling dough"
   ],
   "recipeInstructions": [
     {
-      "text": "In a large bowl, mix together the shortening, brown sugar, molasses and buttermilk. The mixture will look curdled, but don't worry...it will all come together with the dry ingredients.",
+      "text": "Preheat the oven to 350ºF.",
       "url": "https://www.tastesoflizzyt.com/soft-baked-gingerbread-cookies/#wprm-recipe-18920-step-0-0"
     },
     {
-      "text": "In a separate bowl, sift together the flour, baking soda, ginger, cinnamon, nutmeg, cloves and salt.",
+      "text": "In a large bowl (or a stand mixer bowl with the paddle attachment), cream together the shortening, brown sugar, molasses and buttermilk. The mixture will look curdled, but don't worry...it will all come together with the dry ingredients. 1 cup shortening, 1 cup brown sugar, 1 cup molasses, 1 cup buttermilk",
       "url": "https://www.tastesoflizzyt.com/soft-baked-gingerbread-cookies/#wprm-recipe-18920-step-0-1"
     },
     {
-      "text": "Add the dry ingredients to the creamed sugar mixture and mix well. The dough will be very soft and slightly sticky, but you should be able to roll",
+      "text": "In a separate bowl, sift together the flour, baking soda, ginger, cinnamon, nutmeg, cloves and salt. 5 1/2 cups all-purpose flour, 4 teaspoons baking soda, 1 teaspoon ground ginger, 3/4 teaspoon ground cinnamon, 1/4 teaspoon ground nutmeg, 1/4 teaspoon ground cloves, 1 teaspoons salt",
       "url": "https://www.tastesoflizzyt.com/soft-baked-gingerbread-cookies/#wprm-recipe-18920-step-0-2"
     },
     {
-      "text": "Roll the dough into balls and then roll the balls in sugar.",
+      "text": "Add the dry ingredients to the wet ingredients and mix well. The dough will be very soft and slightly sticky, but you should be able to roll",
       "url": "https://www.tastesoflizzyt.com/soft-baked-gingerbread-cookies/#wprm-recipe-18920-step-0-3"
     },
     {
-      "text": "Place the cookie dough balls on an ungreased cookie sheet and bake at 350 degrees Fahrenheit for 8-10 minutes. Don't over bake the cookies. We remove them before they get browned.",
+      "text": "Use a cookie scoop to spoon out the dough and roll into balls. Then roll the balls in sugar.",
       "url": "https://www.tastesoflizzyt.com/soft-baked-gingerbread-cookies/#wprm-recipe-18920-step-0-4"
     },
     {
-      "text": "Allow the cookies to cool on the pan for 3-5 minutes before moving to a wire rack to cool completely. Then store in an airtight container at room temperature.",
+      "text": "Place the cookie dough balls on an ungreased cookie sheet about 2\" apart. Bake in the preheated oven for 8-10 minutes. Don't over bake the cookies. We remove them before they get browned.",
       "url": "https://www.tastesoflizzyt.com/soft-baked-gingerbread-cookies/#wprm-recipe-18920-step-0-5"
+    },
+    {
+      "text": "Allow the cookies to cool on the pan for 3-5 minutes before moving to a wire rack to cool completely.",
+      "url": "https://www.tastesoflizzyt.com/soft-baked-gingerbread-cookies/#wprm-recipe-18920-step-0-6"
     }
   ],
   "nutrition": {
     "calories": "111 kcal",
     "servingSize": "1 serving",
     "carbohydrateContent": "18 g",
-    "fatContent": "3 g",
+    "cholesterolContent": "0.4 mg",
+    "fatContent": "4 g",
+    "fiberContent": "0.3 g",
     "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
     "sodiumContent": "119 mg",
-    "sugarContent": "9 g"
+    "sugarContent": "10 g",
+    "transFatContent": "0.4 g",
+    "unsaturatedFatContent": "2 g"
   },
   "aggregateRating": {
-    "ratingCount": 10,
-    "ratingValue": 5
+    "reviewCount": 6,
+    "ratingCount": 12,
+    "ratingValue": 4.92
   },
   "datePublished": "2020-11-10T01:57:00Z"
 }

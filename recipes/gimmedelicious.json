@@ -18,8 +18,8 @@
     }
   ],
   "author": {
-    "name": "Layla",
-    "url": "https://gimmedelicious.com/author/laylaatikgmail-com/",
+    "name": "Layla Atik",
+    "url": "https://gimmedelicious.com/about",
     "image": "https://secure.gravatar.com/avatar/69455460fb3e478fdd1523524376161c?s=96\u0026d=mm\u0026r=g"
   },
   "publisher": {
@@ -93,13 +93,14 @@
     "sugarContent": "8 g"
   },
   "aggregateRating": {
-    "ratingCount": 23,
-    "ratingValue": 4.87
+    "reviewCount": 12,
+    "ratingCount": 50,
+    "ratingValue": 4.78
   },
   "video": {
     "name": "Sheet Pan Roasted Chicken, Sweet Potatoes, \u0026 Broccoli + Meal Prep",
     "description": "Full recipe here: https://gimmedelicious.com/chicken-broccoli-sweet-potatoes-meal-prep/ Healthy one-pan chicken, sweet potatoes, and broccoli oven-roasted to perfection! This quick one-pan dish is packed full of flavor and is GREAT for meal prepping too!",
-    "duration": "PT1M30S",
+    "duration": "PT1M31S",
     "embedUrl": "https://www.youtube.com/embed/u7qA2OtB6uk?feature=oembed",
     "contentUrl": "https://www.youtube.com/watch?v=u7qA2OtB6uk",
     "thumbnailUrl": "https://i.ytimg.com/vi/u7qA2OtB6uk/hqdefault.jpg",

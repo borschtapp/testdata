@@ -5,11 +5,31 @@
   "inLanguage": "en",
   "image": [
     {
-      "url": "https://woop.co.nz/media/catalog/product/cache/f4f005ad5960ef8c7b8a08a9a3fc244e/b/-/b-pan-seared-beef_s64dydtpoves1rbu.jpg"
+      "url": "https://woop.co.nz/media/catalog/product/b/-/b-pan-seared-beef_s64dydtpoves1rbu.jpg?optimize=medium\u0026bg-color=255,255,255\u0026fit=bounds\u0026height=\u0026width="
     }
   ],
   "publisher": {
     "name": "WOOP!",
     "url": "https://woop.co.nz"
+  },
+  "cookTime": "PT20M",
+  "recipeCuisine": [
+    "Asian Korean"
+  ],
+  "recipeYield": 2,
+  "recipeIngredient": [
+    "1 pack of beef sirloin, 1 pack of steamed brown rice, 1 pot of Korean seasoning, 1 pot of sesame drizzle, 1 pot of kimchi, 1 sachet of sesame sprinkle, 1 pot of edamame and peas, 1 capsicum, 1 bag of bok choy"
+  ],
+  "recipeInstructions": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "nutrition": {
+    "calories": "558",
+    "carbohydrateContent": "43",
+    "fatContent": "23",
+    "proteinContent": "43g, "
   }
 }

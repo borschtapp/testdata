@@ -19,13 +19,12 @@
   ],
   "author": {
     "name": "Dassana Amit",
-    "description": "Welcome to Dassana's Veg Recipes. I share vegetarian recipes from India \u0026 around the World. Having been cooking for decades and with a professional background in cooking \u0026 baking, I help you to make your cooking journey easier with my tried and tested recipes showcased with step by step photos \u0026 plenty of tips \u0026 suggestions.",
-    "image": "https://secure.gravatar.com/avatar/1f1e0a18cf458d170463061bfd17da5c?s=96\u0026d=mm\u0026r=g"
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2025/06/dassanas-veg-recipes-logo.png"
   },
   "publisher": {
     "name": "Dassana's Veg Recipes",
     "url": "https://www.vegrecipesofindia.com",
-    "logo": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/02/DVR-logomark-green.jpg"
+    "logo": "https://www.vegrecipesofindia.com/wp-content/uploads/2025/06/dassanas-veg-recipes-logo.png"
   },
   "prepTime": "PT2H",
   "cookTime": "PT2H",
@@ -161,8 +160,9 @@
     "unsaturatedFatContent": "2 g"
   },
   "aggregateRating": {
-    "ratingCount": 64,
-    "ratingValue": 4.93
+    "reviewCount": 8,
+    "ratingCount": 79,
+    "ratingValue": 4.92
   },
   "datePublished": "2022-11-03T00:21:49Z"
 }

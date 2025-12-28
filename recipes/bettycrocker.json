@@ -5,7 +5,7 @@
   "inLanguage": "en",
   "image": [
     {
-      "url": "https://images-gmi-pmc.edge-generalmills.com/e1306219-6178-4e15-afaf-ba6e527f1e6b.jpg"
+      "url": "https://mojo.generalmills.com/api/public/content/soxzlW4wykCctkAYPLGPTA_webp_base.webp?v=731ac276\u0026t=85e6ab0127c04f66a40c0b82332e03a6"
     }
   ],
   "author": {
@@ -67,8 +67,9 @@
   },
   "aggregateRating": {
     "ratingCount": 60,
-    "ratingValue": 4.5,
+    "ratingValue": 4.7,
     "bestRating": 5,
     "worstRating": 1
-  }
+  },
+  "datePublished": "2018-01-31T00:00:00-06:00"
 }

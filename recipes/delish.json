@@ -1,21 +1,21 @@
 {
-  "url": "https://www.delish.com/cooking/recipe-ideas/recipes/a56732/pumpkin-cheesecake-roll-recipe/",
+  "url": "https://www.delish.com/cooking/recipe-ideas/a56732/pumpkin-cheesecake-roll-recipe/",
   "name": "Pumpkin Cheesecake Roll",
-  "description": "Master the art of the Pumpkin Roll with this easy recipe.",
-  "inLanguage": "en-us",
+  "description": "The pumpkin roll's iconic swirls make it a staple stunning dessert during the fall season—learn how to perfect it with our easy recipe.",
+  "inLanguage": "en-US",
   "image": [
     {
-      "url": "https://hips.hearstapps.com/hmg-prod/images/delish-190814-pumpkin-roll-0046-landscape-pf-1567187755.jpg?crop=0.668xw:1.00xh;0.282xw,0\u0026resize=1200:*",
+      "url": "https://hips.hearstapps.com/hmg-prod/images/pumpkin-cheesecake-roll-index-64f7952c6df54.jpg?crop=0.500xw:1.00xh;0.249xw,0\u0026resize=1200:*",
       "width": 1200,
       "height": 1200
     },
     {
-      "url": "https://hips.hearstapps.com/hmg-prod/images/delish-190814-pumpkin-roll-0046-landscape-pf-1567187755.jpg?crop=0.8891228070175439xw:1xh;center,top\u0026resize=1200:*",
+      "url": "https://hips.hearstapps.com/hmg-prod/images/pumpkin-cheesecake-roll-index-64f7952c6df54.jpg?crop=0.6668626874448692xw:1xh;center,top\u0026resize=1200:*",
       "width": 1200,
       "height": 900
     },
     {
-      "url": "https://hips.hearstapps.com/hmg-prod/images/delish-190814-pumpkin-roll-0046-landscape-pf-1567187755.jpg?crop=1xw:0.8435280189423836xh;center,top\u0026resize=1200:*",
+      "url": "https://hips.hearstapps.com/hmg-prod/images/pumpkin-cheesecake-roll-index-64f7952c6df54.jpg?crop=0.8891502499264922xw:1xh;center,top\u0026resize=1200:*",
       "width": 1200,
       "height": 675
     }
@@ -42,61 +42,94 @@
     "dessert"
   ],
   "keywords": [
-    "pumpkin roll",
-    "pumpkin desserts",
-    "fall desserts",
-    "swiss roll",
-    "cream cheese frosting",
-    "thanksgiving desserts",
-    "pumpkin cake"
+    "content-type: Expanded Recipe",
+    "locale: US",
+    "displayType: recipe",
+    "shortTitle: Pumpkin Cheesecake Roll",
+    "contentId: 9e44c44d-46ca-45d9-85f9-bb9d91cc0ced",
+    "pumpkin roll, pumpkin desserts, fall desserts, swiss roll, cream cheese frosting, thanksgiving desserts, pumpkin cake",
+    "OCCASION: autumn",
+    "OCCASION: Thanksgiving",
+    "CATEGORY: baking",
+    "CATEGORY: dessert",
+    "TOTALTIME: 01:00:00",
+    "FILTERTIME: \u003e1HR"
   ],
   "recipeYield": 8,
   "recipeIngredient": [
     "Cooking spray",
-    "1 c. granulated sugar",
-    "3/4 c. all-purpose flour",
-    "1/2 tsp. kosher salt",
+    "3/4 c. (90 g.) all-purpose flour",
     "1 tsp. baking soda",
+    "1/2 tsp. kosher salt",
     "1/2 tsp. pumpkin spice",
     "3 large eggs",
+    "1 c. (200 g.) granulated sugar",
     "2/3 c. pumpkin puree",
-    "Powdered sugar, for rolling",
+    "Confectioners' sugar, for rolling",
     "12 oz. cream cheese, softened",
-    "1 tbsp. butter, melted",
-    "1 tsp. pure vanilla extract",
-    "1 1/4 c. powdered sugar",
-    "1/2 tsp. kosher salt"
+    "1 tbsp. unsalted butter, melted",
+    "1 1/4 c. (145 g.) confectioners' sugar, plus more for dusting",
+    "1 tsp. pure vanilla extract"
   ],
   "recipeInstructions": [
     {
-      "text": "Preheat oven to 350°. Line a 15” x 10” jelly roll pan with parchment and grease with cooking spray. In a large bowl, combine sugar, flour, salt, baking soda, pumpkin spice, eggs, and pumpkin puree until just combined. Spread into prepared pan and bake until a toothpick inserted in center of cake comes out clean, 15 minutes."
+      "name": "Cake",
+      "itemListElement": [
+        {
+          "text": "Preheat oven to 350°. Line a 15\" x 10\" jelly roll pan with parchment and grease with cooking spray."
+        },
+        {
+          "text": "In a medium bowl, whisk flour, baking soda, salt, and pumpkin spice. In a large bowl, whisk eggs, granulated sugar, and pumpkin puree until smooth. Add dry ingredients to egg mixture and whisk just to combine. Spread into prepared pan."
+        },
+        {
+          "text": "Bake cake until a tester inserted into the center comes out clean, about 15 minutes."
+        },
+        {
+          "text": "Meanwhile, lay out a large kitchen towel on your counter (try to use one with little to no texture) and dust with confectioners' sugar. When cake is done baking, flip onto kitchen towel and gently peel off parchment."
+        },
+        {
+          "text": "Starting at a short end, gently but tightly roll cake into a log. Let cool completely."
+        }
+      ]
     },
     {
-      "text": "Meanwhile, lay out a large kitchen towel on your counter (try to use one with little to no texture) and dust with powdered sugar. When cake is done baking, flip onto kitchen towel and gently peel off parchment paper."
-    },
-    {
-      "text": "Starting at a short end, gently but tightly roll cake into a log. Let cool completely."
-    },
-    {
-      "text": "Meanwhile, make filling: In a large bowl, combine cream cheese, melted butter, vanilla, powdered sugar, and salt. Using a hand mixer, whip until smooth."
-    },
-    {
-      "text": "When cake is cooled, gently unroll (it’s ok if it remains slightly curled) and spread with cream cheese filling. Roll back up and dust with more powdered sugar. Slice and serve."
+      "name": "Filling",
+      "itemListElement": [
+        {
+          "text": "In a large bowl, using a handheld mixer on medium-high speed, beat cream cheese, butter, and salt until light and fluffy. Add confectioners' sugar and vanilla and continue to beat until smooth."
+        },
+        {
+          "text": "When cake is cooled, gently unroll (it’s okay if it remains slightly curled) and spread with cream cheese filling. Using towel if needed, roll back up and dust with more confectioners' sugar."
+        }
+      ]
     }
   ],
+  "nutrition": {
+    "calories": " 427 Calories",
+    "carbohydrateContent": "57 g",
+    "cholesterolContent": "117 mg",
+    "fatContent": "20 g",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "332 mg",
+    "sugarContent": "47 g",
+    "transFatContent": "1 g"
+  },
   "aggregateRating": {
-    "reviewCount": 11,
-    "ratingValue": 4.2727275,
+    "reviewCount": 15,
+    "ratingValue": 4.3333335,
     "bestRating": 5,
     "worstRating": 1
   },
+  "commentCount": 54,
   "video": {
-    "name": "Impress Your Friends With This Amazing Pumpkin Roll",
-    "description": "#spiralgoals",
-    "duration": "PT1M2S",
-    "embedUrl": "https://glimmer.hearstapps.com/amp.html?embedId=8b0f5859-eec8-48b1-bad2-7230d6ce3830",
-    "contentUrl": "https://streaming.hearstdigitalstudios.com/df12ad5f-a0a9-44c6-ab62-022a0035c779/video_rover_16x9_1080p_hd_1567108334_55553.mp4",
-    "thumbnailUrl": "https://hips.hearstapps.com/hmg-prod/images/delish-190814-pumpkin-roll-0046-landscape-pf-1567187755.jpg?crop=1xw:0.8435280189423836xh;center,top",
-    "uploadDate": "2018-03-13T21:44:33.130566Z"
+    "name": "Perfect The Iconic Swirls In Our Classic Pumpkin Cheesecake Roll Recipe",
+    "description": "The pumpkin roll's iconic swirls make it a staple stunning dessert during the fall season—learn how to perfect it with our easy recipe.",
+    "duration": "PT1M23S",
+    "embedUrl": "https://www.delish.com/_assets/video-player/with-static-page/index.html?embedId=8216eb97-7134-49b4-987f-b8a1c6a80e3d",
+    "contentUrl": "https://streaming.hearstdigitalstudios.com/849df922-9f71-46c8-80ef-f038c36409d1/video_rover_16x9_1080p_hd_1698262217_95906.mp4",
+    "thumbnailUrl": "https://hips.hearstapps.com/hmg-prod/images/pumpkin-cheesecake-roll-index-64f7952c6df54.jpg?crop=0.891xw:1.00xh;0.0554xw,0",
+    "uploadDate": "2024-12-05T22:36:23.03477Z"
   }
 }

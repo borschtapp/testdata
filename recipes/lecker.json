@@ -1,36 +1,59 @@
 {
   "url": "https://www.lecker.de/gemuesepfanne-mit-haehnchen-zuckerschoten-und-brokkoli-79685.html",
   "name": "Gemüsepfanne mit Hähnchen, Zuckerschoten und Brokkoli",
-  "description": "Unser beliebtes Rezept für Gemüsepfanne mit Hähnchen, Zuckerschoten und Brokkoli und mehr als 65.000 weitere kostenlose Rezepte auf LECKER.de.",
-  "inLanguage": "de-de",
+  "description": "Unser beliebtes Rezept für Gemüsepfanne mit Hähnchen, Zuckerschoten und Brokkoli und mehr als 45.000 weitere kostenlose Rezepte auf LECKER.de.",
+  "inLanguage": "de",
   "image": [
     {
-      "url": "https://images.lecker.de/,id=7e976162,b=lecker,w=610,cg=c.jpg"
+      "url": "https://images.lecker.de/gemusepfanne-mit-hahnchen-zuckerschoten-und-brokkoli/1x1,id=7e976162,b=lecker,w=1600,h=,ca=12.42,0,87.58,100,rm=sk.jpeg",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "url": "https://images.lecker.de/gemusepfanne-mit-hahnchen-zuckerschoten-und-brokkoli/9x16,id=7e976162,b=lecker,w=1600,h=,ca=28.86,0,71.14,100,rm=sk.jpeg",
+      "width": 1600,
+      "height": 2844
+    },
+    {
+      "url": "https://images.lecker.de/gemusepfanne-mit-hahnchen-zuckerschoten-und-brokkoli/16x9,id=7e976162,b=lecker,w=1600,h=,ca=0,12.58,100,87.42,rm=sk.jpeg",
+      "width": 1600,
+      "height": 900
     }
   ],
-  "publisher": {
-    "name": "lecker.de",
-    "url": "https://www.lecker.de",
-    "logo": "https://www.lecker.de/assets/lecker-logo.png"
+  "author": {
+    "name": "Lecker",
+    "url": "https://www.lecker.de/lecker"
   },
+  "publisher": {
+    "name": "LECKER",
+    "url": "https://www.lecker.de",
+    "logo": "https://www.lecker.de/images/lecker/lecker-logo-schema-org.png"
+  },
+  "prepTime": "PT0S",
   "cookTime": "PT25M",
   "totalTime": "PT25M",
   "recipeCategory": [
     "Hauptgericht"
   ],
   "keywords": [
-    "low carb",
-    "Mittag",
-    "Abendbrot",
-    "salzig",
-    "Sonstiges",
-    "Fleisch \u0026 Geflügel"
+    "Zutaten",
+    "Fleisch",
+    "Geflügel",
+    "Hähnchen",
+    "Brokkoli",
+    "Hauptgerichte",
+    "Low Carb",
+    "Zuckerschoten",
+    "Gemüsepfanne",
+    "Mittagessen",
+    "Abendbrot"
   ],
   "recipeYield": 4,
   "recipeIngredient": [
     "1 Brokkoli",
     "150 g Zuckerschoten",
     "2 Lauchzwiebeln",
+    "Salz",
     "4 kleine Hähnchenbrustfilets (à ca. 140 g)",
     "2 EL Sonnenblumenöl",
     "4 EL Sojasoße",
@@ -42,36 +65,36 @@
     {
       "name": "Schritt 1",
       "text": "Brokkoli putzen und in kleinen Röschen vom Strunk schneiden. Zuckerschoten putzen. Lauchzwiebeln putzen und in ca. 10 cm lange Stücke schneiden.",
-      "url": "https://www.lecker.de/gemuesepfanne-mit-haehnchen-zuckerschoten-und-brokkoli-79685.html#step1"
+      "url": "https://www.lecker.de/gemuesepfanne-mit-haehnchen-zuckerschoten-und-brokkoli-79685.html#instructiongroup1step1"
     },
     {
       "name": "Schritt 2",
       "text": "Brokkoli, Zuckerschoten und Lauchzwiebeln in reichlich kochendem Salzwasser 2–3 Minuten garen. Herausnehmen und mit kaltem Wasser abspülen. Auf ein Sieb gießen und gut abtropfen lassen.",
-      "url": "https://www.lecker.de/gemuesepfanne-mit-haehnchen-zuckerschoten-und-brokkoli-79685.html#step2"
+      "url": "https://www.lecker.de/gemuesepfanne-mit-haehnchen-zuckerschoten-und-brokkoli-79685.html#instructiongroup1step2"
     },
     {
       "name": "Schritt 3",
       "text": "Fleisch trocken tupfen und in Würfel (ca. 1,5 x 1,5 cm) schneiden. Öl in einer weiten Pfanne oder einem Wok erhitzen. Fleisch darin, unter Wenden, ca. 3 Minuten kräftig anbraten. Hitze reduzieren und weitere ca. 2 Minuten braten. Gemüse, Sojasoße und Brühe zufügen und 3–4 Minuten dünsten. Dabei gelegentlich wenden.",
-      "url": "https://www.lecker.de/gemuesepfanne-mit-haehnchen-zuckerschoten-und-brokkoli-79685.html#step3"
+      "url": "https://www.lecker.de/gemuesepfanne-mit-haehnchen-zuckerschoten-und-brokkoli-79685.html#instructiongroup1step3"
     },
     {
       "name": "Schritt 4",
       "text": "Koriander waschen und trocken schütteln und, bis auf einige Blätter zum Garnieren, samt Stiel grob hacken. Sesam und Koriander zur Gemüsepfanne geben und untermischen. Mit Salz und Pfeffer abschmecken und mit Koriander garnieren.",
-      "url": "https://www.lecker.de/gemuesepfanne-mit-haehnchen-zuckerschoten-und-brokkoli-79685.html#step4"
+      "url": "https://www.lecker.de/gemuesepfanne-mit-haehnchen-zuckerschoten-und-brokkoli-79685.html#instructiongroup1step4"
     }
   ],
   "nutrition": {
-    "calories": "260",
+    "calories": "260 kcal",
     "servingSize": "1 Portion",
-    "carbohydrateContent": "7",
-    "fatContent": "7",
-    "proteinContent": "38"
+    "carbohydrateContent": "7 g",
+    "fatContent": "7 g",
+    "proteinContent": "38 g"
   },
   "aggregateRating": {
-    "ratingCount": 96,
-    "ratingValue": 4,
+    "ratingCount": 99,
+    "ratingValue": 3.94,
     "bestRating": 5,
     "worstRating": 1
   },
-  "dateModified": "2021-12-14T11:25:53+01:00"
+  "dateModified": "2023-02-23T13:12:02.767Z"
 }

@@ -20,7 +20,7 @@
   "author": {
     "name": "Steve Cylka",
     "url": "https://www.theblackpeppercorn.com/author/steve/",
-    "image": "https://secure.gravatar.com/avatar/c192aa2815e2249de2a6881916728495?s=96\u0026d=mm\u0026r=g"
+    "image": "https://secure.gravatar.com/avatar/af91b01fbbd5a45a7dafdb4753c98225dde04fe890046539279c0b9a2b802fb3?s=96\u0026d=mm\u0026r=g"
   },
   "publisher": {
     "name": "The Black Peppercorn",
@@ -103,7 +103,8 @@
     "sugarContent": "9 g"
   },
   "aggregateRating": {
-    "ratingCount": 3,
+    "reviewCount": 2,
+    "ratingCount": 4,
     "ratingValue": 5
   },
   "datePublished": "2019-09-14T16:52:10Z"

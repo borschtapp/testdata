@@ -1,5 +1,11 @@
 {
-  "url": "https://www.heinzbrasil.com.br/recipe/100149100002/chili-com-carne",
-  "name": "Page not Found",
-  "inLanguage": "br"
+  "url": "file://E:/borscht/krip/testdata/websites/heinzbrasil.html",
+  "name": "Ketchup, condimentos e muito mais | Heinz",
+  "inLanguage": "pt-BR",
+  "publisher": {
+    "name": "Heinz",
+    "description": "We believe in going all in on what you love. For over 150 years, we’ve inspired irrational love for Heinz – carrying Heinz Ketchup everywhere, curating Baked Beanz museums, even getting tattoos of the iconic Heinz keystone. We continue to create the highest quality food products in the world. Because, it has to be Heinz.",
+    "url": "https://www.heinz.com",
+    "logo": "https://res.cloudinary.com/kraft-heinz-whats-cooking-ca/dxp-images/heinz/global/heinz-logo-black.png"
+  }
 }

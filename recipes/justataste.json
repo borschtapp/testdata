@@ -1,20 +1,20 @@
 {
   "url": "https://www.justataste.com/healthy-baked-chicken-cheese-taquitos-recipe/",
-  "name": "Baked Chicken and Cheese Taquitos (Oven or Air Fryer)",
-  "description": "Ditch the deep-fryer and forget the freezer aisle in favor of this fast, fresh and family favorite recipe for Baked Chicken and Cheese Taquitos.",
+  "name": "Easy Chicken Taquitos",
+  "description": "These easy chicken taquitos are perfect for busy weeknights or meal prep! Made with shredded rotisserie chicken, melty cheese, and a blend of spices, they’re rolled in tortillas and baked or air-fried until crispy.",
   "inLanguage": "en-US",
   "image": [
     {
-      "url": "https://www.justataste.com/wp-content/uploads/2018/04/baked-air-fryer-cheese-taquitos.jpg"
+      "url": "https://www.justataste.com/wp-content/uploads/2022/04/best-chicken-taquitos.jpg"
     },
     {
-      "url": "https://www.justataste.com/wp-content/uploads/2018/04/baked-air-fryer-cheese-taquitos-500x500.jpg"
+      "url": "https://www.justataste.com/wp-content/uploads/2022/04/best-chicken-taquitos-500x500.jpg"
     },
     {
-      "url": "https://www.justataste.com/wp-content/uploads/2018/04/baked-air-fryer-cheese-taquitos-500x375.jpg"
+      "url": "https://www.justataste.com/wp-content/uploads/2022/04/best-chicken-taquitos-500x375.jpg"
     },
     {
-      "url": "https://www.justataste.com/wp-content/uploads/2018/04/baked-air-fryer-cheese-taquitos-480x270.jpg"
+      "url": "https://www.justataste.com/wp-content/uploads/2022/04/best-chicken-taquitos-480x270.jpg"
     }
   ],
   "author": {
@@ -81,19 +81,6 @@
     {
       "text": "Bake the taquitos for 15 to 20 minutes until golden brown and crispy. (See below for air fryer instructions.) Serve with guacamole and salsa.",
       "url": "https://www.justataste.com/healthy-baked-chicken-cheese-taquitos-recipe/#wprm-recipe-30239-step-0-5"
-    },
-    {
-      "name": "Kelly's Notes:",
-      "itemListElement": [
-        {
-          "text": "Taquitos are traditionally made with corn tortillas, however you can use flour tortillas, which are much more pliable, and thus easier to roll.",
-          "url": "https://www.justataste.com/healthy-baked-chicken-cheese-taquitos-recipe/#wprm-recipe-30239-step-1-0"
-        },
-        {
-          "text": "To cook the taquitos in an air fryer: Preheat the air fryer to 400°F. Grease the basket with cooking spray then arrange a portion of the taquitos in an even layer. Coat the taquitos with cooking spray then air-fry them until golden brown and crispy, about 8 minutes.",
-          "url": "https://www.justataste.com/healthy-baked-chicken-cheese-taquitos-recipe/#wprm-recipe-30239-step-1-1"
-        }
-      ]
     }
   ],
   "nutrition": {
@@ -110,8 +97,9 @@
     "unsaturatedFatContent": "8 g"
   },
   "aggregateRating": {
-    "ratingCount": 10,
-    "ratingValue": 4.5
+    "reviewCount": 7,
+    "ratingCount": 13,
+    "ratingValue": 4.54
   },
   "datePublished": "2022-04-18T00:01:00Z"
 }

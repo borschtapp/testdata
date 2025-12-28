@@ -21,7 +21,7 @@
     "name": "Karen McCormick",
     "description": "Amanda is a busy mom of 3 running her own business, homeschooling, and managing a household. She creates yummy crockpot recipes to help her spend less time in the kitchen and more time doing what she loves.",
     "url": "https://momswithcrockpots.com/author/amanda/",
-    "image": "https://secure.gravatar.com/avatar/1db1ce66b7558eefa61dab1303527360?s=96\u0026d=mm\u0026r=g"
+    "image": "https://secure.gravatar.com/avatar/d3c3f0670725d27a6641c620f2daff4976763475832d7e7ca064c04d40b2ad2c?s=96\u0026d=mm\u0026r=g"
   },
   "publisher": {
     "name": "Moms with Crockpots",
@@ -96,6 +96,7 @@
     "sugarContent": "7 g"
   },
   "aggregateRating": {
+    "reviewCount": 2,
     "ratingCount": 2,
     "ratingValue": 4
   },

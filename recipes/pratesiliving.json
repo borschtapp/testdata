@@ -8,8 +8,15 @@
       "url": "https://www.pratesiliving.com/wp-content/uploads/2011/12/Best-Cheese-Lasagna-3-775x325.jpg"
     }
   ],
+  "author": {
+    "name": "Gwen Pratesi",
+    "description": "Gwen Pratesi is a James Beard Foundation Award Finalist in Journalism and an award-winning travel writer. She is the author and owner of PratesiLiving.com with her husband and a regular contributor to the Travel section of U.S. News \u0026 World Report. She also freelances for other publications including The Points Guy, USA TODAY, Cruise Critic, Travel + Leisure, Garden \u0026 Gun, Marriott Bonvoy Traveler, Reader's Digest, Forbes Travel Guide, Smarter Travel, TripAdvisor, Atlanta Homes \u0026 Lifestyles Magazine and World Travel Magazine. Her work has also been featured on MSN, Yahoo!, Business Insider, and SheKnows. Gwen chronicles her love of international travel and experience as a professional home cook on PratesiLiving.com, where she shares the stories of some of the world's most sought-after destinations and cruise lines, highly regarded chefs, restaurateurs, farmers, wine and spirits producers and culinary artisans. She and her husband are enjoying the coastal lifestyle in Florida with their Tibetan Terrier, Rhythm.",
+    "url": "https://www.pratesiliving.com/author/bunkycooks/",
+    "image": "https://www.pratesiliving.com/wp-content/uploads/2023/07/Gwen-in-Dubai.jpeg"
+  },
   "publisher": {
     "name": "Pratesi Living",
+    "description": "Food • Travel • Leisure",
     "url": "https://www.pratesiliving.com"
   },
   "prepTime": "PT40M",

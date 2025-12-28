@@ -1,7 +1,7 @@
 {
   "url": "https://whatsgabycooking.com/vegetarian-quinoa-bake/",
   "name": "Vegetarian Quinoa Bake",
-  "description": "Grab the recipe for this Vegetarian Quinoa Bake loaded with corn, black beans, tons of cheese, chiles and my famous salsa!",
+  "description": "This super easy Vegetarian Quinoa Bake is a one pot wonder. It’s prepped and baked in a skillet, loaded with various ad-ins and topped it with cheese! Get ready for your new favorite dinner.",
   "inLanguage": "en-US",
   "image": [
     {
@@ -18,8 +18,9 @@
     }
   ],
   "author": {
-    "name": "Gaby",
-    "image": "https://whatsgabycooking.com/wp-content/uploads/2021/09/cropped-wgc-logo-small-g.png"
+    "name": "Gaby Dalkin",
+    "url": "https://whatsgabycooking.com/author/gaby/",
+    "image": "https://secure.gravatar.com/avatar/035a2c21565b3e9dc0062bcd05cbabb4d1f5f855f74dfa7871a1fa96a8a94550?s=96\u0026amp;d=mm\u0026amp;r=g"
   },
   "publisher": {
     "name": "What's Gaby Cooking",
@@ -34,6 +35,10 @@
   ],
   "recipeCuisine": [
     "Tex Mex"
+  ],
+  "keywords": [
+    "quinoa bake",
+    "vegetarian quinoa bake"
   ],
   "recipeYield": 6,
   "recipeIngredient": [
@@ -69,7 +74,21 @@
       "url": "https://whatsgabycooking.com/vegetarian-quinoa-bake/#wprm-recipe-32292-step-0-4"
     }
   ],
+  "nutrition": {
+    "calories": "462 kcal",
+    "servingSize": "1 serving",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "57 mg",
+    "fatContent": "21 g",
+    "fiberContent": "7 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "998 mg",
+    "sugarContent": "3 g",
+    "unsaturatedFatContent": "8 g"
+  },
   "aggregateRating": {
+    "reviewCount": 2,
     "ratingCount": 2,
     "ratingValue": 5
   },

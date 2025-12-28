@@ -18,8 +18,8 @@
     }
   ],
   "author": {
-    "name": "Jennifer",
-    "description": "Hi! I'm Jennifer, a home-cook of some 30-plus years. I've learned a lot from getting dinner on the table all these years! I hope to share a bit of what I've learned, as well as my favourite recipes. Most importantly though, I love sharing the joy of cooking at home, with simple, delicious and seasonally-inspired recipes. More about me here ...",
+    "name": "Jennifer Maloney",
+    "description": "Hi! I'm Jennifer, a home cook schooled by trial and error and almost 40 years of getting dinner on the table! I love to share my favourite recipes, both old and new, together with lots of tips and tricks to hopefully help make your home cooking enjoyable, stress free, rewarding and of course, delicious!",
     "url": "https://www.seasonsandsuppers.ca/author/jennifer/"
   },
   "publisher": {
@@ -103,8 +103,9 @@
     "sugarContent": "1 g"
   },
   "aggregateRating": {
-    "ratingCount": 35,
-    "ratingValue": 4.92
+    "reviewCount": 5,
+    "ratingCount": 73,
+    "ratingValue": 4.91
   },
   "datePublished": "2014-01-07T08:00:59Z"
 }

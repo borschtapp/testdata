@@ -19,8 +19,9 @@
   ],
   "author": {
     "name": "Stephanie Manley",
-    "description": "I recreate your favorite restaurant recipes, so you can prepare these dishes at home. I help you cook dinner, and serve up dishes you know your family will love. You can find most of the ingredients for all of the recipes in your local grocery store. Stephanie is the author of CopyKat.com's Dining Out in the Home, and CopyKat.com's Dining Out in the Home 2.",
-    "url": "https://copykat.com/author/admin/"
+    "description": "Stephanie Manley is the creator of CopyKat.com. She has been recreating copycat recipes since 1995. Learn more about Stephanie Manley.",
+    "url": "https://copykat.com/author/admin/",
+    "image": "https://secure.gravatar.com/avatar/0f93beccc57c687059d3bb6a8f5a0b20a18935776064506191fa4017cd1a8041?s=96\u0026d=blank\u0026r=g"
   },
   "publisher": {
     "name": "CopyKat Recipes",
@@ -112,6 +113,7 @@
     "sugarContent": "2 g"
   },
   "aggregateRating": {
+    "reviewCount": 3,
     "ratingCount": 3,
     "ratingValue": 5
   },

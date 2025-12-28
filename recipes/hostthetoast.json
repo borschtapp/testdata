@@ -19,7 +19,7 @@
   ],
   "author": {
     "name": "Morgan",
-    "image": "https://secure.gravatar.com/avatar/f4aaa10aa8ba7b48928e3c7e79fc0ea9?s=96\u0026d=mm\u0026r=g"
+    "image": "https://secure.gravatar.com/avatar/8d42b478ff14c4bab436402acf88dca5bf390a9618fef19c6d4f3682fb94d4e1?s=96\u0026d=mm\u0026r=g"
   },
   "publisher": {
     "name": "Host the Toast",
@@ -65,13 +65,14 @@
     }
   ],
   "aggregateRating": {
-    "reviewCount": 58,
+    "reviewCount": 61,
     "ratingValue": 4.8
   },
   "video": {
     "name": "Homemade Garlic Naan",
-    "description": "Making homemade garlic naan is easier than you’d think, even for novice bakers! Make these with your favorite Indian dish for a delicious dinner.",
+    "description": "Making homemade garlic naan is easier than you'd think, even for novice bakers! Make these with your favorite Indian dish for a delicious dinner.",
     "contentUrl": "https://content.jwplatform.com/videos/OzDO4Iog.mp4",
-    "thumbnailUrl": "https://content.jwplatform.com/thumbs/OzDO4Iog-720.jpg"
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/OzDO4Iog-720.jpg",
+    "uploadDate": "2019-03-21T20:49:53Z"
   }
 }

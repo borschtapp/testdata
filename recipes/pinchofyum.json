@@ -18,7 +18,7 @@
     }
   ],
   "author": {
-    "name": "Lindsay",
+    "name": "Lindsay Ostrom",
     "description": "A little thing about me: I ♡ FOOD. I used to be a teacher, and now making food and writing about it online is my full-time job. I love talking with people about food, and I'm so glad you're here. Did you make a recipe? Tag @pinchofyum on Instagram so we can find you!",
     "url": "https://pinchofyum.com/about",
     "image": "https://pinchofyum.com/wp-content/uploads/Headshot-Main-Bio-Circle.jpg"
@@ -80,13 +80,14 @@
     "transFatContent": "0 g"
   },
   "aggregateRating": {
-    "reviewCount": 121,
+    "reviewCount": 127,
     "ratingValue": 4.3
   },
   "video": {
     "name": "Chili Garlic Noodles",
     "description": "Chili Garlic Instant Pot Noodles – They are sticky, with an umami flavor and a little sweetness. They are gorgeous, because we get fancy with our toppings.",
     "contentUrl": "https://content.jwplatform.com/videos/hx5b0xVZ.mp4",
-    "thumbnailUrl": "https://content.jwplatform.com/thumbs/hx5b0xVZ-720.jpg"
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/hx5b0xVZ-720.jpg",
+    "uploadDate": "2020-12-04T16:37:10Z"
   }
 }

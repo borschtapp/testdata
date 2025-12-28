@@ -19,9 +19,9 @@
   ],
   "author": {
     "name": "Maria Lichty",
-    "description": "I'm Maria and my husband is Josh. We share a love of cooking, baking, and entertaining. We enjoy creating recipes that are simple, fresh, and family friendly. We love sitting around the table with good food, good conversation, and good friends and family! Our kitchen is always open! Read More",
-    "url": "https://www.twopeasandtheirpod.com/author/twopeas/",
-    "image": "https://secure.gravatar.com/avatar/81588ba3dfde9527d94981a5b505b028?s=96\u0026d=blank\u0026r=g"
+    "description": "I’m Maria Lichty, creator of Two Peas and Their Pod and two-time cookbook author. On Two Peas \u0026 Their Pod, you will find recipes that are family friendly, affordable, approachable, and most importantly DELICIOUS. I share everyday recipes for everyone!",
+    "url": "https://www.twopeasandtheirpod.com/about/",
+    "image": "https://secure.gravatar.com/avatar/329c4feb581e7c25fee531c4d630874aaf859ccf60b5b4aa2701f3b013e0fd30?s=96\u0026d=blank\u0026r=g"
   },
   "publisher": {
     "name": "Two Peas \u0026 Their Pod",
@@ -38,6 +38,9 @@
   ],
   "recipeCuisine": [
     "Mexican"
+  ],
+  "keywords": [
+    "taquitos"
   ],
   "recipeYield": 20,
   "recipeIngredient": [
@@ -93,8 +96,9 @@
     "sodiumContent": "123 mg"
   },
   "aggregateRating": {
-    "ratingCount": 96,
-    "ratingValue": 4.71
+    "reviewCount": 6,
+    "ratingCount": 163,
+    "ratingValue": 4.66
   },
-  "datePublished": "2022-02-01T07:00:00Z"
+  "datePublished": "2023-05-05T07:00:00Z"
 }

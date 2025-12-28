@@ -22,6 +22,7 @@
   },
   "publisher": {
     "name": "Homesick Texan",
+    "description": "Celebrating Texan home cooking through stories and recipes",
     "url": "https://www.homesicktexan.com"
   },
   "recipeYield": 8,
@@ -55,7 +56,8 @@
     }
   ],
   "aggregateRating": {
-    "ratingCount": 62,
+    "reviewCount": 5,
+    "ratingCount": 70,
     "ratingValue": 4.83
   },
   "datePublished": "2007-03-19T13:25:00Z"

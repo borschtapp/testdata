@@ -17,12 +17,6 @@
       "url": "https://www.watchwhatueat.com/wp-content/uploads/2018/10/Instant-Pot-Whole-Cauliflower-6-480x270.jpg"
     }
   ],
-  "author": {
-    "name": "Swati Kadam Gulati",
-    "description": "We are Swati and Tushar, our passion for food and cooking has now led us to share some healthy, tasty recipes and the benefits of eating certain ingredients with the goal of inspiring you to eat well and live well.",
-    "url": "https://www.watchwhatueat.com/author/swatitushar/",
-    "image": "https://www.watchwhatueat.com/wp-content/uploads/2015/11/WWUE-logo-sub-96x96.png"
-  },
   "publisher": {
     "name": "Watch What U Eat",
     "description": "Easy healthy meals | healthy family meals | healthy dinner recipes",
@@ -113,8 +107,9 @@
     "sugarContent": "7.2 g"
   },
   "aggregateRating": {
-    "ratingCount": 17,
-    "ratingValue": 4.59
+    "reviewCount": 12,
+    "ratingCount": 20,
+    "ratingValue": 4.6
   },
   "datePublished": "2018-10-17T13:39:21Z"
 }

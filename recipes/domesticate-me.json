@@ -18,7 +18,7 @@
     }
   ],
   "author": {
-    "name": "Serena Wolf",
+    "name": "serenawolf",
     "url": "https://domesticate-me.com/meet-serena/"
   },
   "publisher": {
@@ -92,8 +92,9 @@
     }
   ],
   "aggregateRating": {
-    "ratingCount": 28,
-    "ratingValue": 4.93
+    "reviewCount": 9,
+    "ratingCount": 31,
+    "ratingValue": 4.94
   },
   "datePublished": "2018-03-22T08:23:43Z"
 }

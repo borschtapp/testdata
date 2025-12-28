@@ -1,7 +1,7 @@
 {
   "url": "https://www.750g.com/salade-de-carottes-cuites-et-crues-a-l-orange-r201936.htm",
   "name": "Salade de carottes cuites et crues à l'orange",
-  "description": "La petite salade détox parfaite pour un déjeuner vitaminé au coeur de l'hiver",
+  "description": "La petite salade d\u0026eacute;tox parfaite pour un d\u0026eacute;jeuner vitamin\u0026eacute; au coeur de l'hiver",
   "inLanguage": "fr-FR",
   "image": [
     {
@@ -19,7 +19,7 @@
   "cookTime": "PT15M",
   "totalTime": "PT35M",
   "recipeCategory": [
-    "Salades"
+    "Salade"
   ],
   "keywords": [
     "salade de carottes",
@@ -53,7 +53,6 @@
     }
   ],
   "aggregateRating": {
-    "reviewCount": 1,
     "ratingCount": 1,
     "ratingValue": 4,
     "bestRating": 5,

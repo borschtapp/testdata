@@ -19,8 +19,8 @@
   ],
   "author": {
     "name": "Wei Guo",
-    "description": "I'm a food blogger sharing easy-to-follow Chinese recipes. I also organize Culinary Tours of China for those who love to discover China first hand through delicious food.",
-    "image": "https://secure.gravatar.com/avatar/6e17f92e9072eb89108878f6e223e999?s=96\u0026d=blank\u0026r=g"
+    "description": "Wei Guo is the do-it-all creator behind the blog Red House Spice, a free digital cookbook sharing authentic, accessible Chinese recipes since 2017.",
+    "image": "https://secure.gravatar.com/avatar/e8b430407341d36ffd2b83702a91371d41029a26307867aa2aa76fb820ec661f?s=96\u0026d=mm\u0026r=g"
   },
   "publisher": {
     "name": "Red House Spice",
@@ -43,14 +43,14 @@
   "recipeYield": 3,
   "recipeIngredient": [
     "2 pork shoulder steaks (aka pork butt) (about 350g/12oz, see note 1)",
-    "4 tbsp Char Siu sauce (see note 2)",
-    "1 tbsp oyster sauce",
-    "1/2 tbsp light soy sauce",
-    "1/4 tsp Chinese five-spice powder",
+    "4 tablespoon Char Siu sauce (see note 2)",
+    "1 tablespoon oyster sauce",
+    "1/2 tablespoon light soy sauce",
+    "1/4 teaspoon Chinese five-spice powder",
     "4 cloves garlic, finely sliced",
     "5 slices ginger",
-    "1/2 tsp chilli powder (optional, see note 4)",
-    "2 tsp honey"
+    "1/2 teaspoon chilli powder (optional, see note 4)",
+    "2 teaspoon honey"
   ],
   "recipeInstructions": [
     {
@@ -127,7 +127,8 @@
     "servingSize": "1 serving"
   },
   "aggregateRating": {
-    "ratingCount": 64,
+    "reviewCount": 3,
+    "ratingCount": 147,
     "ratingValue": 5
   },
   "datePublished": "2020-05-08T22:26:22Z"

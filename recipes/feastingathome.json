@@ -5,29 +5,29 @@
   "inLanguage": "en-US",
   "image": [
     {
-      "url": "https://www.feastingathome.com/wp-content/uploads/2020/07/Tomato-Risotto_-20-225x225.jpg"
+      "url": "https://www.feastingathome.com/wp-content/uploads/2020/08/tomato-risotto-225x225.jpg"
     },
     {
-      "url": "https://www.feastingathome.com/wp-content/uploads/2020/07/Tomato-Risotto_-20-260x195.jpg"
+      "url": "https://www.feastingathome.com/wp-content/uploads/2020/08/tomato-risotto-260x195.jpg"
     },
     {
-      "url": "https://www.feastingathome.com/wp-content/uploads/2020/07/Tomato-Risotto_-20-320x180.jpg"
+      "url": "https://www.feastingathome.com/wp-content/uploads/2020/08/tomato-risotto-320x180.jpg"
     },
     {
-      "url": "https://www.feastingathome.com/wp-content/uploads/2020/07/Tomato-Risotto_-20.jpg"
+      "url": "https://www.feastingathome.com/wp-content/uploads/2020/08/tomato-risotto.jpg"
     }
   ],
   "author": {
     "name": "Sylvia Fountaine | feasting at home",
     "description": "Chef and author of the whole-foods recipe blog, Feasting at Home, Sylvia Fountaine is a former restaurant owner and caterer turned full-time food blogger. She currently lives in the Pacific Northwest and shares seasonal, healthy recipes along with tips and tricks from her home kitchen.",
-    "url": "https://www.feastingathome.com/about/",
-    "image": "https://secure.gravatar.com/avatar/aab223bd6eb54ad302794719a6e9fba0?s=96\u0026d=blank\u0026r=g"
+    "url": "https://www.feastingathome.com/sylvia-fountaine/",
+    "image": "https://secure.gravatar.com/avatar/3ebdb458405bc6e6592d891ab59ac7a3eab5e215c4b5e4bdfa240c421f00b402?s=96\u0026d=blank\u0026r=g"
   },
   "publisher": {
     "name": "Feasting At Home",
     "description": "Where healthy meets delicious!",
     "url": "https://www.feastingathome.com",
-    "logo": "https://www.feastingathome.com/wp-content/uploads/2022/09/default-sharing.jpg"
+    "logo": "https://www.feastingathome.com/wp-content/uploads/2023/03/FEASTING-AT-HOME.jpg"
   },
   "prepTime": "PT15M",
   "cookTime": "PT45M",
@@ -118,13 +118,14 @@
     "transFatContent": "0 g"
   },
   "aggregateRating": {
-    "reviewCount": 31,
+    "reviewCount": 39,
     "ratingValue": 4.9
   },
   "video": {
     "name": "Tomato Risotto",
     "description": "A simple recipe video for Tomato Risotto highlighting juicy, sweet, vine-ripened tomatoes, and infused with saffron. Serve this as a vegetarian main, seasonal side dish, or top it off with smoky, pan-seared shrimp. Vegetarian-adaptable!",
     "contentUrl": "https://content.jwplatform.com/videos/1jn7bzGY.mp4",
-    "thumbnailUrl": "https://content.jwplatform.com/thumbs/1jn7bzGY-720.jpg"
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/1jn7bzGY-720.jpg",
+    "uploadDate": "2020-09-21T17:01:15Z"
   }
 }

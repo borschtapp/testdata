@@ -12,5 +12,55 @@
     "name": "Pillsbury Baking",
     "url": "https://www.pillsburybaking.com"
   },
-  "recipeYield": 14
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "keywords": [
+    "Cinnamon Swirl Cake"
+  ],
+  "recipeYield": 14,
+  "recipeIngredient": [
+    "1 box of Pillsbury™ Cinnamon Swirl Quick Bread",
+    "Additional ingredients to prepare cake mix per package instructions",
+    "1 tub of Pillsbury™ Creamy Supreme® Cream Cheese Frosting"
+  ],
+  "recipeInstructions": [
+    {
+      "text": "Step 1"
+    },
+    {
+      "text": "Prepare batter according to the package instructions"
+    },
+    {
+      "text": "Step 2"
+    },
+    {
+      "text": "Prepare two 6” cake pans with parchment paper and baking spray. Fill partway with batter then add a layer of cinnamon sugar from the package. Add more batter to cover."
+    },
+    {
+      "text": "Step 3"
+    },
+    {
+      "text": "Bake and cool your cakes (they must be completely cool to frost)"
+    },
+    {
+      "text": "Step 4"
+    },
+    {
+      "text": "Fill a piping bag with cream cheese frosting"
+    },
+    {
+      "text": "Step 5"
+    },
+    {
+      "text": "Layer the cakes with a layer of cream cheese frosting in between and on top."
+    },
+    {
+      "text": "Step 6"
+    },
+    {
+      "text": "Sprinkle with cinnamon sugar from package and enjoy!"
+    }
+  ],
+  "datePublished": "2022-10-24T17:05:07-04:00"
 }

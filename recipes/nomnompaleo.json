@@ -19,11 +19,11 @@
   ],
   "author": {
     "name": "Michelle Tam",
-    "image": "https://secure.gravatar.com/avatar/3143e0cc2e74aee996111e4d1112e42f?s=96\u0026d=mm\u0026r=g"
+    "description": "Hello! My name is Michelle Tam, and I love to eat. I think about food all the time. It borders on obsession. I’ve always loved the sights and smells of the kitchen. My mother was (and is) an excellent cook, and as a kid, I was her little shadow as she prepared supper each night. From her, I gained a deep, abiding love for magically transforming pantry items into mouth-watering family meals."
   },
   "publisher": {
     "name": "Nom Nom Paleo®",
-    "description": "Paleo recipes and more from New York Times bestselling cookbook author Michelle Tam!",
+    "description": "Trusted, flavor-packed Paleo and gluten-free recipes made simple.",
     "url": "https://nomnompaleo.com",
     "logo": "https://nomnompaleo.com/wp-content/uploads/2019/05/NNP-LI-Logo2.jpg"
   },
@@ -97,8 +97,9 @@
     "sugarContent": "12 g"
   },
   "aggregateRating": {
-    "ratingCount": 18,
-    "ratingValue": 4.78
+    "reviewCount": 2,
+    "ratingCount": 23,
+    "ratingValue": 4.74
   },
   "video": {
     "name": "Pineapple Coleslaw",

@@ -5,24 +5,13 @@
   "inLanguage": "en-US",
   "image": [
     {
-      "url": "https://www.mybakingaddiction.com/wp-content/uploads/2016/08/slice-from-chocolate-zucchini-loaf-hero-720x720.jpg"
-    },
-    {
-      "url": "https://www.mybakingaddiction.com/wp-content/uploads/2016/08/slice-from-chocolate-zucchini-loaf-hero-720x540.jpg"
-    },
-    {
-      "url": "https://www.mybakingaddiction.com/wp-content/uploads/2016/08/slice-from-chocolate-zucchini-loaf-hero-540x720.jpg"
-    },
-    {
-      "url": "https://www.mybakingaddiction.com/wp-content/uploads/2016/08/slice-from-chocolate-zucchini-loaf-hero-720x405.jpg"
-    },
-    {
-      "url": "https://www.mybakingaddiction.com/wp-content/uploads/2016/08/slice-from-chocolate-zucchini-loaf-hero-735x735.jpg"
+      "url": "https://www.mybakingaddiction.com/wp-content/uploads/2016/08/slice-from-chocolate-zucchini-loaf-hero.jpg"
     }
   ],
   "author": {
     "name": "Jamie",
-    "url": "https://www.mybakingaddiction.com/author/jamie/"
+    "url": "https://www.mybakingaddiction.com/author/jamie/",
+    "image": "https://secure.gravatar.com/avatar/c5f9b4d8402e4a3bf4b93565a17532f2e0ce9e88942c67a7bdf528e247ddbfe0?s=96\u0026d=mm\u0026r=g"
   },
   "publisher": {
     "name": "My Baking Addiction",
@@ -37,13 +26,13 @@
     "Bread"
   ],
   "keywords": [
-    "Bread",
+    "bread",
     "Chocolate",
-    "Coconut",
+    "coconut",
     "Summer Recipes",
-    "Zucchini"
+    "zucchini"
   ],
-  "recipeYield": 2,
+  "recipeYield": 20,
   "recipeIngredient": [
     "2 1/2 cups all-purpose flour",
     "1/2 cup unsweetened cocoa powder",
@@ -51,7 +40,7 @@
     "1 teaspoon baking soda",
     "1/2 teaspoon baking powder",
     "1 teaspoon ground cinnamon",
-    "1 cup coconut oil, melted",
+    "1 cup coconut oil (melted)",
     "2/3 cup granulated sugar",
     "2/3 cup light brown sugar",
     "1/2 cup sour cream",
@@ -63,65 +52,59 @@
   ],
   "recipeInstructions": [
     {
-      "name": "Preheat oven to 350°F. Spray two 8x4-inch loaf...",
       "text": "Preheat oven to 350°F. Spray two 8x4-inch loaf pans with baking spray and/or line with parchment paper.",
-      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#mv_create_748_1"
+      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#wprm-recipe-30729-step-0-0"
     },
     {
-      "name": "In a medium bowl, whisk together the flour,...",
       "text": "In a medium bowl, whisk together the flour, cocoa, salt, baking soda, baking powder and cinnamon.",
-      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#mv_create_748_2"
+      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#wprm-recipe-30729-step-0-1"
     },
     {
-      "name": "In a large bowl with an electric mixer,...",
       "text": "In a large bowl with an electric mixer, mix the coconut oil and sugars until combined. Mix in the sour cream. Add in the eggs and vanilla and mix until thoroughly incorporated.",
-      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#mv_create_748_3"
+      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#wprm-recipe-30729-step-0-2"
     },
     {
-      "name": "Slowly add dry ingredients to wet ingredients and...",
       "text": "Slowly add dry ingredients to wet ingredients and mix until just combined.",
-      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#mv_create_748_4"
+      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#wprm-recipe-30729-step-0-3"
     },
     {
-      "name": "Add in the zucchini and mix for about...",
       "text": "Add in the zucchini and mix for about 1 minute, or until the batter is moistened and the zucchini is evenly incorporated into the batter. Stir in the chocolate chips and shredded coconut.",
-      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#mv_create_748_5"
+      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#wprm-recipe-30729-step-0-4"
     },
     {
-      "name": "Spread the batter into the prepared pans and...",
       "text": "Spread the batter into the prepared pans and bake in preheated oven for 55-60 minutes, or until a toothpick inserted into the center comes out clean.",
-      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#mv_create_748_6"
+      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#wprm-recipe-30729-step-0-5"
     },
     {
-      "name": "Cool bread in pan for 30 minutes. Remove...",
       "text": "Cool bread in pan for 30 minutes. Remove bread to a wire rack to cool completely.",
-      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#mv_create_748_7"
+      "url": "https://www.mybakingaddiction.com/chocolate-coconut-zucchini-bread/#wprm-recipe-30729-step-0-6"
     }
   ],
   "nutrition": {
-    "calories": "296 calories",
+    "calories": "306 kcal",
     "servingSize": "1 slice",
-    "carbohydrateContent": "34 grams carbohydrates",
-    "cholesterolContent": "31 milligrams cholesterol",
-    "fatContent": "17 grams fat",
-    "fiberContent": "2 grams fiber",
-    "proteinContent": "4 grams protein",
-    "saturatedFatContent": "12 grams saturated fat",
-    "sodiumContent": "206 milligrams sodium",
-    "sugarContent": "19 grams sugar",
-    "transFatContent": "0 grams trans fat",
-    "unsaturatedFatContent": "3 grams unsaturated fat"
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "28 mg",
+    "fatContent": "19 g",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "199 mg",
+    "sugarContent": "18 g",
+    "transFatContent": "0.01 g",
+    "unsaturatedFatContent": "3 g"
   },
   "aggregateRating": {
-    "reviewCount": 21,
-    "ratingValue": 4.3
+    "reviewCount": 2,
+    "ratingCount": 26,
+    "ratingValue": 4.2
   },
   "video": {
     "name": "Chocolate Zucchini Bread",
     "description": "Chocolate zucchini bread is quick, delicious, and the perfect use for the last of your summer zucchini. Enjoy a slice with your morning coffee or serve it up for dessert.",
-    "duration": "PT78S",
-    "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/sfamxim0b1nt9ju8gos8.mp4",
-    "thumbnailUrl": "https://mediavine-res.cloudinary.com/video/upload/s--0Wt-vfA3--/ar_16:9,c_fill,f_auto,fl_lossy,q_auto/v1661954259/sfamxim0b1nt9ju8gos8.jpg",
-    "uploadDate": "2022-08-31T14:12:14Z"
-  }
+    "contentUrl": "https://content.jwplatform.com/videos/oFQYjbKR.mp4",
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/oFQYjbKR-720.jpg",
+    "uploadDate": "2022-08-31T00:00:00Z"
+  },
+  "datePublished": "2022-08-31T09:00:00Z"
 }

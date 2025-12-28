@@ -5,9 +5,12 @@
   "inLanguage": "en",
   "image": [
     {
-      "url": "https://foodnetwork.co.uk/images/fallback-facebook.png"
+      "url": "https://foodnetwork.co.uk/images/fallback-facebook.webp"
     }
   ],
+  "author": {
+    "name": "Guy Fieri"
+  },
   "publisher": {
     "name": "Food Network UK",
     "description": "TV channel Food Network UK official site with latest shows and thousands of global recipes, British dishes and cooking tips from the experts.",
@@ -16,6 +19,9 @@
   "prepTime": "PT15M",
   "cookTime": "PT5M",
   "totalTime": "PT20M",
+  "recipeCategory": [
+    "Main Course"
+  ],
   "recipeCuisine": [
     "American"
   ],
@@ -30,6 +36,15 @@
     "4 tbsp Marsala wine",
     "500ml beef stock"
   ],
-  "dateModified": "2020-09-29T11:09:42Z",
+  "recipeInstructions": [
+    {
+      "text": "1) Put the chicken breasts between 2 pieces of waxed paper and flatten with a meat pounder until thin. Cut each chicken breast into 4 pieces. 2) Add some flour to a shallow bowl. Dredge the chicken in the flour and shake off the excess flour. 3) Add the butter and olive oil to a large saute pan over high heat and heat until it sizzles, do NOT let it brown. Add the chicken and saute until brown on both sides. 4) Stir in the sliced mushrooms and saute briefly, then add the garlic. Add the Marsala and simmer for 3 minutes, then stir in the remaining 2 tbsp of flour. 5) Pour in the beef stock and leave to simmer until the sauce thickens, about 3 to 5 minutes. Transfer the chicken to a serving platter and serve. This recipe was provided by professional chefs and has been scaled down from a bulk recipe provided by a restaurant. The Food Network kitchens chefs have not tested this recipe, in the proportions indicated, and therefore we cannot make any representation as to the results."
+    }
+  ],
+  "aggregateRating": {
+    "ratingCount": 20,
+    "ratingValue": 4.5
+  },
+  "dateModified": "2025-03-04T03:50:43Z",
   "datePublished": "2015-09-04T13:16:56Z"
 }
