@@ -29,7 +29,7 @@
   },
   "prepTime": "PT5M",
   "cookTime": "PT22M",
-  "totalTime": "P56Y1W3DT22H29M",
+  "totalTime": "P56Y1M1W1DT11H51M",
   "recipeYield": 9,
   "recipeIngredient": [
     "1 cup tahini or creamy nut butter",
@@ -80,7 +80,7 @@
     "transFatContent": "0 g"
   },
   "aggregateRating": {
-    "reviewCount": 81,
+    "reviewCount": 82,
     "ratingValue": 5
   }
 }

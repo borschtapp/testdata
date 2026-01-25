@@ -1,21 +1,97 @@
 {
-  "url": "https://www.projectgezond.nl/boeuf-bourguignon/",
-  "name": "Boeuf bourguignon | Project Gezond",
-  "description": "Deze klassieker vindt zijn oorsprong in de Franse keuken. ‘Rund op bourgondische wijze’ is een vertaling van ‘Boeuf bourguignon’ die niets aan de verbeelding overlaat. Dit recept is dan ook het perfecte antwoord als het weer tijd is voor een potje stoof! Want het is verre van moeilijk om deze ultieme stoofpot te bereiden. Je …",
+  "url": "https://www.projectgezond.nl/recepten/boeuf-bourguignon",
+  "name": "Boeuf bourguignon",
+  "description": "Wist je dat dit recept ook te vinden is in ons bestseller kookboek ‘Altijd lekker’? In dit boek vind je een selectie van 100 populaire recepten uit ons online afslankprogramma. Benieuwd naar alle recepten uit dit boek? Bekijk dan deze pagina. Deze klassieker vindt zijn oorsprong in de Franse keuken. ‘Rund op bourgondische wijze’ is een vertaling van ‘Boeuf bourguignon’ die niets aan de verbeelding overlaat. Dit recept is dan ook het perfecte antwoord als het weer tijd is voor een potje stoof! Want het is verre van moeilijk om deze ultieme stoofpot te bereiden. Je hebt enkel wat (wacht)tijd en dus geduld nodig. Het is helemaal geen gek idee dat je dit recept al de dag van tevoren klaarmaakt trouwens. De smaken kunnen dan zelfs nog beter intrekken. Als dat geen ‘Boeuf bourguignon’ wordt…",
   "inLanguage": "nl-NL",
   "image": [
     {
-      "url": "https://www.projectgezond.nl/wp-content/uploads/2021/11/BoeufBourguignon-768x1024.jpg"
+      "url": "https://www.projectgezond.nl/content/uploads/2021/11/BoeufBourguignon-scaled-1.jpg"
     }
   ],
-  "author": {
-    "name": "Dorien",
-    "description": "Lacht als eerste en bovendien veel te hard om haar eigen grappen. Bakt pannenkoeken van poffertjesbeslag. Ze gaat het liefst elke dag bootcampen, hardlopen én mountainbiken. Is bovendien verzot op smoothies en soepen en heeft daardoor een innige band met haar blender.",
-    "image": "https://secure.gravatar.com/avatar/4cb70146eb4a3826499e2b48f3fe4add?s=96\u0026d=mm\u0026r=g"
-  },
   "publisher": {
     "name": "Project Gezond",
     "description": "Gezond leven, lekker eten",
-    "url": "https://www.projectgezond.nl"
+    "url": "https://www.projectgezond.nl",
+    "logo": "https://www.projectgezond.nl/content/uploads/2023/12/Logo_Project_Gezond_default2x.png"
+  },
+  "prepTime": "PT30M",
+  "cookTime": "PT2H",
+  "totalTime": "PT2H30M",
+  "recipeYield": 2,
+  "recipeIngredient": [
+    "40 gr ontbijtspek",
+    "250 gr runderriblappen",
+    "10 gr bloem",
+    "1 ui",
+    "150 gr winterpeen",
+    "1 teentje knoflook",
+    "35 gr tomatenpuree",
+    "100 ml rode wijn",
+    "200 ml runderbouillon",
+    "1 laurierblaadje",
+    "1 takje tijm",
+    "1 kruidnagel",
+    "150 gr champignons",
+    "50 gr zilveruitjes"
+  ],
+  "recipeInstructions": [
+    {
+      "text": "Bak de plakken ontbijtspek bruin en licht krokant in een droge (stoof)pan. Haal uit de pan en zorg dat het bakvet achterblijft."
+    },
+    {
+      "text": "Snijd de runderriblappen in blokjes van 2 bij 2 centimeter. Bestrooi met peper, zout en de bloem. Schep om tot alles goed verdeeld is."
+    },
+    {
+      "text": "Snijd de ui in halve ringen en de winterpeen in plakken."
+    },
+    {
+      "text": "Hak de knoflook fijn."
+    },
+    {
+      "text": "Verwarm de pan waar het ontbijtspek in gebakken is opnieuw. Bak de riblappen op hoog vuur rondom bruin."
+    },
+    {
+      "text": "Gebruik indien nodig een klein beetje boter of olijfolie."
+    },
+    {
+      "text": "Voeg de ui en winterpeen toe en bak enkele minuten mee met de blokjes vlees."
+    },
+    {
+      "text": "Zet het vuur lager en voeg de knoflook toe. Bak 1 à 2 minuten mee. Voeg de tomatenpuree toe. Roer los en bak 2 à 3 minuten mee."
+    },
+    {
+      "text": "Blus af met de rode wijn. Roer eventuele aanbaksels los van de bodem. Laat de wijn grotendeels verdampen."
+    },
+    {
+      "text": "Voeg de runderbouillon, het laurierblaadje, het takje tijm en de kruidnagel toe."
+    },
+    {
+      "text": "Snijd de plakken ontbijtspek in stukjes en voeg toe."
+    },
+    {
+      "text": "Laat het gerecht ongeveer 2 uur stoven met de deksel op de pan."
+    },
+    {
+      "text": "Boen de champignons schoon en snijd ze in kwarten."
+    },
+    {
+      "text": "Snijd de zilveruitjes doormidden."
+    },
+    {
+      "text": "Voeg de champignons en de zilveruitjes toe."
+    },
+    {
+      "text": "Laat alles nog minimaal 30 minuten stoven. Doe dit eventueel zonder deksel op de pan, zodat de boeuf bourguignon wat verder inkookt."
+    },
+    {
+      "text": "Haal het laurierblaadje, het takje tijm en de kruidnagel uit de pan."
+    }
+  ],
+  "nutrition": {
+    "calories": "\n                        428\n                        Kcal\n                    ",
+    "carbohydrateContent": "\n                            21 gram\n                            Koolhydraten\n                        ",
+    "fatContent": "\n                            19 gram\n                            Vet\n                        ",
+    "fiberContent": "\n                            8 gram\n                            Vezels\n                        ",
+    "proteinContent": "\n                            33 gram\n                            Eiwitten\n                        "
   }
 }

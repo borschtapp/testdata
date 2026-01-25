@@ -180,7 +180,7 @@ font-weight: bold;
     <link rel="preload" as="font" type="font/woff2" crossorigin href="https://www.franzoesischkochen.de/wp-content/themes/stuffpost/assets/fontawesome/web-fonts-with-css/webfonts/fa-solid-900.woff2"/>
     <link rel="preload" as="font" type="font/woff2" crossorigin href="https://www.franzoesischkochen.de/wp-content/themes/stuffpost/assets/fontawesome/web-fonts-with-css/webfonts/fa-brands-400.woff2"/>
     <link rel="preload" href="https://www.franzoesischkochen.de/wp-content/themes/stuffpost/fonts/ibarra.woff2" as="font" type="font/woff2" crossorigin>
-  <title>Tourte mit Feigen und Confit de canard Rezept</title><link rel="stylesheet" href="https://www.franzoesischkochen.de/wp-content/cache/min/1/fdcbefd274b81e34fcea4a69f41331c4.css" media="all" data-minify="1" />
+  <title>Tourte mit Feigen und Confit de canard Rezept</title><link rel="stylesheet" href="https://www.franzoesischkochen.de/wp-content/cache/min/1/d6da5ff47f3502a2bf7f4eebaf25ab20.css" media="all" data-minify="1" />
 		<style type="text/css">
 					.heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
 											.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{
@@ -239,7 +239,7 @@ window.koko_analytics = {"url":"https:\/\/www.franzoesischkochen.de\/koko-analyt
 <link rel='dns-prefetch' href='//font.googleapis.com' />
 <link rel="alternate" type="application/rss+xml" title="Französisch Kochen &raquo; Feed" href="https://www.franzoesischkochen.de/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Französisch Kochen &raquo; Kommentar-Feed" href="https://www.franzoesischkochen.de/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Französisch Kochen &raquo; Tourte mit Feigen und Confit de canard-Kommentar-Feed" href="https://www.franzoesischkochen.de/tourte-mit-feigen-und-confit-de-canard/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Französisch Kochen &raquo; Kommentar-Feed zu Tourte mit Feigen und Confit de canard" href="https://www.franzoesischkochen.de/tourte-mit-feigen-und-confit-de-canard/feed/" />
       <!-- facebook -->
       <meta property="og:type" content="article"/>
       <meta property="og:title" content="Tourte mit Feigen und Confit de canard"/>
@@ -569,13 +569,78 @@ min-height: 60px;
 .actual-meta {
 	text-align: center;
 }
-.sc_fancy_player_container::before {
-  content: 'Folge abspielen';
-font-weight: bold;
-  text-align: center;
+.sc_fancy_player_container .mejs-inner::before {
+  content: 'Jetzt reinhören!';
+  font-weight: bold;
   display: block;
+  clear: both;
+  color: #fff;
+  padding-left: 1rem;
+  padding-top: 10px;
+}
+.mejs-time.mejs-duration-container,  .mejs-mute, .mejs-horizontal-volume-slider {
+  display: none !important;
+}
+
+.pod > span {
+	display: none !important;
+}
+
+.pod {
+	border: none !important;
+}
+.mejs-container.mejs-audio
+.mejs-button.mejs-playpause-button.mejs-play button, .mejs-button.mejs-playpause-button.mejs-pause button  {
+
+  transform: scale(2.6);
+  overflow: visible;
+  position: relative;
 
 }
+.mejs-container.mejs-audio
+Element {
+  width: 662px;
+  height: 40px;
+  min-width: 156px;
+}
+.mejs-container.mejs-audio {
+  height: 100px !important;
+  position: relative;
+}
+.mejs-container.mejs-audio {
+  background: #041548;
+  border-radius: 20px;
+
+  padding-bottom: !important;
+}
+.mejs-container.mejs-audio .mejs-button.mejs-playpause-button.mejs-play,.mejs-container.mejs-audio .mejs-button.mejs-playpause-button.mejs-pause  {
+  height: 75px;
+  padding: 20px 20px 20px 20px;
+  border-radius: 100px !important;
+  background: #009fff;
+  width: 75px;
+  margin: 10px;
+  border: solid 2px #fff;
+  position: absolute;
+  top: -58px;
+  right: 5px;
+}
+
+ .mejs-container.mejs-audio {
+  height: 100px !important;
+  position: relative;
+}
+.mejs-container.mejs-audio
+.mejs-controls {
+  padding-right: 100px !important;
+	background: transparent !important;
+}
+
+.mejs-container.mejs-audio {
+  background: #041548 !important;
+  border-radius: 20px;
+}
+
 .by-badge span {
 margin-top: 8px;
 line-height: 20px;
@@ -669,7 +734,8 @@ background-position: top center;
 
 .bg-65 {
 	padding-top: 
-	70% !important;
+	90% !important;
+border-radius: 8px;
 }
 
 .col-lg-6.actual-meta {max-width: 100%;
@@ -3327,6 +3393,9 @@ min-height: unset !important;
   line-height: 1.3;
   text-decoration: none !important;
   font-weight: bold !important;
+			padding: 15px !important;
+	color: #000046 !important;
+
 }
 
 .rp4wp-related-posts a {
@@ -3389,13 +3458,15 @@ flex-wrap: wrap;
 .rp4wp-related-posts ul > li {
  margin-right: 1.5rem !important;
   width: calc(33% - 1rem) !important;
-  padding: 5px !important;
+  padding: 0px !important;
   float: none !important;
   display: inline-block;
   max-width: calc(33% - 1rem) !important;
   clear: none !important;
 margin: .5rem !important;
-
+background: #fff5e0;
+  box-shadow: 0px 2px 5px -3px #000;
+border-radius: 15px 15px 2px 2px;
 }
 
 
@@ -3404,6 +3475,10 @@ margin: .5rem !important;
 		max-width: calc(50% - 1rem) !important;
 	}
 	
+}
+
+.rp4wp-related-post-image .lazy {
+	width: 100% !important;
 }
 
 /*
@@ -4334,7 +4409,7 @@ background-size: contain !important;
 }
 .rp4wp-related-post-image div { 
 max-height: 200px !important;
-	border-radius: 15px;
+	border-radius: 15px 15px 0 0;
 }
 .pub-wrapper a {
 	text-align: center !important;
@@ -4565,9 +4640,9 @@ transition-duration: 500ms;
 }
 
 .rp4wp-related-posts ul  li:hover .rp4wp-related-post-image div {
-transform: scale(.95);
+/*transform: scale(.95);
 transition-duration: 500ms;
-}
+*/}
 
 .wasko2.waskogama + ul {
 	opacity: 0%;
@@ -5446,11 +5521,11 @@ white-space: nowrap;
 	margin-top: 2rem !important;
 }
 
-@media all and (max-width: 350px) {
+@media all and (max-width: 450px) {
 
 
 	.rp4wp-related-posts ul > li {
-		max-width: 100% !important;
+		max-width: 98% !important;
 	}
 	.rp4wp-related-posts ul > li .rp4wp-related-post-image div {
 	max-height: 300px !important;
@@ -6000,15 +6075,39 @@ width: 100%;
 .firstrating  {
 	border-radius: 20px;
 }
-
+.ue13 quote {
+	padding-left: 180px !important;
+	margin: 0 !important;
+}
 @media all and (max-width: 500px) {
 	.ue12 quote {
 		padding-left: 1rem !important;
 		padding-top: calc(120px + 1rem) !important;
 		background-position: center 1rem  !important;
 	}
+	.ue13 quote {
+		padding-left: 1rem !important;
+		padding-top: calc(200px + 1rem) !important;
+		background-position: center 1rem  !important;
+text-align:center;	}
 	
-}		</style>
+}
+
+
+.rp4wp-related-post-category {
+  background: #093d7b;
+  color: #fff;
+  position: absolute;
+  margin-top: -27px;
+  padding: 0 10px;
+  font-size: 13px;
+  bottom: 0;
+  text-transform: uppercase;
+	left: 0;
+}
+
+
+		</style>
 		<style type="text/css">/** Mega Menu CSS: fs **/</style>
 
 </head>
@@ -6140,7 +6239,7 @@ width: 100%;
 
 <main id="main" class="c-black f-text main">
 
-<div class="breadcrumb-container" itemscope itemtype="https://schema.org/BreadcrumbList"><ol class="breadcrumbs"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" typeof="WebPage" title="Zur Startseite" href="https://www.franzoesischkochen.de/" class="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" typeof="WebPage" title="Zur Kategorie Hauptspeisen" href="https://www.franzoesischkochen.de/category/hauptspeisen/" class="taxonomy product_cat"><span itemprop="name">Hauptspeisen</span></a><meta itemprop="position" content="2"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" aria-current="page"
+<div class="breadcrumb-container" itemscope itemtype="https://schema.org/BreadcrumbList"><ol class="breadcrumbs"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" typeof="WebPage" title="Zur Startseite" href="https://www.franzoesischkochen.de/" class="home"><span itemprop="name">Rezepte</span></a><meta itemprop="position" content="1"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" typeof="WebPage" title="Zur Kategorie Hauptspeisen" href="https://www.franzoesischkochen.de/category/hauptspeisen/" class="taxonomy product_cat"><span itemprop="name">Hauptspeisen</span></a><meta itemprop="position" content="2"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" aria-current="page"
 ><span itemprop="name">Tourte mit Feigen und Confit de canard</span><meta itemprop="position" content="3"></li></ol></div>
 
   <article id="post-51806" class="container mt-5 post-51806 post type-post status-publish format-standard has-post-thumbnail hentry category-fleisch category-hauptspeisen category-herbst category-quiche category-traditionelle-rezepte category-hauptspeisen-weihnachten category-wintergerichte tag-confit-de-canard-cabanne tag-daube tag-gewruezmischung-sarlat tag-gewuerznelken tag-lorbeer tag-muskatnuss tag-reibe">
@@ -6186,7 +6285,7 @@ width: 100%;
 <p>&nbsp;</p>
 <p>Feigen sind wieder fast in jedem Obstladen zu finden. Ich habe direkt eine ganze Kiste genommen! Ich liebe sie, weil sie einfach mit allem passen: <a href="https://www.franzoesischkochen.de/vorspeise-feigen-roquefort/">Käse</a>, <a title="Schokolade im Shop kaufen" class="aalmanual" href="https://www.franzoesischkochen.de/shop/zum-backen/valrhona-schokolade/">Schokolade</a>, <a title="Vanille im Shop kaufen" class="aalmanual" href="https://www.franzoesischkochen.de/shop/2-bourbon-vanillestangen-aus-madagaskar-vanilleschoten/">Vanille</a> oder noch <a href="https://www.franzoesischkochen.de/schweinefilet-medaillons-mit-feigen-und-pfifferlingen/">Fleisch</a>.</p>
 <p>Noch ein kleine Idee zum Mitnehmen sind kleine Tourtes mit Blätterteig. Die Füllung ist ganz einfach: <a title="Entenconfit im Shop kaufen" class="aalmanual" href="https://www.franzoesischkochen.de/shop/confit-de-canard-entenconfit-aus-dem-baskenland/">Entenconfit</a> (<a title="Confit de Canard im Shop kaufen" class="aalmanual" href="https://www.franzoesischkochen.de/shop/confit-de-canard-entenconfit-aus-dem-baskenland/">Confit de Canard</a>), Pfifferlinge (habe ich immer im TK) und leckere frische Feigen.</p>
-<p>Das Rezept an sich ist einfach aber verlangt schon ein bisschen Arbeit. Ich mag <a title="Confit de canard im Shop kaufen" class="aalmanual" href="https://www.franzoesischkochen.de/shop/confit-de-canard-entenconfit-aus-dem-baskenland/">Confit de canard</a> Fleisch, weil es bereits gegart ist und man es nur weiterverarbeiten muss. In diesem Fall habe ich es ein bisschen wie beim <strong>Pulled Pork</strong> in der Hand gehabt und die Fasern meiner Entenbrust gezogen. So hatte ich eine weiche Masse (mit den Pilzen und Feigen) um damit eine Tourte zu füllen.</p><p id="passendeprodukte" style="font-style: italic;border-top: solid 1px #ddd;  padding-top: 1.5rem;"><strong>Lust auf mehr?</strong> Hier findest du einige meiner liebsten Küchenhelfer und Zutaten, die gut zu Rezepten dieser Art passen. Mehr Ideen gibt’s in den Rubriken <a href="https://www.franzoesischkochen.de/shop/zutaten/" rel="tag">Zutaten</a>, <a href="https://www.franzoesischkochen.de/shop/zutaten/zum-wuerzen/" rel="tag">Französische Gewürze</a> oder <a href="https://www.franzoesischkochen.de/shop/fertiggerichte/" rel="tag">Fertiggerichte</a>. Viel Spaß beim Stöbern!</p><ul class="upsell" style="margin: 1rem 0 0 0 !important;"><li><a  class="lienupsell"  href="https://www.franzoesischkochen.de/shop/confit-de-canard-entenconfit-aus-dem-baskenland/"><img loading="lazy" class="imageproduit" src="https://www.franzoesischkochen.de/shop/wp-content/uploads/2023/10/confit-de-canard-entenconfit.jpg"  alt="Confit de Canard (Entenconfit)"><span class="centre"><span class="short"><span class="strong">Confit de Canard (Entenconfit)</span> - Confit de Canard aus dem Baskenland.&nbsp;</span><br><span class="ansehen" style="text-decoration: none !important;display: inline-block;/*! background: #f6f6f6; */padding: 0px 16px 1px 16px;border: solid 1px #ddd;border-radius: 50px;margin-top: 10px;">Ansehen<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16" style="margin-left: 0px;position: relative;top: 4px;" width="20" height="20"><path d="M6 3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9h-1v3H6V4h3V3H6z"></path><path d="M11 1v1h2.293L8.146 7.146l.708.708L14 2.707V5h1V1h-4z" transform="translate(0, 2)"></path></svg></span></span></a></li><li><a  class="lienupsell"  href="https://www.franzoesischkochen.de/shop/daube-de-canard-850g/"><img loading="lazy" class="imageproduit" src="https://www.franzoesischkochen.de/shop/wp-content/uploads/2023/10/daube-de-canard-enten-confit-frankreich-800g.jpg"  alt="Daube de Canard 800g"><span class="centre"><span class="short"><span class="strong">Daube de Canard 800g</span> - In Rotwein geschmortes Entenconfit aus dem Baskenland.&nbsp;</span><br><span class="ansehen" style="text-decoration: none !important;display: inline-block;/*! background: #f6f6f6; */padding: 0px 16px 1px 16px;border: solid 1px #ddd;border-radius: 50px;margin-top: 10px;">Ansehen<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16" style="margin-left: 0px;position: relative;top: 4px;" width="20" height="20"><path d="M6 3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9h-1v3H6V4h3V3H6z"></path><path d="M11 1v1h2.293L8.146 7.146l.708.708L14 2.707V5h1V1h-4z" transform="translate(0, 2)"></path></svg></span></span></a></li><li><a  class="lienupsell"  href="https://www.franzoesischkochen.de/shop/gewuerz-mischung-sarlat-steinpilz/"><img loading="lazy" class="imageproduit" src="https://www.franzoesischkochen.de/shop/wp-content/uploads/images/products/products-gewuerz-mischung-sarlat-steinpilzen.jpg"  alt="Gewürzmischung à la Sarladaise"><span class="centre"><span class="short"><span class="strong">Gewürzmischung à la Sarladaise</span> - Gewürzmischung aus dem Périgord.&nbsp;</span><br><span class="ansehen" style="text-decoration: none !important;display: inline-block;/*! background: #f6f6f6; */padding: 0px 16px 1px 16px;border: solid 1px #ddd;border-radius: 50px;margin-top: 10px;">Ansehen<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16" style="margin-left: 0px;position: relative;top: 4px;" width="20" height="20"><path d="M6 3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9h-1v3H6V4h3V3H6z"></path><path d="M11 1v1h2.293L8.146 7.146l.708.708L14 2.707V5h1V1h-4z" transform="translate(0, 2)"></path></svg></span></span></a></li><li><a  class="lienupsell"  href="https://www.franzoesischkochen.de/shop/gewuerznelken-25g/"><img loading="lazy" class="imageproduit" src="https://www.franzoesischkochen.de/shop/wp-content/uploads/2022/05/Nelken-zum-kochen.jpg"  alt="Gewürznelken 25g"><span class="centre"><span class="short"><span class="strong">Gewürznelken 25g</span> - Unbehandelte Gewürznelken aus Sri Lanka.&nbsp;</span><br><span class="ansehen" style="text-decoration: none !important;display: inline-block;/*! background: #f6f6f6; */padding: 0px 16px 1px 16px;border: solid 1px #ddd;border-radius: 50px;margin-top: 10px;">Ansehen<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16" style="margin-left: 0px;position: relative;top: 4px;" width="20" height="20"><path d="M6 3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9h-1v3H6V4h3V3H6z"></path><path d="M11 1v1h2.293L8.146 7.146l.708.708L14 2.707V5h1V1h-4z" transform="translate(0, 2)"></path></svg></span></span></a></li><li><a  class="lienupsell"  href="https://www.franzoesischkochen.de/shop/lorbeerblaetter-ganz-unbehandelt-25g/"><img loading="lazy" class="imageproduit" src="https://www.franzoesischkochen.de/shop/wp-content/uploads/2022/05/unbehandelte-lorbeerblatt.jpg"  alt="Lorbeerblätter ganz, unbehandelt 25g"><span class="centre"><span class="short"><span class="strong">Lorbeerblätter ganz, unbehandelt 25g</span> - Ganze unbehandelte Lorbeerblätter aus Frankreich.&nbsp;</span><br><span class="ansehen" style="text-decoration: none !important;display: inline-block;/*! background: #f6f6f6; */padding: 0px 16px 1px 16px;border: solid 1px #ddd;border-radius: 50px;margin-top: 10px;">Ansehen<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16" style="margin-left: 0px;position: relative;top: 4px;" width="20" height="20"><path d="M6 3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9h-1v3H6V4h3V3H6z"></path><path d="M11 1v1h2.293L8.146 7.146l.708.708L14 2.707V5h1V1h-4z" transform="translate(0, 2)"></path></svg></span></span></a></li><li><a  class="lienupsell"  href="https://www.franzoesischkochen.de/shop/muskatnuss-3-stueck-zirka-10-g/"><img loading="lazy" class="imageproduit" src="https://www.franzoesischkochen.de/shop/wp-content/uploads/2021/01/Muskatnuss.jpg"  alt="Muskatnuss - 3 Stück- ca. 10g"><span class="centre"><span class="short"><span class="strong">Muskatnuss - 3 Stück- ca. 10g</span> - 3 ganze Muskatnüsse zum Reiben.&nbsp;</span><br><span class="ansehen" style="text-decoration: none !important;display: inline-block;/*! background: #f6f6f6; */padding: 0px 16px 1px 16px;border: solid 1px #ddd;border-radius: 50px;margin-top: 10px;">Ansehen<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16" style="margin-left: 0px;position: relative;top: 4px;" width="20" height="20"><path d="M6 3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9h-1v3H6V4h3V3H6z"></path><path d="M11 1v1h2.293L8.146 7.146l.708.708L14 2.707V5h1V1h-4z" transform="translate(0, 2)"></path></svg></span></span></a></li><li><a  class="lienupsell"  href="https://www.franzoesischkochen.de/shop/zester-reibe-microplane-gelb/"><img loading="lazy" class="imageproduit" src="https://www.franzoesischkochen.de/shop/wp-content/uploads/2022/05/reiben-zester-microplane-gelb.jpg"  alt="Zester-Reibe Microplane Gelb"><span class="centre"><span class="short"><span class="strong">Zester-Reibe Microplane Gelb</span> - Zweifellos DIE Referenz.&nbsp;</span><br><span class="ansehen" style="text-decoration: none !important;display: inline-block;/*! background: #f6f6f6; */padding: 0px 16px 1px 16px;border: solid 1px #ddd;border-radius: 50px;margin-top: 10px;">Ansehen<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16" style="margin-left: 0px;position: relative;top: 4px;" width="20" height="20"><path d="M6 3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9h-1v3H6V4h3V3H6z"></path><path d="M11 1v1h2.293L8.146 7.146l.708.708L14 2.707V5h1V1h-4z" transform="translate(0, 2)"></path></svg></span></span></a></li></ul><p style="font-style: italic;" id="ueberspringen">Zurück zum Rezept...</p>
+<p>Das Rezept an sich ist einfach aber verlangt schon ein bisschen Arbeit. Ich mag <a title="Confit de canard im Shop kaufen" class="aalmanual" href="https://www.franzoesischkochen.de/shop/confit-de-canard-entenconfit-aus-dem-baskenland/">Confit de canard</a> Fleisch, weil es bereits gegart ist und man es nur weiterverarbeiten muss. In diesem Fall habe ich es ein bisschen wie beim <strong>Pulled Pork</strong> in der Hand gehabt und die Fasern meiner Entenbrust gezogen. So hatte ich eine weiche Masse (mit den Pilzen und Feigen) um damit eine Tourte zu füllen.</p><p id="passendeprodukte" style="font-style: italic;border-top: solid 1px #ddd;  padding-top: 1.5rem;"><strong>Lust auf mehr?</strong> Die Produkte hier stammen aus meinem <a href="https://www.franzoesischkochen.de/shop/" title="Direkt zum Shop">eigenen Shop</a> – ich nutze sie für Rezepte wie dieses. Noch mehr Ideen gibt’s in den Rubriken <a href="https://www.franzoesischkochen.de/shop/zutaten/zum-wuerzen/" rel="tag">Französische Gewürze</a>, <a href="https://www.franzoesischkochen.de/shop/suedwest/" rel="tag">Spezialitäten aus Südwestfrankreich</a> oder <a href="https://www.franzoesischkochen.de/shop/zutaten/" rel="tag">Zutaten</a>. Viel Spaß beim Stöbern!</p><ul class="upsell" style="margin: 1rem 0 0 0 !important;"><li><a  class="lienupsell"  href="https://www.franzoesischkochen.de/shop/confit-de-canard-entenconfit-von-lafitte/"><img loading="lazy" class="imageproduit" src="https://www.franzoesischkochen.de/shop/wp-content/uploads/2023/10/confit-de-canard-entenconfit.jpg"  alt="Confit de Canard (Entenconfit)"><span class="centre"><span class="short"><span class="strong">Confit de Canard (Entenconfit)</span> - Confit de Canard aus dem Baskenland.&nbsp;</span><br><span class="ansehen" style="text-decoration: none !important;display: inline-block;/*! background: #f6f6f6; */padding: 0px 16px 1px 16px;border: solid 1px #ddd;border-radius: 50px;margin-top: 10px;">Ansehen<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16" style="margin-left: 0px;position: relative;top: 4px;" width="20" height="20"><path d="M6 3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9h-1v3H6V4h3V3H6z"></path><path d="M11 1v1h2.293L8.146 7.146l.708.708L14 2.707V5h1V1h-4z" transform="translate(0, 2)"></path></svg></span></span></a></li><li><a  class="lienupsell"  href="https://www.franzoesischkochen.de/shop/daube-de-canard-850g/"><img loading="lazy" class="imageproduit" src="https://www.franzoesischkochen.de/shop/wp-content/uploads/2023/10/daube-de-canard-enten-confit-frankreich-800g.jpg"  alt="Daube de Canard 800g"><span class="centre"><span class="short"><span class="strong">Daube de Canard 800g</span> - In Rotwein geschmortes Entenconfit aus dem Baskenland.&nbsp;</span><br><span class="ansehen" style="text-decoration: none !important;display: inline-block;/*! background: #f6f6f6; */padding: 0px 16px 1px 16px;border: solid 1px #ddd;border-radius: 50px;margin-top: 10px;">Ansehen<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16" style="margin-left: 0px;position: relative;top: 4px;" width="20" height="20"><path d="M6 3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9h-1v3H6V4h3V3H6z"></path><path d="M11 1v1h2.293L8.146 7.146l.708.708L14 2.707V5h1V1h-4z" transform="translate(0, 2)"></path></svg></span></span></a></li><li><a  class="lienupsell"  href="https://www.franzoesischkochen.de/shop/gewuerz-mischung-sarlat-steinpilz/"><img loading="lazy" class="imageproduit" src="https://www.franzoesischkochen.de/shop/wp-content/uploads/images/products/products-gewuerz-mischung-sarlat-steinpilzen.jpg"  alt="Gewürzmischung à la Sarladaise"><span class="centre"><span class="short"><span class="strong">Gewürzmischung à la Sarladaise</span> - Gewürzmischung aus dem Périgord.&nbsp;</span><br><span class="ansehen" style="text-decoration: none !important;display: inline-block;/*! background: #f6f6f6; */padding: 0px 16px 1px 16px;border: solid 1px #ddd;border-radius: 50px;margin-top: 10px;">Ansehen<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16" style="margin-left: 0px;position: relative;top: 4px;" width="20" height="20"><path d="M6 3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9h-1v3H6V4h3V3H6z"></path><path d="M11 1v1h2.293L8.146 7.146l.708.708L14 2.707V5h1V1h-4z" transform="translate(0, 2)"></path></svg></span></span></a></li><li><a  class="lienupsell"  href="https://www.franzoesischkochen.de/shop/gewuerznelken-25g/"><img loading="lazy" class="imageproduit" src="https://www.franzoesischkochen.de/shop/wp-content/uploads/2022/05/Nelken-zum-kochen.jpg"  alt="Gewürznelken 25g"><span class="centre"><span class="short"><span class="strong">Gewürznelken 25g</span> - Unbehandelte Gewürznelken aus Sri Lanka.&nbsp;</span><br><span class="ansehen" style="text-decoration: none !important;display: inline-block;/*! background: #f6f6f6; */padding: 0px 16px 1px 16px;border: solid 1px #ddd;border-radius: 50px;margin-top: 10px;">Ansehen<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16" style="margin-left: 0px;position: relative;top: 4px;" width="20" height="20"><path d="M6 3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9h-1v3H6V4h3V3H6z"></path><path d="M11 1v1h2.293L8.146 7.146l.708.708L14 2.707V5h1V1h-4z" transform="translate(0, 2)"></path></svg></span></span></a></li><li><a  class="lienupsell"  href="https://www.franzoesischkochen.de/shop/lorbeerblaetter-ganz-unbehandelt-25g/"><img loading="lazy" class="imageproduit" src="https://www.franzoesischkochen.de/shop/wp-content/uploads/2022/05/unbehandelte-lorbeerblatt.jpg"  alt="Lorbeerblätter ganz, unbehandelt 25g"><span class="centre"><span class="short"><span class="strong">Lorbeerblätter ganz, unbehandelt 25g</span> - Ganze unbehandelte Lorbeerblätter aus Frankreich.&nbsp;</span><br><span class="ansehen" style="text-decoration: none !important;display: inline-block;/*! background: #f6f6f6; */padding: 0px 16px 1px 16px;border: solid 1px #ddd;border-radius: 50px;margin-top: 10px;">Ansehen<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16" style="margin-left: 0px;position: relative;top: 4px;" width="20" height="20"><path d="M6 3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9h-1v3H6V4h3V3H6z"></path><path d="M11 1v1h2.293L8.146 7.146l.708.708L14 2.707V5h1V1h-4z" transform="translate(0, 2)"></path></svg></span></span></a></li><li><a  class="lienupsell"  href="https://www.franzoesischkochen.de/shop/muskatnuss-3-stueck-zirka-10-g/"><img loading="lazy" class="imageproduit" src="https://www.franzoesischkochen.de/shop/wp-content/uploads/2021/01/Muskatnuss.jpg"  alt="Muskatnuss - 3 Stück- ca. 10g"><span class="centre"><span class="short"><span class="strong">Muskatnuss - 3 Stück- ca. 10g</span> - 3 ganze Muskatnüsse zum Reiben.&nbsp;</span><br><span class="ansehen" style="text-decoration: none !important;display: inline-block;/*! background: #f6f6f6; */padding: 0px 16px 1px 16px;border: solid 1px #ddd;border-radius: 50px;margin-top: 10px;">Ansehen<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16" style="margin-left: 0px;position: relative;top: 4px;" width="20" height="20"><path d="M6 3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9h-1v3H6V4h3V3H6z"></path><path d="M11 1v1h2.293L8.146 7.146l.708.708L14 2.707V5h1V1h-4z" transform="translate(0, 2)"></path></svg></span></span></a></li><li><a  class="lienupsell"  href="https://www.franzoesischkochen.de/shop/zester-reibe-microplane-gelb/"><img loading="lazy" class="imageproduit" src="https://www.franzoesischkochen.de/shop/wp-content/uploads/2022/05/reiben-zester-microplane-gelb.jpg"  alt="Zester-Reibe Microplane Gelb"><span class="centre"><span class="short"><span class="strong">Zester-Reibe Microplane Gelb</span> - Zweifellos DIE Referenz.&nbsp;</span><br><span class="ansehen" style="text-decoration: none !important;display: inline-block;/*! background: #f6f6f6; */padding: 0px 16px 1px 16px;border: solid 1px #ddd;border-radius: 50px;margin-top: 10px;">Ansehen<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16" style="margin-left: 0px;position: relative;top: 4px;" width="20" height="20"><path d="M6 3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9h-1v3H6V4h3V3H6z"></path><path d="M11 1v1h2.293L8.146 7.146l.708.708L14 2.707V5h1V1h-4z" transform="translate(0, 2)"></path></svg></span></span></a></li></ul><p style="font-style: italic;" id="ueberspringen">Zurück zum Rezept...</p>
 <p>Falls Ihr den Confit nicht zu Hause bereit habt oder es lieber doch selber machen möchtet, könnt Ihr mal hier einen Blick <a href="https://www.franzoesischkochen.de/enten-confit-canard/">werfen &gt; Selbstgemachter Confit de canard &lt;</a></p>
 <p>Und nein, ich habe den Blätterteig nicht selbergemacht :-), wenn Ihr aber Zeit habt , bitte nur zu!</p>
 <p>&nbsp;</p>
@@ -6252,55 +6351,55 @@ width: 100%;
 <p>&nbsp;</p>
 <style type="text/css"><!-- h2, h3 {clear: both;}.alignleft {max-width: calc(50% - 1rem) !important;} @media all and (min-width: 576px) {.alignleft {max-width: calc(33% - 1rem) !important;} } p {clear: both; } --> </style>
 <div class="firstrating" style="background: #ffe2e2; border: none;"><strong>Dir hat mein Rezept gefallen?</strong><br>Klicke auf die Sterne, um zu bewerten
-<div id="post-ratings-51806" class="post-ratings" data-nonce="8cdbba7037"><img class="post-rating-image" loading="lazy"   id="rating_51806_1" src="https://www.franzoesischkochen.de/wp-content/plugins/wp-postratings/images/bruno/rating_on.gif"  alt=" Rating_on"   title="Tourte mit Feigen und Confit de canard"  onmouseover="current_rating(51806, 1, '');" onmouseout="ratings_off(5, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img class="post-rating-image" loading="lazy"   id="rating_51806_2" src="https://www.franzoesischkochen.de/wp-content/plugins/wp-postratings/images/bruno/rating_on.gif"  alt=" Rating_on"   title="Tourte mit Feigen und Confit de canard"  onmouseover="current_rating(51806, 2, '');" onmouseout="ratings_off(5, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img class="post-rating-image" loading="lazy"   id="rating_51806_3" src="https://www.franzoesischkochen.de/wp-content/plugins/wp-postratings/images/bruno/rating_on.gif"  alt=" Rating_on"   title="Tourte mit Feigen und Confit de canard"  onmouseover="current_rating(51806, 3, '');" onmouseout="ratings_off(5, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img class="post-rating-image" loading="lazy"   id="rating_51806_4" src="https://www.franzoesischkochen.de/wp-content/plugins/wp-postratings/images/bruno/rating_on.gif"  alt=" Rating_on"   title="Tourte mit Feigen und Confit de canard"  onmouseover="current_rating(51806, 4, '');" onmouseout="ratings_off(5, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img class="post-rating-image" loading="lazy"   id="rating_51806_5" src="https://www.franzoesischkochen.de/wp-content/plugins/wp-postratings/images/bruno/rating_on.gif"  alt=" Rating_on"   title="Tourte mit Feigen und Confit de canard"  onmouseover="current_rating(51806, 5, '');" onmouseout="ratings_off(5, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><br /><span style="font-size: initial;color: #000">Dieses Rezept wurde bisher <strong>16-mal bewertet</strong>.
+<div id="post-ratings-51806" class="post-ratings" data-nonce="650fae8b1f"><img class="post-rating-image" loading="lazy"   id="rating_51806_1" src="https://www.franzoesischkochen.de/wp-content/plugins/wp-postratings/images/bruno/rating_on.gif"  alt=" Rating_on"   title="Tourte mit Feigen und Confit de canard"  onmouseover="current_rating(51806, 1, '');" onmouseout="ratings_off(5, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img class="post-rating-image" loading="lazy"   id="rating_51806_2" src="https://www.franzoesischkochen.de/wp-content/plugins/wp-postratings/images/bruno/rating_on.gif"  alt=" Rating_on"   title="Tourte mit Feigen und Confit de canard"  onmouseover="current_rating(51806, 2, '');" onmouseout="ratings_off(5, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img class="post-rating-image" loading="lazy"   id="rating_51806_3" src="https://www.franzoesischkochen.de/wp-content/plugins/wp-postratings/images/bruno/rating_on.gif"  alt=" Rating_on"   title="Tourte mit Feigen und Confit de canard"  onmouseover="current_rating(51806, 3, '');" onmouseout="ratings_off(5, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img class="post-rating-image" loading="lazy"   id="rating_51806_4" src="https://www.franzoesischkochen.de/wp-content/plugins/wp-postratings/images/bruno/rating_on.gif"  alt=" Rating_on"   title="Tourte mit Feigen und Confit de canard"  onmouseover="current_rating(51806, 4, '');" onmouseout="ratings_off(5, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img class="post-rating-image" loading="lazy"   id="rating_51806_5" src="https://www.franzoesischkochen.de/wp-content/plugins/wp-postratings/images/bruno/rating_on.gif"  alt=" Rating_on"   title="Tourte mit Feigen und Confit de canard"  onmouseover="current_rating(51806, 5, '');" onmouseout="ratings_off(5, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><br /><span style="font-size: initial;color: #000">Dieses Rezept wurde bisher <strong>16-mal bewertet</strong>.
 Die durchschnittliche Bewertung liegt bei <strong>5,00 Sternen</strong>.</span><br /><span class="post-ratings-text" id="ratings_51806_text"></span></div>oder lass es mich gerne in die Kommentare wissen! <a href="#respond" style="display: block;color: #fff !important;font-weight: bold;text-decoration: none;background: #e84b4b;width: 230px;margin: 1rem auto;border-radius: 100px;padding: 5px;">Jetzt kommentieren</a></div>
 <p style="text-align: center;"><svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" width="16" height="20" viewBox="0 0 16 20" style="margin-right: 7px;position: relative;top: 2px;"><path d="M8 20a.566.566 0 0 0 .405-.172l4.873-5.052a.563.563 0 0 0-.405-.953H10.73V8.929a.563.563 0 0 0-.563-.563H5.833a.561.561 0 0 0-.563.563v4.894H3.127a.563.563 0 0 0-.405.953l4.873 5.052c.106.11.252.172.405.172zm-3.548-5.052h1.38a.562.562 0 0 0 .563-.562V9.492h3.21v4.894a.563.563 0 0 0 .562.562h1.38L8 18.627zM8 7.074c.31 0 .563-.252.563-.563V.563a.563.563 0 1 0-1.126 0V6.51c0 .31.252.563.563.563zM9.77 2.622a.56.56 0 0 0-.165.398v3.49a.563.563 0 0 0 1.125 0V3.02a.563.563 0 0 0-.96-.398zM6.395 6.51V3.02a.563.563 0 0 0-1.125 0v3.49a.563.563 0 1 0 1.125 0zm0 0"></path></svg>Scrolle nach unten für mehr Rezepte</p><div id='pub-container' class='pub1 container' style='top: 0 !important;background: transparent;padding-bottom: 10px; margin-bottom: -50px !important;'><div style='margin: 0 !important;text-align: center;'><span style='text-align: center;display: block;margin: 1rem;font-size: initial;line-height: 1.2;text-transform: uppercase;'><span style='display: block;font-size: 2rem;margin-bottom: 10px;font-weight: bold;text-transform: none;'>Diese Rezepte könnten dir auch gefallen</span></span></div><div class='rp4wp-related-posts'>
 <ul id="relatedposts"><li><a href='https://www.franzoesischkochen.de/parmentier-de-confit-de-canard-auflauf-mit-enten-confit-und-kartoffel-puree/' aria-label='Parmentier de Confit de Canard (Auflauf mit Enten-Confit und Kartoffel-Püree)' title='Parmentier de Confit de Canard (Auflauf mit Enten-Confit und Kartoffel-Püree)' alt='Parmentier de Confit de Canard (Auflauf mit Enten-Confit und Kartoffel-Püree)'><div class='rp4wp-related-post-image'>
-<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2009/10/parmentier-de-confit-de-canardauflauf-mit-enten-confit-und-kartoffel-pueree.jpg'>&nbsp;</div></div>
+<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2009/10/parmentier-de-confit-de-canardauflauf-mit-enten-confit-und-kartoffel-pueree.jpg'><span class='rp4wp-related-post-category'>Hauptspeisen</span></div></div>
 <div class='rp4wp-related-post-content'>
 Parmentier de Confit de Canard (Auflauf mit Enten-Confit und Kartoffel-Püree)</div>
 </a></li><li><a href='https://www.franzoesischkochen.de/tatin-mit-confit-de-canard-und-aepfeln/' aria-label='Tatin mit Confit de Canard und Äpfeln' title='Tatin mit Confit de Canard und Äpfeln' alt='Tatin mit Confit de Canard und Äpfeln'><div class='rp4wp-related-post-image'>
-<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2020/12/tatin-mit-confit-de-canard-und-aepfeln.jpg'>&nbsp;</div></div>
+<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2020/12/tatin-mit-confit-de-canard-und-aepfeln.jpg'><span class='rp4wp-related-post-category'>Hauptspeisen</span></div></div>
 <div class='rp4wp-related-post-content'>
 Tatin mit Confit de Canard und Äpfeln</div>
 </a></li><li><a href='https://www.franzoesischkochen.de/navarin-mit-confit-de-canard/' aria-label='Navarin mit Confit de Canard' title='Navarin mit Confit de Canard' alt='Navarin mit Confit de Canard'><div class='rp4wp-related-post-image'>
-<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2021/03/navarin-mit-confit-de-canard-1.jpg'>&nbsp;</div></div>
+<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2021/03/navarin-mit-confit-de-canard-1.jpg'><span class='rp4wp-related-post-category'>Hauptspeisen</span></div></div>
 <div class='rp4wp-related-post-content'>
 Navarin mit Confit de Canard</div>
-</a></li><li><a href='https://www.franzoesischkochen.de/enten-confit-canard/' aria-label='Enten-Confit mit Zimt, Feigen & Kartoffeln à la sarladaise (Confit de canard à la cannelle)' title='Enten-Confit mit Zimt, Feigen & Kartoffeln à la sarladaise (Confit de canard à la cannelle)' alt='Enten-Confit mit Zimt, Feigen & Kartoffeln à la sarladaise (Confit de canard à la cannelle)'><div class='rp4wp-related-post-image'>
-<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2016/10/enten-confit-mit-zimt-feigen-kartoffeln-a-la-sarladaiseconfit-de-canard-a-la-cannelle.jpg'>&nbsp;</div></div>
+</a></li><li><a href='https://www.franzoesischkochen.de/enten-confit-canard/' aria-label='Enten-Confit selber machen & Kartoffeln à la sarladaise (Confit de canard à la cannelle)' title='Enten-Confit selber machen & Kartoffeln à la sarladaise (Confit de canard à la cannelle)' alt='Enten-Confit selber machen & Kartoffeln à la sarladaise (Confit de canard à la cannelle)'><div class='rp4wp-related-post-image'>
+<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2016/10/enten-confit-mit-zimt-feigen-kartoffeln-a-la-sarladaiseconfit-de-canard-a-la-cannelle.jpg'><span class='rp4wp-related-post-category'>Hauptspeisen</span></div></div>
 <div class='rp4wp-related-post-content'>
-Enten-Confit mit Zimt, Feigen & Kartoffeln à la sarladaise (Confit de canard à la cannelle)</div>
+Enten-Confit selber machen & Kartoffeln à la sarladaise (Confit de canard à la cannelle)</div>
 </a></li><li><a href='https://www.franzoesischkochen.de/tourte-au-confit-de-canard-et-girolles-ou-champignons-des-bois-pastete-von-entenconfit-und-pfifferlinge-oder-waldpilze/' aria-label='Tourte au confit de canard et girolles ou champignons des bois (Pastete von Entenconfit und Pfifferlinge oder Waldpilze)' title='Tourte au confit de canard et girolles ou champignons des bois (Pastete von Entenconfit und Pfifferlinge oder Waldpilze)' alt='Tourte au confit de canard et girolles ou champignons des bois (Pastete von Entenconfit und Pfifferlinge oder Waldpilze)'><div class='rp4wp-related-post-image'>
-<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2009/12/tourte-au-confit-de-canard-et-girolles-ou-champignons-des-boispastete-von-entenconfit-und-pfifferlinge-oder-waldpilze.jpg'>&nbsp;</div></div>
+<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2009/12/tourte-au-confit-de-canard-et-girolles-ou-champignons-des-boispastete-von-entenconfit-und-pfifferlinge-oder-waldpilze.jpg'><span class='rp4wp-related-post-category'>Hauptspeisen</span></div></div>
 <div class='rp4wp-related-post-content'>
 Tourte au confit de canard et girolles ou champignons des bois (Pastete von Entenconfit und Pfifferlinge oder Waldpilze)</div>
 </a></li><li><a href='https://www.franzoesischkochen.de/cassoulet-au-confit-de-canard-ganz-einfach-selbstgemacht/' aria-label='Cassoulet au confit de canard ganz einfach selbstgemacht' title='Cassoulet au confit de canard ganz einfach selbstgemacht' alt='Cassoulet au confit de canard ganz einfach selbstgemacht'><div class='rp4wp-related-post-image'>
-<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2019/12/cassoulet-au-confit-de-canard-ganz-einfach-selbstgemacht.jpg'>&nbsp;</div></div>
+<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2019/12/cassoulet-au-confit-de-canard-ganz-einfach-selbstgemacht.jpg'><span class='rp4wp-related-post-category'>Hauptspeisen</span></div></div>
 <div class='rp4wp-related-post-content'>
 Cassoulet au confit de canard ganz einfach selbstgemacht</div>
 </a></li><li><a href='https://www.franzoesischkochen.de/entenbraten-mit-feigen-und-portwein-roti-de-canard-aux-figues/' aria-label='Entenbraten mit Feigen und Portwein (Rôti de canard aux figues)' title='Entenbraten mit Feigen und Portwein (Rôti de canard aux figues)' alt='Entenbraten mit Feigen und Portwein (Rôti de canard aux figues)'><div class='rp4wp-related-post-image'>
-<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2021/10/entenbraten-mit-feigen-und-portweinroti-de-canard-aux-figues.jpg'>&nbsp;</div></div>
+<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2021/10/entenbraten-mit-feigen-und-portweinroti-de-canard-aux-figues.jpg'><span class='rp4wp-related-post-category'>Hauptspeisen</span></div></div>
 <div class='rp4wp-related-post-content'>
 Entenbraten mit Feigen und Portwein (Rôti de canard aux figues)</div>
 </a></li><li><a href='https://www.franzoesischkochen.de/salade-de-magret-de-canard-fume-salat-mit-geraucherte-barbarieentenbrust/' aria-label='Salade de Magret de Canard fumé (Salat mit geräucherte Barbarieentenbrust)' title='Salade de Magret de Canard fumé (Salat mit geräucherte Barbarieentenbrust)' alt='Salade de Magret de Canard fumé (Salat mit geräucherte Barbarieentenbrust)'><div class='rp4wp-related-post-image'>
-<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2009/10/salade-de-magret-de-canard-fumesalat-mit-geraeucherte-barbarieentenbrust.jpg'>&nbsp;</div></div>
+<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2009/10/salade-de-magret-de-canard-fumesalat-mit-geraeucherte-barbarieentenbrust.jpg'><span class='rp4wp-related-post-category'>Hauptspeisen</span></div></div>
 <div class='rp4wp-related-post-content'>
 Salade de Magret de Canard fumé (Salat mit geräucherte Barbarieentenbrust)</div>
 </a></li><li><a href='https://www.franzoesischkochen.de/terrine-de-canard-au-porto-et-aux-figues/' aria-label='Ententerrine mit Portwein und Feigen' title='Ententerrine mit Portwein und Feigen' alt='Ententerrine mit Portwein und Feigen'><div class='rp4wp-related-post-image'>
-<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2012/11/terrine-de-canard-au-porto-et-aux-figues.jpg'>&nbsp;</div></div>
+<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2012/11/terrine-de-canard-au-porto-et-aux-figues.jpg'><span class='rp4wp-related-post-category'>Hauptspeisen</span></div></div>
 <div class='rp4wp-related-post-content'>
 Ententerrine mit Portwein und Feigen</div>
 </a></li><li><a href='https://www.franzoesischkochen.de/blanquette-de-la-mer/' aria-label='Blanquette de la mer' title='Blanquette de la mer' alt='Blanquette de la mer'><div class='rp4wp-related-post-image'>
-<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2010/06/blanquette-de-la-mer.jpg'>&nbsp;</div></div>
+<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2010/06/blanquette-de-la-mer.jpg'><span class='rp4wp-related-post-category'>Bretagne</span></div></div>
 <div class='rp4wp-related-post-content'>
 Blanquette de la mer</div>
 </a></li><li><a href='https://www.franzoesischkochen.de/magret-de-canard-sauce-au-vin-entenbrust-in-rotweinsauce/' aria-label='Magret de canard sauce au vin (Entenbrust in Rotweinsauce)' title='Magret de canard sauce au vin (Entenbrust in Rotweinsauce)' alt='Magret de canard sauce au vin (Entenbrust in Rotweinsauce)'><div class='rp4wp-related-post-image'>
-<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2009/10/magret-de-canard-sauce-au-vinentenbrust-in-rotweinsauce.jpg'>&nbsp;</div></div>
+<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2009/10/magret-de-canard-sauce-au-vinentenbrust-in-rotweinsauce.jpg'><span class='rp4wp-related-post-category'>Hauptspeisen</span></div></div>
 <div class='rp4wp-related-post-content'>
 Magret de canard sauce au vin (Entenbrust in Rotweinsauce)</div>
 </a></li><li><a href='https://www.franzoesischkochen.de/schweine-rillettes-rillettes-de-porc/' aria-label='Schweine-Rillettes (Rillettes de Porc)' title='Schweine-Rillettes (Rillettes de Porc)' alt='Schweine-Rillettes (Rillettes de Porc)'><div class='rp4wp-related-post-image'>
-<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2023/01/schweine-rillettesrillettes-de-porc.jpg'>&nbsp;</div></div>
+<div class='lazy' style='width: 300px;height: 300px; background-size: cover;display: block;background-repeat: no-repeat;background-position: center;' data-src='https://www.franzoesischkochen.de/wp-content/uploads/2023/01/schweine-rillettesrillettes-de-porc.jpg'><span class='rp4wp-related-post-category'>Apéritif</span></div></div>
 <div class='rp4wp-related-post-content'>
 Schweine-Rillettes (Rillettes de Porc)</div>
 </a></li></ul></div></div>
@@ -6338,7 +6437,7 @@ Schweine-Rillettes (Rillettes de Porc)</div>
 <!-- /* COMMENTS */ -->
   <div class="post-comments clearfix mt-5 small">  <section id="respond" class="c-meta l-meta text-center" style="background: #f6f6f6;border: solid 1px #ddd;margin-top:   .7rem !important;">
 	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Hat dir das Rezept gefallen oder hast du es noch weiter verfeinert? <small><a rel="nofollow" id="cancel-comment-reply-link" href="/tourte-mit-feigen-und-confit-de-canard/#respond" style="display:none;">Antwort abbrechen</a></small></h3><form action="https://www.franzoesischkochen.de/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes"><span id="email-notes">Deine E-Mail-Adresse wird nicht veröffentlicht.</span> <span class="required-field-message">Erforderliche Felder sind mit <span class="required">*</span> markiert</span></p><p class="comment-form-comment"><label for="comment">Kommentar <span class="required">*</span></label> <textarea aria-label="new password" autocomplete="new-password"  id="ee34346870"  name="ee34346870"   cols="45" rows="8" maxlength="65525" required></textarea><textarea id="comment" aria-label="hp-comment" aria-hidden="true" name="comment" autocomplete="new-password" style="padding:0 !important;clip:rect(1px, 1px, 1px, 1px) !important;position:absolute !important;white-space:nowrap !important;height:1px !important;width:1px !important;overflow:hidden !important;" tabindex="-1"></textarea><script data-noptimize>document.getElementById("comment").setAttribute( "id", "a9681271489e85182a81525c6d0cb9d5" );document.getElementById("ee34346870").setAttribute( "id", "comment" );</script></p><p class="comment-form-author"><label for="author">Name</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" /></p>
+		<h3 id="reply-title" class="comment-reply-title">Hat dir das Rezept gefallen oder hast du es noch weiter verfeinert? <small><a rel="nofollow" id="cancel-comment-reply-link" href="/tourte-mit-feigen-und-confit-de-canard/#respond" style="display:none;">Antwort abbrechen</a></small></h3><form action="https://www.franzoesischkochen.de/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes"><span id="email-notes">Deine E-Mail-Adresse wird nicht veröffentlicht.</span> <span class="required-field-message">Erforderliche Felder sind mit <span class="required">*</span> markiert</span></p><p class="comment-form-comment"><label for="comment">Kommentar <span class="required">*</span></label> <textarea aria-label="new password" autocomplete="new-password"  id="ee34346870"  name="ee34346870"   cols="45" rows="8" maxlength="65525" required></textarea><textarea id="comment" aria-label="hp-comment" aria-hidden="true" name="comment" autocomplete="new-password" style="padding:0 !important;clip:rect(1px, 1px, 1px, 1px) !important;position:absolute !important;white-space:nowrap !important;height:1px !important;width:1px !important;overflow:hidden !important;" tabindex="-1"></textarea><script data-noptimize>document.getElementById("comment").setAttribute( "id", "aca35b17f39214ec0c7dd7e3c8681b8f" );document.getElementById("ee34346870").setAttribute( "id", "comment" );</script></p><p class="comment-form-author"><label for="author">Vorname</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" /></p>
 <p class="comment-form-email"><label for="email">E-Mail-Adresse</label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" /></p>
 <p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
 <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Kommentar abschicken" /> <input type='hidden' name='comment_post_ID' value='51806' id='comment_post_ID' />
@@ -6632,8 +6731,8 @@ Was aber gehen würde, wäre Pulled Pork.</p>
  <a title="Über Aurélie Bastian" href="/ueber-mich/">Über mich</a>
  <a title="Mich per E-Mail kontaktieren" href="mailto:aureliebastian@franzoesischkochen.de">Kontakt</a>
  <a title="Zum Shop"  href="/shop/">Zum Shop</a>
- <a href="/datenschutz/" title="Datenschutzerklärung">Datenschutz</a>
- <a href="/impressum/">Impressum</a>
+ <a href="/shop/datenschutz/" title="Datenschutzerklärung">Datenschutz</a>
+ <a href="/impressum/" title="Impressum">Impressum</a>
  <a title="Alles über Versand und Zahlungen" href="https://www.franzoesischkochen.de/shop/versand__lieferung/">Versand & Zahlung</a>
  <a title="Allgemeine Geschäftsbedingungen" href="https://www.franzoesischkochen.de/shop/allgemeine_geschaeftsbedingungen/">AGB</a>
  <a title="Widerrufsrecht" href="https://www.franzoesischkochen.de/shop/widerruf/">Rückgaberecht</a>
@@ -6644,7 +6743,7 @@ Was aber gehen würde, wäre Pulled Pork.</p>
     <div class="container lazy haut1" data-src="/Caching/haut1.png">
       
 <div class="sidebar sidebar-footer row py-4 border-bottom">
-    <div id="heateor_sss_follow-3" class="widget_heateor_sss_follow box col-lg-4 col-md-6 f-text l-meta lh-white c-meta border-right mb-4 mb-lg-0"><div>Mehr von mir</div><div class="heateor_sss_follow_icons_container heateor_sss_bottom_follow"><div class="heateor_sss_follow_ul"><a class="heateor_sss_instagram" href="https://www.instagram.com/franzoesischkochen/" title="Instagram" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span style="background:transparent !important;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;width:32px;height:32px;border-radius:999px" class="heateor_sss_svg"><svg height="100%" width="100%" version="1.1" viewBox="-10 -10 148 148" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><g><path d="M86,112H42c-14.336,0-26-11.663-26-26V42c0-14.337,11.664-26,26-26h44c14.337,0,26,11.663,26,26v44    C112,100.337,100.337,112,86,112z M42,24c-9.925,0-18,8.074-18,18v44c0,9.925,8.075,18,18,18h44c9.926,0,18-8.075,18-18V42    c0-9.926-8.074-18-18-18H42z" fill="#000"></path></g><g><path d="M64,88c-13.234,0-24-10.767-24-24c0-13.234,10.766-24,24-24s24,10.766,24,24C88,77.233,77.234,88,64,88z M64,48c-8.822,0-16,7.178-16,16s7.178,16,16,16c8.822,0,16-7.178,16-16S72.822,48,64,48z" fill="#000"></path></g><g><circle cx="89.5" cy="38.5" fill="#000" r="5.5"></circle></g></g></svg></span></a><a class="heateor_sss_facebook" href="https://www.facebook.com/franzoesischkochen" title="Facebook" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span style="background-color:transparent;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;width:32px;height:32px;border-radius:999px" class="heateor_sss_svg"><svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-5 -5 42 42"><path d="M17.78 27.5V17.008h3.522l.527-4.09h-4.05v-2.61c0-1.182.33-1.99 2.023-1.99h2.166V4.66c-.375-.05-1.66-.16-3.155-.16-3.123 0-5.26 1.905-5.26 5.405v3.016h-3.53v4.09h3.53V27.5h4.223z" fill="#000"></path></svg></span></a><a class="heateor_sss_pinterest" href="https://de.pinterest.com/aurliebastian/" title="Pinterest" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span style="background-color:transparent;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;width:32px;height:32px;border-radius:999px" class="heateor_sss_svg"><svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-2 -2 35 35"><path fill="#000" d="M16.539 4.5c-6.277 0-9.442 4.5-9.442 8.253 0 2.272.86 4.293 2.705 5.046.303.125.574.005.662-.33.061-.231.205-.816.27-1.06.088-.331.053-.447-.191-.736-.532-.627-.873-1.439-.873-2.591 0-3.338 2.498-6.327 6.505-6.327 3.548 0 5.497 2.168 5.497 5.062 0 3.81-1.686 7.025-4.188 7.025-1.382 0-2.416-1.142-2.085-2.545.397-1.674 1.166-3.48 1.166-4.689 0-1.081-.581-1.983-1.782-1.983-1.413 0-2.548 1.462-2.548 3.419 0 1.247.421 2.091.421 2.091l-1.699 7.199c-.505 2.137-.076 4.755-.039 5.019.021.158.223.196.314.077.13-.17 1.813-2.247 2.384-4.324.162-.587.929-3.631.929-3.631.46.876 1.801 1.646 3.227 1.646 4.247 0 7.128-3.871 7.128-9.053.003-3.918-3.317-7.568-8.361-7.568z"></path></svg></span></a><a class="heateor_sss_youtube_channel" href="https://www.youtube.com/@franzoesischkochen_de" title="Youtubechannel" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span style="background-color:transparent;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;width:32px;height:32px;border-radius:999px" class="heateor_sss_svg"><svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32"><path fill="#000" d="M26.78 11.6s-.215-1.515-.875-2.183c-.837-.876-1.774-.88-2.204-.932-3.075-.222-7.693-.222-7.693-.222h-.01s-4.618 0-7.697.222c-.43.05-1.368.056-2.205.932-.66.668-.874 2.184-.874 2.184S5 13.386 5 15.166v1.67c0 1.78.22 3.56.22 3.56s.215 1.516.874 2.184c.837.875 1.936.85 2.426.94 1.76.17 7.48.22 7.48.22s4.623-.007 7.7-.23c.43-.05 1.37-.056 2.205-.932.66-.668.875-2.184.875-2.184s.22-1.78.22-3.56v-1.67c0-1.78-.22-3.56-.22-3.56zm-13.052 7.254v-6.18l5.944 3.1-5.944 3.08z"></path></svg></span></a><a class="heateor_sss_youtube_channel" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle" href="https://open.spotify.com/show/699RO5RCc9WJDtlMBUvLk4" title="Spotify Podcast"><span style="background-color:transparent;display:inline-block;opacity:1;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;width:32px;height:32px;text-align: center;padding-top: 0px;" class="heateor_sss_svg"><svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" style="" width="24" height="24"><path d="M19.098 10.638c-3.868-2.297-10.248-2.508-13.941-1.387-.593.18-1.22-.155-1.399-.748-.18-.593.154-1.22.748-1.4 4.239-1.287 11.285-1.038 15.738 1.605.533.317.708 1.005.392 1.538-.316.533-1.005.709-1.538.392zm-.126 3.403c-.272.44-.847.578-1.287.308-3.225-1.982-8.142-2.557-11.958-1.399-.494.15-1.017-.129-1.167-.623-.149-.495.13-1.016.624-1.167 4.358-1.322 9.776-.682 13.48 1.595.44.27.578.847.308 1.286zm-1.469 3.267c-.215.354-.676.465-1.028.249-2.818-1.722-6.365-2.111-10.542-1.157-.402.092-.803-.16-.895-.562-.092-.403.159-.804.562-.896 4.571-1.045 8.492-.595 11.655 1.338.353.215.464.676.248 1.028zm-5.503-17.308c-6.627 0-12 5.373-12 12 0 6.628 5.373 12 12 12 6.628 0 12-5.372 12-12 0-6.627-5.372-12-12-12z"></path></svg></span></a>
+    <div id="heateor_sss_follow-3" class="widget_heateor_sss_follow box col-lg-4 col-md-6 f-text l-meta lh-white c-meta border-right mb-4 mb-lg-0"><div>Mehr von mir</div><div class="heateor_sss_follow_icons_container heateor_sss_bottom_follow"><div class="heateor_sss_follow_ul"><a class="heateor_sss_instagram" href="https://www.instagram.com/franzoesischkochen/" title="Instagram" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span style="background:transparent !important;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;width:32px;height:32px;border-radius:999px" class="heateor_sss_svg"><svg height="100%" width="100%" version="1.1" viewBox="-10 -10 148 148" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><g><path d="M86,112H42c-14.336,0-26-11.663-26-26V42c0-14.337,11.664-26,26-26h44c14.337,0,26,11.663,26,26v44    C112,100.337,100.337,112,86,112z M42,24c-9.925,0-18,8.074-18,18v44c0,9.925,8.075,18,18,18h44c9.926,0,18-8.075,18-18V42    c0-9.926-8.074-18-18-18H42z" fill="#000"></path></g><g><path d="M64,88c-13.234,0-24-10.767-24-24c0-13.234,10.766-24,24-24s24,10.766,24,24C88,77.233,77.234,88,64,88z M64,48c-8.822,0-16,7.178-16,16s7.178,16,16,16c8.822,0,16-7.178,16-16S72.822,48,64,48z" fill="#000"></path></g><g><circle cx="89.5" cy="38.5" fill="#000" r="5.5"></circle></g></g></svg></span></a><a class="heateor_sss_facebook" href="https://www.facebook.com/franzoesischkochen" title="Facebook" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span style="background-color:transparent;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;width:32px;height:32px;border-radius:999px" class="heateor_sss_svg"><svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-5 -5 42 42"><path d="M17.78 27.5V17.008h3.522l.527-4.09h-4.05v-2.61c0-1.182.33-1.99 2.023-1.99h2.166V4.66c-.375-.05-1.66-.16-3.155-.16-3.123 0-5.26 1.905-5.26 5.405v3.016h-3.53v4.09h3.53V27.5h4.223z" fill="#000"></path></svg></span></a><a class="heateor_sss_pinterest" href="https://de.pinterest.com/aurliebastian/" title="Pinterest" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span style="background-color:transparent;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;width:32px;height:32px;border-radius:999px" class="heateor_sss_svg"><svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-2 -2 35 35"><path fill="#000" d="M16.539 4.5c-6.277 0-9.442 4.5-9.442 8.253 0 2.272.86 4.293 2.705 5.046.303.125.574.005.662-.33.061-.231.205-.816.27-1.06.088-.331.053-.447-.191-.736-.532-.627-.873-1.439-.873-2.591 0-3.338 2.498-6.327 6.505-6.327 3.548 0 5.497 2.168 5.497 5.062 0 3.81-1.686 7.025-4.188 7.025-1.382 0-2.416-1.142-2.085-2.545.397-1.674 1.166-3.48 1.166-4.689 0-1.081-.581-1.983-1.782-1.983-1.413 0-2.548 1.462-2.548 3.419 0 1.247.421 2.091.421 2.091l-1.699 7.199c-.505 2.137-.076 4.755-.039 5.019.021.158.223.196.314.077.13-.17 1.813-2.247 2.384-4.324.162-.587.929-3.631.929-3.631.46.876 1.801 1.646 3.227 1.646 4.247 0 7.128-3.871 7.128-9.053.003-3.918-3.317-7.568-8.361-7.568z"></path></svg></span></a><a class="heateor_sss_youtube_channel" href="https://www.youtube.com/@franzoesischkochen_de" title="Youtubechannel" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span style="background-color:transparent;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;width:32px;height:32px;border-radius:999px" class="heateor_sss_svg"><svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32"><path fill="#000" d="M26.78 11.6s-.215-1.515-.875-2.183c-.837-.876-1.774-.88-2.204-.932-3.075-.222-7.693-.222-7.693-.222h-.01s-4.618 0-7.697.222c-.43.05-1.368.056-2.205.932-.66.668-.874 2.184-.874 2.184S5 13.386 5 15.166v1.67c0 1.78.22 3.56.22 3.56s.215 1.516.874 2.184c.837.875 1.936.85 2.426.94 1.76.17 7.48.22 7.48.22s4.623-.007 7.7-.23c.43-.05 1.37-.056 2.205-.932.66-.668.875-2.184.875-2.184s.22-1.78.22-3.56v-1.67c0-1.78-.22-3.56-.22-3.56zm-13.052 7.254v-6.18l5.944 3.1-5.944 3.08z"></path></svg></span></a><a class="heateor_sss_youtube_channel" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle" href="https://open.spotify.com/show/699RO5RCc9WJDtlMBUvLk4" title="Spotify Podcast"><span style="background-color:transparent;display:inline-block;opacity:1;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;width:32px;height:32px;text-align: center;padding-top: 0px;" class="heateor_sss_svg"><svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" style="" width="24" height="24"><path d="M19.098 10.638c-3.868-2.297-10.248-2.508-13.941-1.387-.593.18-1.22-.155-1.399-.748-.18-.593.154-1.22.748-1.4 4.239-1.287 11.285-1.038 15.738 1.605.533.317.708 1.005.392 1.538-.316.533-1.005.709-1.538.392zm-.126 3.403c-.272.44-.847.578-1.287.308-3.225-1.982-8.142-2.557-11.958-1.399-.494.15-1.017-.129-1.167-.623-.149-.495.13-1.016.624-1.167 4.358-1.322 9.776-.682 13.48 1.595.44.27.578.847.308 1.286zm-1.469 3.267c-.215.354-.676.465-1.028.249-2.818-1.722-6.365-2.111-10.542-1.157-.402.092-.803-.16-.895-.562-.092-.403.159-.804.562-.896 4.571-1.045 8.492-.595 11.655 1.338.353.215.464.676.248 1.028zm-5.503-17.308c-6.627 0-12 5.373-12 12 0 6.628 5.373 12 12 12 6.628 0 12-5.372 12-12 0-6.627-5.372-12-12-12z"></path></svg></span></a><a class="heateor_sss_youtube_channel" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle" href="https://www.franzoesischkochen.de/feed/" title="Feed abonnieren"><span style="display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;width:32px;height:32px;text-align: center;" class="heateor_sss_svg"><svg xmlns="http://www.w3.org/2000/svg" id="RSSicon" viewBox="0 0 8 8" width="28" height="28" style="fill: #fff;margin-top: 8px;"><rect width="8" height="8" rx="1.5" style="stroke:none;fill:#fe6500"></rect><circle class="symbol" cx="2" cy="6" r="1"></circle><path class="symbol" d="M1 4a3 3 0 0 1 3 3h1a4 4 0 0 0-4-4z"></path><path class="symbol" d="M1 2a5 5 0 0 1 5 5h1a6 6 0 0 0-6-6z"></path></svg></span></a>
 </div><div style="clear:both"></div></div></div>  </div>
 
 
@@ -6657,14 +6756,17 @@ Was aber gehen würde, wäre Pulled Pork.</p>
       
       <div class="col d-flex align-items-center f-main small">
         <div class="text-right l-black lh-1 ml-auto">
-                    <p class="m-0 ml-auto d-block"><a href="https://www.franzoesischkochen.de/ueber-mich/" style="text-decoration: none;font-family: Open Sans;color: #fff !important;">Copyright © 2009 - 2025 · Aurélie Bastian</a></p>
+                    <p class="m-0 ml-auto d-block"><a href="https://www.franzoesischkochen.de/ueber-mich/" style="text-decoration: none;font-family: Open Sans;color: #fff !important;">Copyright © 2009 - 2026 · Aurélie Bastian</a></p>
         </div>
       </div>
     </div>
   </div>
 
 
-<script type="text/javascript">			 
+<script type="text/javascript">	
+if (window.macaronsPreviewInit1) {
+} else {
+window.macaronsPreviewInit1 = true;		 
 function playSound(button) {
     const song = button.getAttribute('data-song');
     if (!song) return;
@@ -6772,7 +6874,6 @@ jQuery('#topermail').keypress(function(e) {
 
 
 function permail() {
-_mfq.push(["tag", "Per Mail"]);
 var retour = jQuery('.wrap1').attr('style');
 jQuery('#scl1').remove();
 jQuery('.woondershop-overlay').remove();
@@ -7109,97 +7210,28 @@ jQuery('.ssba_print').on('keypress',function(e) {
 
 
 function pdf() {
- //jQuery('html, body').animate({
- //       scrollTop: jQuery('#pub-container').offset().top - 50
- //   }, 500);
 
   jQuery('.woondershop-overlay').remove();
-  var img = jQuery('img.intro ').attr('src');
-  var img1 = 'https://www.franzoesischkochen.de/shop/wp-content/uploads/2022/11/pariser-Monument-geschenk-set-400x400.jpg';
   jQuery('#hinweis').remove();
   jQuery('body').append('<div class="woondershop-overlay" style="opacity: 0; visibility: hidden;"></div>');
-
   jQuery('body').prepend('<div id="hinweis" style="position: fixed;z-index: 1000000;background: white;width: min(100% - 2rem, 800px);height: auto;top: 7%;box-shadow: 0px 0px 20px #888;padding: 20px;text-align: center;max-width: 650px;left: 50%;-webkit-transform: translateX(-50%);transform: translateX(-50%);"><div style="display: flex;flex-wrap: wrap;"><div style="margin: auto;max-width: 100% !important;width: 400px;"><span style="font-size: 1.3rem;font-weight: bold;">Die Datei wird generiert... </span></div></div></div>');
-  setTimeout(function() {
-    jQuery('#hinweis').fadeOut('1000');
-     setTimeout(function() {
+//  setTimeout(function() {
+//    jQuery('#hinweis').fadeOut('1000');
+//     setTimeout(function() {
       jQuery('#hinweis').remove(); 
       $postid = jQuery('article').attr('id').replace('post-','');
-      var postratings = '';
-
-      if (jQuery('.post-ratings').length && jQuery('.post-ratings').attr('data-nonce')) {
-	var id = jQuery('article').attr('id').replace('post-','');
-	postratings = '<span style="font-weight: bold;font-size: 1.4rem !important;display: block;margin: 1.5rem 0 .5rem 0;">Wie gefällt Dir dieses Rezept?</span><span>Klicke auf die Sterne, um zu bewerten</span>';
-	postratings = postratings + '<div id="' + jQuery('.post-ratings').attr('id') + '" class="post-ratings" data-nonce="' + jQuery('.post-ratings').attr('data-nonce') + '">';
-
-	postratings = postratings + '<img id="rating_' + id + '_1" alt="" title="" onmouseover="current_rating(' + id + ', 1, \'\');" onmouseout="ratings_off(0, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" src="https://www.franzoesischkochen.de/wp-content/plugins/wp-postratings/images/bruno/rating_off.gif">';
-
-	postratings = postratings + '<img id="rating_' + id + '_2" alt="" title="" onmouseover="current_rating(' + id + ', 2, \'\');" onmouseout="ratings_off(0, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" src="https://www.franzoesischkochen.de/wp-content/plugins/wp-postratings/images/bruno/rating_off.gif">';
-
-	postratings = postratings + '<img id="rating_' + id + '_3" alt="" title="" onmouseover="current_rating(' + id + ', 3, \'\');" onmouseout="ratings_off(0, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" src="https://www.franzoesischkochen.de/wp-content/plugins/wp-postratings/images/bruno/rating_off.gif">';
-
-	postratings = postratings + '<img id="rating_' + id + '_4" alt="" title="" onmouseover="current_rating(' + id + ', 4, \'\');" onmouseout="ratings_off(0, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" src="https://www.franzoesischkochen.de/wp-content/plugins/wp-postratings/images/bruno/rating_off.gif">';
-
-	postratings = postratings + '<img id="rating_' + id + '_5" alt="" title="" onmouseover="current_rating(' + id + ', 5, \'\');" onmouseout="ratings_off(0, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" src="https://www.franzoesischkochen.de/wp-content/plugins/wp-postratings/images/bruno/rating_off.gif">';
-
-	postratings = postratings + '<br><span>(5 Sterne bedeuten "Sehr gut")</span><br><span class="post-ratings-text" id="ratings_' + id + '_text" style="display: none;"></span></div>';
-
-	}
-
-postratings = '';
-	jQuery('body').prepend('<div id="hinweis" style="position: fixed;z-index: 1000000;background: #013d87;width: min(100% - 2rem, 800px);height: auto;top: 7%;padding: 20px;text-align: center;max-width: 650px;left: 50%;-webkit-transform: translateX(-50%);transform: translateX(-50%);color: #fff !important;line-height: 1.2;"><span style="position: absolute;top: -33px;right: 0;color: #fff;font-weight: bold;cursor: pointer;pointer-events: none;"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true" class="h-6 w-6 flex items-center justify-center" style="width: 30px;height: 30px;color: #fff;" stroke-width="5"><path stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke" d="M6 18L18 6M6 6l12 12"></path></svg></span><div style="display: flex;flex-wrap: wrap;"><div style="margin: auto;max-width: 100% !important;width: 400px;"><a href="https://www.franzoesischkochen.de?printpdf=' + $postid + '/" target="_blank" style="display: block; text-decoration: underline; margin-bottom: 10px;color: #fff; ">Klicke hier, wenn der Download nicht automatisch gestartet wurde.</a>' + postratings + '<div style=""><div style=" "><span style=" margin-bottom: 0px;display: block;line-height: 1.2;margin-top: 15px;">Tipp: Du möchtest noch mehr Rezepte? Trage deine E-Mail-Adresse hier ein.</span></div><div id="mc_embed_signup" style="display: inline-block;padding-top: 20px !important;margin: auto;text-align: center;width: 100%;"><form action="https://franzoesischkochen.us19.list-manage.com/subscribe/post?u=2a1de36e67941dee310e1a627&amp;id=da1be4bcc8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="" style="width: 100%;"><div id="mc_embed_signup_scroll"><input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" required="" style="padding: 8px 10px;border-radius: 3px;width: 100%;text-align: center;" placeholder="Deine Email-Adresse"><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_2a1de36e67941dee310e1a627_da1be4bcc8" tabindex="-1" value=""></div><div class="clear"><input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button bout" style="margin: 10px 0;text-transform: uppercase;width: 100%;" value="Schick mir den Newsletter!"></div></div></form></div></div></div></div></div>');
+      jQuery('body').prepend('<div id="hinweis" style="position: fixed;z-index: 1000000;background: #013d87;width: min(100% - 2rem, 800px);height: auto;top: 7%;padding: 20px;text-align: center;max-width: 650px;left: 50%;-webkit-transform: translateX(-50%);transform: translateX(-50%);color: #fff !important;line-height: 1.2;"><span style="position: absolute;top: -33px;right: 0;color: #fff;font-weight: bold;cursor: pointer;pointer-events: none;"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true" class="h-6 w-6 flex items-center justify-center" style="width: 30px;height: 30px;color: #fff;" stroke-width="5"><path stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke" d="M6 18L18 6M6 6l12 12"></path></svg></span><div style="display: flex;flex-wrap: wrap;"><div style="margin: auto;max-width: 100% !important;width: 400px;"><a id="clicklink" href="https://www.franzoesischkochen.de?printpdf=' + $postid + '/" target="_blank" style="display: block; text-decoration: underline; margin-bottom: 10px;color: #fff; ">Klicke hier, wenn der Download nicht automatisch gestartet wurde.</a><div style=""><div style=" "><span style=" margin-bottom: 0px;display: block;line-height: 1.2;margin-top: 15px;">Tipp: Du möchtest noch mehr Rezepte? Trage deine E-Mail-Adresse hier ein.</span></div><div id="mc_embed_signup" style="display: inline-block;padding-top: 20px !important;margin: auto;text-align: center;width: 100%;"><form action="https://franzoesischkochen.us19.list-manage.com/subscribe/post?u=2a1de36e67941dee310e1a627&amp;id=da1be4bcc8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="" style="width: 100%;"><div id="mc_embed_signup_scroll"><input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" required="" style="padding: 8px 10px;border-radius: 3px;width: 100%;text-align: center;" placeholder="Deine Email-Adresse"><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_2a1de36e67941dee310e1a627_da1be4bcc8" tabindex="-1" value=""></div><div class="clear"><input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button bout" style="margin: 10px 0;text-transform: uppercase;width: 100%;" value="Schick mir den Newsletter!"></div></div></form></div></div></div></div></div>');
 
 
-	$postid = jQuery('article').attr('id').replace('post-','');
+const link = document.getElementById('clicklink');
+if (link) {
+  try {
+    link.click();                 // klappt dort, wo erlaubt
+  } catch (e) {
+    // egal – Link bleibt für manuellen Klick da
+  }
+}
 
-
-	jQuery('#hinweis #rating_' + $postid + '_1').removeAttr('onclick').removeAttr('onmouseout').click(function() {
- 	 jQuery('html, body').animate({
-          scrollTop: jQuery('#respond').offset().top - 50
-         }, 500);
- 	 jQuery('.woondershop-overlay').css('opacity', '0').css('visibility', 'hidden');
-	 jQuery('#hinweis').remove();
-	  setTimeout(function() {
-		ratings_off(0,0,0);
-		current_rating($postid,1,'');
-	  }, 500);jQuery('#tut').remove();
-		jQuery('.post-ratings').append('<span id="tut" style="color: #000;font-size: 1.5rem;font-weight: bold;line-height: 1.2;margin: 1rem 0 !important;display: block;">Oh, das tut mir leid. Bitte schreib mir in den Kommentaren, was nicht geklappt hat oder, was dir nicht geschmeckt hat, damit ich dir helfen kann.</span>');
-	});
-
-	jQuery('#hinweis #rating_' + $postid + '_2').removeAttr('onclick').removeAttr('onmouseout').click(function() {
- 		jQuery('html, body').animate({
-        	scrollTop: jQuery('#respond').offset().top - 50
-    		}, 500);
- 		jQuery('.woondershop-overlay').css('opacity', '0').css('visibility', 'hidden');
-		jQuery('#hinweis').remove();
-		setTimeout(function() {
-		ratings_off(0,0,0);
-		current_rating($postid,2,'');
-		}, 500);jQuery('#tut').remove();
-		jQuery('.post-ratings').append('<span id="tut" style="color: #000;font-size: 1.5rem;font-weight: bold;line-height: 1.2;margin: 1rem 0 !important;display: block;">Oh, das tut mir leid. Bitte schreib mir in den Kommentaren, was nicht geklappt hat oder, was dir nicht geschmeckt hat, damit ich dir helfen kann.</span>');
-	});
-
-jQuery('#hinweis #rating_' + $postid + '_3').removeAttr('onclick').removeAttr('onmouseout').click(function() {
- jQuery('html, body').animate({
-        scrollTop: jQuery('#respond').offset().top - 50
-    }, 500);
- jQuery('.woondershop-overlay').css('opacity', '0').css('visibility', 'hidden');
-jQuery('#hinweis').remove();
-setTimeout(function() {
-ratings_off(0,0,0);
-current_rating($postid,3,'');
-}, 500);
-jQuery('#tut').remove();
-jQuery('.post-ratings').append('<span id="tut" style="color: #000;font-size: 1.5rem;font-weight: bold;line-height: 1.2;margin: 1rem 0 !important;display: block;">Oh, das tut mir leid. Bitte schreib mir in den Kommentaren, was nicht geklappt hat oder, was dir nicht geschmeckt hat, damit ich dir helfen kann.</span>');
-});
-
-
-
-//window.open(jQuery('#hinweis a').attr('href'));
-url = jQuery('#hinweis a').attr('href');
-setTimeout(() => {
-    window.open(url, '_blank');
-})
 
 jQuery('#mc-embedded-subscribe-form').submit(function(){
 let url = 'https://www.franzoesischkochen.de/shop/?wc-ajax=logging';
@@ -7215,8 +7247,8 @@ jQuery.ajax({
 });
 });
 
-}, 300);
-},2000);
+//}, 300);
+//},2000);
 
 
   jQuery('.woondershop-overlay').css('opacity', '0.6').css('visibility', 'visible');
@@ -8525,13 +8557,17 @@ jQuery('.size-medium').click(function() {
 /*** bio debut **/
 /*****************/
 
-var ue12 = '<div class="ue12" style="display: flex;flex-wrap: wrap;margin-top: 1rem;"><quote style="font-size: 1.1rem !important;font-weight: normal;background-image: url(https://www.franzoesischkochen.de/Caching/portraits/bullebath3.png);background-repeat: no-repeat;background-size: 100px;padding-left: 120px;background-position: 1rem center;margin-bottom: 1rem;vertical-align: middle;display: inline-block;padding: 1.1rem;margin: 1rem auto;border-radius: 15px;background-color: #ffded1;padding-left: 140px;" class=""><span style="display: block;margin-bottom: -15px;">Bonjour! Ich bin <strong>Aurélie Bastian - Kochbuchautorin, TV-Köchin </strong> und Working Mom. Gemeinsam kochen und backen wir französisch – Schritt für Schritt, unkompliziert und alltagstauglich.</span><a style=" background: #f23d4c; color: #fff !important; padding: 7px 10px; border-radius: 50px; text-decoration: none; display: inline-block; width: 143px; text-align: center; font-weight: bold;" href="https://www.franzoesischkochen.de/ueber-mich">Über mich</a><a href="https://www.instagram.com/franzoesischkochen/" title="Folge mir auf Instagram" style="position: relative;top: 26px; left: 10px;"><svg height="60" width="60" version="1.1" viewBox="-10 -10 148 148" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><g><path d="M86,112H42c-14.336,0-26-11.663-26-26V42c0-14.337,11.664-26,26-26h44c14.337,0,26,11.663,26,26v44    C112,100.337,100.337,112,86,112z M42,24c-9.925,0-18,8.074-18,18v44c0,9.925,8.075,18,18,18h44c9.926,0,18-8.075,18-18V42    c0-9.926-8.074-18-18-18H42z" fill="#000"></path></g><g><path d="M64,88c-13.234,0-24-10.767-24-24c0-13.234,10.766-24,24-24s24,10.766,24,24C88,77.233,77.234,88,64,88z M64,48c-8.822,0-16,7.178-16,16s7.178,16,16,16c8.822,0,16-7.178,16-16S72.822,48,64,48z" fill="#000"></path></g><g><circle cx="89.5" cy="38.5" fill="#000" r="5.5"></circle></g></g></svg></a></quote></div>';
+var ue12 = '<div class="ue12" style="display: flex;flex-wrap: wrap;margin-top: 1rem;"><quote style="font-size: 1.1rem !important;font-weight: normal;background-image: url(https://www.franzoesischkochen.de/Caching/portraits/bullebath3.png);background-repeat: no-repeat;background-size: 100px;padding-left: 120px;background-position: 1rem center;margin-bottom: 1rem;vertical-align: middle;display: inline-block;padding: 1.1rem;margin: 1rem auto;border-radius: 15px;background-color: #ffded1;padding-left: 140px;" class=""><span style="display: block;margin-bottom: -15px;">Bonjour! Ich bin <strong>Aurélie</strong> [o-re-li]. Gemeinsam kochen und backen wir französisch – Schritt für Schritt, unkompliziert und alltagstauglich.</span><a style=" background: #f23d4c; color: #fff !important; padding: 7px 10px; border-radius: 50px; text-decoration: none; display: inline-block; width: 200px; text-align: center; font-weight: bold;" href="https://www.franzoesischkochen.de/ueber-mich">Mehr über mich lesen</a><a href="https://www.instagram.com/franzoesischkochen/" title="Folge mir auf Instagram" style="position: relative;top: 26px; left: 10px;"><svg height="60" width="60" version="1.1" viewBox="-10 -10 148 148" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><g><path d="M86,112H42c-14.336,0-26-11.663-26-26V42c0-14.337,11.664-26,26-26h44c14.337,0,26,11.663,26,26v44    C112,100.337,100.337,112,86,112z M42,24c-9.925,0-18,8.074-18,18v44c0,9.925,8.075,18,18,18h44c9.926,0,18-8.075,18-18V42    c0-9.926-8.074-18-18-18H42z" fill="#000"></path></g><g><path d="M64,88c-13.234,0-24-10.767-24-24c0-13.234,10.766-24,24-24s24,10.766,24,24C88,77.233,77.234,88,64,88z M64,48c-8.822,0-16,7.178-16,16s7.178,16,16,16c8.822,0,16-7.178,16-16S72.822,48,64,48z" fill="#000"></path></g><g><circle cx="89.5" cy="38.5" fill="#000" r="5.5"></circle></g></g></svg></a></quote></div>';
 
+var ue13 = '<div style="clear: both; display: flex;flex-wrap: wrap;margin-top: 1rem;" class="ue13"><quote style="font-size: 1.1rem !important;font-weight: normal;background-image: url(https://www.franzoesischkochen.de/shop/wp-content/uploads/2025/09/bol-breton-mit-namen-personalisierte-fruehstuecksschale-aus-der-bretagne-handbemalt-in-der-faiencerie-de-pornic.gif);background-repeat: no-repeat;background-size: 140px;padding-left: 120px;background-position: 1rem center;margin-bottom: 1rem;vertical-align: middle;display: inline-block;padding: 1.1rem;margin: 1rem auto;border-radius: 15px;background-color: #e8f1f6;padding-left: 140px;" class=""><span style="display: block;margin-bottom: 15px;"> <div class="bol-banner-content"><span class="bol-banner-badge" style="background: #fff;padding: 0px 7px;display: inline-block;margin-bottom: 10px;border-radius: 5px;font-size: 80%;">Nur bis Sonntag</span><h3 style="margin: 0 !important;">Personalisierter Bol Breton</h3><span>Bestellung bis Sonntag – Lieferung Anfang Februar</span></div></span><a style=" background: #f23d4c; color: #fff !important; padding: 7px 10px; border-radius: 50px; text-decoration: none; display: inline-block; width: 200px; text-align: center; font-weight: bold;" href="https://www.franzoesischkochen.de/shop/bol-breton-mit-namen-personalisierte-schale-aus-der-bretagne/">Jetzt personalisieren</a></quote></div>';
+if (jQuery('.ue12').length == 0) {
 jQuery('#aurelie').nextAll('p').filter(function() {
   return jQuery(this).text().trim().length > 0;
 }).eq(0).after(ue12);
+// jQuery('p:contains("3-")').eq(0).before(ue13);
+}
 
-
+} // ne pas enlever (check si pas 2 x script)
 </script>
 </footer>
 
@@ -8650,12 +8686,16 @@ searchwp_live_search_params = {"ajaxurl":"https:\/\/www.franzoesischkochen.de\/w
 
 
 
+
+<!-- Koko Analytics Pro v2.1.4 - https://www.kokoanalytics.com/ -->
+
+
  
- 
-<script src="https://www.franzoesischkochen.de/wp-content/cache/min/1/560b3a469028d931d36feaa51d7a6f53.js" data-minify="1" defer></script></body>
+
+<script src="https://www.franzoesischkochen.de/wp-content/cache/min/1/248c0154e79430bb6984ee7def2b714f.js" data-minify="1" defer></script></body>
 </html>
 
 
 <!-- Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com -->
 
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1766865131 -->
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1769368398 -->

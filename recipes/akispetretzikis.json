@@ -12,5 +12,73 @@
     "name": "Akis Petretzikis",
     "url": "https://akispetretzikis.com"
   },
+  "prepTime": "PT15M",
+  "cookTime": "PT25M",
+  "totalTime": "PT40M",
+  "recipeCuisine": [
+    "Greek"
+  ],
+  "keywords": [
+    "Lemon",
+    "chicken",
+    "with",
+    "artichokes"
+  ],
+  "recipeYield": 8,
+  "recipeIngredient": [
+    "750 g artichokes",
+    "1 1/2 kilo chicken breast fillet",
+    "4-5 tablespoon(s) olive oil",
+    "50 g all-purpose flour",
+    "2 onions",
+    "2 clove(s) of garlic",
+    "80 g white wine",
+    "lemon juice",
+    "400 g water",
+    "1 tablespoon(s) chicken stock pot",
+    "2 tablespoon(s) tarragon",
+    "salt",
+    "pepper",
+    "pepper",
+    "olive oil",
+    "lemon",
+    "parsley"
+  ],
+  "recipeInstructions": [
+    {
+      "text": "Place a frying pan over high heat and add 2-3 tablespoons olive oil."
+    },
+    {
+      "text": "Cut the chicken into 2-3 cm pieces and add them into a bowl. Add salt, pepper, the flour, and mix."
+    },
+    {
+      "text": "Transfer the chicken to the hot pan and sauté for 3-4 minutes until golden."
+    },
+    {
+      "text": "Place a pot over high heat and add 2 tablespoons olive oil."
+    },
+    {
+      "text": "Finely chop the onions and the garlic, add them to the pot, and sauté."
+    },
+    {
+      "text": "Add the artichokes, the chicken, and deglaze the pot with the wine."
+    },
+    {
+      "text": "Add the lemon juice, the water, the chicken stock pot, the tarragon, and mix."
+    },
+    {
+      "text": "Cover with the lid and simmer over medium heat for 20-25 minutes."
+    },
+    {
+      "text": "Serve with pepper, olive oil, lemon slices, and parsley."
+    }
+  ],
+  "nutrition": {
+    "calories": "231 calories"
+  },
+  "aggregateRating": {
+    "ratingCount": 226,
+    "ratingValue": 4.91
+  },
   "datePublished": "2020-05-19T07:11:03Z"
 }

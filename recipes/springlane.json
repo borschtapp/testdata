@@ -1,48 +1,16 @@
 {
-  "url": "https://www.springlane.de/magazin/rezeptideen/tiramisu-ohne-ei-und-ohne-alkohol/",
-  "name": "Tiramisu ohne Ei und ohne Alkohol – Dolci für alle!",
-  "description": "Diese Version des italienischen Klassikers kommt ohne Ei und ohne Alkohol dafür, dafür aber mit einer Extraportion Sahne.",
-  "inLanguage": "de-DE",
+  "url": "https://springlane.de/blogs/rezepte/herzhafte-gefullte-pizza-aus-der-gusseisenpfanne-ein-genuss-fur-die-ganze-familie",
+  "name": "Gefüllte Pizza | Gusseisenpfanne | Rezept Springlane",
+  "description": "Gefüllte Pizza aus der Gusseisenpfanne: Mit knusprigem Pizzateig, frischem Gemüse, würziger Salami und geschmolzenem Käse. Weiter zur Rezeptwelt von Springlane.",
+  "inLanguage": "de",
   "image": [
     {
-      "url": "https://www.springlane.de/magazin/wp-content/uploads/2017/01/Tiramisu-ohne-Ei-und-ohne-Amaretto_15.jpg"
+      "url": "http://springlane.de/cdn/shop/articles/Bildschirmfoto_2024-10-14_um_15.47.54_e380555b-107d-4740-b6b3-7c619f5a4db3.png?v=1742810727"
     }
   ],
-  "author": {
-    "name": "Springlane"
-  },
   "publisher": {
-    "name": "Dolci für alle!",
-    "url": "https://www.springlane.de"
-  },
-  "prepTime": "PT20M",
-  "cookTime": "PT4H",
-  "totalTime": "PT4H20M",
-  "recipeCategory": [
-    "Awareness",
-    "Dessert",
-    "Espressomaschinen",
-    "Recipe",
-    "Sweet Treats"
-  ],
-  "recipeCuisine": [
-    "Italien"
-  ],
-  "recipeYield": 6,
-  "recipeIngredient": [
-    "500 g Mascarpone",
-    "400 ml Sahne",
-    "100 g Puderzucker",
-    "150 ml Espresso",
-    "280 g Löffelbiskuit",
-    "Kakaopulver"
-  ],
-  "recipeInstructions": [
-    {
-      "text": "Sahne steif schlagen und mit Mascarpone und Puderzucker verrühren. Espresso kochen und abkühlen lassen."
-    },
-    {
-      "text": "Hälfte der Löffelbiskuits in die Auflaufform geben. 75 ml Espresso darüberträufeln. Hälfte der Creme auf den Löffelbiskuits verstreichen. Restliche Löffelbiskuits, Espresso und Creme daraufgeben, mindestens 4 Stunden kaltstellen. Vor dem Servieren mit Kakaopulver bestäuben."
-    }
-  ]
+    "name": "Springlane",
+    "url": "https://springlane.de",
+    "logo": "https://springlane.de/cdn/shop/files/springlane-1.svg?v=1691583568\u0026width=369"
+  }
 }

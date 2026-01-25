@@ -12,7 +12,6 @@
   ],
   "author": {
     "name": "Kwame Onwuachi",
-    "description": "Kwame Onwuachi is the chef of Tatiana in New York City and competed on Top Chef season 13. In 2019, he was a Food \u0026 Wine Best New Chef, the James Beard Foundation's Rising Star Chef of the Year, and Esquire's Chef of the Year. Kwame's the author of Notes from a Young Black Chef and My America: Recipes from a Young Black Chef .",
     "url": "https://www.foodandwine.com/author/kwame-onwuachi"
   },
   "publisher": {
@@ -21,6 +20,13 @@
     "logo": "https://www.foodandwine.com/thmb/uV0O06O8WNrLepjgxkntdVuRpeE=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/brand_logo_schema-f3b2e548eb6f4243ad527798593483e0.png"
   },
   "totalTime": "PT20M",
+  "recipeCategory": [
+    "Entree"
+  ],
+  "recipeCuisine": [
+    "American"
+  ],
+  "recipeYield": 4,
   "recipeIngredient": [
     "1/2 cup unsalted butter (4 ounces)",
     "5 large garlic cloves, minced",
@@ -37,6 +43,18 @@
       "text": "Melt butter in a large pot over medium. Add garlic, chile, and ginger; cook, stirring often, until aromatic and tender, about 5 minutes. Add lime juice, vinegar, and thyme; bring to a simmer over medium. Increase heat to medium-high; add shrimp, and cook, stirring often, until shrimp are opaque and cooked through, about 5 minutes. Remove from heat. Sprinkle with salt, and serve immediately."
     }
   ],
+  "nutrition": {
+    "calories": "926 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "265 mg",
+    "fatContent": "93 g",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "57 g",
+    "sodiumContent": "1378 mg",
+    "sugarContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
   "dateModified": "2020-09-01T08:55:43-04:00",
   "datePublished": "2020-08-21T08:55:43-04:00"
 }

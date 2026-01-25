@@ -12,11 +12,6 @@
   ],
   "author": {
     "name": "Stella Parks",
-    "jobTitle": "Editor Emeritus",
-    "description": "Stella Parks is a CIA-trained baking nerd and pastry wizard, dubbed one of America's Best New Pastry Chefs by Food \u0026 Wine. She was the pastry editor at Serious Eats from 2016 to 2019.",
-    "knowsAbout": [
-      "American baking"
-    ],
     "url": "https://www.seriouseats.com/stella-parks-5119004"
   },
   "publisher": {
@@ -86,17 +81,17 @@
     "unsaturatedFatContent": "0 g"
   },
   "aggregateRating": {
-    "ratingCount": 75,
-    "ratingValue": 4.4
+    "ratingCount": 64,
+    "ratingValue": 4.5
   },
   "video": {
     "name": "How to Make an Old-Fashioned All-Butter Pie Crust",
     "description": "No fancy ingredients, no special equipment, no frozen butter or ice water; just the flakiest, most buttery (not to mention sturdy and easy to handle) pie crust imaginable. [Video: Natalie Holt. Technique and onscreen demo: Stella Parks]",
     "duration": "PT5M12S",
-    "contentUrl": "https://cdn.jwplayer.com/videos/dFb0cGgC-qP58AAan.mp4",
-    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/dFb0cGgC/poster.jpg?width=720",
-    "uploadDate": "2021-04-26T16:29:29.037Z"
+    "contentUrl": "https://content.jwplatform.com/videos/Giw9PuiS-YWmivM3Y.mp4",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Giw9PuiS/poster.jpg?width=1280",
+    "uploadDate": "2021-04-26T12:29:29.037-04:00"
   },
-  "dateModified": "2022-09-16T11:44:07.341-04:00",
+  "dateModified": "2025-09-20T15:07:27.753-04:00",
   "datePublished": "2016-06-27T05:45:00-04:00"
 }

@@ -12,10 +12,6 @@
   ],
   "author": {
     "name": "Anita Schecter",
-    "description": "Professional recipe developer, food photographer, and blogger with more than a decade of experience creating Middle Eastern recipes.",
-    "knowsAbout": [
-      "food photography, Middle Eastern food, home cooking"
-    ],
     "url": "https://www.thespruceeats.com/anita-schecter-2355287"
   },
   "publisher": {
@@ -40,7 +36,6 @@
   ],
   "recipeYield": 4,
   "recipeIngredient": [
-    "For the Kebab:",
     "1 pound ground lamb (or 1/2 pound each of ground lamb and ground beef)",
     "1 egg",
     "4 cloves garlic (peeled and finely minced)",
@@ -51,7 +46,6 @@
     "1/2 teaspoon salt",
     "1/4 teaspoon ground black pepper",
     "1 tablespoon oil (for the skillet, plus extra for the pan)",
-    "For the Sandwich:",
     "4 rounds of pita (or naan or flatbread)",
     "1 cup assorted lettuce",
     "1 large tomato (sliced)",
@@ -99,17 +93,17 @@
     "unsaturatedFatContent": "0 g"
   },
   "aggregateRating": {
-    "ratingCount": 129,
+    "ratingCount": 145,
     "ratingValue": 4
   },
   "video": {
     "name": "How to Make the Best Doner Kebabs",
     "description": "The Doner Kebab is a Turkish combination of meat (often lamb) that is seasoned, stacked in a cone shape, and cooked slowly on a vertical rotisserie. In this video, we teach you how to make the delicious dish, using garlic, spices, pita, vegetables, Tzatziki or Tahini sauce. Great for lunch or dinner, this is one unforgettable, savory dish.",
     "duration": "PT1M26S",
-    "contentUrl": "https://cdn.jwplayer.com/videos/LRf920H5-tXzwfO7V.mp4",
-    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/LRf920H5/poster.jpg?width=720",
-    "uploadDate": "2019-11-04T18:59:26.049Z"
+    "contentUrl": "https://content.jwplatform.com/videos/sGofDGFK-E4wmItGB.mp4",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/sGofDGFK/poster.jpg?width=1280",
+    "uploadDate": "2019-11-04T13:59:26.049-05:00"
   },
-  "dateModified": "2022-12-19T09:13:52.087-05:00",
+  "dateModified": "2025-07-25T23:44:55.983-04:00",
   "datePublished": "2018-06-28T09:41:05.748-04:00"
 }

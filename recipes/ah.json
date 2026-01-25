@@ -1,11 +1,11 @@
 {
-  "url": "https://www.ah.nl/allerhande/recept/R-R8522/kruidige-groentecalzone",
-  "name": "Kruidige groentecalzone",
-  "description": "Zelf Kruidige groentecalzone maken? Met dit recept van Allerhande zet je een feestje op tafel. Bekijk ingrediënten en bereidingswijze!",
-  "inLanguage": "nl",
+  "url": "https://www.ah.nl/allerhande/recept/R-R951558/pizza-calzone",
+  "name": "Pizza calzone",
+  "description": "Heb je trek in pizza calzone? Ga dan voor deze flinke pizza gevuld met tomaten, salami, olijven en natuurlijk: kaas!",
+  "inLanguage": "nl-NL",
   "image": [
     {
-      "url": "https://static.ah.nl/static/recepten/img_001329_1224x900_JPG.jpg"
+      "url": "https://static.ah.nl/static/recepten/img_RAM_PRD202723_1224x900_JPG.jpg"
     }
   ],
   "author": {
@@ -14,12 +14,9 @@
   "publisher": {
     "name": "Allerhande",
     "url": "https://www.ah.nl/allerhande",
-    "logo": "https://static.ah.nl/ah-static/images/logo-allerhande.png"
+    "logo": "https://static.ah.nl/ah-static/images/logo-ah.png"
   },
-  "totalTime": "PT35M",
-  "suitableForDiet": [
-    "VegetarianDiet"
-  ],
+  "totalTime": "PT7H20M",
   "recipeCategory": [
     "hoofdgerecht"
   ],
@@ -27,33 +24,77 @@
     "italiaans"
   ],
   "keywords": [
-    "vegetarisch",
     "oven",
     "italiaans",
-    "quiche",
-    "hoofdgerecht",
-    "zomer"
+    "hoofdgerecht"
   ],
-  "recipeYield": 2,
+  "recipeYield": 4,
   "recipeIngredient": [
-    "1 kleine rode ui",
-    "1 courgette",
-    "1 rode paprika",
-    "0.5 eetlepel Italiaanse kruiden",
-    "2 eetlepels olijfolie",
-    "2 theelepels knoflookpuree",
-    "1 pakje pizza \u0026 tomato",
-    "1 pakje walnootkaas",
-    "0.5 eetlepel olie om in te vetten"
+    "500 g Tipo 00 bloem",
+    "10 g zout",
+    "3 g gedroogde gist",
+    "280 ml lauwwarm water",
+    "150 g tomatensaus",
+    "100 g salami",
+    "4 el taggia olijven zonder pit",
+    "150 g geraspte mozzarella",
+    "1 bol Italiaanse mozzarella"
+  ],
+  "recipeInstructions": [
+    {
+      "name": "stap 1",
+      "text": "Doe de bloem met het zout, de gist en het water in een kom van de staande mixer. Kneed met de deeghaak in ca. 5 min. tot een soepel deeg."
+    },
+    {
+      "name": "stap 2",
+      "text": "Doe in een kom, sluit af en laat 4 uur rijzen op kamertemperatuur."
+    },
+    {
+      "name": "stap 3",
+      "text": "Kneed het deeg met de hand stevig door en verdeel in 4 stukken (per 4 personen). Vorm er bollen van door er met je handpalm op te draaien."
+    },
+    {
+      "name": "stap 4",
+      "text": "Dek af met een schone theedoek en laat nog 2 uur rijzen op kamertemperatuur."
+    },
+    {
+      "name": "stap 5",
+      "text": "Verwarm de oven voor op 250 °C."
+    },
+    {
+      "name": "stap 6",
+      "text": "Rol 1 bol uit tot een dunne pizza van Ø 27 cm."
+    },
+    {
+      "name": "stap 7",
+      "text": "Bestrijk met ¼ van de tomatensaus. Leg ¼ van de salami, olijven en geraspte mozzarella op 1 helft van de pizzabodem."
+    },
+    {
+      "name": "stap 8",
+      "text": "Scheur de mozzarella grof en leg ¼ ervan ook op de helft van de bodem. Vouw de pizza dicht en rol de randen een klein stukje op."
+    },
+    {
+      "name": "stap 9",
+      "text": "Doe hetzelfde met de tweede bol deeg."
+    },
+    {
+      "name": "stap 10",
+      "text": "Leg de pizza’s op een met bakpapier beklede bakplaat en bak in 15-20 min. gaar in het midden van de oven."
+    },
+    {
+      "name": "stap 11",
+      "text": "Maak ondertussen de andere 2 pizza’s."
+    }
   ],
   "nutrition": {
-    "calories": "850 kcal energie",
-    "carbohydrateContent": "82 g koolhydraten",
-    "fatContent": "50 g vet",
-    "proteinContent": "26 g eiwit"
+    "calories": "810 kcal energie",
+    "carbohydrateContent": "90 g koolhydraten",
+    "fatContent": "33 g vet",
+    "proteinContent": "36 g eiwit",
+    "saturatedFatContent": "14 g waarvan verzadigd"
   },
   "aggregateRating": {
-    "ratingCount": 36,
-    "ratingValue": 3.083338
+    "ratingCount": 84,
+    "ratingValue": 3.142863
   }
 }

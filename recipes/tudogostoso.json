@@ -1,15 +1,15 @@
 {
   "url": "https://www.tudogostoso.com.br/receita/128825-caipirinha-original.html",
   "name": "Caipirinha - Original",
-  "description": "Receita de Caipirinha - Original. Enviada por Daniela Belizario e demora apenas 5 minutos.",
-  "inLanguage": "pt-br",
+  "description": "A caipirinha de lim\u0026atilde;o \u0026eacute; uma daquelas receitas que praticamente representam os brasileiros. Esse drink cl\u0026aacute;ssico n\u0026atilde;o pode faltar nas celebra\u0026ccedil;\u0026otilde;es por aqui, n\u0026atilde;o importa o tamanho da festa: do bloco de Carnaval ao churrasco de domingo, a caipirinha \u0026eacute; de lei! Com apenas quatro ingredientes e alguns passos simples, voc\u0026ecirc; tem como fazer caipirinha de lim\u0026atilde;o em minutos. O principal desse drink \u0026eacute; saber espremer o lim\u0026atilde;o para aproveitar bem o suco e o baga\u0026ccedil;o antes de adicionar a cacha\u0026ccedil;a. O a\u0026ccedil;\u0026uacute;car ajuda a ado\u0026ccedil;ar e tamb\u0026eacute;m a extrair o sumo da fruta c\u0026iacute;trica. O \u0026uacute;ltimo elemento de qualquer receita de caipirinha de lim\u0026atilde;o \u0026eacute; o mais simples: bastante gelo para ter um drink refrescante e delicioso. O equil\u0026iacute;brio perfeito entre lim\u0026atilde;o, a\u0026ccedil;\u0026uacute;car, cacha\u0026ccedil;a e gelo \u0026eacute; capaz de agradar qualquer apaixonado por drinks. Ap\u0026oacute;s aprender como fazer caipirinha de lim\u0026atilde;o tradicional, poder\u0026aacute; se arriscar em outras varia\u0026ccedil;\u0026otilde;es, como a caipirinha de morango ou a caipirinha de vodka.",
+  "inLanguage": "pt-BR",
   "image": [
     {
-      "url": "https://img.itdg.com.br/tdg/images/recipes/000/128/825/319875/319875_original.jpg"
+      "url": "https://static.itdg.com.br/images/1200-675/82a28aad77a013831d5c0ca43544eedc/319875-original.jpg"
     }
   ],
   "author": {
-    "name": "Daniela Belizario"
+    "name": "Daniela"
   },
   "publisher": {
     "name": "TudoGostoso",
@@ -21,33 +21,37 @@
     "Bebidas"
   ],
   "keywords": [
-    "receita de caipirinha - original"
+    "Receita de Caipirinha - Original"
   ],
   "recipeYield": 1,
   "recipeIngredient": [
     "1 limão grande",
     "2 colheres de açúcar",
     "gelo a gosto",
-    "cachaça"
+    "cachaça (o quanto bastar para completar o copo)"
   ],
   "recipeInstructions": [
     {
-      "text": "Pegue o limão coloque-o na horizontal e retire as duas pontas, vire-o na vertical e corte-o ao meio, retire os meio (parte branca) do limão e fatie."
+      "text": "Pegue o limão coloque-o na horizontal e retire as duas pontas, vire-o na vertical e corte-o ao meio, retire os meio (parte branca) do limão e fatie.",
+      "url": "https://www.tudogostoso.com.br/receita/128825-caipirinha-original.html#recipe-step1"
     },
     {
-      "text": "Coloque o limão fatiado e duas colheres bem cheias de açúcar dentro de um copo próprio para a bebida e com um socador esprema até que saia todo o suco do limão."
+      "text": "Coloque o limão fatiado e duas colheres bem cheias de açúcar dentro de um copo próprio para a bebida e com um socador esprema até que saia todo o suco do limão.",
+      "url": "https://www.tudogostoso.com.br/receita/128825-caipirinha-original.html#recipe-step2"
     },
     {
-      "text": "Coloque pedras de gelo até quase encher o copo (aproximadamente 12 pedras pequenas de gelo) e encha o copo com a cachaça."
+      "text": "Coloque pedras de gelo até quase encher o copo (aproximadamente 12 pedras pequenas de gelo) e encha o copo com a cachaça.",
+      "url": "https://www.tudogostoso.com.br/receita/128825-caipirinha-original.html#recipe-step3"
     },
     {
-      "text": "Mexa bem com uma colher ou coloque em uma coqueteleira e sirva-se!"
+      "text": "Mexa bem com uma colher ou coloque em uma coqueteleira e sirva-se!",
+      "url": "https://www.tudogostoso.com.br/receita/128825-caipirinha-original.html#recipe-step4"
     }
   ],
-  "nutrition": {},
   "aggregateRating": {
-    "reviewCount": 23,
-    "ratingValue": 4.5,
-    "bestRating": 5
+    "ratingCount": 37,
+    "ratingValue": 4.8,
+    "bestRating": 5,
+    "worstRating": 1
   }
 }

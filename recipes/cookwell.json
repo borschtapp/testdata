@@ -1,5 +1,5 @@
 {
-  "url": "https://cookwell.com/recipe/huevos-rancheros",
+  "url": "https://www.cookwell.com/recipe/huevos-rancheros",
   "name": "Huevos Rancheros",
   "description": "A simple, filling, and flavorful breakfast.",
   "inLanguage": "en",
@@ -13,7 +13,7 @@
   },
   "publisher": {
     "name": "CookWell",
-    "url": "https://cookwell.com"
+    "url": "https://www.cookwell.com"
   },
   "totalTime": "PT50M",
   "recipeCategory": [

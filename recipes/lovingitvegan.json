@@ -21,7 +21,7 @@
     "name": "Alison Andrews",
     "description": "Hi I'm Alison Andrews, I'm the voice and cook behind Loving It Vegan. I love making delicious vegan food and creating vegan versions of all your old favorites, so that you’ll never feel like you’re missing out. Find out more about me here.",
     "url": "https://lovingitvegan.com/author/lovingitvegan/",
-    "image": "https://secure.gravatar.com/avatar/156710c38fe18802003dcd9608e24d11?s=96\u0026r=g"
+    "image": "https://secure.gravatar.com/avatar/4393de915f556cdf286cb6e4c00a76aa5203d1279f94ec95754eacbb26d820bf?s=96\u0026r=g"
   },
   "publisher": {
     "name": "Loving It Vegan",
@@ -85,6 +85,7 @@
     "sugarContent": "15.2 g"
   },
   "aggregateRating": {
+    "reviewCount": 6,
     "ratingCount": 17,
     "ratingValue": 5
   },

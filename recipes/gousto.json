@@ -1,9 +1,96 @@
 {
-  "url": "file://E:/borscht/krip/testdata/websites/gousto.html",
-  "name": "Recipes | Quick and Easy Dinner Ideas | Gousto",
+  "url": "https://www.gousto.co.uk/cookbook/beef-recipes/simply-perfect-beef-spag-bol",
+  "name": "Simply Perfect Beef Spag Bol",
+  "description": "Brilliant for weeknights and slurp-tastic for adults and children alike. Rustle up a simply perfect spag bol with a rich meaty sauce topped with lashings of melty cheddar and fresh basil. Dinner is served!",
   "inLanguage": "en",
+  "image": [
+    {
+      "url": "https://production-media.gousto.co.uk/cms/mood-image/1938---Simply-Perfect-Spag-Bol-4235-1576753790322-x200.jpg",
+      "width": 200
+    },
+    {
+      "url": "https://production-media.gousto.co.uk/cms/mood-image/1938---Simply-Perfect-Spag-Bol-4235-1576753790322-x400.jpg",
+      "width": 400
+    },
+    {
+      "url": "https://production-media.gousto.co.uk/cms/mood-image/1938---Simply-Perfect-Spag-Bol-4235-1576753790322-x700.jpg",
+      "width": 700
+    },
+    {
+      "url": "https://production-media.gousto.co.uk/cms/mood-image/1938---Simply-Perfect-Spag-Bol-4235-1576753790322-x1000.jpg",
+      "width": 1000
+    },
+    {
+      "url": "https://production-media.gousto.co.uk/cms/mood-image/1938---Simply-Perfect-Spag-Bol-4235-1576753790322-x1500.jpg",
+      "width": 1500
+    }
+  ],
   "publisher": {
     "name": "Gousto",
-    "url": "file://E:"
+    "url": "https://www.gousto.co.uk"
+  },
+  "cookTime": "PT25M",
+  "recipeCategory": [
+    "All Gousto Recipes"
+  ],
+  "recipeCuisine": [
+    "Italian"
+  ],
+  "recipeYield": 2,
+  "recipeIngredient": [
+    "soy sauce",
+    "finely chopped tomatoes",
+    "cheddar cheese",
+    "garlic clove",
+    "dried basil",
+    "brown onion",
+    "beef mince",
+    "basil",
+    "tomato paste",
+    "dried oregano",
+    "Henderson's Relish",
+    "carrot",
+    "spaghetti",
+    "beef stock mix",
+    "Olive oil",
+    "Pepper",
+    "Salt"
+  ],
+  "recipeInstructions": [
+    {
+      "text": "Boil a kettle Peel and finely chop the brown onion[s]Top, tail, peel and finely chop the carrot[s]",
+      "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1938.-step-1-x200.jpg"
+    },
+    {
+      "text": "Heat a large, wide-based pan (preferably non-stick) with a drizzle of olive oil over a medium-high heatOnce hot, add the chopped onion and carrot with a pinch of salt and cook for 3-4 min or until beginning to soften",
+      "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1938.-step-2-x200.jpg"
+    },
+    {
+      "text": "Peel and finely chop (or grate) the garlic",
+      "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1938.-step-3-x200.jpg"
+    },
+    {
+      "text": "Once the onion and carrot are beginning to soften, add the beef mince to the pan and increase the heat to highCook for 3-4 min further or until browned all over, breaking it up with a wooden spoon as you go",
+      "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1938.-step-4-x200.jpg"
+    },
+    {
+      "text": "While the beef mince is cooking, add the spaghetti to a pot of boiled water with a large pinch of salt and bring to the boil over a high heatCook the spaghetti for 8-10 min or until cooked with a slight bite then drain and return to the pot until servingMeanwhile, dissolve the beef stock mix, Henderson’s Relish and soy sauce in 100ml [200ml] boiled water – this is your stock",
+      "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1938.-step-5-x200.jpg"
+    },
+    {
+      "text": "Add the chopped garlic, tomato paste, stock, chopped tomatoes, dried basil and dried oregano to the panSeason with a grind of black pepper, bring to the boil over a high heat and cook for 4-5 min further or until thickened – this is your beef bolognese",
+      "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1938.-step-6-x200.jpg"
+    },
+    {
+      "text": "Chop the basil finely, including the stalksGrate the cheddar cheese",
+      "image": "https://production-media.gousto.co.uk/cms/recipe-step-image/1938.-step-7-x200.jpg"
+    },
+    {
+      "text": "Serve the beef bolognese over the spaghettiTop with the grated cheese and chopped basil and enjoy!Loved this recipe? Us too! That’s why it’s one of our Everyday Favourites, available every week."
+    }
+  ],
+  "aggregateRating": {
+    "ratingCount": 107281,
+    "ratingValue": 5
   }
 }

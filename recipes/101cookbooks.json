@@ -58,8 +58,9 @@
     }
   ],
   "aggregateRating": {
-    "ratingCount": 9,
-    "ratingValue": 4.34
+    "reviewCount": 2,
+    "ratingCount": 11,
+    "ratingValue": 4.46
   },
   "datePublished": "2022-03-31T11:36:56Z"
 }

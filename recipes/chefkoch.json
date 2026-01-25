@@ -1,7 +1,7 @@
 {
   "url": "https://www.chefkoch.de/rezepte/1170311223132029/Hackbraten-supersaftig.html",
   "name": "Saftiger Hackbraten im Ofen",
-  "description": "Hackbraten supersaftig - klassischer saftiger Hackbraten mit viel Soße. Über 1437 Bewertungen und für lecker befunden. Mit ► Portionsrechner ► Kochbuch ► Video-Tipps!",
+  "description": "Hackbraten supersaftig - klassischer saftiger Hackbraten mit viel Soße. Über 1438 Bewertungen und für lecker befunden. Mit ► Portionsrechner ► Kochbuch ► Video-Tipps!",
   "inLanguage": "de",
   "image": [
     {
@@ -53,21 +53,27 @@
       "name": "Zubereitung",
       "itemListElement": [
         {
+          "name": "1",
           "text": "Die Semmeln in Scheiben schneiden und mit Wasser übergießen, quellen lassen. Gut ausdrücken. Die Gewürzgurken in sehr feine Würfel schneiden. Zwiebeln ebenfalls in feine Würfel schneiden."
         },
         {
+          "name": "2",
           "text": "1 EL Butter erhitzen und die Zwiebeln glasig anschwitzen. Petersilie dazugeben."
         },
         {
+          "name": "3",
           "text": "Zwiebel-Petersilienmischung in eine Schüssel geben. Semmeln, Gewürzgurken, Hackfleisch, Eier und Zitronensaft zufügen. Alles mit Salz, Cayennepfeffer und schwarzem Pfeffer würzen und kräftig durchkneten."
         },
         {
+          "name": "4",
           "text": "Die restliche Butter schmelzen, eine Form fetten. Den Fleischteig zu einem Laib formen und in die Form legen. Auf der unteren Schiene 30 Minuten (Umluft 180 °C) backen, dabei immer mit der flüssigen Butter bestreichen."
         },
         {
+          "name": "5",
           "text": "Die Fleischbrühe erhitzen und mit der Sahne, der Crème fraîche und dem Paprikapulver verrühren. (wer sehr viel Soße mag, kann die Soßenmenge einfach verdoppeln). Die Soße über den Hackbraten gießen und weitere 10 - 15 Minuten garen."
         },
         {
+          "name": "6",
           "text": "Dazu passen hervorragend Salzkartoffeln."
         }
       ]
@@ -81,9 +87,9 @@
     "proteinContent": "36.04 g"
   },
   "aggregateRating": {
-    "reviewCount": 770,
-    "ratingCount": 1437,
-    "ratingValue": 4.59,
+    "reviewCount": 778,
+    "ratingCount": 1438,
+    "ratingValue": 4.58,
     "bestRating": 5
   }
 }

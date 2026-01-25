@@ -19,6 +19,7 @@
   ],
   "author": {
     "name": "Laura",
+    "description": "Hello! I’m Laura, baker, chef, chemist and mom of 6! I have a degree in chemistry and passion for delicious food. I use my knowledge of and love for science to create recipes to feed my family and share with all of you. Hello! I’m Laura! I have a degree in chemistry and passion for delicious food. I use my knowledge of and love for science to create recipes you can count on. I believe delicious food doesn’t have to be complicated – and have a passion for creating easy recipes that taste gourmet",
     "image": "https://joyfoodsunshine.com/wp-content/uploads/2023/04/cropped-author-avatar-96x96.jpg"
   },
   "publisher": {
@@ -141,8 +142,8 @@
     "unsaturatedFatContent": "1 g"
   },
   "aggregateRating": {
-    "reviewCount": 7,
-    "ratingCount": 1147,
+    "reviewCount": 6,
+    "ratingCount": 1161,
     "ratingValue": 4.99
   },
   "video": {

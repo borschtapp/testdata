@@ -1,63 +1,82 @@
 {
   "url": "https://www.marthastewart.com/336792/breaded-chicken-breasts",
   "name": "Breaded Chicken Breasts",
-  "description": "Whenever you make breaded and fried chicken, it disappears almost immediately. Try our foolproof three-step method for perfect results every time, then turn it into Chicken Parmesan or serve over salad.",
-  "inLanguage": "en-us",
+  "description": "Learn how to make breaded chicken breasts in under 30 minutes. Our easy method for fried chicken cutlets makes for delicious weeknight dinners.",
+  "inLanguage": "en",
   "image": [
     {
-      "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fassets.marthastewart.com%2Fstyles%2Fwmax-750%2Fd35%2F336792_breaded-chicken-breasts-12-2%2F336792_breaded-chicken-breasts-12-2.jpg%3Fitok%3D_QjgCBAz",
-      "width": 750,
-      "height": 422
+      "url": "https://www.marthastewart.com/thmb/nvxNpKLIet99N9F5m3dHhHu0g_4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/336792_breaded-chicken-breasts-12-877d76b08e44450fa77c20a0e449a741.jpg",
+      "width": 1500,
+      "height": 1001
     }
   ],
   "publisher": {
     "name": "Martha Stewart",
-    "url": "https://www.marthastewart.com"
+    "url": "https://www.marthastewart.com",
+    "logo": "https://www.marthastewart.com/thmb/OrGf7M7NNCLRjtC4UMQrre8Dbzk=/640x640/filters:no_upscale():max_bytes(150000):strip_icc()/martha_stewart_logo_schema-d4d4988b043746a298d19488f9a6803d.png"
   },
   "prepTime": "PT25M",
   "totalTime": "PT25M",
   "recipeCategory": [
-    "Chicken Breast Recipes"
+    "Entree",
+    "Dinner"
   ],
+  "recipeCuisine": [
+    "American"
+  ],
+  "keywords": [
+    "breaded chicken breasts",
+    "Breadcrumbs",
+    "Chicken cutlets",
+    "Dinner",
+    "Dredge",
+    "Fry",
+    "Lunch",
+    "Main course"
+  ],
+  "recipeYield": 4,
   "recipeIngredient": [
     "3 large eggs",
     "Coarse salt",
-    "1/3 cup all-purpose flour",
-    "3 1/2 cups fresh breadcrumbs",
+    "0.333 cup all-purpose flour",
+    "3.5 cups fresh breadcrumbs",
     "1 cup vegetable oil",
-    "8 thin chicken cutlets (about 1 1/2 pounds total)",
+    "8 thin chicken cutlets (about 1 ½ pounds total)",
     "Lemon wedges, for serving (optional)"
   ],
   "recipeInstructions": [
     {
-      "text": "In a shallow dish, whisk eggs with teaspoon salt; let stand 5 minutes. In another shallow dish, season flour with 1/4 teaspoon salt. In a third shallow dish, season breadcrumbs with 1 teaspoon salt."
+      "name": "Whisk eggs and set out breading:",
+      "text": "In a shallow dish, whisk eggs with teaspoon salt; let stand 5 minutes. In another shallow dish, season flour with 1/4 teaspoon salt. In a third shallow dish, season breadcrumbs with 1 teaspoon salt.",
+      "image": "https://www.marthastewart.com/thmb/fr11hd3Y_SCwBIry4Ag-G3LIgSs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/336792_breaded-chicken-breasts-02-ffbcd1d5265544cd98977ce006a1dff2.jpg"
     },
     {
-      "text": "In a large cast-iron skillet or other heavy deep skillet, heat oil over medium. Meanwhile, pat chicken dry with paper towels. Coat in flour, shaking off excess, then dip in egg (letting excess drip off). Dredge in breadcrumbs, turning twice and patting to adhere."
+      "name": "Prep chicken cutlets:",
+      "text": "In a large cast-iron skillet or other heavy deep skillet, heat oil over medium. Meanwhile, pat chicken dry with paper towels. Coat in flour, shaking off excess. Then dip in egg (letting excess drip off). Dredge in breadcrumbs, turning twice and patting to adhere.",
+      "image": "https://www.marthastewart.com/thmb/NMT-1jniPjB_G7DRSsM9g0GrXdc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/336792_breaded-chicken-breasts-05-c7ca89adfa544fd1ac6bed505855115f.jpg"
     },
     {
-      "text": "Increase heat to medium-high. Working in batches, add chicken to skillet; cook, gently shaking skillet occasionally, until chicken is browned, about 4 minutes. Turn with tongs; cook until browned and opaque throughout, 2 to 3 minutes more (if browning too quickly, lower heat). Between batches, skim off brown crumbs from oil with a slotted spoon. Drain chicken on paper towels; season with salt."
+      "name": "Cook chicken cutlets:",
+      "text": "Increase heat to medium-high. Working in batches, add chicken to skillet; cook, gently shaking skillet occasionally, until chicken is browned, about 4 minutes.",
+      "image": "https://www.marthastewart.com/thmb/x73tLVQFWTbxARV7-drVhT2eyG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/336792_breaded-chicken-breasts-06-4abd7caecb264d9490b01f91cf027af4.jpg"
+    },
+    {
+      "name": "Turn, cook other side, drain and season:",
+      "text": "Turn with tongs; cook until browned and opaque throughout, 2 to 3 minutes more (if browning too quickly, lower heat). Drain chicken on paper towels; season with salt.",
+      "image": "https://www.marthastewart.com/thmb/TqnPrvIDtIJc7Lg1p9m7_rcyfQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/0336792_breaded-chicken-breasts-07-4fecdcb8195a44a3b24afd68339a571a.jpg"
     }
   ],
-  "nutrition": {
-    "calories": "658 g",
-    "fatContent": "37 g",
-    "fiberContent": "1 g",
-    "proteinContent": "49 g"
-  },
   "aggregateRating": {
-    "reviewCount": 8,
-    "ratingCount": 291,
-    "ratingValue": 3.2061855670103094,
-    "bestRating": 5,
-    "worstRating": 1
+    "ratingCount": 153,
+    "ratingValue": 4.2
   },
   "video": {
     "name": "Foolproof Breaded Chicken Breasts",
-    "duration": "PT1M18.158S",
-    "embedUrl": "https://players.brightcove.net/5985631785001/default_default/index.html?videoId=5991077589001",
-    "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fassets.marthastewart.com%2Fd30%2FEH0224-Breaded%2520Chicken%2520Breasts%2FEH0224-Breaded%2520Chicken%2520Breasts.jpg",
-    "uploadDate": "2017-09-22T13:55:15Z"
+    "duration": "PT1M18S",
+    "contentUrl": "https://content.jwplatform.com/videos/M4nyWngq-zqASzng0.mp4",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/M4nyWngq/poster.jpg?width=1280",
+    "uploadDate": "2021-03-01T12:13:16.32-05:00"
   },
-  "datePublished": "2011-03-07T15:22:47Z"
+  "dateModified": "2025-08-21T18:12:55.898-04:00",
+  "datePublished": "2011-03-07T10:22:47-05:00"
 }

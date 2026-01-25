@@ -80,7 +80,7 @@
   ],
   "nutrition": {
     "calories": "122 kcal",
-    "servingSize": "1 pancake",
+    "servingSize": "1  pancake",
     "carbohydrateContent": "15 g",
     "cholesterolContent": "39 mg",
     "fatContent": "5 g",
@@ -91,7 +91,7 @@
   },
   "aggregateRating": {
     "reviewCount": 11,
-    "ratingCount": 119,
+    "ratingCount": 120,
     "ratingValue": 4.9
   },
   "datePublished": "2018-03-14T08:30:24Z"

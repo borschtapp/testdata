@@ -23,6 +23,11 @@ func TestFilenames(t *testing.T) {
 			assert.NoError(t, err)
 			assert.NotEmpty(t, input.Url)
 
+			// some exceptions, where there is no canonical in html
+			if name == "sunbasket.html" {
+				return
+			}
+
 			expected := utils.HostAlias(input.Url)
 			assert.NotRegexp(t, regexp.MustCompile(`^file://.+`), input.Url)
 			assert.Equal(t, expected+HtmlExt, name, "Incorrect filename for "+input.Url)
@@ -44,21 +49,6 @@ func TestWebsiteFiles(t *testing.T) {
 	})
 }
 
-/*
-The below list of hosts had `403 Forbidden` status last time due to Cloudflare or so
-https://www.blueapron.com/recipes/bbq-chickpeas-farro-with-corn-cucumbers-hard-boiled-eggs-3
-http://www.bunkycooks.com/2011/12/the-best-three-cheese-lasagna-recipe/
-https://dinnerthendessert.com/indian-chicken-korma/
-https://downshiftology.com/recipes/greek-chicken-kabobs/
-https://www.homechef.com/meals/prosciutto-and-mushroom-carbonara-standard
-https://www.latelierderoxane.com/blog/recette-cake-marbre/
-https://www.marmiton.org/recettes/recette_ratatouille_23223.aspx
-https://sundpaabudget.dk/one-pot-pasta-med-kyllingekebab/
-https://www.thekitchn.com/manicotti-22949270
-https://www.tudogostoso.com.br/receita/128825-caipirinha-original.html
-https://www.heb.com/recipe/recipe-item/truffled-spaghetti-squash/1398755977632 (denied by browser visit too, down?)
-https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?cId=3&rId=188&AspxAutoDetectCookieSupport=1 (>10 redirects)
-*/
 func TestWebsitesOnline(t *testing.T) {
 	t.Skip("Skip online tests")
 	t.Parallel()
@@ -84,12 +74,7 @@ func TestWebsitesProperties(t *testing.T) {
 	var domains []string
 	WalkTestdataRecipes(func(name string, recipe model.Recipe) {
 		t.Run(name, func(t *testing.T) {
-			assert.NotEmpty(t, recipe.Url)
-			assert.NotEmpty(t, recipe.Name)
-			assert.NotEmpty(t, recipe.Images)
-			assert.NotEmpty(t, recipe.Ingredients)
-			assert.NotEmpty(t, recipe.Instructions)
-			assert.NotEmpty(t, recipe.Publisher)
+			assert.True(t, recipe.IsValid())
 
 			if !t.Failed() {
 				domains = append(domains, strings.ReplaceAll(strings.ReplaceAll(recipe.Publisher.Url, "http://", "https://"), "//www.", "//"))
@@ -115,9 +100,10 @@ func updateReadme(domains []string) error {
 		}
 	}
 
+	newReadme += "\n"
 	sort.Strings(domains)
 	for _, domain := range domains {
-		newReadme += "- " + domain + "\n"
+		newReadme += "* <" + domain + ">\n"
 	}
 
 	if string(readmeContent) != newReadme {

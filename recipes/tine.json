@@ -1,21 +1,21 @@
 {
-  "url": "https://www.tine.no/no/middag-og-hovedretter/kylling-og-fjarkre/rask-kylling-tikka-masala",
-  "name": "Rask kylling tikka masala",
-  "description": "En god og rask oppskrift på en kylling tikka masala. Dette er en rett med små smakseksplosjoner som sender tankene til India.",
+  "url": "https://www.tine.no/oppskrifter/lunsj-og-smaretter/omeletter-og-pannekaker/pannekaker-med-cottage-cheese-til-jul",
+  "name": "Pannekaker med cottage cheese til jul",
+  "description": "Disse proteinrike pannekakene med smak av appelsin og kanel er perfekt til julefrokosten, julelunsjen eller når du har lyst på noe godt og proteinrikt. Ekstra digg blir det hvis du topper dem med vaniljekesam og pepperkaker.",
   "inLanguage": "no-NO",
   "image": [
     {
-      "url": "https://www.tine.no/_/recipeimage/w_1200,h_900,c_fill,x_2880,y_1920,g_xy_center/recipeimage/w1r3ydbmyeqcngqpxatv.jpg",
+      "url": "https://www.tine.no/_/recipeimage/w_1200,h_900,c_fill,x_1024,y_576,g_xy_center/recipeimage/xj6jylxr4bs0qwuahlzl.jpg",
       "width": 1200,
       "height": 900
     },
     {
-      "url": "https://www.tine.no/_/recipeimage/w_800,h_600,c_fill,x_2880,y_1920,g_xy_center/recipeimage/w1r3ydbmyeqcngqpxatv.jpg",
+      "url": "https://www.tine.no/_/recipeimage/w_800,h_600,c_fill,x_1024,y_576,g_xy_center/recipeimage/xj6jylxr4bs0qwuahlzl.jpg",
       "width": 800,
       "height": 600
     },
     {
-      "url": "https://www.tine.no/_/recipeimage/w_400,h_300,c_fill,x_2880,y_1920,g_xy_center/recipeimage/w1r3ydbmyeqcngqpxatv.jpg",
+      "url": "https://www.tine.no/_/recipeimage/w_400,h_300,c_fill,x_1024,y_576,g_xy_center/recipeimage/xj6jylxr4bs0qwuahlzl.jpg",
       "width": 400,
       "height": 300
     }
@@ -29,65 +29,47 @@
   },
   "cookTime": "PT30M",
   "recipeCategory": [
-    "indisk",
-    "middag",
-    "kylling"
+    "frokost",
+    "lunsj",
+    "pannekaker",
+    "jul"
   ],
   "keywords": [
     "easy"
   ],
   "recipeYield": 4,
   "recipeIngredient": [
-    "4 dl basmatiris",
-    "400 g kyllingfilet",
-    "1 ss TINE® Meierismør til steking",
-    "1 stykk paprika",
-    "0.5 dl chili",
-    "3 stykk vårløk",
-    "1 ts hvitløksfedd",
-    "hakket, frisk 1 ss ingefær",
-    "hakket, frisk 0.5 dl koriander",
-    "2 ts garam masala",
-    "3 dl TINE® Lett Crème Fraîche 17 %",
-    "3 ss tomatpuré",
-    "0.5 ts salt",
-    "0.25 ts pepper",
-    "0.5 dl slangeagurk",
-    "3 dl TINE® Yoghurt Naturell Gresk Type",
-    "frisk 0.5 dl mynte",
-    "1 ts hvitløksfedd",
-    "0.5 ts salt",
-    "0.25 ts pepper"
+    "50 g TINE® Meierismør",
+    "2 dl TINE® Helmelk 3,5 % fett",
+    "2 stykk egg",
+    "1 dl TINE® Cottage Cheese Original",
+    "3 dl hvetemel",
+    "2 ts bakepulver",
+    "4 ss appelsinmarmelade",
+    "1 stykk appelsin Zesten av (finrevet)",
+    "0.5 ts malt kanel",
+    "0.25 ts salt"
   ],
   "recipeInstructions": [
     {
       "name": "Step 1",
-      "text": "Kok ris etter anvisningen på pakken."
-    },
-    {
-      "name": "Step 1",
-      "text": "Del kylling i biter. Brun kyllingen i smør i en stekepanne på middels varme."
+      "text": "Smelt smør og tilsett melka. Hell over i en bolle og visp inn egg."
     },
     {
       "name": "Step 2",
-      "text": "Rens og hakk paprika, chili, vårløk og hvitløk og ha det i stekepannen sammen med kyllingen. Rens og finhakk ingefær og frisk koriander. Krydre med garam masala, koriander og ingefær."
+      "text": "Bland inn Cottage Cheese, hvetemel, bakepulver, appelsinmarmelade, appelsin zest, kanel og salt, og kjør alt til en glatt masse med en stavmikser. La røren stå og svelle i ca. 15 minutter. Det er viktig for at røren skal få riktig konsistens."
     },
     {
       "name": "Step 3",
-      "text": "Hell i crème fraîche og tomatpuré, og la småkoke i 5 minutter. Smak til med salt og pepper."
+      "text": "Stek pannekaker i en non-stick stekepanne uten fett. Lag pannekakene ca. 15 cm i diameter (ca. 1,5-2 ss røre per pannekake). Etter røren har svellet opp og blitt «boblete» kan du vende den med en stekespade."
     },
     {
-      "name": "Step 1",
-      "text": "Riv agurk og bland den med yoghurt. Hakk mynte og hvitløk og bland det i. Smak til med salt og pepper."
+      "name": "Step 4",
+      "text": "Legg de ferdige pannekakene oppå hverandre på et fat eller tallerken. Server gjerne med vaniljekesam og pepperkaker."
     }
   ],
   "aggregateRating": {
-    "ratingCount": 549,
-    "ratingValue": 4
-  },
-  "video": {
-    "name": "Rask kylling tikka masala",
-    "description": "Hvordan lage den indiske gryten tikka masala? I denne filmen har vi gjort det enkelt for deg.",
-    "contentUrl": "https://www.youtube.com/watch?v=hOgxD4CVRGU"
+    "ratingCount": 4,
+    "ratingValue": 4.8
   }
 }

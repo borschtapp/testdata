@@ -42,7 +42,7 @@
     "2 tomater",
     "2 peberfrugter",
     "300 g fuldkornsspaghetti (el. pasta)",
-    "125 g flødeost m. hvidløg (el. chili)",
+    "125 g flødeost m. hvidløg",
     "7 dl vand",
     "1 bouillonterning",
     "0,5 tsk spidskommen",
@@ -53,29 +53,33 @@
   "recipeInstructions": [
     {
       "text": "Rengør og hak løg, peberfrugt og tomater i tern.",
-      "url": "https://sundpaabudget.dk/one-pot-pasta-med-kyllingekebab/#wpzoom-rcb-direction-step-610be8273015b"
+      "url": "https://sundpaabudget.dk/one-pot-pasta-med-kyllingekebab/#wprm-recipe-15560-step-0-0"
     },
     {
       "text": "Opvarm olie i en stor gryde og svits kyllingekebaben et par minutter. Tilsæt grøntsagerne og lad det svitse med yderligere 2 minutter.",
-      "url": "https://sundpaabudget.dk/one-pot-pasta-med-kyllingekebab/#wpzoom-rcb-direction-step-16281705260522446"
+      "url": "https://sundpaabudget.dk/one-pot-pasta-med-kyllingekebab/#wprm-recipe-15560-step-0-1"
     },
     {
       "text": "Tilsæt spaghetti, flødeost, vand, bouillonterning og krydderier.",
-      "url": "https://sundpaabudget.dk/one-pot-pasta-med-kyllingekebab/#wpzoom-rcb-direction-step-16281706073093809"
+      "url": "https://sundpaabudget.dk/one-pot-pasta-med-kyllingekebab/#wprm-recipe-15560-step-0-2"
     },
     {
       "text": "Lad retten simre ved middelvarme til spaghettien er aldente og vandet er kogt næsten ind til en cremet sauce.",
-      "url": "https://sundpaabudget.dk/one-pot-pasta-med-kyllingekebab/#wpzoom-rcb-direction-step-610be8273015c"
+      "url": "https://sundpaabudget.dk/one-pot-pasta-med-kyllingekebab/#wprm-recipe-15560-step-0-3"
     },
     {
       "text": "Smag til med salt og peber.",
-      "url": "https://sundpaabudget.dk/one-pot-pasta-med-kyllingekebab/#wpzoom-rcb-direction-step-610be8273015d"
+      "url": "https://sundpaabudget.dk/one-pot-pasta-med-kyllingekebab/#wprm-recipe-15560-step-0-4"
     }
   ],
-  "nutrition": {},
-  "aggregateRating": {
-    "reviewCount": 37,
-    "ratingValue": 3.9
+  "nutrition": {
+    "calories": "300 kcal",
+    "servingSize": "1 person"
   },
-  "datePublished": "2021-08-05T17:56:26+02:00"
+  "aggregateRating": {
+    "reviewCount": 6,
+    "ratingCount": 45,
+    "ratingValue": 4.03
+  },
+  "datePublished": "2021-08-05T17:56:26Z"
 }
