@@ -34,10 +34,8 @@ testdata/
 │   └── ...                # 200+ website HTML files
 ├── schema/                # Schema.org/Microdata test cases
 └── tools/                 # Development utilities
-    ├── testdata/
-    │   └── add-recipe.go  # Tool to add new test cases
     ├── websites/
-    │   └── update.go      # Tool to update existing HTML fixtures
+    │   └── manage.go      # Use it to add or update websites fixtures
     ├── schema/
     │   └── paths.go       # Analyze Schema.org paths in test data
     └── ingredients/
