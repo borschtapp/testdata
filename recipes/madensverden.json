@@ -42,18 +42,38 @@
   "recipeCuisine": [
     "Dansk"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "400 g rabarber",
-    "75 g sukker",
-    "10 g vaniljesukker",
-    "2 pasteuriserede æggeblommer",
-    "40 g sukker",
-    "10 g majsstivelse",
-    "2,5 dl sødmælk",
-    "2,5 dl piskefløde",
-    "100 g makroner",
-    "40 g mandelflager"
+    {
+      "name": "400 g rabarber"
+    },
+    {
+      "name": "75 g sukker"
+    },
+    {
+      "name": "10 g vaniljesukker"
+    },
+    {
+      "name": "2 pasteuriserede æggeblommer"
+    },
+    {
+      "name": "40 g sukker"
+    },
+    {
+      "name": "10 g majsstivelse"
+    },
+    {
+      "name": "2,5 dl sødmælk"
+    },
+    {
+      "name": "2,5 dl piskefløde"
+    },
+    {
+      "name": "100 g makroner"
+    },
+    {
+      "name": "40 g mandelflager"
+    }
   ],
   "recipeInstructions": [
     {
@@ -86,8 +106,8 @@
     }
   ],
   "nutrition": {
-    "calories": "270 kcal",
-    "servingSize": "1 person"
+    "servingSize": "1 person",
+    "calories": 270
   },
   "aggregateRating": {
     "ratingCount": 38,

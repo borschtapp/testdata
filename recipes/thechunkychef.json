@@ -37,18 +37,38 @@
     "mac and cheese",
     "macaroni and cheese"
   ],
-  "recipeYield": 8,
+  "recipeYield": "8",
   "recipeIngredient": [
-    "1 lb. dried elbow pasta",
-    "1/2 cup unsalted butter",
-    "1/2 cup all purpose flour",
-    "1 1/2 cups whole milk",
-    "2 1/2 cups half and half (**see chef tips #1 below**)",
-    "4 cups shredded medium cheddar cheese (divided (measured after shredding))",
-    "2 cups shredded Gruyere cheese (divided (measured after shredding))",
-    "1/2 Tbsp. salt",
-    "1/2 tsp. black pepper",
-    "1/4 tsp. paprika (smoked paprika is our favorite!)"
+    {
+      "name": "1 lb. dried elbow pasta"
+    },
+    {
+      "name": "1/2 cup unsalted butter"
+    },
+    {
+      "name": "1/2 cup all purpose flour"
+    },
+    {
+      "name": "1 1/2 cups whole milk"
+    },
+    {
+      "name": "2 1/2 cups half and half (**see chef tips #1 below**)"
+    },
+    {
+      "name": "4 cups shredded medium cheddar cheese (divided (measured after shredding))"
+    },
+    {
+      "name": "2 cups shredded Gruyere cheese (divided (measured after shredding))"
+    },
+    {
+      "name": "1/2 Tbsp. salt"
+    },
+    {
+      "name": "1/2 tsp. black pepper"
+    },
+    {
+      "name": "1/4 tsp. paprika (smoked paprika is our favorite!)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -85,16 +105,16 @@
     }
   ],
   "nutrition": {
-    "calories": "665 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "43 g",
-    "cholesterolContent": "126 mg",
-    "fatContent": "41 g",
-    "fiberContent": "1 g",
-    "proteinContent": "28 g",
-    "saturatedFatContent": "25 g",
-    "sodiumContent": "700 mg",
-    "sugarContent": "3 g"
+    "calories": 665,
+    "carbohydrateContent": 43,
+    "cholesterolContent": 126,
+    "fatContent": 41,
+    "fiberContent": 1,
+    "proteinContent": 28,
+    "saturatedFatContent": 25,
+    "sodiumContent": 700,
+    "sugarContent": 3
   },
   "aggregateRating": {
     "reviewCount": 13,

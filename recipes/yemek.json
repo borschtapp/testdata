@@ -38,27 +38,65 @@
     "patates",
     "topları"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "2 yemek kaşığı sıvı yağ",
-    "1 kilogram tavuk",
-    "1 adet soğan",
-    "1 adet kapya biber",
-    "300 gram mantar",
-    "1,5 çay kaşığı tuz",
-    "1 çay kaşığı karabiber",
-    "1 çay kaşığı toz kırmızı biber",
-    "1 çay bardağı su",
-    "5 adet patates",
-    "2 yemek kaşığı tereyağı",
-    "2 çay kaşığı tuz",
-    "2 yemek kaşığı tereyağı",
-    "1 tatlı kaşığı sıvı yağ",
-    "2 yemek kaşığı un",
-    "2,5 su bardağı süt",
-    "1 tatlı kaşığı köri",
-    "1/2 çay kaşığı tuz",
-    "100 gram rendelenmiş mozarella peyniri"
+    {
+      "name": "2 yemek kaşığı sıvı yağ"
+    },
+    {
+      "name": "1 kilogram tavuk"
+    },
+    {
+      "name": "1 adet soğan"
+    },
+    {
+      "name": "1 adet kapya biber"
+    },
+    {
+      "name": "300 gram mantar"
+    },
+    {
+      "name": "1,5 çay kaşığı tuz"
+    },
+    {
+      "name": "1 çay kaşığı karabiber"
+    },
+    {
+      "name": "1 çay kaşığı toz kırmızı biber"
+    },
+    {
+      "name": "1 çay bardağı su"
+    },
+    {
+      "name": "5 adet patates"
+    },
+    {
+      "name": "2 yemek kaşığı tereyağı"
+    },
+    {
+      "name": "2 çay kaşığı tuz"
+    },
+    {
+      "name": "2 yemek kaşığı tereyağı"
+    },
+    {
+      "name": "1 tatlı kaşığı sıvı yağ"
+    },
+    {
+      "name": "2 yemek kaşığı un"
+    },
+    {
+      "name": "2,5 su bardağı süt"
+    },
+    {
+      "name": "1 tatlı kaşığı köri"
+    },
+    {
+      "name": "1/2 çay kaşığı tuz"
+    },
+    {
+      "name": "100 gram rendelenmiş mozarella peyniri"
+    }
   ],
   "recipeInstructions": [
     {

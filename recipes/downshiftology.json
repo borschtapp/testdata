@@ -39,21 +39,47 @@
     "easy chicken kabobs",
     "Greek chicken kabobs"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "¼ cup olive oil",
-    "2 tablespoons red wine vinegar",
-    "3 tablespoons lemon juice",
-    "1 teaspoon Dijon mustard",
-    "3 garlic cloves (minced)",
-    "1 teaspoon dried oregano",
-    "½ teaspoon salt",
-    "¼ teaspoon black pepper",
-    "1 ½ pounds boneless skinless chicken breasts (about 3 large chicken breasts, cut into 1 ½-inch pieces.)",
-    "1 red bell pepper (seeded, cut into 1 ½-Inch pieces)",
-    "1 yellow bell pepper (seeded, cut into 1 ½-inch pieces)",
-    "1 red onion (cut into 1 ½-inch chunks)",
-    "1 zucchini (sliced)"
+    {
+      "name": "¼ cup olive oil"
+    },
+    {
+      "name": "2 tablespoons red wine vinegar"
+    },
+    {
+      "name": "3 tablespoons lemon juice"
+    },
+    {
+      "name": "1 teaspoon Dijon mustard"
+    },
+    {
+      "name": "3 garlic cloves (minced)"
+    },
+    {
+      "name": "1 teaspoon dried oregano"
+    },
+    {
+      "name": "½ teaspoon salt"
+    },
+    {
+      "name": "¼ teaspoon black pepper"
+    },
+    {
+      "name": "1 ½ pounds boneless skinless chicken breasts (about 3 large chicken breasts, cut into 1 ½-inch pieces.)"
+    },
+    {
+      "name": "1 red bell pepper (seeded, cut into 1 ½-Inch pieces)"
+    },
+    {
+      "name": "1 yellow bell pepper (seeded, cut into 1 ½-inch pieces)"
+    },
+    {
+      "name": "1 red onion (cut into 1 ½-inch chunks)"
+    },
+    {
+      "name": "1 zucchini (sliced)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -88,16 +114,16 @@
     }
   ],
   "nutrition": {
-    "calories": "135 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "11 g",
-    "cholesterolContent": "24 mg",
-    "fatContent": "6 g",
-    "fiberContent": "3 g",
-    "proteinContent": "10 g",
-    "saturatedFatContent": "1 g",
-    "sodiumContent": "460 mg",
-    "sugarContent": "6 g"
+    "calories": 135,
+    "carbohydrateContent": 11,
+    "cholesterolContent": 24,
+    "fatContent": 6,
+    "fiberContent": 3,
+    "proteinContent": 10,
+    "saturatedFatContent": 1,
+    "sodiumContent": 460,
+    "sugarContent": 6
   },
   "aggregateRating": {
     "reviewCount": 7,

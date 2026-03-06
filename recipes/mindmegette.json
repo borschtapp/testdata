@@ -34,16 +34,32 @@
     "répa",
     "cékla"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "6 db Burgonya",
-    "2 db Cékla",
-    "8 db répa",
-    "4 db Lilahagyma",
-    "6 gerezd Fokhagyma",
-    "friss rozmaring",
-    "Só",
-    "Bors"
+    {
+      "name": "6 db Burgonya"
+    },
+    {
+      "name": "2 db Cékla"
+    },
+    {
+      "name": "8 db répa"
+    },
+    {
+      "name": "4 db Lilahagyma"
+    },
+    {
+      "name": "6 gerezd Fokhagyma"
+    },
+    {
+      "name": "friss rozmaring"
+    },
+    {
+      "name": "Só"
+    },
+    {
+      "name": "Bors"
+    }
   ],
   "recipeInstructions": [
     {

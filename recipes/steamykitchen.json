@@ -33,25 +33,59 @@
     "pho recipe",
     "vietnamese pho"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "3 pounds bone-in chicken (either a whole chicken or bone-in parts: breast or thigh)",
-    "1 tablespoon cooking oil",
-    "2 teaspoons of whole coriander seeds (not ground coriander)",
-    "2 star anise pods",
-    "2\" nub of ginger (peeled and sliced a few times)",
-    "1/2 onion",
-    "3 whole cloves garlic",
-    "3 tablespoons fish sauce",
-    "1 1/2 teaspoons sugar",
-    "1 package dried rice noodles (about 10-12 ounces, prepared according to package instructions, and drained)",
-    "1/2 onion (thinly sliced and soaked in cold water)",
-    "1 handful fresh cilantro (chopped)",
-    "few sprigs of Thai basil (or regular basil)",
-    "1 lime (in wedges)",
-    "1/2 pound fresh bean sprouts",
-    "1 jalapeno chile (sliced)",
-    "Sriracha and Hoisin Sauce"
+    {
+      "name": "3 pounds bone-in chicken (either a whole chicken or bone-in parts: breast or thigh)"
+    },
+    {
+      "name": "1 tablespoon cooking oil"
+    },
+    {
+      "name": "2 teaspoons of whole coriander seeds (not ground coriander)"
+    },
+    {
+      "name": "2 star anise pods"
+    },
+    {
+      "name": "2\" nub of ginger (peeled and sliced a few times)"
+    },
+    {
+      "name": "1/2 onion"
+    },
+    {
+      "name": "3 whole cloves garlic"
+    },
+    {
+      "name": "3 tablespoons fish sauce"
+    },
+    {
+      "name": "1 1/2 teaspoons sugar"
+    },
+    {
+      "name": "1 package dried rice noodles (about 10-12 ounces, prepared according to package instructions, and drained)"
+    },
+    {
+      "name": "1/2 onion (thinly sliced and soaked in cold water)"
+    },
+    {
+      "name": "1 handful fresh cilantro (chopped)"
+    },
+    {
+      "name": "few sprigs of Thai basil (or regular basil)"
+    },
+    {
+      "name": "1 lime (in wedges)"
+    },
+    {
+      "name": "1/2 pound fresh bean sprouts"
+    },
+    {
+      "name": "1 jalapeno chile (sliced)"
+    },
+    {
+      "name": "Sriracha and Hoisin Sauce"
+    }
   ],
   "recipeInstructions": [
     {

@@ -38,17 +38,35 @@
   "recipeCuisine": [
     "Indian"
   ],
-  "recipeYield": 1,
+  "recipeYield": "1",
   "recipeIngredient": [
-    "3 Eggs",
-    "20 grams Cheese",
-    "20 grams Red onion",
-    "1 Tbsp Heavy Whipping Cream ( Order online )",
-    "1/2 Tsp Tumeric ( Order online )",
-    "1/2 Tsp Kashmiri Red Chilli Powder ( Order online )",
-    "1 Tbsp Ghee",
-    "salt and pepper to taste",
-    "1 Tsp Coriander"
+    {
+      "name": "3 Eggs"
+    },
+    {
+      "name": "20 grams Cheese"
+    },
+    {
+      "name": "20 grams Red onion"
+    },
+    {
+      "name": "1 Tbsp Heavy Whipping Cream ( Order online )"
+    },
+    {
+      "name": "1/2 Tsp Tumeric ( Order online )"
+    },
+    {
+      "name": "1/2 Tsp Kashmiri Red Chilli Powder ( Order online )"
+    },
+    {
+      "name": "1 Tbsp Ghee"
+    },
+    {
+      "name": "salt and pepper to taste"
+    },
+    {
+      "name": "1 Tsp Coriander"
+    }
   ],
   "recipeInstructions": [
     {

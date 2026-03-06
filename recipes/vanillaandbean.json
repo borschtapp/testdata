@@ -44,17 +44,35 @@
     "Sourdough Bread",
     "Sourdough Sandwich Bread"
   ],
-  "recipeYield": 1,
+  "recipeYield": "1",
   "recipeIngredient": [
-    "1 C (100g) Whole Rolled Oats (plus 2 Tbs for the top)",
-    "1/2 C (105g) Water (room temperature)",
-    "3/4 C (150g) Sourdough Starter (100% hydration, previously feed and bubbly)",
-    "1 C (230g) Milk ((nut milk or whole dairy milk) I use 1/2 diluted unsweetened cashew milk - 80F (26C))",
-    "1/4 C (80g) Maple Syrup",
-    "1 Tbs (14g) Olive Oil ( + more for oiling the pan)",
-    "1/2 C + 1 Tbs (100g) Whole Wheat Bread Flour ((see note**) or whole wheat flour)",
-    "2 C + 3 1/2 Tbs (300g) Bread Flour",
-    "1 1/2 tsp (10g) Fine Sea Salt"
+    {
+      "name": "1 C (100g) Whole Rolled Oats (plus 2 Tbs for the top)"
+    },
+    {
+      "name": "1/2 C (105g) Water (room temperature)"
+    },
+    {
+      "name": "3/4 C (150g) Sourdough Starter (100% hydration, previously feed and bubbly)"
+    },
+    {
+      "name": "1 C (230g) Milk ((nut milk or whole dairy milk) I use 1/2 diluted unsweetened cashew milk - 80F (26C))"
+    },
+    {
+      "name": "1/4 C (80g) Maple Syrup"
+    },
+    {
+      "name": "1 Tbs (14g) Olive Oil ( + more for oiling the pan)"
+    },
+    {
+      "name": "1/2 C + 1 Tbs (100g) Whole Wheat Bread Flour ((see note**) or whole wheat flour)"
+    },
+    {
+      "name": "2 C + 3 1/2 Tbs (300g) Bread Flour"
+    },
+    {
+      "name": "1 1/2 tsp (10g) Fine Sea Salt"
+    }
   ],
   "recipeInstructions": [
     {
@@ -105,15 +123,15 @@
     }
   ],
   "nutrition": {
-    "calories": "2303 kcal",
     "servingSize": "1 loaf |",
-    "carbohydrateContent": "441 g",
-    "fatContent": "30 g",
-    "fiberContent": "29 g",
-    "proteinContent": "66 g",
-    "saturatedFatContent": "4 g",
-    "sodiumContent": "4061 mg",
-    "sugarContent": "50 g"
+    "calories": 2303,
+    "carbohydrateContent": 441,
+    "fatContent": 30,
+    "fiberContent": 29,
+    "proteinContent": 66,
+    "saturatedFatContent": 4,
+    "sodiumContent": 4061,
+    "sugarContent": 50
   },
   "aggregateRating": {
     "reviewCount": 5,

@@ -38,23 +38,57 @@
   ],
   "recipeYield": 2,
   "recipeIngredient": [
-    "soy sauce",
-    "finely chopped tomatoes",
-    "cheddar cheese",
-    "garlic clove",
-    "dried basil",
-    "brown onion",
-    "beef mince",
-    "basil",
-    "tomato paste",
-    "dried oregano",
-    "Henderson's Relish",
-    "carrot",
-    "spaghetti",
-    "beef stock mix",
-    "Olive oil",
-    "Pepper",
-    "Salt"
+    {
+      "name": "soy sauce"
+    },
+    {
+      "name": "finely chopped tomatoes"
+    },
+    {
+      "name": "cheddar cheese"
+    },
+    {
+      "name": "garlic clove"
+    },
+    {
+      "name": "dried basil"
+    },
+    {
+      "name": "brown onion"
+    },
+    {
+      "name": "beef mince"
+    },
+    {
+      "name": "basil"
+    },
+    {
+      "name": "tomato paste"
+    },
+    {
+      "name": "dried oregano"
+    },
+    {
+      "name": "Henderson's Relish"
+    },
+    {
+      "name": "carrot"
+    },
+    {
+      "name": "spaghetti"
+    },
+    {
+      "name": "beef stock mix"
+    },
+    {
+      "name": "Olive oil"
+    },
+    {
+      "name": "Pepper"
+    },
+    {
+      "name": "Salt"
+    }
   ],
   "recipeInstructions": [
     {

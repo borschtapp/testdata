@@ -22,19 +22,41 @@
   "prepTime": "PT2H30M",
   "cookTime": "PT20M",
   "totalTime": "PT2H50M",
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "4 tablespoons olive oil (divided)",
-    "2 tablespoons freshly squeezed lemon juice",
-    "1 tablespoon lemon zest",
-    "1 teaspoon paprika",
-    "2 teaspoons dried oregano",
-    "2 teaspoons dried basil",
-    "1 teaspoon dried thyme",
-    "3 cloves garlic (minced)",
-    "1 shallot (diced)",
-    "Kosher salt and freshly ground black pepper (to taste)",
-    "2 pounds boneless, skinless chicken thighs (cut into 1-inch chunks)"
+    {
+      "name": "4 tablespoons olive oil (divided)"
+    },
+    {
+      "name": "2 tablespoons freshly squeezed lemon juice"
+    },
+    {
+      "name": "1 tablespoon lemon zest"
+    },
+    {
+      "name": "1 teaspoon paprika"
+    },
+    {
+      "name": "2 teaspoons dried oregano"
+    },
+    {
+      "name": "2 teaspoons dried basil"
+    },
+    {
+      "name": "1 teaspoon dried thyme"
+    },
+    {
+      "name": "3 cloves garlic (minced)"
+    },
+    {
+      "name": "1 shallot (diced)"
+    },
+    {
+      "name": "Kosher salt and freshly ground black pepper (to taste)"
+    },
+    {
+      "name": "2 pounds boneless, skinless chicken thighs (cut into 1-inch chunks)"
+    }
   ],
   "recipeInstructions": [
     {

@@ -40,34 +40,86 @@
   "keywords": [
     "Barbacoa Burrito Bowl"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "1 boneless 2-3 pound chuck roast ( trimmed and cut into fist-size chunks)",
-    "Salt and pepper",
-    "1 medium white or yellow onion diced",
-    "3 tablespoons vegetable oil",
-    "1-6 cups beef or chicken broth",
-    "1/4 cup lime juice",
-    "1/4 cup apple cider vinegar",
-    "2 chipotle peppers in adobo sauce minced (optional)",
-    "1 tablespoon ground cumin",
-    "1 tablespoon dried oregano",
-    "1/4 teaspoon ground cloves optional",
-    "3/4 teaspoon salt",
-    "3 bay leaves",
-    "Juice from 1 lime (about 2 tablespoons)",
-    "Scant 2 cups chicken broth",
-    "1 cup long-grain rice",
-    "Zest from 1 lime (divided)",
-    "1 tablespoon (14g) butter (salted or unsalted is fine)",
-    "1/4 teaspoon salt",
-    "1/4 cup chopped loosely packed cilantro (divided)",
-    "1 15-ounce can black beans (rinsed, drained, and warmed)",
-    "1 15- 15-ounce can corn (drained and warmed)",
-    "1/2 cup (2oz) shredded Mexican-blend cheese",
-    "1 cup pico de gallo",
-    "1/2 cup guacamole",
-    "1/4 cup sour cream"
+    {
+      "name": "1 boneless 2-3 pound chuck roast ( trimmed and cut into fist-size chunks)"
+    },
+    {
+      "name": "Salt and pepper"
+    },
+    {
+      "name": "1 medium white or yellow onion diced"
+    },
+    {
+      "name": "3 tablespoons vegetable oil"
+    },
+    {
+      "name": "1-6 cups beef or chicken broth"
+    },
+    {
+      "name": "1/4 cup lime juice"
+    },
+    {
+      "name": "1/4 cup apple cider vinegar"
+    },
+    {
+      "name": "2 chipotle peppers in adobo sauce minced (optional)"
+    },
+    {
+      "name": "1 tablespoon ground cumin"
+    },
+    {
+      "name": "1 tablespoon dried oregano"
+    },
+    {
+      "name": "1/4 teaspoon ground cloves optional"
+    },
+    {
+      "name": "3/4 teaspoon salt"
+    },
+    {
+      "name": "3 bay leaves"
+    },
+    {
+      "name": "Juice from 1 lime (about 2 tablespoons)"
+    },
+    {
+      "name": "Scant 2 cups chicken broth"
+    },
+    {
+      "name": "1 cup long-grain rice"
+    },
+    {
+      "name": "Zest from 1 lime (divided)"
+    },
+    {
+      "name": "1 tablespoon (14g) butter (salted or unsalted is fine)"
+    },
+    {
+      "name": "1/4 teaspoon salt"
+    },
+    {
+      "name": "1/4 cup chopped loosely packed cilantro (divided)"
+    },
+    {
+      "name": "1 15-ounce can black beans (rinsed, drained, and warmed)"
+    },
+    {
+      "name": "1 15- 15-ounce can corn (drained and warmed)"
+    },
+    {
+      "name": "1/2 cup (2oz) shredded Mexican-blend cheese"
+    },
+    {
+      "name": "1 cup pico de gallo"
+    },
+    {
+      "name": "1/2 cup guacamole"
+    },
+    {
+      "name": "1/4 cup sour cream"
+    }
   ],
   "recipeInstructions": [
     {
@@ -142,8 +194,8 @@
     }
   ],
   "nutrition": {
-    "calories": "824 kcal",
-    "servingSize": "1 serving"
+    "servingSize": "1 serving",
+    "calories": 824
   },
   "datePublished": "2020-12-14T01:00:18Z"
 }

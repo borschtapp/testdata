@@ -42,21 +42,47 @@
     "buttermilk",
     "sourdough"
   ],
-  "recipeYield": 16,
+  "recipeYield": "16",
   "recipeIngredient": [
-    "2 large eggs (room temperature)",
-    "2 large yolks (room temperature)",
-    "1 tablespoon vanilla extract",
-    "8 oz sourdough discard (1 cup, room temperature)",
-    "9 oz cake flour (2 cups, see note)",
-    "11 oz granulated sugar (1 1/3 cups)",
-    "2 teaspoons baking powder",
-    "1/2 teaspoon table salt",
-    "6 oz unsalted butter (room temperature, cut into 1\" chunks)",
-    "4 oz buttermilk (1/2 cup, room temperature)",
-    "8 oz confectioner's sugar (2 cups)",
-    "1 teaspoon vanilla",
-    "2 oz buttermilk (1/4 cup)"
+    {
+      "name": "2 large eggs (room temperature)"
+    },
+    {
+      "name": "2 large yolks (room temperature)"
+    },
+    {
+      "name": "1 tablespoon vanilla extract"
+    },
+    {
+      "name": "8 oz sourdough discard (1 cup, room temperature)"
+    },
+    {
+      "name": "9 oz cake flour (2 cups, see note)"
+    },
+    {
+      "name": "11 oz granulated sugar (1 1/3 cups)"
+    },
+    {
+      "name": "2 teaspoons baking powder"
+    },
+    {
+      "name": "1/2 teaspoon table salt"
+    },
+    {
+      "name": "6 oz unsalted butter (room temperature, cut into 1\" chunks)"
+    },
+    {
+      "name": "4 oz buttermilk (1/2 cup, room temperature)"
+    },
+    {
+      "name": "8 oz confectioner's sugar (2 cups)"
+    },
+    {
+      "name": "1 teaspoon vanilla"
+    },
+    {
+      "name": "2 oz buttermilk (1/4 cup)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -111,18 +137,18 @@
     }
   ],
   "nutrition": {
-    "calories": "247 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "49 g",
-    "cholesterolContent": "69 mg",
-    "fatContent": "10 g",
-    "fiberContent": "1 g",
-    "proteinContent": "4 g",
-    "saturatedFatContent": "6 g",
-    "sodiumContent": "148 mg",
-    "sugarContent": "20 g",
-    "transFatContent": "1 g",
-    "unsaturatedFatContent": "4 g"
+    "calories": 247,
+    "carbohydrateContent": 49,
+    "cholesterolContent": 69,
+    "fatContent": 10,
+    "fiberContent": 1,
+    "proteinContent": 4,
+    "saturatedFatContent": 6,
+    "sodiumContent": 148,
+    "sugarContent": 20,
+    "transFatContent": 1,
+    "unsaturatedFatContent": 4
   },
   "aggregateRating": {
     "reviewCount": 2,

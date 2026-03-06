@@ -44,19 +44,41 @@
     "meal prep",
     "Vegan Dinner"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "2 Tbsp olive oil ($0.24)",
-    "2 cloves garlic ($0.16)",
-    "1 tsp grated fresh ginger ($0.10)",
-    "1 small yellow onion ($0.21)",
-    "1 Tbsp curry powder* ($0.30)",
-    "1 cup brown lentils (dry) ($0.67)",
-    "2 cups vegetable broth** ($0.26)",
-    "1 13oz. can coconut milk ($1.99)",
-    "3 cups fresh baby spinach ($1.61)",
-    "4 cups cooked rice ($0.60)",
-    "1/4 cup chopped fresh cilantro ($0.15)"
+    {
+      "name": "2 Tbsp olive oil ($0.24)"
+    },
+    {
+      "name": "2 cloves garlic ($0.16)"
+    },
+    {
+      "name": "1 tsp grated fresh ginger ($0.10)"
+    },
+    {
+      "name": "1 small yellow onion ($0.21)"
+    },
+    {
+      "name": "1 Tbsp curry powder* ($0.30)"
+    },
+    {
+      "name": "1 cup brown lentils (dry) ($0.67)"
+    },
+    {
+      "name": "2 cups vegetable broth** ($0.26)"
+    },
+    {
+      "name": "1 13oz. can coconut milk ($1.99)"
+    },
+    {
+      "name": "3 cups fresh baby spinach ($1.61)"
+    },
+    {
+      "name": "4 cups cooked rice ($0.60)"
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro ($0.15)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -85,13 +107,13 @@
     }
   ],
   "nutrition": {
-    "calories": "494.13 kcal",
     "servingSize": "1.25 Cups",
-    "carbohydrateContent": "83.93 g",
-    "fatContent": "8.18 g",
-    "fiberContent": "8 g",
-    "proteinContent": "17.83 g",
-    "sodiumContent": "844.08 mg"
+    "calories": 494.13,
+    "carbohydrateContent": 83.93,
+    "fatContent": 8.18,
+    "fiberContent": 8,
+    "proteinContent": 17.83,
+    "sodiumContent": 844.08
   },
   "aggregateRating": {
     "reviewCount": 13,

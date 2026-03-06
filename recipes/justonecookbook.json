@@ -40,16 +40,32 @@
   "keywords": [
     "japanese rice"
   ],
-  "recipeYield": 9,
+  "recipeYield": "9",
   "recipeIngredient": [
-    "2¼ cups uncooked Japanese short-grain white rice",
-    "2½ cups water ((or 1⅔ cups (400 ml) for 2 rice cooker cups))",
-    "3 Tbsp soy sauce ((or 2 Tbsp for 2 rice cooker cups))",
-    "1 Tbsp sugar ((or 2 tsp for 2 rice cooker cups))",
-    "1 Tbsp toasted sesame oil ((or 2 tsp for 2 rice cooker cups))",
-    "¼ tsp Diamond Crystal kosher salt ((or ⅛ tsp for 2 rice cooker cups))",
-    "1 Tbsp soy sauce",
-    "1 tsp toasted sesame oil"
+    {
+      "name": "2¼ cups uncooked Japanese short-grain white rice"
+    },
+    {
+      "name": "2½ cups water ((or 1⅔ cups (400 ml) for 2 rice cooker cups))"
+    },
+    {
+      "name": "3 Tbsp soy sauce ((or 2 Tbsp for 2 rice cooker cups))"
+    },
+    {
+      "name": "1 Tbsp sugar ((or 2 tsp for 2 rice cooker cups))"
+    },
+    {
+      "name": "1 Tbsp toasted sesame oil ((or 2 tsp for 2 rice cooker cups))"
+    },
+    {
+      "name": "¼ tsp Diamond Crystal kosher salt ((or ⅛ tsp for 2 rice cooker cups))"
+    },
+    {
+      "name": "1 Tbsp soy sauce"
+    },
+    {
+      "name": "1 tsp toasted sesame oil"
+    }
   ],
   "recipeInstructions": [
     {
@@ -198,16 +214,16 @@
     }
   ],
   "nutrition": {
-    "calories": "207 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "42 g",
-    "fatContent": "2 g",
-    "fiberContent": "1 g",
-    "proteinContent": "4 g",
-    "saturatedFatContent": "0.3 g",
-    "sodiumContent": "420 mg",
-    "sugarContent": "1 g",
-    "unsaturatedFatContent": "2 g"
+    "calories": 207,
+    "carbohydrateContent": 42,
+    "fatContent": 2,
+    "fiberContent": 1,
+    "proteinContent": 4,
+    "saturatedFatContent": 0.3,
+    "sodiumContent": 420,
+    "sugarContent": 1,
+    "unsaturatedFatContent": 2
   },
   "aggregateRating": {
     "reviewCount": 8,

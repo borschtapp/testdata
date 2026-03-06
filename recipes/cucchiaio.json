@@ -29,21 +29,47 @@
     "Pesce spada al miele millefiori",
     "pomodorini e patatine novelle"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4 porzioni",
   "recipeIngredient": [
-    "4 fette di pesce spada di circa 200 g l'una",
-    "20 patatine novelle",
-    "1 spicchio d'aglio",
-    "1 grappolo di pomodorini",
-    "2 cucchiai di pinoli tostati",
-    "4-5 cucchiaini di miele millefiori",
-    "1 bicchiere di aceto di vino",
-    "foglioline di mirto",
-    "prezzemolo",
-    "erba cipollina",
-    "olio extravergine di oliva",
-    "sale",
-    "pepe"
+    {
+      "name": "4 fette di pesce spada di circa 200 g l'una"
+    },
+    {
+      "name": "20 patatine novelle"
+    },
+    {
+      "name": "1 spicchio d'aglio"
+    },
+    {
+      "name": "1 grappolo di pomodorini"
+    },
+    {
+      "name": "2 cucchiai di pinoli tostati"
+    },
+    {
+      "name": "4-5 cucchiaini di miele millefiori"
+    },
+    {
+      "name": "1 bicchiere di aceto di vino"
+    },
+    {
+      "name": "foglioline di mirto"
+    },
+    {
+      "name": "prezzemolo"
+    },
+    {
+      "name": "erba cipollina"
+    },
+    {
+      "name": "olio extravergine di oliva"
+    },
+    {
+      "name": "sale"
+    },
+    {
+      "name": "pepe"
+    }
   ],
   "recipeInstructions": [
     {

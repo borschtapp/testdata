@@ -42,17 +42,35 @@
     "How to cook ahi tuna",
     "Seared ahi tuna medium rare"
   ],
-  "recipeYield": 2,
+  "recipeYield": "2",
   "recipeIngredient": [
-    "2 ahi tuna (yellowfin tuna) steaks ((about 4 oz. each, 1\" thick - see notes for thinner or thicker))",
-    "2 tablespoons soy sauce (preferably low sodium, see notes)",
-    "1 tablespoon toasted sesame oil (see notes)",
-    "1 tablespoon honey (see notes)",
-    "½ teaspoon kosher salt (optional, see notes)",
-    "1/4 teaspoon black pepper (to taste)",
-    "1/4 teaspoon cayenne pepper ((optional))",
-    "1 tablespoon oil (canola, olive, or other high-heat cooking oil of preference)",
-    "green onions, toasted sesame seeds, and lime wedges (for serving (optional))"
+    {
+      "name": "2 ahi tuna (yellowfin tuna) steaks ((about 4 oz. each, 1\" thick - see notes for thinner or thicker))"
+    },
+    {
+      "name": "2 tablespoons soy sauce (preferably low sodium, see notes)"
+    },
+    {
+      "name": "1 tablespoon toasted sesame oil (see notes)"
+    },
+    {
+      "name": "1 tablespoon honey (see notes)"
+    },
+    {
+      "name": "½ teaspoon kosher salt (optional, see notes)"
+    },
+    {
+      "name": "1/4 teaspoon black pepper (to taste)"
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper ((optional))"
+    },
+    {
+      "name": "1 tablespoon oil (canola, olive, or other high-heat cooking oil of preference)"
+    },
+    {
+      "name": "green onions, toasted sesame seeds, and lime wedges (for serving (optional))"
+    }
   ],
   "recipeInstructions": [
     {
@@ -77,16 +95,16 @@
     }
   ],
   "nutrition": {
-    "calories": "331 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "10 g",
-    "cholesterolContent": "43 mg",
-    "fatContent": "20 g",
-    "fiberContent": "1 g",
-    "proteinContent": "28 g",
-    "saturatedFatContent": "3 g",
-    "sodiumContent": "1632 mg",
-    "sugarContent": "9 g"
+    "calories": 331,
+    "carbohydrateContent": 10,
+    "cholesterolContent": 43,
+    "fatContent": 20,
+    "fiberContent": 1,
+    "proteinContent": 28,
+    "saturatedFatContent": 3,
+    "sodiumContent": 1632,
+    "sugarContent": 9
   },
   "aggregateRating": {
     "reviewCount": 8,

@@ -48,21 +48,47 @@
     "TOTALTIME: 01:10:00",
     "FILTERTIME: \u003e1HR"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4 - 6 serving(s)",
   "recipeIngredient": [
-    "1 lb. mixed mushrooms (such as cremini, beech, or shiitake), roughly chopped 4 slices bacon, sliced",
-    "4 slices bacon, sliced",
-    "3 large eggs",
-    "1 clove garlic, chopped",
-    "3/4 c. whole milk",
-    "3 tbsp. unsalted butter, melted, divided",
-    "1/2 c. all-purpose flour, spooned and leveled",
-    "2 tbsp. cornstarch",
-    "Kosher salt",
-    "1 tbsp. fresh thyme",
-    "2 oz. fontina or Cheddar cheese, grated (about 1/2 cup)",
-    "1 scallion, thinly sliced",
-    "2 tbsp. chopped flat-leaf parsley"
+    {
+      "name": "1 lb. mixed mushrooms (such as cremini, beech, or shiitake), roughly chopped 4 slices bacon, sliced"
+    },
+    {
+      "name": "4 slices bacon, sliced"
+    },
+    {
+      "name": "3 large eggs"
+    },
+    {
+      "name": "1 clove garlic, chopped"
+    },
+    {
+      "name": "3/4 c. whole milk"
+    },
+    {
+      "name": "3 tbsp. unsalted butter, melted, divided"
+    },
+    {
+      "name": "1/2 c. all-purpose flour, spooned and leveled"
+    },
+    {
+      "name": "2 tbsp. cornstarch"
+    },
+    {
+      "name": "Kosher salt"
+    },
+    {
+      "name": "1 tbsp. fresh thyme"
+    },
+    {
+      "name": "2 oz. fontina or Cheddar cheese, grated (about 1/2 cup)"
+    },
+    {
+      "name": "1 scallion, thinly sliced"
+    },
+    {
+      "name": "2 tbsp. chopped flat-leaf parsley"
+    }
   ],
   "recipeInstructions": [
     {

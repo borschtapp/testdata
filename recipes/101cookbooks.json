@@ -35,16 +35,32 @@
     "citrus",
     "gin"
   ],
-  "recipeYield": 1,
+  "recipeYield": "1",
   "recipeIngredient": [
-    "2 cups / 480 ml water",
-    "1 cup / 6.5 oz / 185 g sugar",
-    "4 tablespoons (~2 sprigs-worth) fresh rosemary leaves",
-    "1 bay leaf (optional)",
-    "blood oranges",
-    "gin",
-    "ice cubes",
-    "tonic water (or sparkling water)"
+    {
+      "name": "2 cups / 480 ml water"
+    },
+    {
+      "name": "1 cup / 6.5 oz / 185 g sugar"
+    },
+    {
+      "name": "4 tablespoons (~2 sprigs-worth) fresh rosemary leaves"
+    },
+    {
+      "name": "1 bay leaf (optional)"
+    },
+    {
+      "name": "blood oranges"
+    },
+    {
+      "name": "gin"
+    },
+    {
+      "name": "ice cubes"
+    },
+    {
+      "name": "tonic water (or sparkling water)"
+    }
   ],
   "recipeInstructions": [
     {

@@ -1,5 +1,5 @@
 {
-  "url": "https://sunbasket.com/recipe/lemongrass-turkey-salad-with-rice-noodles-and-pear",
+  "url": "file://E:/borscht/krip/testdata/websites/sunbasket.html",
   "name": "Lemongrass-turkey salad with rice noodles and pear",
   "description": "Our custom lemongrass paste transforms simple ingredients into a Thai-inspired noodle salad. It’s refreshing, light, and as inviting to look at as it is to eat.",
   "inLanguage": "en",
@@ -15,16 +15,32 @@
     "logo": "https://sunbasket.com/resources/img/logo.svg"
   },
   "cookTime": "PT15M",
-  "recipeYield": 2,
+  "recipeYield": "2",
   "recipeIngredient": [
-    "10 ounces ground turkey",
-    "5 ounces flat rice noodles",
-    "Sunbasket lemongrass paste (lemongrass - extra virgin olive oil - garlic - ginger - turmeric)",
-    "3 or 4 organic radishes (about ¼ pound total)",
-    "1 organic Asian or other pear",
-    "4 or 5 sprigs organic fresh mint",
-    "Sunbasket Thai dressing base (maple syrup - lime juice - fish sauce)",
-    "3 ounces organic baby kale or other leafy greens"
+    {
+      "name": "10 ounces ground turkey"
+    },
+    {
+      "name": "5 ounces flat rice noodles"
+    },
+    {
+      "name": "Sunbasket lemongrass paste (lemongrass - extra virgin olive oil - garlic - ginger - turmeric)"
+    },
+    {
+      "name": "3 or 4 organic radishes (about ¼ pound total)"
+    },
+    {
+      "name": "1 organic Asian or other pear"
+    },
+    {
+      "name": "4 or 5 sprigs organic fresh mint"
+    },
+    {
+      "name": "Sunbasket Thai dressing base (maple syrup - lime juice - fish sauce)"
+    },
+    {
+      "name": "3 ounces organic baby kale or other leafy greens"
+    }
   ],
   "recipeInstructions": [
     {
@@ -45,14 +61,14 @@
     }
   ],
   "nutrition": {
-    "calories": "760",
-    "cholesterolContent": "75mg",
-    "fatContent": "34g",
-    "fiberContent": "7g",
-    "proteinContent": "31g",
-    "saturatedFatContent": "6g",
-    "sodiumContent": "900mg",
-    "sugarContent": "15g"
+    "calories": 760,
+    "cholesterolContent": 75,
+    "fatContent": 34,
+    "fiberContent": 7,
+    "proteinContent": 31,
+    "saturatedFatContent": 6,
+    "sodiumContent": 900,
+    "sugarContent": 15
   },
   "aggregateRating": {
     "ratingCount": 1340,

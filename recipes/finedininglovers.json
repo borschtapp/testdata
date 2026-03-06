@@ -23,26 +23,62 @@
   "recipeCategory": [
     "Main Course"
   ],
-  "recipeYield": 1,
+  "recipeYield": "1",
   "recipeIngredient": [
-    "Zucchini",
-    "Basil",
-    "Pine nuts",
-    "Extra virgin olive oil",
-    "Yeast flakes",
-    "Garlic",
-    "Salt",
-    "Tomatoes",
-    "Sun dried tomatoes",
-    "Extra virgin olive oil",
-    "Salt",
-    "Pepper",
-    "Brown sugar",
-    "Oregano",
-    "Macadamia nuts",
-    "Yeast flakes",
-    "Salt",
-    "Limes"
+    {
+      "name": "Zucchini"
+    },
+    {
+      "name": "Basil"
+    },
+    {
+      "name": "Pine nuts"
+    },
+    {
+      "name": "Extra virgin olive oil"
+    },
+    {
+      "name": "Yeast flakes"
+    },
+    {
+      "name": "Garlic"
+    },
+    {
+      "name": "Salt"
+    },
+    {
+      "name": "Tomatoes"
+    },
+    {
+      "name": "Sun dried tomatoes"
+    },
+    {
+      "name": "Extra virgin olive oil"
+    },
+    {
+      "name": "Salt"
+    },
+    {
+      "name": "Pepper"
+    },
+    {
+      "name": "Brown sugar"
+    },
+    {
+      "name": "Oregano"
+    },
+    {
+      "name": "Macadamia nuts"
+    },
+    {
+      "name": "Yeast flakes"
+    },
+    {
+      "name": "Salt"
+    },
+    {
+      "name": "Limes"
+    }
   ],
   "recipeInstructions": [
     {

@@ -30,18 +30,38 @@
   "keywords": [
     "#healthyrecipe"
   ],
-  "recipeYield": 8,
+  "recipeYield": "8",
   "recipeIngredient": [
-    "3 Pounds Yukon Gold Potatoes ((Or a small white potato))",
-    "2/3 Cup Sherry or Apple Cider Vinegar",
-    "1/2 Cup dijon mustard",
-    "1/2 Cup Bread and Butter Pickles",
-    "1/4 Cup olive oil",
-    "4 Tablespoons capers ((Plus a splash of brine))",
-    "2 Teaspoons salt",
-    "1/2 Cup Fresh Parsley",
-    "1/4 Cup scallions",
-    "1 Sprig Fresh Rosemary"
+    {
+      "name": "3 Pounds Yukon Gold Potatoes ((Or a small white potato))"
+    },
+    {
+      "name": "2/3 Cup Sherry or Apple Cider Vinegar"
+    },
+    {
+      "name": "1/2 Cup dijon mustard"
+    },
+    {
+      "name": "1/2 Cup Bread and Butter Pickles"
+    },
+    {
+      "name": "1/4 Cup olive oil"
+    },
+    {
+      "name": "4 Tablespoons capers ((Plus a splash of brine))"
+    },
+    {
+      "name": "2 Teaspoons salt"
+    },
+    {
+      "name": "1/2 Cup Fresh Parsley"
+    },
+    {
+      "name": "1/4 Cup scallions"
+    },
+    {
+      "name": "1 Sprig Fresh Rosemary"
+    }
   ],
   "recipeInstructions": [
     {
@@ -58,8 +78,8 @@
     }
   ],
   "nutrition": {
-    "calories": "222 kcal",
-    "servingSize": "8 People"
+    "servingSize": "8 People",
+    "calories": 222
   },
   "aggregateRating": {
     "ratingCount": 2,

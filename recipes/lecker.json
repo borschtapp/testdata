@@ -48,18 +48,38 @@
     "Mittagessen",
     "Abendbrot"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "1 Brokkoli",
-    "150 g Zuckerschoten",
-    "2 Lauchzwiebeln",
-    "Salz",
-    "4 kleine Hähnchenbrustfilets (à ca. 140 g)",
-    "2 EL Sonnenblumenöl",
-    "4 EL Sojasoße",
-    "50 ml Gemüsebrühe",
-    "6 Stiele Koriander",
-    "1 EL Sesamsaat"
+    {
+      "name": "1 Brokkoli"
+    },
+    {
+      "name": "150 g Zuckerschoten"
+    },
+    {
+      "name": "2 Lauchzwiebeln"
+    },
+    {
+      "name": "Salz"
+    },
+    {
+      "name": "4 kleine Hähnchenbrustfilets (à ca. 140 g)"
+    },
+    {
+      "name": "2 EL Sonnenblumenöl"
+    },
+    {
+      "name": "4 EL Sojasoße"
+    },
+    {
+      "name": "50 ml Gemüsebrühe"
+    },
+    {
+      "name": "6 Stiele Koriander"
+    },
+    {
+      "name": "1 EL Sesamsaat"
+    }
   ],
   "recipeInstructions": [
     {
@@ -84,11 +104,11 @@
     }
   ],
   "nutrition": {
-    "calories": "260 kcal",
     "servingSize": "1 Portion",
-    "carbohydrateContent": "7 g",
-    "fatContent": "7 g",
-    "proteinContent": "38 g"
+    "calories": 260,
+    "carbohydrateContent": 7,
+    "fatContent": 7,
+    "proteinContent": 38
   },
   "aggregateRating": {
     "ratingCount": 99,

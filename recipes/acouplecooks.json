@@ -44,14 +44,26 @@
   "keywords": [
     "Garlic Butter Shrimp"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "1 pound large shrimp, deveined (peeled or unpeeled)",
-    "3 garlic cloves",
-    "1/2 teaspoon kosher salt",
-    "3 tablespoons butter",
-    "2 lemon wedges",
-    "Fresh cilantro or parsley, for garnish"
+    {
+      "name": "1 pound large shrimp, deveined (peeled or unpeeled)"
+    },
+    {
+      "name": "3 garlic cloves"
+    },
+    {
+      "name": "1/2 teaspoon kosher salt"
+    },
+    {
+      "name": "3 tablespoons butter"
+    },
+    {
+      "name": "2 lemon wedges"
+    },
+    {
+      "name": "Fresh cilantro or parsley, for garnish"
+    }
   ],
   "recipeInstructions": [
     {
@@ -76,15 +88,15 @@
     }
   ],
   "nutrition": {
-    "calories": "176 calories",
-    "carbohydrateContent": "0.8 g",
-    "cholesterolContent": "205.4 mg",
-    "fatContent": "9.2 g",
-    "fiberContent": "0 g",
-    "proteinContent": "23 g",
-    "saturatedFatContent": "5.5 g",
-    "sodiumContent": "427.1 mg",
-    "sugarContent": "0 g",
-    "transFatContent": "0 g"
+    "calories": 176,
+    "carbohydrateContent": 0.8,
+    "cholesterolContent": 205.4,
+    "fatContent": 9.2,
+    "fiberContent": 0,
+    "proteinContent": 23,
+    "saturatedFatContent": 5.5,
+    "sodiumContent": 427.1,
+    "sugarContent": 0,
+    "transFatContent": 0
   }
 }

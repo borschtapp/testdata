@@ -32,23 +32,53 @@
     "Summer Recipes",
     "zucchini"
   ],
-  "recipeYield": 20,
+  "recipeYield": "20",
   "recipeIngredient": [
-    "2 1/2 cups all-purpose flour",
-    "1/2 cup unsweetened cocoa powder",
-    "1 teaspoon salt",
-    "1 teaspoon baking soda",
-    "1/2 teaspoon baking powder",
-    "1 teaspoon ground cinnamon",
-    "1 cup coconut oil (melted)",
-    "2/3 cup granulated sugar",
-    "2/3 cup light brown sugar",
-    "1/2 cup sour cream",
-    "3 large eggs",
-    "2 teaspoons pure vanilla extract",
-    "2 1/2 cups grated zucchini",
-    "1 cup semi-sweet chocolate chips",
-    "3/4 cup shredded sweetened coconut"
+    {
+      "name": "2 1/2 cups all-purpose flour"
+    },
+    {
+      "name": "1/2 cup unsweetened cocoa powder"
+    },
+    {
+      "name": "1 teaspoon salt"
+    },
+    {
+      "name": "1 teaspoon baking soda"
+    },
+    {
+      "name": "1/2 teaspoon baking powder"
+    },
+    {
+      "name": "1 teaspoon ground cinnamon"
+    },
+    {
+      "name": "1 cup coconut oil (melted)"
+    },
+    {
+      "name": "2/3 cup granulated sugar"
+    },
+    {
+      "name": "2/3 cup light brown sugar"
+    },
+    {
+      "name": "1/2 cup sour cream"
+    },
+    {
+      "name": "3 large eggs"
+    },
+    {
+      "name": "2 teaspoons pure vanilla extract"
+    },
+    {
+      "name": "2 1/2 cups grated zucchini"
+    },
+    {
+      "name": "1 cup semi-sweet chocolate chips"
+    },
+    {
+      "name": "3/4 cup shredded sweetened coconut"
+    }
   ],
   "recipeInstructions": [
     {
@@ -81,18 +111,18 @@
     }
   ],
   "nutrition": {
-    "calories": "306 kcal",
     "servingSize": "1 slice",
-    "carbohydrateContent": "34 g",
-    "cholesterolContent": "28 mg",
-    "fatContent": "19 g",
-    "fiberContent": "3 g",
-    "proteinContent": "4 g",
-    "saturatedFatContent": "14 g",
-    "sodiumContent": "199 mg",
-    "sugarContent": "18 g",
-    "transFatContent": "0.01 g",
-    "unsaturatedFatContent": "3 g"
+    "calories": 306,
+    "carbohydrateContent": 34,
+    "cholesterolContent": 28,
+    "fatContent": 19,
+    "fiberContent": 3,
+    "proteinContent": 4,
+    "saturatedFatContent": 14,
+    "sodiumContent": 199,
+    "sugarContent": 18,
+    "transFatContent": 0.01,
+    "unsaturatedFatContent": 3
   },
   "aggregateRating": {
     "reviewCount": 3,

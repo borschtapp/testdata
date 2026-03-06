@@ -27,13 +27,23 @@
   "keywords": [
     "éclair bars"
   ],
-  "recipeYield": 24,
+  "recipeYield": "24",
   "recipeIngredient": [
-    "1 can (8 oz) refrigerated Pillsbury™ Original Crescent Dough Sheet",
-    "2 boxes (3.4 oz each) Jell-O™ vanilla-flavor instant pudding \u0026 pie filling mix",
-    "3 cups cold half-and-half",
-    "1 1/2 cups semisweet chocolate chips",
-    "3/4 cup heavy whipping cream"
+    {
+      "name": "1 can (8 oz) refrigerated Pillsbury™ Original Crescent Dough Sheet"
+    },
+    {
+      "name": "2 boxes (3.4 oz each) Jell-O™ vanilla-flavor instant pudding \u0026 pie filling mix"
+    },
+    {
+      "name": "3 cups cold half-and-half"
+    },
+    {
+      "name": "1 1/2 cups semisweet chocolate chips"
+    },
+    {
+      "name": "3/4 cup heavy whipping cream"
+    }
   ],
   "recipeInstructions": [
     {
@@ -53,17 +63,17 @@
     }
   ],
   "nutrition": {
-    "calories": "180 ",
     "servingSize": "1 Bar",
-    "carbohydrateContent": "21 g",
-    "cholesterolContent": "20 mg",
-    "fatContent": "2 ",
-    "fiberContent": "0 g",
-    "proteinContent": "2 g",
-    "saturatedFatContent": "6 g",
-    "sodiumContent": "210 mg",
-    "sugarContent": "14 g",
-    "transFatContent": "0 g"
+    "calories": 180,
+    "carbohydrateContent": 21,
+    "cholesterolContent": 20,
+    "fatContent": 2,
+    "fiberContent": 0,
+    "proteinContent": 2,
+    "saturatedFatContent": 6,
+    "sodiumContent": 210,
+    "sugarContent": 14,
+    "transFatContent": 0
   },
   "aggregateRating": {
     "ratingCount": 60,

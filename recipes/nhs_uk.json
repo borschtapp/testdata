@@ -13,19 +13,45 @@
     "url": "https://www.nhs.uk"
   },
   "recipeIngredient": [
-    "300g extra-lean minced beef",
-    "1 large onion, finely chopped",
-    "2 garlic cloves, finely chopped",
-    "400g chopped tomatoes",
-    "2 tablespoons tomato purée",
-    "2 teaspoons chilli powder",
-    "1 teaspoon ground cumin",
-    "1 red pepper, deseeded and chopped",
-    "2 handfuls of cup or button mushrooms, sliced",
-    "410g red kidney beans, drained",
-    "150ml reduced-salt vegetable or chicken stock",
-    "300g easy-cook white or brown rice",
-    "1 pinch ground black pepper"
+    {
+      "name": "300g extra-lean minced beef"
+    },
+    {
+      "name": "1 large onion, finely chopped"
+    },
+    {
+      "name": "2 garlic cloves, finely chopped"
+    },
+    {
+      "name": "400g chopped tomatoes"
+    },
+    {
+      "name": "2 tablespoons tomato purée"
+    },
+    {
+      "name": "2 teaspoons chilli powder"
+    },
+    {
+      "name": "1 teaspoon ground cumin"
+    },
+    {
+      "name": "1 red pepper, deseeded and chopped"
+    },
+    {
+      "name": "2 handfuls of cup or button mushrooms, sliced"
+    },
+    {
+      "name": "410g red kidney beans, drained"
+    },
+    {
+      "name": "150ml reduced-salt vegetable or chicken stock"
+    },
+    {
+      "name": "300g easy-cook white or brown rice"
+    },
+    {
+      "name": "1 pinch ground black pepper"
+    }
   ],
   "recipeInstructions": [
     {

@@ -42,23 +42,53 @@
     "Banana Pie",
     "Cream Pie Recipe"
   ],
-  "recipeYield": 8,
+  "recipeYield": "8",
   "recipeIngredient": [
-    "14 graham crackers (about 7 ounces)",
-    "6 tablespoons melted butter",
-    "1/4 cup sugar",
-    "Pinch salt",
-    "1/2 teaspoon cinnamon",
-    "1-2 teaspoons water",
-    "2 cups heavy cream (whipped firm and divided)",
-    "3 tablespoons sugar",
-    "1 teaspoon vanilla extract",
-    "1 box instant vanilla pudding ((3.4 ounces))",
-    "1 cup cold milk",
-    "8 ounces cream cheese",
-    "14 ounces sweetened condensed milk",
-    "4-5 ripe bananas",
-    "1/2 cup toasted coconut"
+    {
+      "name": "14 graham crackers (about 7 ounces)"
+    },
+    {
+      "name": "6 tablespoons melted butter"
+    },
+    {
+      "name": "1/4 cup sugar"
+    },
+    {
+      "name": "Pinch salt"
+    },
+    {
+      "name": "1/2 teaspoon cinnamon"
+    },
+    {
+      "name": "1-2 teaspoons water"
+    },
+    {
+      "name": "2 cups heavy cream (whipped firm and divided)"
+    },
+    {
+      "name": "3 tablespoons sugar"
+    },
+    {
+      "name": "1 teaspoon vanilla extract"
+    },
+    {
+      "name": "1 box instant vanilla pudding ((3.4 ounces))"
+    },
+    {
+      "name": "1 cup cold milk"
+    },
+    {
+      "name": "8 ounces cream cheese"
+    },
+    {
+      "name": "14 ounces sweetened condensed milk"
+    },
+    {
+      "name": "4-5 ripe bananas"
+    },
+    {
+      "name": "1/2 cup toasted coconut"
+    }
   ],
   "recipeInstructions": [
     {
@@ -105,16 +135,16 @@
     }
   ],
   "nutrition": {
-    "calories": "689 kcal",
     "servingSize": "1 slice",
-    "carbohydrateContent": "94.8 g",
-    "cholesterolContent": "75 mg",
-    "fatContent": "31.1 g",
-    "fiberContent": "7.7 g",
-    "proteinContent": "11.5 g",
-    "saturatedFatContent": "17.5 g",
-    "sodiumContent": "622 mg",
-    "sugarContent": "59.2 g"
+    "calories": 689,
+    "carbohydrateContent": 94.8,
+    "cholesterolContent": 75,
+    "fatContent": 31.1,
+    "fiberContent": 7.7,
+    "proteinContent": 11.5,
+    "saturatedFatContent": 17.5,
+    "sodiumContent": 622,
+    "sugarContent": 59.2
   },
   "aggregateRating": {
     "reviewCount": 15,

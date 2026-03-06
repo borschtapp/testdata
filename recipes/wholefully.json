@@ -44,17 +44,35 @@
     "homemade cornbread",
     "how to make blue cornbread"
   ],
-  "recipeYield": 8,
+  "recipeYield": "8",
   "recipeIngredient": [
-    "1 cup finely ground blue cornmeal",
-    "¾ cup all-purpose flour",
-    "½ teaspoon baking soda",
-    "½ teaspoon salt",
-    "1 cup plain Greek yogurt",
-    "2 eggs",
-    "¼ cup melted butter",
-    "¼ cup milk",
-    "2 cups frozen corn kernels"
+    {
+      "name": "1 cup finely ground blue cornmeal"
+    },
+    {
+      "name": "¾ cup all-purpose flour"
+    },
+    {
+      "name": "½ teaspoon baking soda"
+    },
+    {
+      "name": "½ teaspoon salt"
+    },
+    {
+      "name": "1 cup plain Greek yogurt"
+    },
+    {
+      "name": "2 eggs"
+    },
+    {
+      "name": "¼ cup melted butter"
+    },
+    {
+      "name": "¼ cup milk"
+    },
+    {
+      "name": "2 cups frozen corn kernels"
+    }
   ],
   "recipeInstructions": [
     {
@@ -71,18 +89,18 @@
     }
   ],
   "nutrition": {
-    "calories": "233 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "31 g",
-    "cholesterolContent": "58 mg",
-    "fatContent": "9 g",
-    "fiberContent": "3 g",
-    "proteinContent": "8 g",
-    "saturatedFatContent": "4 g",
-    "sodiumContent": "372 mg",
-    "sugarContent": "3 g",
-    "transFatContent": "0.2 g",
-    "unsaturatedFatContent": "4 g"
+    "calories": 233,
+    "carbohydrateContent": 31,
+    "cholesterolContent": 58,
+    "fatContent": 9,
+    "fiberContent": 3,
+    "proteinContent": 8,
+    "saturatedFatContent": 4,
+    "sodiumContent": 372,
+    "sugarContent": 3,
+    "transFatContent": 0.2,
+    "unsaturatedFatContent": 4
   },
   "aggregateRating": {
     "reviewCount": 1,

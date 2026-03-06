@@ -40,15 +40,29 @@
     "homemade spaghettios",
     "spaghettios recipe"
   ],
-  "recipeYield": 9,
+  "recipeYield": "9",
   "recipeIngredient": [
-    "1 lb pasta (small and circular)",
-    "1 stick unsalted butter",
-    "45 oz tomato sauce",
-    "1 tbsp dry Ranch Dressing seasoning packet",
-    "2 cups cooked shredded chicken breast",
-    "1/2 tsp freshly ground black pepper",
-    "1 cup cheddar cheese (finely shredded)"
+    {
+      "name": "1 lb pasta (small and circular)"
+    },
+    {
+      "name": "1 stick unsalted butter"
+    },
+    {
+      "name": "45 oz tomato sauce"
+    },
+    {
+      "name": "1 tbsp dry Ranch Dressing seasoning packet"
+    },
+    {
+      "name": "2 cups cooked shredded chicken breast"
+    },
+    {
+      "name": "1/2 tsp freshly ground black pepper"
+    },
+    {
+      "name": "1 cup cheddar cheese (finely shredded)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -69,16 +83,16 @@
     }
   ],
   "nutrition": {
-    "calories": "278 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "47 g",
-    "cholesterolContent": "13 mg",
-    "fatContent": "5 g",
-    "fiberContent": "4 g",
-    "proteinContent": "12 g",
-    "saturatedFatContent": "3 g",
-    "sodiumContent": "950 mg",
-    "sugarContent": "7 g"
+    "calories": 278,
+    "carbohydrateContent": 47,
+    "cholesterolContent": 13,
+    "fatContent": 5,
+    "fiberContent": 4,
+    "proteinContent": 12,
+    "saturatedFatContent": 3,
+    "sodiumContent": 950,
+    "sugarContent": 7
   },
   "datePublished": "2018-03-27T00:00:22Z"
 }

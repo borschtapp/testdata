@@ -39,19 +39,41 @@
     "Panna fresca liquida",
     "Zucchero a velo"
   ],
-  "recipeYield": 10,
+  "recipeYield": "10",
   "recipeIngredient": [
-    "Latte intero 200 ml",
-    "Tuorli 3",
-    "Zucchero 105 g",
-    "Baccello di vaniglia ½",
-    "Limoni ½",
-    "Sale fino 1 pizzico",
-    "Fragole 1,1 kg",
-    "Gelatina in fogli 18 g",
-    "Panna fresca liquida 500 ml",
-    "Panna fresca liquida 150 ml",
-    "Zucchero a velo 30 g"
+    {
+      "name": "Latte intero 200 ml"
+    },
+    {
+      "name": "Tuorli 3"
+    },
+    {
+      "name": "Zucchero 105 g"
+    },
+    {
+      "name": "Baccello di vaniglia ½"
+    },
+    {
+      "name": "Limoni ½"
+    },
+    {
+      "name": "Sale fino 1 pizzico"
+    },
+    {
+      "name": "Fragole 1,1 kg"
+    },
+    {
+      "name": "Gelatina in fogli 18 g"
+    },
+    {
+      "name": "Panna fresca liquida 500 ml"
+    },
+    {
+      "name": "Panna fresca liquida 150 ml"
+    },
+    {
+      "name": "Zucchero a velo 30 g"
+    }
   ],
   "recipeInstructions": [
     {
@@ -89,18 +111,19 @@
     }
   ],
   "nutrition": {
-    "calories": "312,8 kcal",
-    "carbohydrateContent": "25,4 g",
-    "cholesterolContent": "118,6 mg",
-    "fatContent": "22,4 g",
-    "fiberContent": "2,3 g",
-    "saturatedFatContent": "13,5 g",
-    "sodiumContent": "52,8 mg",
-    "sugarContent": "21,9 g"
+    "calories": 312.8,
+    "carbohydrateContent": 25.4,
+    "cholesterolContent": 118.6,
+    "fatContent": 22.4,
+    "fiberContent": 2.3,
+    "saturatedFatContent": 13.5,
+    "sodiumContent": 52.8,
+    "sugarContent": 21.9
   },
   "aggregateRating": {
     "ratingCount": 27,
     "ratingValue": 3.9,
     "bestRating": 5
-  }
+  },
+  "estimatedCost": "Basso"
 }

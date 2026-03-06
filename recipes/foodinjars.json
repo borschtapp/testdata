@@ -27,11 +27,21 @@
     "logo": "https://foodinjars.com/wp-content/uploads/2021/04/Food-in-Jars.png"
   },
   "recipeIngredient": [
-    "1 medium apple",
-    "1/2 cup apple cider vinegar",
-    "1 tablespoon honey",
-    "1/2 teaspoon kosher salt",
-    "2-3 turns of a pepper grinder"
+    {
+      "name": "1 medium apple"
+    },
+    {
+      "name": "1/2 cup apple cider vinegar"
+    },
+    {
+      "name": "1 tablespoon honey"
+    },
+    {
+      "name": "1/2 teaspoon kosher salt"
+    },
+    {
+      "name": "2-3 turns of a pepper grinder"
+    }
   ],
   "recipeInstructions": [
     {

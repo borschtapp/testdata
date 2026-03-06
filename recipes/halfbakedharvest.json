@@ -30,24 +30,56 @@
   "prepTime": "PT15M",
   "cookTime": "PT10M",
   "totalTime": "PT25M",
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "1 pound dry orzo pasta",
-    "3 ounces prosciutto, torn",
-    "4 tablespoon salted butter",
-    "2 tablespoons extra virgin olive oil",
-    "1 shallot, finely chopped",
-    "1 jalapeño, seeded if desired, and chopped",
-    "2 tablespoons fresh thyme leaves",
-    "2 tablespoons fresh lemon juice",
-    "2 tablespoons champagne or apple cider vinegar",
-    "2 teaspoons honey",
-    "1/2 cup fresh basil, roughly chopped",
-    "1/4 cup fresh chopped chives",
-    "4 ears grilled or steamed corn, kernels removed from the cobb",
-    "2 cups cherry tomatoes, halved",
-    "8 ounces crumbled feta cheese",
-    "2 avocados, sliced"
+    {
+      "name": "1 pound dry orzo pasta"
+    },
+    {
+      "name": "3 ounces prosciutto, torn"
+    },
+    {
+      "name": "4 tablespoon salted butter"
+    },
+    {
+      "name": "2 tablespoons extra virgin olive oil"
+    },
+    {
+      "name": "1 shallot, finely chopped"
+    },
+    {
+      "name": "1 jalapeño, seeded if desired, and chopped"
+    },
+    {
+      "name": "2 tablespoons fresh thyme leaves"
+    },
+    {
+      "name": "2 tablespoons fresh lemon juice"
+    },
+    {
+      "name": "2 tablespoons champagne or apple cider vinegar"
+    },
+    {
+      "name": "2 teaspoons honey"
+    },
+    {
+      "name": "1/2 cup fresh basil, roughly chopped"
+    },
+    {
+      "name": "1/4 cup fresh chopped chives"
+    },
+    {
+      "name": "4 ears grilled or steamed corn, kernels removed from the cobb"
+    },
+    {
+      "name": "2 cups cherry tomatoes, halved"
+    },
+    {
+      "name": "8 ounces crumbled feta cheese"
+    },
+    {
+      "name": "2 avocados, sliced"
+    }
   ],
   "recipeInstructions": [
     {
@@ -56,8 +88,8 @@
     }
   ],
   "nutrition": {
-    "calories": "722 kcal",
-    "servingSize": "1 serving"
+    "servingSize": "1 serving",
+    "calories": 722
   },
   "aggregateRating": {
     "reviewCount": 4,

@@ -40,17 +40,35 @@
   "keywords": [
     "Pork"
   ],
-  "recipeYield": 3,
+  "recipeYield": "3",
   "recipeIngredient": [
-    "2 pork shoulder steaks (aka pork butt) (about 350g/12oz, see note 1)",
-    "4 tablespoon Char Siu sauce (see note 2)",
-    "1 tablespoon oyster sauce",
-    "1/2 tablespoon light soy sauce",
-    "1/4 teaspoon Chinese five-spice powder",
-    "4 cloves garlic, finely sliced",
-    "5 slices ginger",
-    "1/2 teaspoon chilli powder (optional, see note 4)",
-    "2 teaspoon honey"
+    {
+      "name": "2 pork shoulder steaks (aka pork butt) (about 350g/12oz, see note 1)"
+    },
+    {
+      "name": "4 tablespoon Char Siu sauce (see note 2)"
+    },
+    {
+      "name": "1 tablespoon oyster sauce"
+    },
+    {
+      "name": "1/2 tablespoon light soy sauce"
+    },
+    {
+      "name": "1/4 teaspoon Chinese five-spice powder"
+    },
+    {
+      "name": "4 cloves garlic, finely sliced"
+    },
+    {
+      "name": "5 slices ginger"
+    },
+    {
+      "name": "1/2 teaspoon chilli powder (optional, see note 4)"
+    },
+    {
+      "name": "2 teaspoon honey"
+    }
   ],
   "recipeInstructions": [
     {
@@ -123,8 +141,8 @@
     }
   ],
   "nutrition": {
-    "calories": "419 kcal",
-    "servingSize": "1 serving"
+    "servingSize": "1 serving",
+    "calories": 419
   },
   "aggregateRating": {
     "reviewCount": 4,

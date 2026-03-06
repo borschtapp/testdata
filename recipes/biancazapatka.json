@@ -36,26 +36,62 @@
     "Tempeh",
     "Vegetables"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "7 oz Tempeh (oder Tofu)",
-    "2 garlic cloves (pressed)",
-    "3 piece of ginger (grated)",
-    "3 tbsp tamari (or soy sauce)",
-    "1 tbsp sesame oil (or peanut oil + more for frying)",
-    "1 tbsp rice vinegar (or other vinegar or lemon/lime juice)",
-    "1 tbsp maple syrup (or other syrup)",
-    "1 tsp sriracha (or chili paste optional to taste)",
-    "7 oz rice noodles (or other noodles or rice or quinoa)",
-    "6 radishes (finely sliced)",
-    "4 mini cucumbers (finely sliced)",
-    "1 red bell pepper (finely sliced)",
-    "2 large carrots (finely sliced)",
-    "2 cups fresh baby spinach",
-    "3-4 spring onions (cut into fine rings)",
-    "1 recipe peanut sauce (or tahini sauce, if nut-free)",
-    "2 tbsp sesame seeds",
-    "4 tbsp roasted peanuts"
+    {
+      "name": "7 oz Tempeh (oder Tofu)"
+    },
+    {
+      "name": "2 garlic cloves (pressed)"
+    },
+    {
+      "name": "3 piece of ginger (grated)"
+    },
+    {
+      "name": "3 tbsp tamari (or soy sauce)"
+    },
+    {
+      "name": "1 tbsp sesame oil (or peanut oil + more for frying)"
+    },
+    {
+      "name": "1 tbsp rice vinegar (or other vinegar or lemon/lime juice)"
+    },
+    {
+      "name": "1 tbsp maple syrup (or other syrup)"
+    },
+    {
+      "name": "1 tsp sriracha (or chili paste optional to taste)"
+    },
+    {
+      "name": "7 oz rice noodles (or other noodles or rice or quinoa)"
+    },
+    {
+      "name": "6 radishes (finely sliced)"
+    },
+    {
+      "name": "4 mini cucumbers (finely sliced)"
+    },
+    {
+      "name": "1 red bell pepper (finely sliced)"
+    },
+    {
+      "name": "2 large carrots (finely sliced)"
+    },
+    {
+      "name": "2 cups fresh baby spinach"
+    },
+    {
+      "name": "3-4 spring onions (cut into fine rings)"
+    },
+    {
+      "name": "1 recipe peanut sauce (or tahini sauce, if nut-free)"
+    },
+    {
+      "name": "2 tbsp sesame seeds"
+    },
+    {
+      "name": "4 tbsp roasted peanuts"
+    }
   ],
   "recipeInstructions": [
     {
@@ -99,15 +135,15 @@
     }
   ],
   "nutrition": {
-    "calories": "451 kcal",
     "servingSize": "1 Bowl",
-    "carbohydrateContent": "59.2 g",
-    "fatContent": "17.6 g",
-    "fiberContent": "4.4 g",
-    "proteinContent": "17.6 g",
-    "saturatedFatContent": "3.4 g",
-    "sodiumContent": "779.3 mg",
-    "sugarContent": "5.8 g"
+    "calories": 451,
+    "carbohydrateContent": 59.2,
+    "fatContent": 17.6,
+    "fiberContent": 4.4,
+    "proteinContent": 17.6,
+    "saturatedFatContent": 3.4,
+    "sodiumContent": 779.3,
+    "sugarContent": 5.8
   },
   "aggregateRating": {
     "ratingCount": 2,

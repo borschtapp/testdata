@@ -43,19 +43,41 @@
     "lime juice",
     "paprika"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "2 Tablespoons extra-virgin olive oil",
-    "1 cup diced yellow onion",
-    "2 cloves garlic, minced",
-    "2 Tablespoons fresh lime juice",
-    "1 1/2 teaspoons ground cumin",
-    "1 1/2 teaspoons paprika",
-    "1/4 teaspoon kosher salt",
-    "1/4 teaspoon fresh black pepper",
-    "3 cups shredded rotisserie chicken",
-    "1 cup shredded cheddar or Mexican blend cheese",
-    "12 (6-inch) flour tortillas"
+    {
+      "name": "2 Tablespoons extra-virgin olive oil"
+    },
+    {
+      "name": "1 cup diced yellow onion"
+    },
+    {
+      "name": "2 cloves garlic, minced"
+    },
+    {
+      "name": "2 Tablespoons fresh lime juice"
+    },
+    {
+      "name": "1 1/2 teaspoons ground cumin"
+    },
+    {
+      "name": "1 1/2 teaspoons paprika"
+    },
+    {
+      "name": "1/4 teaspoon kosher salt"
+    },
+    {
+      "name": "1/4 teaspoon fresh black pepper"
+    },
+    {
+      "name": "3 cups shredded rotisserie chicken"
+    },
+    {
+      "name": "1 cup shredded cheddar or Mexican blend cheese"
+    },
+    {
+      "name": "12 (6-inch) flour tortillas"
+    }
   ],
   "recipeInstructions": [
     {
@@ -84,17 +106,17 @@
     }
   ],
   "nutrition": {
-    "calories": "319 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "34 g",
-    "cholesterolContent": "19 mg",
-    "fatContent": "16 g",
-    "fiberContent": "3 g",
-    "proteinContent": "10 g",
-    "saturatedFatContent": "6 g",
-    "sodiumContent": "664 mg",
-    "sugarContent": "4 g",
-    "unsaturatedFatContent": "8 g"
+    "calories": 319,
+    "carbohydrateContent": 34,
+    "cholesterolContent": 19,
+    "fatContent": 16,
+    "fiberContent": 3,
+    "proteinContent": 10,
+    "saturatedFatContent": 6,
+    "sodiumContent": 664,
+    "sugarContent": 4,
+    "unsaturatedFatContent": 8
   },
   "aggregateRating": {
     "reviewCount": 7,

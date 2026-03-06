@@ -48,24 +48,56 @@
     "confit Rezept",
     "canard Rezept"
   ],
-  "recipeYield": 3,
+  "recipeYield": "3 Portionen",
   "recipeIngredient": [
-    "4-5 Feigen",
-    "1 Confit de Canard (Brust bei mir oder 2 Keulen)",
-    "3 Schalotten",
-    "200-250 g Pfifferlingen",
-    "1 Nelke",
-    "1 Lorbeerblatt",
-    "3 Kardamomkapseln",
-    "1 TL Kastanien Honig",
-    "150 ml Rotwein (optional)",
-    "Rosmarin",
-    "Thymian",
-    "Salz und Pfeffer",
-    "1 Rolle Blätterteig (Quadratisch",
-    "oder 2 runde)",
-    "50 g gehobelte Mandeln",
-    "Milch zum Pinseln."
+    {
+      "name": "4-5 Feigen"
+    },
+    {
+      "name": "1 Confit de Canard (Brust bei mir oder 2 Keulen)"
+    },
+    {
+      "name": "3 Schalotten"
+    },
+    {
+      "name": "200-250 g Pfifferlingen"
+    },
+    {
+      "name": "1 Nelke"
+    },
+    {
+      "name": "1 Lorbeerblatt"
+    },
+    {
+      "name": "3 Kardamomkapseln"
+    },
+    {
+      "name": "1 TL Kastanien Honig"
+    },
+    {
+      "name": "150 ml Rotwein (optional)"
+    },
+    {
+      "name": "Rosmarin"
+    },
+    {
+      "name": "Thymian"
+    },
+    {
+      "name": "Salz und Pfeffer"
+    },
+    {
+      "name": "1 Rolle Blätterteig (Quadratisch"
+    },
+    {
+      "name": "oder 2 runde)"
+    },
+    {
+      "name": "50 g gehobelte Mandeln"
+    },
+    {
+      "name": "Milch zum Pinseln."
+    }
   ],
   "recipeInstructions": [
     {

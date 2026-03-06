@@ -20,14 +20,26 @@
   "prepTime": "PT10M",
   "cookTime": "PT32M",
   "totalTime": "PT42M",
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "2 cups brussel sprouts, stems removed \u0026 cut in half",
-    "2 tbsp coconut aminos",
-    "1 tbsp sriracha",
-    "1/2 tbsp maple syrup",
-    "1 tsp sesame oil",
-    "Everything bagel seasoning or sesame seeds, to top"
+    {
+      "name": "2 cups brussel sprouts, stems removed \u0026 cut in half"
+    },
+    {
+      "name": "2 tbsp coconut aminos"
+    },
+    {
+      "name": "1 tbsp sriracha"
+    },
+    {
+      "name": "1/2 tbsp maple syrup"
+    },
+    {
+      "name": "1 tsp sesame oil"
+    },
+    {
+      "name": "Everything bagel seasoning or sesame seeds, to top"
+    }
   ],
   "recipeInstructions": [
     {

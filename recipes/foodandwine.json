@@ -26,17 +26,35 @@
   "recipeCuisine": [
     "American"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "1/2 cup unsalted butter (4 ounces)",
-    "5 large garlic cloves, minced",
-    "1 fresh Scotch bonnet chile, stemmed, unseeded, and minced (about 1 tablespoon)",
-    "1 1/2 teaspoons minced peeled fresh ginger",
-    "1/2 cup fresh lime juice",
-    "1/2 cup distilled white vinegar",
-    "1 thyme sprig",
-    "3 pounds unpeeled head-on raw large shrimp, deveined",
-    "1 teaspoon kosher salt"
+    {
+      "name": "1/2 cup unsalted butter (4 ounces)"
+    },
+    {
+      "name": "5 large garlic cloves, minced"
+    },
+    {
+      "name": "1 fresh Scotch bonnet chile, stemmed, unseeded, and minced (about 1 tablespoon)"
+    },
+    {
+      "name": "1 1/2 teaspoons minced peeled fresh ginger"
+    },
+    {
+      "name": "1/2 cup fresh lime juice"
+    },
+    {
+      "name": "1/2 cup distilled white vinegar"
+    },
+    {
+      "name": "1 thyme sprig"
+    },
+    {
+      "name": "3 pounds unpeeled head-on raw large shrimp, deveined"
+    },
+    {
+      "name": "1 teaspoon kosher salt"
+    }
   ],
   "recipeInstructions": [
     {
@@ -44,16 +62,16 @@
     }
   ],
   "nutrition": {
-    "calories": "926 kcal",
-    "carbohydrateContent": "22 g",
-    "cholesterolContent": "265 mg",
-    "fatContent": "93 g",
-    "fiberContent": "2 g",
-    "proteinContent": "6 g",
-    "saturatedFatContent": "57 g",
-    "sodiumContent": "1378 mg",
-    "sugarContent": "5 g",
-    "unsaturatedFatContent": "0 g"
+    "calories": 926,
+    "carbohydrateContent": 22,
+    "cholesterolContent": 265,
+    "fatContent": 93,
+    "fiberContent": 2,
+    "proteinContent": 6,
+    "saturatedFatContent": 57,
+    "sodiumContent": 1378,
+    "sugarContent": 5,
+    "unsaturatedFatContent": 0
   },
   "dateModified": "2020-09-01T08:55:43-04:00",
   "datePublished": "2020-08-21T08:55:43-04:00"

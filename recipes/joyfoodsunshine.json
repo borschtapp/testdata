@@ -55,14 +55,26 @@
     "pizza dough",
     "pizza dough recipe"
   ],
-  "recipeYield": 14,
+  "recipeYield": "14",
   "recipeIngredient": [
-    "1 cup warm water ((105 degrees F))",
-    "1 Tablespoon granulated sugar",
-    "1 Tablespoon active dry yeast",
-    "1 Tablespoon olive oil",
-    "2 to 2 ½ cups all-purpose flour*",
-    "1 tsp fine sea salt"
+    {
+      "name": "1 cup warm water ((105 degrees F))"
+    },
+    {
+      "name": "1 Tablespoon granulated sugar"
+    },
+    {
+      "name": "1 Tablespoon active dry yeast"
+    },
+    {
+      "name": "1 Tablespoon olive oil"
+    },
+    {
+      "name": "2 to 2 ½ cups all-purpose flour*"
+    },
+    {
+      "name": "1 tsp fine sea salt"
+    }
   ],
   "recipeInstructions": [
     {
@@ -130,16 +142,16 @@
     }
   ],
   "nutrition": {
-    "calories": "67 kcal",
     "servingSize": "1 Serving (Crust only)",
-    "carbohydrateContent": "12 g",
-    "fatContent": "1.2 g",
-    "fiberContent": "0.5 g",
-    "proteinContent": "2 g",
-    "saturatedFatContent": "0.2 g",
-    "sodiumContent": "177 mg",
-    "sugarContent": "1 g",
-    "unsaturatedFatContent": "1 g"
+    "calories": 67,
+    "carbohydrateContent": 12,
+    "fatContent": 1.2,
+    "fiberContent": 0.5,
+    "proteinContent": 2,
+    "saturatedFatContent": 0.2,
+    "sodiumContent": 177,
+    "sugarContent": 1,
+    "unsaturatedFatContent": 1
   },
   "aggregateRating": {
     "reviewCount": 6,

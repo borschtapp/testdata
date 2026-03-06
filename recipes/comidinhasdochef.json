@@ -34,20 +34,44 @@
   "keywords": [
     "Pernil de Cordeiro com Vinho"
   ],
-  "recipeYield": 1,
+  "recipeYield": "1",
   "recipeIngredient": [
-    "1 peça de pernil de cordeiro",
-    "600 ml de vinho branco",
-    "4 unidades de batatas",
-    "3 unidades de cebola",
-    "30 g de folhas de hortelã",
-    "30 g de tomilho fresco",
-    "2 cabeças de alho",
-    "30 g de alecrim",
-    "1 colher (sopa) de suco de limão",
-    "2 colheres (sopa) de sal",
-    "1 colher (sopa) de pimenta do reino",
-    "0 e 1/2 colher (sopa) de raspas de limão siciliano"
+    {
+      "name": "1 peça de pernil de cordeiro"
+    },
+    {
+      "name": "600 ml de vinho branco"
+    },
+    {
+      "name": "4 unidades de batatas"
+    },
+    {
+      "name": "3 unidades de cebola"
+    },
+    {
+      "name": "30 g de folhas de hortelã"
+    },
+    {
+      "name": "30 g de tomilho fresco"
+    },
+    {
+      "name": "2 cabeças de alho"
+    },
+    {
+      "name": "30 g de alecrim"
+    },
+    {
+      "name": "1 colher (sopa) de suco de limão"
+    },
+    {
+      "name": "2 colheres (sopa) de sal"
+    },
+    {
+      "name": "1 colher (sopa) de pimenta do reino"
+    },
+    {
+      "name": "0 e 1/2 colher (sopa) de raspas de limão siciliano"
+    }
   ],
   "recipeInstructions": [
     {
@@ -122,13 +146,13 @@
     }
   ],
   "nutrition": {
-    "calories": "154 kcal",
     "servingSize": "1",
-    "carbohydrateContent": "4 g",
-    "fatContent": "10 g",
-    "fiberContent": "0 g",
-    "proteinContent": "12 g",
-    "sodiumContent": "105 mg"
+    "calories": 154,
+    "carbohydrateContent": 4,
+    "fatContent": 10,
+    "fiberContent": 0,
+    "proteinContent": 12,
+    "sodiumContent": 105
   },
   "aggregateRating": {
     "ratingCount": 54,

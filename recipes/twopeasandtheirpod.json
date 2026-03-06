@@ -42,25 +42,59 @@
   "keywords": [
     "taquitos"
   ],
-  "recipeYield": 20,
+  "recipeYield": "20",
   "recipeIngredient": [
-    "2 cups shredded chicken, (we use rotisserie chicken)",
-    "1/2 teaspoon ground cumin",
-    "1/2 teaspoon ground chili powder",
-    "1/2 teaspoon kosher salt",
-    "1/4 teaspoon garlic powder",
-    "1/4 teaspoon paprika",
-    "2 teaspoons fresh lime juice",
-    "1 cup shredded cheddar or Mexican blend cheese",
-    "20 corn tortillas",
-    "Shredded lettuce",
-    "Diced tomatoes",
-    "Guacamole",
-    "Sour Cream",
-    "Chopped Green Onion",
-    "Crumbled Queso Fresco",
-    "Pico de Gallo",
-    "Salsa"
+    {
+      "name": "2 cups shredded chicken, (we use rotisserie chicken)"
+    },
+    {
+      "name": "1/2 teaspoon ground cumin"
+    },
+    {
+      "name": "1/2 teaspoon ground chili powder"
+    },
+    {
+      "name": "1/2 teaspoon kosher salt"
+    },
+    {
+      "name": "1/4 teaspoon garlic powder"
+    },
+    {
+      "name": "1/4 teaspoon paprika"
+    },
+    {
+      "name": "2 teaspoons fresh lime juice"
+    },
+    {
+      "name": "1 cup shredded cheddar or Mexican blend cheese"
+    },
+    {
+      "name": "20 corn tortillas"
+    },
+    {
+      "name": "Shredded lettuce"
+    },
+    {
+      "name": "Diced tomatoes"
+    },
+    {
+      "name": "Guacamole"
+    },
+    {
+      "name": "Sour Cream"
+    },
+    {
+      "name": "Chopped Green Onion"
+    },
+    {
+      "name": "Crumbled Queso Fresco"
+    },
+    {
+      "name": "Pico de Gallo"
+    },
+    {
+      "name": "Salsa"
+    }
   ],
   "recipeInstructions": [
     {
@@ -85,15 +119,15 @@
     }
   ],
   "nutrition": {
-    "calories": "132 kcal",
     "servingSize": "20 g",
-    "carbohydrateContent": "11 g",
-    "cholesterolContent": "23 mg",
-    "fatContent": "5 g",
-    "fiberContent": "1 g",
-    "proteinContent": "8 g",
-    "saturatedFatContent": "2 g",
-    "sodiumContent": "123 mg"
+    "calories": 132,
+    "carbohydrateContent": 11,
+    "cholesterolContent": 23,
+    "fatContent": 5,
+    "fiberContent": 1,
+    "proteinContent": 8,
+    "saturatedFatContent": 2,
+    "sodiumContent": 123
   },
   "aggregateRating": {
     "reviewCount": 6,

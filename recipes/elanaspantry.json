@@ -26,15 +26,29 @@
   "prepTime": "PT15M",
   "cookTime": "P1D",
   "totalTime": "P1DT8H15M",
-  "recipeYield": 12,
+  "recipeYield": "12",
   "recipeIngredient": [
-    "2 cups almonds",
-    "1 cup macadamia nuts",
-    "1 cup pumpkin seeds",
-    "1 cup raisins",
-    "1 tablespoon vanilla extract",
-    "½ teaspoon ground cinnamon",
-    "½ teaspoon celtic sea salt"
+    {
+      "name": "2 cups almonds"
+    },
+    {
+      "name": "1 cup macadamia nuts"
+    },
+    {
+      "name": "1 cup pumpkin seeds"
+    },
+    {
+      "name": "1 cup raisins"
+    },
+    {
+      "name": "1 tablespoon vanilla extract"
+    },
+    {
+      "name": "½ teaspoon ground cinnamon"
+    },
+    {
+      "name": "½ teaspoon celtic sea salt"
+    }
   ],
   "recipeInstructions": [
     {

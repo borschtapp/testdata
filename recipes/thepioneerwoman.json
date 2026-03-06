@@ -65,15 +65,29 @@
     "TOTALTIME: 00:35:00",
     "FILTERTIME: \u003c1HR"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4 serving(s)",
   "recipeIngredient": [
-    "1 stick butter",
-    "1 whole large onion, halved and sliced",
-    "1 1/2 lb. ground beef",
-    "salt and pepper, to taste",
-    "5 dashes Worcestershire sauce",
-    "8 slices Swiss cheese",
-    "8 slices rye bread"
+    {
+      "name": "1 stick butter"
+    },
+    {
+      "name": "1 whole large onion, halved and sliced"
+    },
+    {
+      "name": "1 1/2 lb. ground beef"
+    },
+    {
+      "name": "salt and pepper, to taste"
+    },
+    {
+      "name": "5 dashes Worcestershire sauce"
+    },
+    {
+      "name": "8 slices Swiss cheese"
+    },
+    {
+      "name": "8 slices rye bread"
+    }
   ],
   "recipeInstructions": [
     {
@@ -93,16 +107,16 @@
     }
   ],
   "nutrition": {
-    "calories": " 910 Calories",
-    "carbohydrateContent": "10 g",
-    "cholesterolContent": "234 mg",
-    "fatContent": "75 g",
-    "fiberContent": "2 g",
-    "proteinContent": "46 g",
-    "saturatedFatContent": "37 g",
-    "sodiumContent": "719 mg",
-    "sugarContent": "2 g",
-    "transFatContent": "3 g"
+    "calories": 910,
+    "carbohydrateContent": 10,
+    "cholesterolContent": 234,
+    "fatContent": 75,
+    "fiberContent": 2,
+    "proteinContent": 46,
+    "saturatedFatContent": 37,
+    "sodiumContent": 719,
+    "sugarContent": 2,
+    "transFatContent": 3
   },
   "aggregateRating": {
     "reviewCount": 7,

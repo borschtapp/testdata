@@ -43,18 +43,38 @@
     "how to make poutine",
     "poutine gravy recipe"
   ],
-  "recipeYield": 3,
+  "recipeYield": "3",
   "recipeIngredient": [
-    "3 Tbsp cornstarch",
-    "2 Tbsp water",
-    "6 Tbsp unsalted butter",
-    "1/4 cup unbleached all purpose flour",
-    "20 oz beef broth",
-    "10 oz chicken broth",
-    "Pepper, to taste",
-    "2 lbs Russet potatoes ((3-4 medium potatoes))",
-    "Peanut or other frying oil",
-    "1 - 1 1/2 cups white cheddar cheese curds ((Or torn chunks of mozzarella cheese would be the closest substitution))"
+    {
+      "name": "3 Tbsp cornstarch"
+    },
+    {
+      "name": "2 Tbsp water"
+    },
+    {
+      "name": "6 Tbsp unsalted butter"
+    },
+    {
+      "name": "1/4 cup unbleached all purpose flour"
+    },
+    {
+      "name": "20 oz beef broth"
+    },
+    {
+      "name": "10 oz chicken broth"
+    },
+    {
+      "name": "Pepper, to taste"
+    },
+    {
+      "name": "2 lbs Russet potatoes ((3-4 medium potatoes))"
+    },
+    {
+      "name": "Peanut or other frying oil"
+    },
+    {
+      "name": "1 - 1 1/2 cups white cheddar cheese curds ((Or torn chunks of mozzarella cheese would be the closest substitution))"
+    }
   ],
   "recipeInstructions": [
     {
@@ -91,16 +111,16 @@
     }
   ],
   "nutrition": {
-    "calories": "528 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "70 g",
-    "cholesterolContent": "61 mg",
-    "fatContent": "24 g",
-    "fiberContent": "4 g",
-    "proteinContent": "10 g",
-    "saturatedFatContent": "14 g",
-    "sodiumContent": "1068 mg",
-    "sugarContent": "1 g"
+    "calories": 528,
+    "carbohydrateContent": 70,
+    "cholesterolContent": 61,
+    "fatContent": 24,
+    "fiberContent": 4,
+    "proteinContent": 10,
+    "saturatedFatContent": 14,
+    "sodiumContent": 1068,
+    "sugarContent": 1
   },
   "aggregateRating": {
     "reviewCount": 5,

@@ -27,23 +27,53 @@
     "Europe",
     "German"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4 servings",
   "recipeIngredient": [
-    "4 whole cloves",
-    "4 whole peppercorns",
-    "1 bay leaf",
-    "1/2 cup water",
-    "1/2 cup white vinegar",
-    "2 teaspoons sugar",
-    "1/2 teaspoon salt",
-    "Dash ground ginger",
-    "1 pound boneless beef top round steak, cut into 1-inch cubes",
-    "3 medium carrots, cut into 1/2-inch slices",
-    "2 celery ribs, cut into 1/2-inch slices",
-    "1 small onion, chopped",
-    "1/3 cup crushed gingersnaps",
-    "Hot cooked egg noodles",
-    "Optional: Chopped fresh parsley and coarsely ground pepper"
+    {
+      "name": "4 whole cloves"
+    },
+    {
+      "name": "4 whole peppercorns"
+    },
+    {
+      "name": "1 bay leaf"
+    },
+    {
+      "name": "1/2 cup water"
+    },
+    {
+      "name": "1/2 cup white vinegar"
+    },
+    {
+      "name": "2 teaspoons sugar"
+    },
+    {
+      "name": "1/2 teaspoon salt"
+    },
+    {
+      "name": "Dash ground ginger"
+    },
+    {
+      "name": "1 pound boneless beef top round steak, cut into 1-inch cubes"
+    },
+    {
+      "name": "3 medium carrots, cut into 1/2-inch slices"
+    },
+    {
+      "name": "2 celery ribs, cut into 1/2-inch slices"
+    },
+    {
+      "name": "1 small onion, chopped"
+    },
+    {
+      "name": "1/3 cup crushed gingersnaps"
+    },
+    {
+      "name": "Hot cooked egg noodles"
+    },
+    {
+      "name": "Optional: Chopped fresh parsley and coarsely ground pepper"
+    }
   ],
   "recipeInstructions": [
     {
@@ -54,13 +84,13 @@
     }
   ],
   "nutrition": {
-    "calories": " 228 calories",
-    "carbohydrateContent": "18g carbohydrate (8g sugars",
-    "cholesterolContent": "63mg cholesterol",
-    "fatContent": "5g fat (2g saturated fat)",
-    "fiberContent": "2g fiber)",
-    "proteinContent": "27g protein. \u003cB\u003e\u003cb\u003eDiabetic Exchanges\u003c/b\u003e: \u003c/B\u003e 3 lean meat",
-    "sodiumContent": "436mg sodium"
+    "calories": 228,
+    "carbohydrateContent": 18,
+    "cholesterolContent": 63,
+    "fatContent": 5,
+    "fiberContent": 2,
+    "proteinContent": 27,
+    "sodiumContent": 436
   },
   "aggregateRating": {
     "reviewCount": 9,

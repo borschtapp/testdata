@@ -20,17 +20,35 @@
   "prepTime": "PT1H30M",
   "cookTime": "PT0S",
   "totalTime": "PT1H30M",
-  "recipeYield": 10,
+  "recipeYield": "Serves 10 to 12 servings",
   "recipeIngredient": [
-    "1 1-pound loaf sourdough, at least 1 day old",
-    "1/4 cup salted butter",
-    "2 cups chopped onion (1 large)",
-    "1 cup chopped celery (2 or 3 stalks)",
-    "1/4 cup chopped flat-leaf parsley",
-    "1 tablespoon finely chopped fresh sage",
-    "About 1/2 tsp. kosher salt",
-    "About 1/2 tsp. pepper",
-    "About 3 cups turkey broth, reduced-sodium chicken broth, or mushroom or other vegetable broth"
+    {
+      "name": "1 1-pound loaf sourdough, at least 1 day old"
+    },
+    {
+      "name": "1/4 cup salted butter"
+    },
+    {
+      "name": "2 cups chopped onion (1 large)"
+    },
+    {
+      "name": "1 cup chopped celery (2 or 3 stalks)"
+    },
+    {
+      "name": "1/4 cup chopped flat-leaf parsley"
+    },
+    {
+      "name": "1 tablespoon finely chopped fresh sage"
+    },
+    {
+      "name": "About 1/2 tsp. kosher salt"
+    },
+    {
+      "name": "About 1/2 tsp. pepper"
+    },
+    {
+      "name": "About 3 cups turkey broth, reduced-sodium chicken broth, or mushroom or other vegetable broth"
+    }
   ],
   "recipeInstructions": [
     {
@@ -75,14 +93,14 @@
     }
   ],
   "nutrition": {
-    "calories": "164 calories",
-    "carbohydrateContent": "25 g",
-    "cholesterolContent": "16 mg",
-    "fatContent": "4.3 g",
-    "fiberContent": "1.4 g",
-    "proteinContent": "5.6 g",
-    "saturatedFatContent": "2.6 g",
-    "sodiumContent": "363 mg"
+    "calories": 164,
+    "carbohydrateContent": 25,
+    "cholesterolContent": 16,
+    "fatContent": 4.3,
+    "fiberContent": 1.4,
+    "proteinContent": 5.6,
+    "saturatedFatContent": 2.6,
+    "sodiumContent": 363
   },
   "aggregateRating": {
     "ratingCount": 30,

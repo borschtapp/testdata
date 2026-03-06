@@ -54,23 +54,53 @@
   "keywords": [
     "shakshuka"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "2 Tablespoons olive oil",
-    "1 large onion (chopped)",
-    "1 orange bell pepper (chopped)",
-    "4 cloves garlic (minced)",
-    "½ teaspoon cumin",
-    "½ teaspoon paprika",
-    "¼ teaspoon cayenne pepper",
-    "1-2 teaspoons curry powder",
-    "¼ teaspoon turmeric",
-    "½ teaspoon sea salt",
-    "¼ teaspoon ground pepper",
-    "28 ounce can diced tomatoes",
-    "4-5 eggs",
-    "½ cup feta cheese",
-    "fresh cilantro and parsley (for serving)"
+    {
+      "name": "2 Tablespoons olive oil"
+    },
+    {
+      "name": "1 large onion (chopped)"
+    },
+    {
+      "name": "1 orange bell pepper (chopped)"
+    },
+    {
+      "name": "4 cloves garlic (minced)"
+    },
+    {
+      "name": "½ teaspoon cumin"
+    },
+    {
+      "name": "½ teaspoon paprika"
+    },
+    {
+      "name": "¼ teaspoon cayenne pepper"
+    },
+    {
+      "name": "1-2 teaspoons curry powder"
+    },
+    {
+      "name": "¼ teaspoon turmeric"
+    },
+    {
+      "name": "½ teaspoon sea salt"
+    },
+    {
+      "name": "¼ teaspoon ground pepper"
+    },
+    {
+      "name": "28 ounce can diced tomatoes"
+    },
+    {
+      "name": "4-5 eggs"
+    },
+    {
+      "name": "½ cup feta cheese"
+    },
+    {
+      "name": "fresh cilantro and parsley (for serving)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -95,17 +125,17 @@
     }
   ],
   "nutrition": {
-    "calories": "284 kcal",
     "servingSize": "1 /4 of recipe",
-    "carbohydrateContent": "17 g",
-    "cholesterolContent": "224 mg",
-    "fatContent": "18 g",
-    "fiberContent": "3 g",
-    "proteinContent": "14 g",
-    "saturatedFatContent": "6 g",
-    "sodiumContent": "620 mg",
-    "sugarContent": "8 g",
-    "unsaturatedFatContent": "6 g"
+    "calories": 284,
+    "carbohydrateContent": 17,
+    "cholesterolContent": 224,
+    "fatContent": 18,
+    "fiberContent": 3,
+    "proteinContent": 14,
+    "saturatedFatContent": 6,
+    "sodiumContent": 620,
+    "sugarContent": 8,
+    "unsaturatedFatContent": 6
   },
   "aggregateRating": {
     "reviewCount": 8,

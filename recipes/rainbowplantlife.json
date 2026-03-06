@@ -47,25 +47,59 @@
     "peach",
     "soy-free"
   ],
-  "recipeYield": 10,
+  "recipeYield": "10",
   "recipeIngredient": [
-    "1 pound (454g) ripe but relatively firm peaches",
-    "1/2 cup (80g) fresh blueberries",
-    "1/3 cup (55g) organic brown sugar ((or coconut sugar))",
-    "1 teaspoon ground cinnamon",
-    "1/4 teaspoon freshly grated nutmeg",
-    "Scant 1/2 teaspoon ground ginger",
-    "1/8 teaspoon ground cardamom ((optional))",
-    "10 tablespoons (140g) vegan butter ((see Note 1))",
-    "1 1/2 cups (188g) all-purpose flour",
-    "Scant 2/3 cup (65g) old-fashioned rolled oats",
-    "1 cup (200g) organic cane sugar",
-    "Scant 1/2 teaspoon kosher salt ((see Note 2) )",
-    "2 teaspoons baking powder",
-    "1 1/4 cups (300 mL) full-fat oat milk ((see Note 3) )",
-    "1 1/2 teaspoons pure vanilla extract",
-    "1/4 teaspoon pure almond extract ((optional))",
-    "For serving: vegan vanilla ice cream ((optional))"
+    {
+      "name": "1 pound (454g) ripe but relatively firm peaches"
+    },
+    {
+      "name": "1/2 cup (80g) fresh blueberries"
+    },
+    {
+      "name": "1/3 cup (55g) organic brown sugar ((or coconut sugar))"
+    },
+    {
+      "name": "1 teaspoon ground cinnamon"
+    },
+    {
+      "name": "1/4 teaspoon freshly grated nutmeg"
+    },
+    {
+      "name": "Scant 1/2 teaspoon ground ginger"
+    },
+    {
+      "name": "1/8 teaspoon ground cardamom ((optional))"
+    },
+    {
+      "name": "10 tablespoons (140g) vegan butter ((see Note 1))"
+    },
+    {
+      "name": "1 1/2 cups (188g) all-purpose flour"
+    },
+    {
+      "name": "Scant 2/3 cup (65g) old-fashioned rolled oats"
+    },
+    {
+      "name": "1 cup (200g) organic cane sugar"
+    },
+    {
+      "name": "Scant 1/2 teaspoon kosher salt ((see Note 2) )"
+    },
+    {
+      "name": "2 teaspoons baking powder"
+    },
+    {
+      "name": "1 1/4 cups (300 mL) full-fat oat milk ((see Note 3) )"
+    },
+    {
+      "name": "1 1/2 teaspoons pure vanilla extract"
+    },
+    {
+      "name": "1/4 teaspoon pure almond extract ((optional))"
+    },
+    {
+      "name": "For serving: vegan vanilla ice cream ((optional))"
+    }
   ],
   "recipeInstructions": [
     {
@@ -98,17 +132,17 @@
     }
   ],
   "nutrition": {
-    "calories": "304 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "51 g",
-    "fatContent": "12 g",
-    "fiberContent": "2 g",
-    "proteinContent": "3 g",
-    "saturatedFatContent": "2 g",
-    "sodiumContent": "314 mg",
-    "sugarContent": "34 g",
-    "transFatContent": "2 g",
-    "unsaturatedFatContent": "9 g"
+    "calories": 304,
+    "carbohydrateContent": 51,
+    "fatContent": 12,
+    "fiberContent": 2,
+    "proteinContent": 3,
+    "saturatedFatContent": 2,
+    "sodiumContent": 314,
+    "sugarContent": 34,
+    "transFatContent": 2,
+    "unsaturatedFatContent": 9
   },
   "aggregateRating": {
     "reviewCount": 8,

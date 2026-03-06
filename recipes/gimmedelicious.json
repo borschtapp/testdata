@@ -42,17 +42,35 @@
     "easy",
     "one pan"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "4 medium chicken breasts ((pounded thin))",
-    "2 tablespoons Cajun seasoning ((or taco seasoning))",
-    "2-3 cloves garlic ((minced))",
-    "1 tablespoon lemon juice ((or lime))",
-    "4 cups sweet potatoes ((diced))",
-    "4 cups broccoli florets",
-    "2 tablespoons olive oil",
-    "salt ((to taste))",
-    "pepper ((to taste))"
+    {
+      "name": "4 medium chicken breasts ((pounded thin))"
+    },
+    {
+      "name": "2 tablespoons Cajun seasoning ((or taco seasoning))"
+    },
+    {
+      "name": "2-3 cloves garlic ((minced))"
+    },
+    {
+      "name": "1 tablespoon lemon juice ((or lime))"
+    },
+    {
+      "name": "4 cups sweet potatoes ((diced))"
+    },
+    {
+      "name": "4 cups broccoli florets"
+    },
+    {
+      "name": "2 tablespoons olive oil"
+    },
+    {
+      "name": "salt ((to taste))"
+    },
+    {
+      "name": "pepper ((to taste))"
+    }
   ],
   "recipeInstructions": [
     {
@@ -81,16 +99,16 @@
     }
   ],
   "nutrition": {
-    "calories": "478 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "35 g",
-    "cholesterolContent": "145 mg",
-    "fatContent": "14 g",
-    "fiberContent": "8 g",
-    "proteinContent": "53 g",
-    "saturatedFatContent": "2 g",
-    "sodiumContent": "368 mg",
-    "sugarContent": "8 g"
+    "calories": 478,
+    "carbohydrateContent": 35,
+    "cholesterolContent": 145,
+    "fatContent": 14,
+    "fiberContent": 8,
+    "proteinContent": 53,
+    "saturatedFatContent": 2,
+    "sodiumContent": 368,
+    "sugarContent": 8
   },
   "aggregateRating": {
     "reviewCount": 12,

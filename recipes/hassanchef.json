@@ -25,11 +25,12 @@
     "Indian Dinner",
     "Veg recipes"
   ],
+  "recipeYield": "servings",
   "nutrition": {
-    "calories": "322 kcal",
-    "carbohydrateContent": "14g",
-    "fatContent": "22g",
-    "proteinContent": "15g"
+    "calories": 322,
+    "carbohydrateContent": 14,
+    "fatContent": 22,
+    "proteinContent": 15
   },
   "aggregateRating": {
     "ratingCount": 12,

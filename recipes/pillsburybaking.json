@@ -18,11 +18,17 @@
   "keywords": [
     "Cinnamon Swirl Cake"
   ],
-  "recipeYield": 14,
+  "recipeYield": "14 servings",
   "recipeIngredient": [
-    "1 box of Pillsbury™ Cinnamon Swirl Quick Bread",
-    "Additional ingredients to prepare cake mix per package instructions",
-    "1 tub of Pillsbury™ Creamy Supreme® Cream Cheese Frosting"
+    {
+      "name": "1 box of Pillsbury™ Cinnamon Swirl Quick Bread"
+    },
+    {
+      "name": "Additional ingredients to prepare cake mix per package instructions"
+    },
+    {
+      "name": "1 tub of Pillsbury™ Creamy Supreme® Cream Cheese Frosting"
+    }
   ],
   "recipeInstructions": [
     {

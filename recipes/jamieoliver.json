@@ -38,17 +38,35 @@
     "Party Food",
     "Chocolate Main Ingredient"
   ],
-  "recipeYield": 20,
+  "recipeYield": "20",
   "recipeIngredient": [
-    "200g quality dark chocolate (70%)",
-    "250g unsalted butter",
-    "optional: 75g dried sour cherries",
-    "optional: 50g chopped nuts",
-    "80g quality cocoa powder",
-    "65g plain flour",
-    "1 teaspoon baking powder",
-    "360g caster sugar",
-    "4 large free-range eggs"
+    {
+      "name": "200g quality dark chocolate (70%)"
+    },
+    {
+      "name": "250g unsalted butter"
+    },
+    {
+      "name": "optional: 75g dried sour cherries"
+    },
+    {
+      "name": "optional: 50g chopped nuts"
+    },
+    {
+      "name": "80g quality cocoa powder"
+    },
+    {
+      "name": "65g plain flour"
+    },
+    {
+      "name": "1 teaspoon baking powder"
+    },
+    {
+      "name": "360g caster sugar"
+    },
+    {
+      "name": "4 large free-range eggs"
+    }
   ],
   "recipeInstructions": [
     {
@@ -71,13 +89,13 @@
     }
   ],
   "nutrition": {
-    "calories": "291 calories",
-    "carbohydrateContent": "28.3 g",
-    "fatContent": "18.4 g",
-    "fiberContent": "1.6 g",
-    "proteinContent": "3.9 g",
-    "saturatedFatContent": "10.1 g",
-    "sodiumContent": "0.2 g",
-    "sugarContent": "24.6 g"
+    "calories": 291,
+    "carbohydrateContent": 28.3,
+    "fatContent": 18.4,
+    "fiberContent": 1.6,
+    "proteinContent": 3.9,
+    "saturatedFatContent": 10.1,
+    "sodiumContent": 0.2,
+    "sugarContent": 24.6
   }
 }

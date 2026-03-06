@@ -20,20 +20,44 @@
   },
   "prepTime": "PT30M",
   "totalTime": "PT30M",
-  "recipeYield": 2,
+  "recipeYield": "2",
   "recipeIngredient": [
-    "¾ cup brown lentils",
-    "6 oz cauliflower florets",
-    "1 tbsp curry powder",
-    "2 mini sweet peppers",
-    "4 oz red grapes",
-    "1 avocado",
-    "2 tbsp balsamic vinaigrette",
-    "4 oz Arcadian greens",
-    "1 tsp vegetable oil*",
-    "Salt and pepper*",
-    "*Not included",
-    "For full ingredient list, see Nutrition"
+    {
+      "name": "¾ cup brown lentils"
+    },
+    {
+      "name": "6 oz cauliflower florets"
+    },
+    {
+      "name": "1 tbsp curry powder"
+    },
+    {
+      "name": "2 mini sweet peppers"
+    },
+    {
+      "name": "4 oz red grapes"
+    },
+    {
+      "name": "1 avocado"
+    },
+    {
+      "name": "2 tbsp balsamic vinaigrette"
+    },
+    {
+      "name": "4 oz Arcadian greens"
+    },
+    {
+      "name": "1 tsp vegetable oil*"
+    },
+    {
+      "name": "Salt and pepper*"
+    },
+    {
+      "name": "*Not included"
+    },
+    {
+      "name": "For full ingredient list, see Nutrition"
+    }
   ],
   "recipeInstructions": [
     {
@@ -56,8 +80,8 @@
     }
   ],
   "nutrition": {
-    "calories": "530 cal",
-    "fatContent": "18.0 g"
+    "calories": 530,
+    "fatContent": 18
   },
   "datePublished": "2020-05-13T06:56:11.845-04:00"
 }

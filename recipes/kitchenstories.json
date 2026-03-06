@@ -51,12 +51,20 @@
     "2022-05",
     "confidence"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "1.75 lbs strawberries",
-    "1.5 cups jam sugar",
-    "1 tsp matcha powder",
-    "0.33 cup water"
+    {
+      "name": "1.75 lbs strawberries"
+    },
+    {
+      "name": "1.5 cups jam sugar"
+    },
+    {
+      "name": "1 tsp matcha powder"
+    },
+    {
+      "name": "0.33 cup water"
+    }
   ],
   "recipeInstructions": [
     {
@@ -73,11 +81,11 @@
     }
   ],
   "nutrition": {
-    "calories": "359 cal",
     "servingSize": "1 Servings",
-    "carbohydrateContent": "91 g",
-    "fatContent": "1 g",
-    "proteinContent": "2 g"
+    "calories": 359,
+    "carbohydrateContent": 91,
+    "fatContent": 1,
+    "proteinContent": 2
   },
   "aggregateRating": {
     "ratingCount": 4,

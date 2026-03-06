@@ -42,16 +42,32 @@
   "keywords": [
     "Southern Pecan Pie"
   ],
-  "recipeYield": 8,
+  "recipeYield": "8",
   "recipeIngredient": [
-    "1 1/4 cup pecans (chopped)",
-    "4 large eggs",
-    "1 cup light corn syrup",
-    "1/2 cup granulated sugar",
-    "2 tbsp salted butter (melted)",
-    "1/4 tsp ground nutmeg",
-    "1 tablespoon bourbon vanilla extract",
-    "1 9-inch deep dish pie shell (store-bought or homemade)"
+    {
+      "name": "1 1/4 cup pecans (chopped)"
+    },
+    {
+      "name": "4 large eggs"
+    },
+    {
+      "name": "1 cup light corn syrup"
+    },
+    {
+      "name": "1/2 cup granulated sugar"
+    },
+    {
+      "name": "2 tbsp salted butter (melted)"
+    },
+    {
+      "name": "1/4 tsp ground nutmeg"
+    },
+    {
+      "name": "1 tablespoon bourbon vanilla extract"
+    },
+    {
+      "name": "1 9-inch deep dish pie shell (store-bought or homemade)"
+    }
   ],
   "recipeInstructions": [
     {

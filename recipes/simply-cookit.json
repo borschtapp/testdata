@@ -30,14 +30,26 @@
   "keywords": [
     "Vegetarisch"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4 Personen",
   "recipeIngredient": [
-    "90 g Parmesan",
-    "1Zwiebel",
-    "1Knoblauchzehe",
-    "0,5 TL Salz",
-    "30 g Butter",
-    "3 TL Weizenmehl, Type 405"
+    {
+      "name": "90 g Parmesan"
+    },
+    {
+      "name": "1Zwiebel"
+    },
+    {
+      "name": "1Knoblauchzehe"
+    },
+    {
+      "name": "0,5 TL Salz"
+    },
+    {
+      "name": "30 g Butter"
+    },
+    {
+      "name": "3 TL Weizenmehl, Type 405"
+    }
   ],
   "recipeInstructions": [
     {
@@ -48,10 +60,10 @@
     }
   ],
   "nutrition": {
-    "calories": "505 kcal",
-    "carbohydrateContent": "55 g",
-    "fatContent": "24 g",
-    "proteinContent": "19 g"
+    "calories": 505,
+    "carbohydrateContent": 55,
+    "fatContent": 24,
+    "proteinContent": 19
   },
   "aggregateRating": {
     "ratingCount": 3,

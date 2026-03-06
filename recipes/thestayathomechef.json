@@ -45,16 +45,32 @@
   "keywords": [
     "Pancakes"
   ],
-  "recipeYield": 12,
+  "recipeYield": "12",
   "recipeIngredient": [
-    "1 1/2 cups all-purpose flour",
-    "2 tablespoons granulated sugar",
-    "2 teaspoons baking powder",
-    "1 teaspoon baking soda",
-    "1/2 teaspoon salt",
-    "1 cup milk or buttermilk",
-    "2 eggs",
-    "1/4 cup melted butter"
+    {
+      "name": "1 1/2 cups all-purpose flour"
+    },
+    {
+      "name": "2 tablespoons granulated sugar"
+    },
+    {
+      "name": "2 teaspoons baking powder"
+    },
+    {
+      "name": "1 teaspoon baking soda"
+    },
+    {
+      "name": "1/2 teaspoon salt"
+    },
+    {
+      "name": "1 cup milk or buttermilk"
+    },
+    {
+      "name": "2 eggs"
+    },
+    {
+      "name": "1/4 cup melted butter"
+    }
   ],
   "recipeInstructions": [
     {
@@ -79,15 +95,15 @@
     }
   ],
   "nutrition": {
-    "calories": "122 kcal",
     "servingSize": "1  pancake",
-    "carbohydrateContent": "15 g",
-    "cholesterolContent": "39 mg",
-    "fatContent": "5 g",
-    "proteinContent": "3 g",
-    "saturatedFatContent": "3 g",
-    "sodiumContent": "254 mg",
-    "sugarContent": "3 g"
+    "calories": 122,
+    "carbohydrateContent": 15,
+    "cholesterolContent": 39,
+    "fatContent": 5,
+    "proteinContent": 3,
+    "saturatedFatContent": 3,
+    "sodiumContent": 254,
+    "sugarContent": 3
   },
   "aggregateRating": {
     "reviewCount": 11,

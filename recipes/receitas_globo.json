@@ -38,14 +38,30 @@
     "reunião com amigos"
   ],
   "recipeIngredient": [
-    "3 colheres de sopa de óleo",
-    "1 tablete de caldo de galinha",
-    "1 quilo de peito de frango em cubos",
-    "2 colheres de sopa de molho de tomate",
-    "2 colheres de sopa de mostarda",
-    "2 colheres de sopa de ketchup",
-    "Champignon a gosto",
-    "1 lata de creme de leite sem soro"
+    {
+      "name": "3 colheres de sopa de óleo"
+    },
+    {
+      "name": "1 tablete de caldo de galinha"
+    },
+    {
+      "name": "1 quilo de peito de frango em cubos"
+    },
+    {
+      "name": "2 colheres de sopa de molho de tomate"
+    },
+    {
+      "name": "2 colheres de sopa de mostarda"
+    },
+    {
+      "name": "2 colheres de sopa de ketchup"
+    },
+    {
+      "name": "Champignon a gosto"
+    },
+    {
+      "name": "1 lata de creme de leite sem soro"
+    }
   ],
   "recipeInstructions": [
     {

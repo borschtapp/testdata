@@ -38,19 +38,41 @@
     "Pot Luck",
     "Party"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "500 grams cherry tomatoes",
-    "4 tablespoon extra virgin olive oil",
-    "1 teaspoon spice oregano",
-    "0 As required salt",
-    "0 As required black pepper",
-    "250 grams pasta tortelleni",
-    "2 cloves garlic",
-    "2 teaspoon pesto sauce",
-    "1/4 cup parmesan cheese",
-    "6 Numbers basil",
-    "0 As required water"
+    {
+      "name": "500 grams cherry tomatoes"
+    },
+    {
+      "name": "4 tablespoon extra virgin olive oil"
+    },
+    {
+      "name": "1 teaspoon spice oregano"
+    },
+    {
+      "name": "0 As required salt"
+    },
+    {
+      "name": "0 As required black pepper"
+    },
+    {
+      "name": "250 grams pasta tortelleni"
+    },
+    {
+      "name": "2 cloves garlic"
+    },
+    {
+      "name": "2 teaspoon pesto sauce"
+    },
+    {
+      "name": "1/4 cup parmesan cheese"
+    },
+    {
+      "name": "6 Numbers basil"
+    },
+    {
+      "name": "0 As required water"
+    }
   ],
   "recipeInstructions": [
     {
@@ -67,8 +89,8 @@
     }
   ],
   "nutrition": {
-    "calories": "331 cal",
-    "servingSize": "1 bowl"
+    "servingSize": "1 bowl",
+    "calories": 331
   },
   "aggregateRating": {
     "reviewCount": 2,

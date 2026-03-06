@@ -47,28 +47,68 @@
     "vegetarian risotto",
     "shrimp risotto"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "1 lb cherry or grape tomatoes",
-    "1 tablespoon olive oil",
-    "1 white or yellow onion, diced",
-    "2 tablespoons olive oil",
-    "4-6 cloves garlic, rough chopped",
-    "1 teaspoon dried thyme (or 1 tablespoon fresh)",
-    "1 1/2 cups arborio rice or Spanish short-grain rice",
-    "pinch saffron",
-    "1/2 teaspoon salt",
-    "1/2 teaspoon pepper",
-    "1/4 teaspoon smoked paprika",
-    "6-8 cups veggie stock or chicken stock, warmed",
-    "1 tablespoon butter",
-    "1/4 cup grated parmesan",
-    "16 ounces large shrimp -raw, peeled, deveined (or sub a white fish)",
-    "1 tablespoon cumin",
-    "1 tablespoon smoked paprika",
-    "2 teaspoons granulated garlic",
-    "1 teaspoon salt",
-    "oil for searing"
+    {
+      "name": "1 lb cherry or grape tomatoes"
+    },
+    {
+      "name": "1 tablespoon olive oil"
+    },
+    {
+      "name": "1 white or yellow onion, diced"
+    },
+    {
+      "name": "2 tablespoons olive oil"
+    },
+    {
+      "name": "4-6 cloves garlic, rough chopped"
+    },
+    {
+      "name": "1 teaspoon dried thyme (or 1 tablespoon fresh)"
+    },
+    {
+      "name": "1 1/2 cups arborio rice or Spanish short-grain rice"
+    },
+    {
+      "name": "pinch saffron"
+    },
+    {
+      "name": "1/2 teaspoon salt"
+    },
+    {
+      "name": "1/2 teaspoon pepper"
+    },
+    {
+      "name": "1/4 teaspoon smoked paprika"
+    },
+    {
+      "name": "6-8 cups veggie stock or chicken stock, warmed"
+    },
+    {
+      "name": "1 tablespoon butter"
+    },
+    {
+      "name": "1/4 cup grated parmesan"
+    },
+    {
+      "name": "16 ounces large shrimp -raw, peeled, deveined (or sub a white fish)"
+    },
+    {
+      "name": "1 tablespoon cumin"
+    },
+    {
+      "name": "1 tablespoon smoked paprika"
+    },
+    {
+      "name": "2 teaspoons granulated garlic"
+    },
+    {
+      "name": "1 teaspoon salt"
+    },
+    {
+      "name": "oil for searing"
+    }
   ],
   "recipeInstructions": [
     {
@@ -105,17 +145,17 @@
     }
   ],
   "nutrition": {
-    "calories": "435 calories",
     "servingSize": "1 ½ cup serving without shrimp",
-    "carbohydrateContent": "73.1 g",
-    "cholesterolContent": "11.2 mg",
-    "fatContent": "12.1 g",
-    "fiberContent": "2.8 g",
-    "proteinContent": "9 g",
-    "saturatedFatContent": "3.8 g",
-    "sodiumContent": "943.1 mg",
-    "sugarContent": "6.9 g",
-    "transFatContent": "0 g"
+    "calories": 435,
+    "carbohydrateContent": 73.1,
+    "cholesterolContent": 11.2,
+    "fatContent": 12.1,
+    "fiberContent": 2.8,
+    "proteinContent": 9,
+    "saturatedFatContent": 3.8,
+    "sodiumContent": 943.1,
+    "sugarContent": 6.9,
+    "transFatContent": 0
   },
   "aggregateRating": {
     "reviewCount": 39,

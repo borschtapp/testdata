@@ -44,17 +44,35 @@
     "keto bread rolls",
     "keto hamburger buns"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "1 egg",
-    "1 tsp apple cider vinegar",
-    "¼ cup ground flaxseed/linseed (ground)",
-    "¾ cup almond meal/flour",
-    "1¾ cup pre-shredded/grated mozzarella",
-    "2 tbsp cream cheese",
-    "1 tsp baking powder",
-    "1 tsp extra virgin olive oil",
-    "1 tsp sesame seeds"
+    {
+      "name": "1 egg"
+    },
+    {
+      "name": "1 tsp apple cider vinegar"
+    },
+    {
+      "name": "¼ cup ground flaxseed/linseed (ground)"
+    },
+    {
+      "name": "¾ cup almond meal/flour"
+    },
+    {
+      "name": "1¾ cup pre-shredded/grated mozzarella"
+    },
+    {
+      "name": "2 tbsp cream cheese"
+    },
+    {
+      "name": "1 tsp baking powder"
+    },
+    {
+      "name": "1 tsp extra virgin olive oil"
+    },
+    {
+      "name": "1 tsp sesame seeds"
+    }
   ],
   "recipeInstructions": [
     {
@@ -93,14 +111,14 @@
     }
   ],
   "nutrition": {
-    "calories": "394 kcal",
     "servingSize": "1 hamburger bun",
-    "carbohydrateContent": "10 g",
-    "fatContent": "32.1 g",
-    "fiberContent": "5.5 g",
-    "proteinContent": "20.1 g",
-    "sodiumContent": "368.3 mg",
-    "sugarContent": "1.8 g"
+    "calories": 394,
+    "carbohydrateContent": 10,
+    "fatContent": 32.1,
+    "fiberContent": 5.5,
+    "proteinContent": 20.1,
+    "sodiumContent": 368.3,
+    "sugarContent": 1.8
   },
   "aggregateRating": {
     "reviewCount": 15,

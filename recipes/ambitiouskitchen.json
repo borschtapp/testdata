@@ -41,32 +41,80 @@
   "keywords": [
     "pumpkin lasagna"
   ],
-  "recipeYield": 12,
+  "recipeYield": "12",
   "recipeIngredient": [
-    "For the noodles:",
-    "10 lasagna noodles",
-    "For the ricotta mixture:",
-    "½ tablespoon olive oil",
-    "6 ounces spinach (from 1 bag spinach)",
-    "1 (15 ounce) container part skim ricotta",
-    "1 egg",
-    "½ teaspoon garlic powder",
-    "½ teaspoon salt",
-    "Freshly ground black pepper",
-    "For the pumpkin layer:",
-    "2 (15 ounce) cans pumpkin puree",
-    "½ cup milk (I like unsweetened almond milk, but any milk will work)",
-    "¼ teaspoon cinnamon",
-    "¼ teaspoon nutmeg",
-    "¼ teaspoon ginger",
-    "¼ teaspoon allspice",
-    "¾ teaspoon salt",
-    "Freshly ground black pepper",
-    "For the layers:",
-    "3 cups shredded mozzarella cheese, divided (approximately 12 ounces)",
-    "1 cup grated parmesan cheese, divided",
-    "To garnish:",
-    "Fresh chopped parsley or small sage leaves"
+    {
+      "name": "For the noodles:"
+    },
+    {
+      "name": "10 lasagna noodles"
+    },
+    {
+      "name": "For the ricotta mixture:"
+    },
+    {
+      "name": "½ tablespoon olive oil"
+    },
+    {
+      "name": "6 ounces spinach (from 1 bag spinach)"
+    },
+    {
+      "name": "1 (15 ounce) container part skim ricotta"
+    },
+    {
+      "name": "1 egg"
+    },
+    {
+      "name": "½ teaspoon garlic powder"
+    },
+    {
+      "name": "½ teaspoon salt"
+    },
+    {
+      "name": "Freshly ground black pepper"
+    },
+    {
+      "name": "For the pumpkin layer:"
+    },
+    {
+      "name": "2 (15 ounce) cans pumpkin puree"
+    },
+    {
+      "name": "½ cup milk (I like unsweetened almond milk, but any milk will work)"
+    },
+    {
+      "name": "¼ teaspoon cinnamon"
+    },
+    {
+      "name": "¼ teaspoon nutmeg"
+    },
+    {
+      "name": "¼ teaspoon ginger"
+    },
+    {
+      "name": "¼ teaspoon allspice"
+    },
+    {
+      "name": "¾ teaspoon salt"
+    },
+    {
+      "name": "Freshly ground black pepper"
+    },
+    {
+      "name": "For the layers:"
+    },
+    {
+      "name": "3 cups shredded mozzarella cheese, divided (approximately 12 ounces)"
+    },
+    {
+      "name": "1 cup grated parmesan cheese, divided"
+    },
+    {
+      "name": "To garnish:"
+    },
+    {
+      "name": "Fresh chopped parsley or small sage leaves"
+    }
   ],
   "recipeInstructions": [
     {
@@ -107,14 +155,14 @@
     }
   ],
   "nutrition": {
-    "calories": "311 kcal",
     "servingSize": "1 slice",
-    "carbohydrateContent": "31.3 g",
-    "fatContent": "12.1 g",
-    "fiberContent": "4.4 g",
-    "proteinContent": "19.1 g",
-    "saturatedFatContent": "5.3 g",
-    "sugarContent": "4 g"
+    "calories": 311,
+    "carbohydrateContent": 31.3,
+    "fatContent": 12.1,
+    "fiberContent": 4.4,
+    "proteinContent": 19.1,
+    "saturatedFatContent": 5.3,
+    "sugarContent": 4
   },
   "aggregateRating": {
     "ratingCount": 61,

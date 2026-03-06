@@ -30,21 +30,47 @@
   "recipeCategory": [
     "Vegan Noodles \u0026 Pasta Recipes"
   ],
-  "recipeYield": 6,
+  "recipeYield": "Makes 6 cups",
   "recipeIngredient": [
-    "1 medium butternut squash (1¾ lb.)",
-    "1 tablespoon extra-virgin olive oil (optional, learn more)",
-    "1 onion, finely chopped (1 cup)",
-    "4 cloves garlic, minced",
-    "½ teaspoon finely chopped fresh thyme",
-    "1 cup unsweetened, unflavored plant milk",
-    "2 tablespoons nutritional yeast",
-    "1 tablespoon white wine vinegar",
-    "½ teaspoon sea salt",
-    "⅛ teaspoon freshly ground black pepper",
-    "3 cups dried whole grain penne pasta (8 oz.)",
-    "3 cups small broccoli florets",
-    "Fresh basil leaves"
+    {
+      "name": "1 medium butternut squash (1¾ lb.)"
+    },
+    {
+      "name": "1 tablespoon extra-virgin olive oil (optional, learn more)"
+    },
+    {
+      "name": "1 onion, finely chopped (1 cup)"
+    },
+    {
+      "name": "4 cloves garlic, minced"
+    },
+    {
+      "name": "½ teaspoon finely chopped fresh thyme"
+    },
+    {
+      "name": "1 cup unsweetened, unflavored plant milk"
+    },
+    {
+      "name": "2 tablespoons nutritional yeast"
+    },
+    {
+      "name": "1 tablespoon white wine vinegar"
+    },
+    {
+      "name": "½ teaspoon sea salt"
+    },
+    {
+      "name": "⅛ teaspoon freshly ground black pepper"
+    },
+    {
+      "name": "3 cups dried whole grain penne pasta (8 oz.)"
+    },
+    {
+      "name": "3 cups small broccoli florets"
+    },
+    {
+      "name": "Fresh basil leaves"
+    }
   ],
   "recipeInstructions": [
     {
@@ -61,16 +87,16 @@
     }
   ],
   "nutrition": {
-    "calories": "490 calories",
     "servingSize": "2 cups",
-    "carbohydrateContent": "104 grams",
-    "cholesterolContent": "0 milligrams",
-    "fatContent": "5 grams",
-    "fiberContent": "10 grams",
-    "proteinContent": "22 grams",
-    "saturatedFatContent": "0 grams",
-    "sodiumContent": "651 grams",
-    "sugarContent": "12 grams"
+    "calories": 490,
+    "carbohydrateContent": 104,
+    "cholesterolContent": 0,
+    "fatContent": 5,
+    "fiberContent": 10,
+    "proteinContent": 22,
+    "saturatedFatContent": 0,
+    "sodiumContent": 651,
+    "sugarContent": 12
   },
   "aggregateRating": {
     "reviewCount": 67,

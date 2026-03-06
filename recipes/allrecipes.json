@@ -31,28 +31,68 @@
   "keywords": [
     "publisher-tested"
   ],
-  "recipeYield": 12,
+  "recipeYield": "12",
   "recipeIngredient": [
-    "1 pound sweet Italian sausage",
-    "0.75 pound lean ground beef",
-    "0.5 cup minced onion",
-    "2 cloves garlic, crushed",
-    "1 (28 ounce) can crushed tomatoes",
-    "2 (6.5 ounce) cans canned tomato sauce",
-    "2 (6 ounce) cans tomato paste",
-    "0.5 cup water",
-    "2 tablespoons white sugar",
-    "4 tablespoons chopped fresh parsley, divided",
-    "1.5 teaspoons dried basil leaves",
-    "1.5 teaspoons salt, divided, or to taste",
-    "1 teaspoon Italian seasoning",
-    "0.5 teaspoon fennel seeds",
-    "0.25 teaspoon ground black pepper",
-    "12 lasagna noodles",
-    "16 ounces ricotta cheese",
-    "1 egg",
-    "0.75 pound mozzarella cheese, sliced",
-    "0.75 cup grated Parmesan cheese"
+    {
+      "name": "1 pound sweet Italian sausage"
+    },
+    {
+      "name": "0.75 pound lean ground beef"
+    },
+    {
+      "name": "0.5 cup minced onion"
+    },
+    {
+      "name": "2 cloves garlic, crushed"
+    },
+    {
+      "name": "1 (28 ounce) can crushed tomatoes"
+    },
+    {
+      "name": "2 (6.5 ounce) cans canned tomato sauce"
+    },
+    {
+      "name": "2 (6 ounce) cans tomato paste"
+    },
+    {
+      "name": "0.5 cup water"
+    },
+    {
+      "name": "2 tablespoons white sugar"
+    },
+    {
+      "name": "4 tablespoons chopped fresh parsley, divided"
+    },
+    {
+      "name": "1.5 teaspoons dried basil leaves"
+    },
+    {
+      "name": "1.5 teaspoons salt, divided, or to taste"
+    },
+    {
+      "name": "1 teaspoon Italian seasoning"
+    },
+    {
+      "name": "0.5 teaspoon fennel seeds"
+    },
+    {
+      "name": "0.25 teaspoon ground black pepper"
+    },
+    {
+      "name": "12 lasagna noodles"
+    },
+    {
+      "name": "16 ounces ricotta cheese"
+    },
+    {
+      "name": "1 egg"
+    },
+    {
+      "name": "0.75 pound mozzarella cheese, sliced"
+    },
+    {
+      "name": "0.75 cup grated Parmesan cheese"
+    }
   ],
   "recipeInstructions": [
     {
@@ -96,16 +136,16 @@
     }
   ],
   "nutrition": {
-    "calories": "448 kcal",
-    "carbohydrateContent": "37 g",
-    "cholesterolContent": "82 mg",
-    "fatContent": "21 g",
-    "fiberContent": "4 g",
-    "proteinContent": "30 g",
-    "saturatedFatContent": "10 g",
-    "sodiumContent": "1400 mg",
-    "sugarContent": "9 g",
-    "unsaturatedFatContent": "0 g"
+    "calories": 448,
+    "carbohydrateContent": 37,
+    "cholesterolContent": 82,
+    "fatContent": 21,
+    "fiberContent": 4,
+    "proteinContent": 30,
+    "saturatedFatContent": 10,
+    "sodiumContent": 1400,
+    "sugarContent": 9,
+    "unsaturatedFatContent": 0
   },
   "aggregateRating": {
     "ratingCount": 20919,

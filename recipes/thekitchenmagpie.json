@@ -41,17 +41,35 @@
   "keywords": [
     "salmon loaf"
   ],
-  "recipeYield": 8,
+  "recipeYield": "8",
   "recipeIngredient": [
-    "16 ounces of canned salmon (drained)",
-    "1 cup seasoned fine breadcrumbs",
-    "½ cup onion (finely chopped)",
-    "1 tsp dill weed",
-    "1/2 cup milk",
-    "2 large eggs (beaten)",
-    "1 tablespoon lemon juice",
-    "½ tsp salt",
-    "¼ tsp black pepper"
+    {
+      "name": "16 ounces of canned salmon (drained)"
+    },
+    {
+      "name": "1 cup seasoned fine breadcrumbs"
+    },
+    {
+      "name": "½ cup onion (finely chopped)"
+    },
+    {
+      "name": "1 tsp dill weed"
+    },
+    {
+      "name": "1/2 cup milk"
+    },
+    {
+      "name": "2 large eggs (beaten)"
+    },
+    {
+      "name": "1 tablespoon lemon juice"
+    },
+    {
+      "name": "½ tsp salt"
+    },
+    {
+      "name": "¼ tsp black pepper"
+    }
   ],
   "recipeInstructions": [
     {
@@ -80,17 +98,17 @@
     }
   ],
   "nutrition": {
-    "calories": "158 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "11 g",
-    "cholesterolContent": "94 mg",
-    "fatContent": "5 g",
-    "fiberContent": "1 g",
-    "proteinContent": "17 g",
-    "saturatedFatContent": "1 g",
-    "sodiumContent": "580 mg",
-    "sugarContent": "1 g",
-    "transFatContent": "1 g"
+    "calories": 158,
+    "carbohydrateContent": 11,
+    "cholesterolContent": 94,
+    "fatContent": 5,
+    "fiberContent": 1,
+    "proteinContent": 17,
+    "saturatedFatContent": 1,
+    "sodiumContent": 580,
+    "sugarContent": 1,
+    "transFatContent": 1
   },
   "aggregateRating": {
     "reviewCount": 4,

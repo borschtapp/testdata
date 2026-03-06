@@ -15,7 +15,9 @@ func main() {
 
 	testdata.WalkTestdataRecipes(func(name string, recipe model.Recipe) {
 		if recipe.Ingredients != nil {
-			ingredients = append(ingredients, recipe.Ingredients...)
+			for _, ingredient := range recipe.Ingredients {
+				ingredients = append(ingredients, ingredient.Name)
+			}
 		}
 	})
 

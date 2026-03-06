@@ -35,16 +35,32 @@
     "dessert",
     "sweet breakfast"
   ],
-  "recipeYield": 1,
+  "recipeYield": "1",
   "recipeIngredient": [
-    "2 Cups Flour",
-    "1 teaspoon Baking Soda",
-    "1/2 teaspoon Salt",
-    "1/3 Cup Canola Oil",
-    "1 Cup Sugar",
-    "2 Large Eggs",
-    "1 1/3 Cups Mashed Banana (about 2 very large bananas or 3 small)",
-    "2/3 Cup Mini Chocolate Chips"
+    {
+      "name": "2 Cups Flour"
+    },
+    {
+      "name": "1 teaspoon Baking Soda"
+    },
+    {
+      "name": "1/2 teaspoon Salt"
+    },
+    {
+      "name": "1/3 Cup Canola Oil"
+    },
+    {
+      "name": "1 Cup Sugar"
+    },
+    {
+      "name": "2 Large Eggs"
+    },
+    {
+      "name": "1 1/3 Cups Mashed Banana (about 2 very large bananas or 3 small)"
+    },
+    {
+      "name": "2/3 Cup Mini Chocolate Chips"
+    }
   ],
   "recipeInstructions": [
     {
@@ -85,17 +101,17 @@
     }
   ],
   "nutrition": {
-    "calories": "272 kcal",
     "servingSize": "1 slice",
-    "carbohydrateContent": "46 g",
-    "cholesterolContent": "29 mg",
-    "fatContent": "9 g",
-    "fiberContent": "2 g",
-    "proteinContent": "4 g",
-    "saturatedFatContent": "2 g",
-    "sodiumContent": "191 mg",
-    "sugarContent": "26 g",
-    "unsaturatedFatContent": "7 g"
+    "calories": 272,
+    "carbohydrateContent": 46,
+    "cholesterolContent": 29,
+    "fatContent": 9,
+    "fiberContent": 2,
+    "proteinContent": 4,
+    "saturatedFatContent": 2,
+    "sodiumContent": 191,
+    "sugarContent": 26,
+    "unsaturatedFatContent": 7
   },
   "aggregateRating": {
     "reviewCount": 4,

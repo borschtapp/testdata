@@ -18,20 +18,44 @@
     "url": "https://southerncastiron.com",
     "logo": "https://i0.wp.com/southerncastiron.com/wp-content/uploads/2017/06/sthCastIron-logo-272x90.png?fit=273%2C90\u0026ssl=1"
   },
-  "recipeYield": 8,
+  "recipeYield": "8-10",
   "recipeIngredient": [
-    "4 cups apple cider*",
-    "2 tablespoons unsalted butter, softened",
-    "1½ cups sugar, divided",
-    "1 teaspoon vanilla extract",
-    "1 large egg",
-    "⅔ cup sour cream",
-    "2¼ cups all-purpose flour",
-    "1½ teaspoons baking powder",
-    "1¼ teaspoons apple pie spice, divided",
-    "½ teaspoon kosher salt",
-    "½ cup grated Golden Delicious apple",
-    "Vegetable oil, for frying"
+    {
+      "name": "4 cups apple cider*"
+    },
+    {
+      "name": "2 tablespoons unsalted butter, softened"
+    },
+    {
+      "name": "1½ cups sugar, divided"
+    },
+    {
+      "name": "1 teaspoon vanilla extract"
+    },
+    {
+      "name": "1 large egg"
+    },
+    {
+      "name": "⅔ cup sour cream"
+    },
+    {
+      "name": "2¼ cups all-purpose flour"
+    },
+    {
+      "name": "1½ teaspoons baking powder"
+    },
+    {
+      "name": "1¼ teaspoons apple pie spice, divided"
+    },
+    {
+      "name": "½ teaspoon kosher salt"
+    },
+    {
+      "name": "½ cup grated Golden Delicious apple"
+    },
+    {
+      "name": "Vegetable oil, for frying"
+    }
   ],
   "recipeInstructions": [
     {

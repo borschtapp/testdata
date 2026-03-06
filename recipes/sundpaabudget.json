@@ -34,21 +34,47 @@
     "Kylling",
     "One pot"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "300 g kyllingekebab",
-    "1 spsk olie",
-    "2 alm. løg",
-    "2 tomater",
-    "2 peberfrugter",
-    "300 g fuldkornsspaghetti (el. pasta)",
-    "125 g flødeost m. hvidløg",
-    "7 dl vand",
-    "1 bouillonterning",
-    "0,5 tsk spidskommen",
-    "0,5 tsk paprika (evt. røget)",
-    "chili eller cayennepeber efter smag",
-    "salt og peber"
+    {
+      "name": "300 g kyllingekebab"
+    },
+    {
+      "name": "1 spsk olie"
+    },
+    {
+      "name": "2 alm. løg"
+    },
+    {
+      "name": "2 tomater"
+    },
+    {
+      "name": "2 peberfrugter"
+    },
+    {
+      "name": "300 g fuldkornsspaghetti (el. pasta)"
+    },
+    {
+      "name": "125 g flødeost m. hvidløg"
+    },
+    {
+      "name": "7 dl vand"
+    },
+    {
+      "name": "1 bouillonterning"
+    },
+    {
+      "name": "0,5 tsk spidskommen"
+    },
+    {
+      "name": "0,5 tsk paprika (evt. røget)"
+    },
+    {
+      "name": "chili eller cayennepeber efter smag"
+    },
+    {
+      "name": "salt og peber"
+    }
   ],
   "recipeInstructions": [
     {
@@ -73,8 +99,8 @@
     }
   ],
   "nutrition": {
-    "calories": "300 kcal",
-    "servingSize": "1 person"
+    "servingSize": "1 person",
+    "calories": 300
   },
   "aggregateRating": {
     "reviewCount": 6,

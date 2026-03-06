@@ -23,12 +23,20 @@
   "keywords": [
     "Receita de Caipirinha - Original"
   ],
-  "recipeYield": 1,
+  "recipeYield": "1 porção",
   "recipeIngredient": [
-    "1 limão grande",
-    "2 colheres de açúcar",
-    "gelo a gosto",
-    "cachaça (o quanto bastar para completar o copo)"
+    {
+      "name": "1 limão grande"
+    },
+    {
+      "name": "2 colheres de açúcar"
+    },
+    {
+      "name": "gelo a gosto"
+    },
+    {
+      "name": "cachaça (o quanto bastar para completar o copo)"
+    }
   ],
   "recipeInstructions": [
     {

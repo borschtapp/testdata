@@ -40,18 +40,38 @@
     "chilli cheese paratha recipe",
     "cheesy paratha recipe"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "215g Plain Flour",
-    "140ml Water",
-    "7Clove Garlic",
-    "3tsp Chilli Powder",
-    "15g Coriander",
-    "3 Spring Onion",
-    "175g Mozzarella",
-    "175g Cheddar Cheese",
-    "Salt",
-    "Vegetable Oil"
+    {
+      "name": "215g Plain Flour"
+    },
+    {
+      "name": "140ml Water"
+    },
+    {
+      "name": "7Clove Garlic"
+    },
+    {
+      "name": "3tsp Chilli Powder"
+    },
+    {
+      "name": "15g Coriander"
+    },
+    {
+      "name": "3 Spring Onion"
+    },
+    {
+      "name": "175g Mozzarella"
+    },
+    {
+      "name": "175g Cheddar Cheese"
+    },
+    {
+      "name": "Salt"
+    },
+    {
+      "name": "Vegetable Oil"
+    }
   ],
   "recipeInstructions": [
     {

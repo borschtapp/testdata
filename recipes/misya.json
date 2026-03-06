@@ -29,18 +29,38 @@
     "tortino cuore caldo",
     "ricetta tortino cuore caldo"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6 tortini",
   "recipeIngredient": [
-    "2 di uova",
-    "2 di tuorli",
-    "100 gr di zucchero",
-    "110 gr di cioccolato bianco",
-    "110 gr di burro",
-    "50 gr di farina",
-    "6 gr di cacao",
-    "1 cucchiaino di essenza di vaniglia",
-    "1 cucchiaino di colorante rosso",
-    "zucchero a velo"
+    {
+      "name": "2 di uova"
+    },
+    {
+      "name": "2 di tuorli"
+    },
+    {
+      "name": "100 gr di zucchero"
+    },
+    {
+      "name": "110 gr di cioccolato bianco"
+    },
+    {
+      "name": "110 gr di burro"
+    },
+    {
+      "name": "50 gr di farina"
+    },
+    {
+      "name": "6 gr di cacao"
+    },
+    {
+      "name": "1 cucchiaino di essenza di vaniglia"
+    },
+    {
+      "name": "1 cucchiaino di colorante rosso"
+    },
+    {
+      "name": "zucchero a velo"
+    }
   ],
   "recipeInstructions": [
     {

@@ -31,16 +31,32 @@
   },
   "prepTime": "PT10M",
   "totalTime": "PT10M",
-  "recipeYield": 12,
+  "recipeYield": "12",
   "recipeIngredient": [
-    "2 bottles Spanish red wine (Rioja is most popular)",
-    "1/2 cup brandy",
-    "2 oranges, one juiced and one diced",
-    "1 green apple, diced",
-    "1 lemon, diced",
-    "1 cinnamon stick",
-    "optional sweetener: simple syrup* or maple syrup",
-    "optional bubbles: lemon-lime soda, ginger ale or sparkling water"
+    {
+      "name": "2 bottles Spanish red wine (Rioja is most popular)"
+    },
+    {
+      "name": "1/2 cup brandy"
+    },
+    {
+      "name": "2 oranges, one juiced and one diced"
+    },
+    {
+      "name": "1 green apple, diced"
+    },
+    {
+      "name": "1 lemon, diced"
+    },
+    {
+      "name": "1 cinnamon stick"
+    },
+    {
+      "name": "optional sweetener: simple syrup* or maple syrup"
+    },
+    {
+      "name": "optional bubbles: lemon-lime soda, ginger ale or sparkling water"
+    }
   ],
   "recipeInstructions": [
     {

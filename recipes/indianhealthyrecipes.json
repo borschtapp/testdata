@@ -40,17 +40,35 @@
     "Banana cake",
     "banana cake recipe"
   ],
-  "recipeYield": 16,
+  "recipeYield": "16",
   "recipeIngredient": [
-    "2 cups (240 grams) all-purpose flour (or wheat flour (refer notes))",
-    "2 ½ teaspoons (12.5 g) baking powder",
-    "½ teaspoon salt ((or ⅓ teaspoon table salt))",
-    "1 cup (200 grams) fine sugar ((prefer organic))",
-    "100 grams (3.53 oz) unsalted butter ((soft \u0026 cold) )",
-    "2 eggs",
-    "2 teaspoons (10 ml) vanilla extract",
-    "160 ml milk",
-    "1 cup ripe banana (mashed)"
+    {
+      "name": "2 cups (240 grams) all-purpose flour (or wheat flour (refer notes))"
+    },
+    {
+      "name": "2 ½ teaspoons (12.5 g) baking powder"
+    },
+    {
+      "name": "½ teaspoon salt ((or ⅓ teaspoon table salt))"
+    },
+    {
+      "name": "1 cup (200 grams) fine sugar ((prefer organic))"
+    },
+    {
+      "name": "100 grams (3.53 oz) unsalted butter ((soft \u0026 cold) )"
+    },
+    {
+      "name": "2 eggs"
+    },
+    {
+      "name": "2 teaspoons (10 ml) vanilla extract"
+    },
+    {
+      "name": "160 ml milk"
+    },
+    {
+      "name": "1 cup ripe banana (mashed)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -125,16 +143,16 @@
     }
   ],
   "nutrition": {
-    "calories": "123 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "14 g",
-    "cholesterolContent": "34 mg",
-    "fatContent": "6 g",
-    "fiberContent": "1 g",
-    "proteinContent": "3 g",
-    "saturatedFatContent": "3 g",
-    "sodiumContent": "129 mg",
-    "sugarContent": "2 g"
+    "calories": 123,
+    "carbohydrateContent": 14,
+    "cholesterolContent": 34,
+    "fatContent": 6,
+    "fiberContent": 1,
+    "proteinContent": 3,
+    "saturatedFatContent": 3,
+    "sodiumContent": 129,
+    "sugarContent": 2
   },
   "aggregateRating": {
     "reviewCount": 11,

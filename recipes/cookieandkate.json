@@ -42,20 +42,44 @@
   "keywords": [
     "Broccoli Cheddar Frittata"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "8 SimplyNature Organic Cage Free Eggs",
-    "½ cup milk of choice",
-    "2 small-to-medium cloves garlic, pressed or minced",
-    "½ teaspoon sea salt, divided",
-    "Freshly ground black pepper",
-    "1 cup freshly grated cheddar cheese, divided",
-    "1 tablespoon SimplyNature Organic Extra Virgin Olive Oil, more as needed",
-    "1 small yellow onion, chopped",
-    "⅓ cup water",
-    "2 cups thinly sliced broccoli florets",
-    "2 cups SimplyNature Organic Baby Spinach, roughly chopped",
-    "⅓ cup thinly sliced green onions"
+    {
+      "name": "8 SimplyNature Organic Cage Free Eggs"
+    },
+    {
+      "name": "½ cup milk of choice"
+    },
+    {
+      "name": "2 small-to-medium cloves garlic, pressed or minced"
+    },
+    {
+      "name": "½ teaspoon sea salt, divided"
+    },
+    {
+      "name": "Freshly ground black pepper"
+    },
+    {
+      "name": "1 cup freshly grated cheddar cheese, divided"
+    },
+    {
+      "name": "1 tablespoon SimplyNature Organic Extra Virgin Olive Oil, more as needed"
+    },
+    {
+      "name": "1 small yellow onion, chopped"
+    },
+    {
+      "name": "⅓ cup water"
+    },
+    {
+      "name": "2 cups thinly sliced broccoli florets"
+    },
+    {
+      "name": "2 cups SimplyNature Organic Baby Spinach, roughly chopped"
+    },
+    {
+      "name": "⅓ cup thinly sliced green onions"
+    }
   ],
   "recipeInstructions": [
     {
@@ -80,17 +104,17 @@
     }
   ],
   "nutrition": {
-    "calories": "153 calories",
     "servingSize": "1 slice",
-    "carbohydrateContent": "3.7 g",
-    "cholesterolContent": "178.6 mg",
-    "fatContent": "10.9 g",
-    "fiberContent": "1 g",
-    "proteinContent": "6.7 g",
-    "saturatedFatContent": "4.6 g",
-    "sodiumContent": "316 mg",
-    "sugarContent": "1.1 g",
-    "transFatContent": "0 g"
+    "calories": 153,
+    "carbohydrateContent": 3.7,
+    "cholesterolContent": 178.6,
+    "fatContent": 10.9,
+    "fiberContent": 1,
+    "proteinContent": 6.7,
+    "saturatedFatContent": 4.6,
+    "sodiumContent": 316,
+    "sugarContent": 1.1,
+    "transFatContent": 0
   },
   "aggregateRating": {
     "reviewCount": 67,

@@ -72,13 +72,23 @@
   "recipeCuisine": [
     "French"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "600 g Filet de saumon",
-    "30 ml Huile d'olive",
-    "4 g Origan séché",
-    "1 pincée(s) Sel",
-    "1 pincée(s) Poivre"
+    {
+      "name": "600 g Filet de saumon"
+    },
+    {
+      "name": "30 ml Huile d'olive"
+    },
+    {
+      "name": "4 g Origan séché"
+    },
+    {
+      "name": "1 pincée(s) Sel"
+    },
+    {
+      "name": "1 pincée(s) Poivre"
+    }
   ],
   "recipeInstructions": [
     {
@@ -98,7 +108,7 @@
     }
   ],
   "nutrition": {
-    "calories": "339"
+    "calories": 339
   },
   "aggregateRating": {
     "reviewCount": 30,
@@ -115,6 +125,7 @@
     "thumbnailUrl": "https://img.cuisineaz.com/400x300/2021/05/26/i0-filet-de-saumon-au-four.jpeg",
     "uploadDate": "2021-05-26T14:59:23.06+02:00"
   },
+  "estimatedCost": "Moyennement cher",
   "dateModified": "2024-11-13T12:10:01.49+01:00",
   "datePublished": "2015-07-27T18:00:00+02:00"
 }

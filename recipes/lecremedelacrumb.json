@@ -53,17 +53,35 @@
     "instant pot",
     "slow cooker"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "3-4 medium to large boneless skinless chicken breasts",
-    "1 cup chicken broth (or water)",
-    "1 teaspoon salt",
-    "1 teaspoon ground cumin",
-    "1 teaspoon chili powder",
-    "1 teaspoon garlic powder",
-    "1 15-ounce can fire roasted tomatoes",
-    "corn or flour taco-size tortillas",
-    "avocado, tomatoes, cheese, cilantro, sour cream (for serving)"
+    {
+      "name": "3-4 medium to large boneless skinless chicken breasts"
+    },
+    {
+      "name": "1 cup chicken broth (or water)"
+    },
+    {
+      "name": "1 teaspoon salt"
+    },
+    {
+      "name": "1 teaspoon ground cumin"
+    },
+    {
+      "name": "1 teaspoon chili powder"
+    },
+    {
+      "name": "1 teaspoon garlic powder"
+    },
+    {
+      "name": "1 15-ounce can fire roasted tomatoes"
+    },
+    {
+      "name": "corn or flour taco-size tortillas"
+    },
+    {
+      "name": "avocado, tomatoes, cheese, cilantro, sour cream (for serving)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -84,17 +102,17 @@
     }
   ],
   "nutrition": {
-    "calories": "202 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "1 g",
-    "cholesterolContent": "108 mg",
-    "fatContent": "5 g",
-    "fiberContent": "1 g",
-    "proteinContent": "37 g",
-    "saturatedFatContent": "1 g",
-    "sodiumContent": "1003 mg",
-    "sugarContent": "1 g",
-    "transFatContent": "1 g"
+    "calories": 202,
+    "carbohydrateContent": 1,
+    "cholesterolContent": 108,
+    "fatContent": 5,
+    "fiberContent": 1,
+    "proteinContent": 37,
+    "saturatedFatContent": 1,
+    "sodiumContent": 1003,
+    "sugarContent": 1,
+    "transFatContent": 1
   },
   "aggregateRating": {
     "reviewCount": 15,

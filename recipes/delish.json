@@ -55,21 +55,47 @@
     "TOTALTIME: 01:00:00",
     "FILTERTIME: \u003e1HR"
   ],
-  "recipeYield": 8,
+  "recipeYield": "8 - 10 serving(s)",
   "recipeIngredient": [
-    "Cooking spray",
-    "3/4 c. (90 g.) all-purpose flour",
-    "1 tsp. baking soda",
-    "1/2 tsp. kosher salt",
-    "1/2 tsp. pumpkin spice",
-    "3 large eggs",
-    "1 c. (200 g.) granulated sugar",
-    "2/3 c. pumpkin puree",
-    "Confectioners' sugar, for rolling",
-    "12 oz. cream cheese, softened",
-    "1 tbsp. unsalted butter, melted",
-    "1 1/4 c. (145 g.) confectioners' sugar, plus more for dusting",
-    "1 tsp. pure vanilla extract"
+    {
+      "name": "Cooking spray"
+    },
+    {
+      "name": "3/4 c. (90 g.) all-purpose flour"
+    },
+    {
+      "name": "1 tsp. baking soda"
+    },
+    {
+      "name": "1/2 tsp. kosher salt"
+    },
+    {
+      "name": "1/2 tsp. pumpkin spice"
+    },
+    {
+      "name": "3 large eggs"
+    },
+    {
+      "name": "1 c. (200 g.) granulated sugar"
+    },
+    {
+      "name": "2/3 c. pumpkin puree"
+    },
+    {
+      "name": "Confectioners' sugar, for rolling"
+    },
+    {
+      "name": "12 oz. cream cheese, softened"
+    },
+    {
+      "name": "1 tbsp. unsalted butter, melted"
+    },
+    {
+      "name": "1 1/4 c. (145 g.) confectioners' sugar, plus more for dusting"
+    },
+    {
+      "name": "1 tsp. pure vanilla extract"
+    }
   ],
   "recipeInstructions": [
     {
@@ -105,16 +131,16 @@
     }
   ],
   "nutrition": {
-    "calories": " 427 Calories",
-    "carbohydrateContent": "57 g",
-    "cholesterolContent": "117 mg",
-    "fatContent": "20 g",
-    "fiberContent": "1 g",
-    "proteinContent": "6 g",
-    "saturatedFatContent": "10 g",
-    "sodiumContent": "332 mg",
-    "sugarContent": "47 g",
-    "transFatContent": "1 g"
+    "calories": 427,
+    "carbohydrateContent": 57,
+    "cholesterolContent": 117,
+    "fatContent": 20,
+    "fiberContent": 1,
+    "proteinContent": 6,
+    "saturatedFatContent": 10,
+    "sodiumContent": 332,
+    "sugarContent": 47,
+    "transFatContent": 1
   },
   "aggregateRating": {
     "reviewCount": 15,

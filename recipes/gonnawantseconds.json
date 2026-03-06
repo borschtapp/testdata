@@ -44,17 +44,35 @@
     "White Chicken Enchiladas",
     "White Chicken Enchiladas Recipe"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "8-10 small flour tortillas",
-    "3 cups cooked chicken (shredded or chopped)",
-    "3 cups Monterey jack cheese (shredded-divided)",
-    "3 tablespoons unsalted butter",
-    "3 tablespoons flour",
-    "2 cups chicken broth",
-    "1 cup sour cream",
-    "1 (4-ounce) can diced green chilies mild",
-    "2-3 tablespoons green onions (sliced)"
+    {
+      "name": "8-10 small flour tortillas"
+    },
+    {
+      "name": "3 cups cooked chicken (shredded or chopped)"
+    },
+    {
+      "name": "3 cups Monterey jack cheese (shredded-divided)"
+    },
+    {
+      "name": "3 tablespoons unsalted butter"
+    },
+    {
+      "name": "3 tablespoons flour"
+    },
+    {
+      "name": "2 cups chicken broth"
+    },
+    {
+      "name": "1 cup sour cream"
+    },
+    {
+      "name": "1 (4-ounce) can diced green chilies mild"
+    },
+    {
+      "name": "2-3 tablespoons green onions (sliced)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -75,16 +93,16 @@
     }
   ],
   "nutrition": {
-    "calories": "897 kcal",
     "servingSize": "1 g",
-    "carbohydrateContent": "39 g",
-    "cholesterolContent": "191 mg",
-    "fatContent": "63 g",
-    "fiberContent": "1.5 g",
-    "proteinContent": "45 g",
-    "saturatedFatContent": "33 g",
-    "sodiumContent": "1472 mg",
-    "sugarContent": "5.5 g"
+    "calories": 897,
+    "carbohydrateContent": 39,
+    "cholesterolContent": 191,
+    "fatContent": 63,
+    "fiberContent": 1.5,
+    "proteinContent": 45,
+    "saturatedFatContent": 33,
+    "sodiumContent": 1472,
+    "sugarContent": 5.5
   },
   "aggregateRating": {
     "reviewCount": 7,

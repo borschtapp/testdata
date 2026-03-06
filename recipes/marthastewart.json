@@ -34,15 +34,29 @@
     "Lunch",
     "Main course"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "3 large eggs",
-    "Coarse salt",
-    "0.333 cup all-purpose flour",
-    "3.5 cups fresh breadcrumbs",
-    "1 cup vegetable oil",
-    "8 thin chicken cutlets (about 1 ½ pounds total)",
-    "Lemon wedges, for serving (optional)"
+    {
+      "name": "3 large eggs"
+    },
+    {
+      "name": "Coarse salt"
+    },
+    {
+      "name": "0.333 cup all-purpose flour"
+    },
+    {
+      "name": "3.5 cups fresh breadcrumbs"
+    },
+    {
+      "name": "1 cup vegetable oil"
+    },
+    {
+      "name": "8 thin chicken cutlets (about 1 ½ pounds total)"
+    },
+    {
+      "name": "Lemon wedges, for serving (optional)"
+    }
   ],
   "recipeInstructions": [
     {

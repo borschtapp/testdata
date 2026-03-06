@@ -15,17 +15,35 @@
   "prepTime": "PT10M",
   "cookTime": "PT12M",
   "totalTime": "PT22M",
-  "recipeYield": 3,
+  "recipeYield": "3",
   "recipeIngredient": [
-    "3 Portobello Mushrooms",
-    "Drizzle of Olive Oil",
-    "3 tsp Pizza Seasoning",
-    "3 slices of tomato",
-    "9 Spinach leafs",
-    "1.5 Oz Mozzarella",
-    "1.5 Oz Monterey Jack",
-    "1.5 Oz Cheddar Cheese",
-    "12 Pepperonni slices"
+    {
+      "name": "3 Portobello Mushrooms"
+    },
+    {
+      "name": "Drizzle of Olive Oil"
+    },
+    {
+      "name": "3 tsp Pizza Seasoning"
+    },
+    {
+      "name": "3 slices of tomato"
+    },
+    {
+      "name": "9 Spinach leafs"
+    },
+    {
+      "name": "1.5 Oz Mozzarella"
+    },
+    {
+      "name": "1.5 Oz Monterey Jack"
+    },
+    {
+      "name": "1.5 Oz Cheddar Cheese"
+    },
+    {
+      "name": "12 Pepperonni slices"
+    }
   ],
   "recipeInstructions": [
     {
@@ -51,11 +69,11 @@
     }
   ],
   "nutrition": {
-    "calories": "276",
     "servingSize": "1 Pizza",
-    "carbohydrateContent": "6g",
-    "fatContent": "21g",
-    "fiberContent": "2g",
-    "proteinContent": "19g"
+    "calories": 276,
+    "carbohydrateContent": 6,
+    "fatContent": 21,
+    "fiberContent": 2,
+    "proteinContent": 19
   }
 }

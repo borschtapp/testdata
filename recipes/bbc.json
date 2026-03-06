@@ -59,17 +59,35 @@
     "egg free",
     "vegetarian"
   ],
-  "recipeYield": 6,
+  "recipeYield": "Serves 6 (makes a 18cm/7in cheesecake)",
   "recipeIngredient": [
-    "100g/3½oz butter, plus extra for greasing",
-    "250g/8¾oz digestive biscuits, crushed",
-    "600g/1lb 5oz full-fat cream cheese",
-    "25ml/1fl oz Irish cream liqueur, such as Baileys",
-    "100ml/3½oz icing sugar",
-    "300ml/10½oz double cream, whipped",
-    "100g/3½oz grated chocolate (dark or milk chocolate)",
-    "200ml/7¼oz double cream, whipped (optional)",
-    "cocoa powder or more grated chocolate"
+    {
+      "name": "100g/3½oz butter, plus extra for greasing"
+    },
+    {
+      "name": "250g/8¾oz digestive biscuits, crushed"
+    },
+    {
+      "name": "600g/1lb 5oz full-fat cream cheese"
+    },
+    {
+      "name": "25ml/1fl oz Irish cream liqueur, such as Baileys"
+    },
+    {
+      "name": "100ml/3½oz icing sugar"
+    },
+    {
+      "name": "300ml/10½oz double cream, whipped"
+    },
+    {
+      "name": "100g/3½oz grated chocolate (dark or milk chocolate)"
+    },
+    {
+      "name": "200ml/7¼oz double cream, whipped (optional)"
+    },
+    {
+      "name": "cocoa powder or more grated chocolate"
+    }
   ],
   "recipeInstructions": [
     {

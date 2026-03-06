@@ -19,13 +19,27 @@
     "Dessert"
   ],
   "recipeIngredient": [
-    "1 egg - beaten",
-    "1/2 tsp vanilla extract (optional)",
-    "1 tbsp heavy cream",
-    "2 tbsp cocoa powder",
-    "2 tablespoons sugar",
-    "1/4 tsp baking powder",
-    "1 tsp oil"
+    {
+      "name": "1 egg - beaten"
+    },
+    {
+      "name": "1/2 tsp vanilla extract (optional)"
+    },
+    {
+      "name": "1 tbsp heavy cream"
+    },
+    {
+      "name": "2 tbsp cocoa powder"
+    },
+    {
+      "name": "2 tablespoons sugar"
+    },
+    {
+      "name": "1/4 tsp baking powder"
+    },
+    {
+      "name": "1 tsp oil"
+    }
   ],
   "datePublished": "2012-02-02T05:32:14-06:00"
 }

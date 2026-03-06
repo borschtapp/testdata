@@ -29,20 +29,44 @@
   "prepTime": "PT30M",
   "cookTime": "PT1H30M",
   "totalTime": "PT2H",
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "600 g Rindergulasch (ca. 3x3 cm große Stücke, gegebenenfalls selbst kleiner schneiden)",
-    "400 ml Rinderfond (selbstgemacht oder aus dem Glas)",
-    "300 g Schalotten (geschält und halbiert)",
-    "200 ml trockener Rotwein, einen den Du gerne trinkst (alternativ roter 100% Traubendirektsaft )",
-    "40 g Tomatenmark",
-    "3 EL Butterschmalz (z.B. Buttaris; Alternativ Pflanzenöl )",
-    "1 Knoblauchzehe (geschält, klein geschnitten)",
-    "1-2 TL Zitronenabrieb (unbehandelt bzw. Bio) (kannst Du auch weggelassen )",
-    "2 TL Paprikapulver, edelsüß",
-    "1/2 TL Majoran, getrocknet",
-    "1 Msp. Cayennepfeffer",
-    "1 Prise Salz"
+    {
+      "name": "600 g Rindergulasch (ca. 3x3 cm große Stücke, gegebenenfalls selbst kleiner schneiden)"
+    },
+    {
+      "name": "400 ml Rinderfond (selbstgemacht oder aus dem Glas)"
+    },
+    {
+      "name": "300 g Schalotten (geschält und halbiert)"
+    },
+    {
+      "name": "200 ml trockener Rotwein, einen den Du gerne trinkst (alternativ roter 100% Traubendirektsaft )"
+    },
+    {
+      "name": "40 g Tomatenmark"
+    },
+    {
+      "name": "3 EL Butterschmalz (z.B. Buttaris; Alternativ Pflanzenöl )"
+    },
+    {
+      "name": "1 Knoblauchzehe (geschält, klein geschnitten)"
+    },
+    {
+      "name": "1-2 TL Zitronenabrieb (unbehandelt bzw. Bio) (kannst Du auch weggelassen )"
+    },
+    {
+      "name": "2 TL Paprikapulver, edelsüß"
+    },
+    {
+      "name": "1/2 TL Majoran, getrocknet"
+    },
+    {
+      "name": "1 Msp. Cayennepfeffer"
+    },
+    {
+      "name": "1 Prise Salz"
+    }
   ],
   "recipeInstructions": [
     {
@@ -87,11 +111,11 @@
     }
   ],
   "nutrition": {
-    "calories": "549 kcal",
     "servingSize": "1 Portion",
-    "carbohydrateContent": "8 g",
-    "fatContent": "38 g",
-    "proteinContent": "32 g"
+    "calories": 549,
+    "carbohydrateContent": 8,
+    "fatContent": 38,
+    "proteinContent": 32
   },
   "aggregateRating": {
     "reviewCount": 10,

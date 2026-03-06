@@ -1,5 +1,5 @@
 {
-  "url": "https://www.cookwell.com/recipe/huevos-rancheros",
+  "url": "https://cookwell.com/recipe/huevos-rancheros",
   "name": "Huevos Rancheros",
   "description": "A simple, filling, and flavorful breakfast.",
   "inLanguage": "en",
@@ -13,7 +13,7 @@
   },
   "publisher": {
     "name": "CookWell",
-    "url": "https://www.cookwell.com"
+    "url": "https://cookwell.com"
   },
   "totalTime": "PT50M",
   "recipeCategory": [
@@ -27,26 +27,62 @@
     "easy breakfast or brunch",
     "meal prep."
   ],
-  "recipeYield": 4,
+  "recipeYield": "4-6 tostadas",
   "recipeIngredient": [
-    "Corn tortillas, 4-6",
-    "Eggs, 4-6",
-    "Neutral oil, undefined",
-    "Cilantro, undefined",
-    "Cotija cheese, undefined",
-    "Pickled onions, undefined",
-    "Plum tomatoes, ~ 4",
-    "Serrano peppers, 1",
-    "Garlic, 1 clove",
-    "Neutral oil, a spoonful",
-    "White onions, 1/8",
-    "Salt, to taste",
-    "Lime juice, a splash",
-    "Pinto Beans, 1 28 oz can",
-    "Neutral oil, a spoonful",
-    "Cumin seeds, a spoonful",
-    "Garlic, 2 cloves",
-    "Salt, to taste"
+    {
+      "name": "Corn tortillas, 4-6"
+    },
+    {
+      "name": "Eggs, 4-6"
+    },
+    {
+      "name": "Neutral oil, undefined"
+    },
+    {
+      "name": "Cilantro, undefined"
+    },
+    {
+      "name": "Cotija cheese, undefined"
+    },
+    {
+      "name": "Pickled onions, undefined"
+    },
+    {
+      "name": "Plum tomatoes, ~ 4"
+    },
+    {
+      "name": "Serrano peppers, 1"
+    },
+    {
+      "name": "Garlic, 1 clove"
+    },
+    {
+      "name": "Neutral oil, a spoonful"
+    },
+    {
+      "name": "White onions, 1/8"
+    },
+    {
+      "name": "Salt, to taste"
+    },
+    {
+      "name": "Lime juice, a splash"
+    },
+    {
+      "name": "Pinto Beans, 1 28 oz can"
+    },
+    {
+      "name": "Neutral oil, a spoonful"
+    },
+    {
+      "name": "Cumin seeds, a spoonful"
+    },
+    {
+      "name": "Garlic, 2 cloves"
+    },
+    {
+      "name": "Salt, to taste"
+    }
   ],
   "recipeInstructions": [
     {
@@ -71,7 +107,7 @@
     }
   ],
   "nutrition": {
-    "calories": "315 calories"
+    "calories": 315
   },
   "video": {
     "name": "Huevos Rancheros, a simple yet delicious Mexican breakfast.",

@@ -25,20 +25,44 @@
     "salade de carottes",
     "salade de carottes cuites"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6 personnes",
   "recipeIngredient": [
-    "500g de carottes",
-    "3 jus d'orange",
-    "1 c.c de coriandre en grain",
-    "1 branche de thym",
-    "30g d'huile d'olive",
-    "2 oranges",
-    "1 fenouil",
-    "10 cl de vinaigrette citron",
-    "500 g de carottes",
-    "1/4 de botte de coriandre hachée",
-    "Sel",
-    "Piment d'Espelette"
+    {
+      "name": "500g de carottes"
+    },
+    {
+      "name": "3 jus d'orange"
+    },
+    {
+      "name": "1 c.c de coriandre en grain"
+    },
+    {
+      "name": "1 branche de thym"
+    },
+    {
+      "name": "30g d'huile d'olive"
+    },
+    {
+      "name": "2 oranges"
+    },
+    {
+      "name": "1 fenouil"
+    },
+    {
+      "name": "10 cl de vinaigrette citron"
+    },
+    {
+      "name": "500 g de carottes"
+    },
+    {
+      "name": "1/4 de botte de coriandre hachée"
+    },
+    {
+      "name": "Sel"
+    },
+    {
+      "name": "Piment d'Espelette"
+    }
   ],
   "recipeInstructions": [
     {

@@ -46,17 +46,35 @@
     "french ham and cheese crepe",
     "low carb egg and ham crepes"
   ],
-  "recipeYield": 9,
+  "recipeYield": "9",
   "recipeIngredient": [
-    "1 cup flour",
-    "1 tablespoon sugar",
-    "1/4 teaspoon salt",
-    "1 1/2 cups milk",
-    "4 large eggs",
-    "3 tablespoons melted butter",
-    "9 thin slices ham",
-    "9 eggs",
-    "Chopped fresh parsley"
+    {
+      "name": "1 cup flour"
+    },
+    {
+      "name": "1 tablespoon sugar"
+    },
+    {
+      "name": "1/4 teaspoon salt"
+    },
+    {
+      "name": "1 1/2 cups milk"
+    },
+    {
+      "name": "4 large eggs"
+    },
+    {
+      "name": "3 tablespoons melted butter"
+    },
+    {
+      "name": "9 thin slices ham"
+    },
+    {
+      "name": "9 eggs"
+    },
+    {
+      "name": "Chopped fresh parsley"
+    }
   ],
   "recipeInstructions": [
     {
@@ -81,16 +99,16 @@
     }
   ],
   "nutrition": {
-    "calories": "237 calories",
     "servingSize": "1 crepe square",
-    "carbohydrateContent": "14.6 g",
-    "cholesterolContent": "291.6 mg",
-    "fatContent": "12.4 g",
-    "fiberContent": "0.4 g",
-    "proteinContent": "15.8 g",
-    "saturatedFatContent": "5.3 g",
-    "sodiumContent": "481.4 mg",
-    "sugarContent": "3.8 g",
-    "transFatContent": "0.1 g"
+    "calories": 237,
+    "carbohydrateContent": 14.6,
+    "cholesterolContent": 291.6,
+    "fatContent": 12.4,
+    "fiberContent": 0.4,
+    "proteinContent": 15.8,
+    "saturatedFatContent": 5.3,
+    "sodiumContent": 481.4,
+    "sugarContent": 3.8,
+    "transFatContent": 0.1
   }
 }

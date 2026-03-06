@@ -47,13 +47,23 @@
     "keto custard",
     "no bake custard"
   ],
-  "recipeYield": 2,
+  "recipeYield": "2",
   "recipeIngredient": [
-    "1 tablespoon grass-fed beef gelatin",
-    "1¼ cups half and half",
-    "1 tablespoon sweetener (optional, see note)",
-    "½ teaspoon vanilla extract",
-    "2 raw egg yolks"
+    {
+      "name": "1 tablespoon grass-fed beef gelatin"
+    },
+    {
+      "name": "1¼ cups half and half"
+    },
+    {
+      "name": "1 tablespoon sweetener (optional, see note)"
+    },
+    {
+      "name": "½ teaspoon vanilla extract"
+    },
+    {
+      "name": "2 raw egg yolks"
+    }
   ],
   "recipeInstructions": [
     {
@@ -83,15 +93,15 @@
     }
   ],
   "nutrition": {
-    "calories": "212 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "5 g",
-    "cholesterolContent": "67 mg",
-    "fatContent": "18 g",
-    "proteinContent": "8 g",
-    "saturatedFatContent": "11 g",
-    "sodiumContent": "69 mg",
-    "sugarContent": "1 g"
+    "calories": 212,
+    "carbohydrateContent": 5,
+    "cholesterolContent": 67,
+    "fatContent": 18,
+    "proteinContent": 8,
+    "saturatedFatContent": 11,
+    "sodiumContent": 69,
+    "sugarContent": 1
   },
   "aggregateRating": {
     "ratingCount": 4,

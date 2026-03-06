@@ -16,21 +16,94 @@
   "recipeCategory": [
     "main course"
   ],
-  "recipeYield": 2,
+  "recipeYield": "2",
   "recipeIngredient": [
-    "150 Basmati Rice",
-    "1 Echalion Shallot",
-    "2 Garlic Clove",
-    "¼ Red Chilli",
-    "2 Spring Onion",
-    "150 Green Beans",
-    "300 British Pork Mince",
-    "50 Ketjap Manis",
-    "25 Soy Sauce",
-    "6 Fresh Thai Basil",
-    "300 Water for the Rice"
+    {
+      "name": "150 Basmati Rice"
+    },
+    {
+      "name": "1 Echalion Shallot"
+    },
+    {
+      "name": "2 Garlic Clove"
+    },
+    {
+      "name": "¼ Red Chilli"
+    },
+    {
+      "name": "2 Spring Onion"
+    },
+    {
+      "name": "150 Green Beans"
+    },
+    {
+      "name": "300 British Pork Mince"
+    },
+    {
+      "name": "50 Ketjap Manis"
+    },
+    {
+      "name": "25 Soy Sauce"
+    },
+    {
+      "name": "6 Fresh Thai Basil"
+    },
+    {
+      "name": "300 Water for the Rice"
+    },
+    {
+      "name": "150 Basmati Rice"
+    },
+    {
+      "name": "1 Echalion Shallot"
+    },
+    {
+      "name": "2 Garlic Clove"
+    },
+    {
+      "name": "¼ Red Chilli"
+    },
+    {
+      "name": "2 Spring Onion"
+    },
+    {
+      "name": "150 Green Beans"
+    },
+    {
+      "name": "300 British Pork Mince"
+    },
+    {
+      "name": "50 Ketjap Manis"
+    },
+    {
+      "name": "25 Soy Sauce"
+    },
+    {
+      "name": "6 Fresh Thai Basil"
+    },
+    {
+      "name": "300 Water for the Rice"
+    }
   ],
   "recipeInstructions": [
+    {
+      "text": "a) Pour the boiling water into a large saucepan and bring back to the boil on high heat. b) When boiling, add the rice and cook for 8-10 mins, then drain in a sieve and set aside."
+    },
+    {
+      "text": "a) Meanwhile, trim the carrot then grate on the coarse side of your grater (no need to peel). b) Trim the spring onion then finely slice. Roughly chop the peanuts. Zest the lime then chop into wedges. c) Chop the pork into 2cm chunks. iIMPORTANT: Remember to wash your hands after handling raw meat."
+    },
+    {
+      "text": "a) In a small bowl, stir together the easy ginger, ketjap manis, soy sauce, honey and the juice of half the lime. Set aside."
+    },
+    {
+      "text": "a) Heat a splash of oil in a large frying pan on high heat. b) When hot, add the pork and stir-fry until browned all over, 4-5 mins."
+    },
+    {
+      "text": "a) Lower the heat to medium then pour the sauce into the pan. b) Cook, coating the pork in the sticky sauce, for 2-3 mins.iIMPORTANT: The pork is cooked when it is no longer pink in the middle. c) Meanwhile, in a large bowl gently toss together the rice, lime zest, carrot, half the spring onion and half the peanuts. Season to taste with salt and pepper if needed."
+    },
+    {
+      "text": "a) Serve the sticky pork on top of the veggie rice. b) Finish by pouring any sauce left in the pan over the top and scattering over the remaining peanuts and spring onion. c) Top with the remaining lime wedges. ENJOY!"
+    },
     {
       "text": "a) Pour the boiling water into a large saucepan and bring back to the boil on high heat. b) When boiling, add the rice and cook for 8-10 mins, then drain in a sieve and set aside."
     },
@@ -51,14 +124,14 @@
     }
   ],
   "nutrition": {
-    "calories": "668 kcal",
     "servingSize": "360",
-    "carbohydrateContent": "83 g",
-    "fatContent": "20 g",
-    "proteinContent": "38 g",
-    "saturatedFatContent": "6 g",
-    "sodiumContent": "3.3 g",
-    "sugarContent": "20 g"
+    "calories": 668,
+    "carbohydrateContent": 83,
+    "fatContent": 20,
+    "proteinContent": 38,
+    "saturatedFatContent": 6,
+    "sodiumContent": 3.3,
+    "sugarContent": 20
   },
   "aggregateRating": {
     "ratingCount": 925,

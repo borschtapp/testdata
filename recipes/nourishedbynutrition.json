@@ -24,21 +24,47 @@
   "prepTime": "PT10M",
   "cookTime": "PT25M",
   "totalTime": "PT35M",
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "2 cups shredded cooked chicken breast",
-    "2 cups salsa verde, divided",
-    "5 ounces spinach",
-    "½ teaspoon garlic powder",
-    "½ teaspoon ground cumin",
-    "salt and pepper to taste",
-    "8 tortillas (cassava flour or corn, flour, wheat, etc)",
-    "½ cup Siete queso blanco (see notes for substitutions)",
-    "½ avocado, thinly sliced",
-    "¼ cilantro leaves",
-    "2 tablespoons finely diced red onion",
-    "1 lime, cut into wedges",
-    "2-3 thinly sliced radishes"
+    {
+      "name": "2 cups shredded cooked chicken breast"
+    },
+    {
+      "name": "2 cups salsa verde, divided"
+    },
+    {
+      "name": "5 ounces spinach"
+    },
+    {
+      "name": "½ teaspoon garlic powder"
+    },
+    {
+      "name": "½ teaspoon ground cumin"
+    },
+    {
+      "name": "salt and pepper to taste"
+    },
+    {
+      "name": "8 tortillas (cassava flour or corn, flour, wheat, etc)"
+    },
+    {
+      "name": "½ cup Siete queso blanco (see notes for substitutions)"
+    },
+    {
+      "name": "½ avocado, thinly sliced"
+    },
+    {
+      "name": "¼ cilantro leaves"
+    },
+    {
+      "name": "2 tablespoons finely diced red onion"
+    },
+    {
+      "name": "1 lime, cut into wedges"
+    },
+    {
+      "name": "2-3 thinly sliced radishes"
+    }
   ],
   "recipeInstructions": [
     {

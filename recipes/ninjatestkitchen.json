@@ -21,7 +21,7 @@
     "BN800",
     "BN800UK"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeInstructions": [
     {
       "text": "[{"

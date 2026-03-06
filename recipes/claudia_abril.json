@@ -41,18 +41,38 @@
     "1 lata | latas de creme de leite",
     "sal (a gosto)"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "500 grama | gramas de alcatra (cortada em tirinhas)",
-    "1/4 xícara (chá) | xícaras (chá) de manteiga",
-    "1 unidade | unidades de cebola (picada)",
-    "1 colher (sobremesa) | colheres (sobremesa) de mostarda",
-    "1 colher (sopa) | colheres (sopa) de ketchup (ou catchup)",
-    "1 pitada | pitadas de pimenta-do-reino",
-    "1 unidade | unidades de tomate (sem pele picado)",
-    "1 xícara (chá) | xícaras (chá) de cogumelo (variado | variados escorridos)",
-    "1 lata | latas de creme de leite",
-    "sal (a gosto)"
+    {
+      "name": "500 grama | gramas de alcatra (cortada em tirinhas)"
+    },
+    {
+      "name": "1/4 xícara (chá) | xícaras (chá) de manteiga"
+    },
+    {
+      "name": "1 unidade | unidades de cebola (picada)"
+    },
+    {
+      "name": "1 colher (sobremesa) | colheres (sobremesa) de mostarda"
+    },
+    {
+      "name": "1 colher (sopa) | colheres (sopa) de ketchup (ou catchup)"
+    },
+    {
+      "name": "1 pitada | pitadas de pimenta-do-reino"
+    },
+    {
+      "name": "1 unidade | unidades de tomate (sem pele picado)"
+    },
+    {
+      "name": "1 xícara (chá) | xícaras (chá) de cogumelo (variado | variados escorridos)"
+    },
+    {
+      "name": "1 lata | latas de creme de leite"
+    },
+    {
+      "name": "sal (a gosto)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -60,10 +80,10 @@
     }
   ],
   "nutrition": {
-    "calories": "385 kcal",
-    "carbohydrateContent": "10 g",
-    "fatContent": "27 g",
-    "proteinContent": "23 g"
+    "calories": 385,
+    "carbohydrateContent": 10,
+    "fatContent": 27,
+    "proteinContent": 23
   },
   "aggregateRating": {
     "ratingCount": 57,

@@ -34,39 +34,101 @@
     "kolache recipe",
     "kolaches"
   ],
-  "recipeYield": 3,
+  "recipeYield": "3 dozen",
   "recipeIngredient": [
-    "1.5 tablespoons active dry yeast (from 2 [¼-oz.] envelopes)",
-    ".5 cup warm water (105°F to 115°F)",
-    ".25 cup unsalted butter",
-    ".25 cup vegetable shortening (such as Crisco)",
-    "1.5 cups lukewarm whole milk (100°F to 105°F)",
-    "6 cups all-purpose flour, divided, plus more for work surface",
-    ".75 cup evaporated milk",
-    ".33 cup granulated sugar",
-    "1 tablespoon kosher salt",
-    "2 large eggs",
-    "1 large egg yolk",
-    "5 tablespoons unsalted butter, melted, divided",
-    "12 ounces dried apricots or dried pitted plums (about 2 ¼ cups)",
-    "1 cup granulated sugar",
-    "2 tablespoons melted unsalted butter",
-    "1 teaspoon vanilla extract",
-    ".5 teaspoon ground cinnamon",
-    "1.25 cups ground whole poppy seeds",
-    "1 cup granulated sugar",
-    "2 tablespoons all-purpose flour",
-    "1 cup whole milk",
-    "2 tablespoons unsalted butter",
-    "1 teaspoons vanilla extract",
-    "2 (8-oz.) pkg. softened cream cheese",
-    ".5 cup granulated sugar",
-    "1 large egg yolk",
-    ".25 teaspoon vanilla or almond extract",
-    "1.5 cups granulated sugar",
-    "1 cup all-purpose flour",
-    ".5 cup cold unsalted butter",
-    ".25 teaspoon vanilla extract or ground cinnamon"
+    {
+      "name": "1.5 tablespoons active dry yeast (from 2 [¼-oz.] envelopes)"
+    },
+    {
+      "name": ".5 cup warm water (105°F to 115°F)"
+    },
+    {
+      "name": ".25 cup unsalted butter"
+    },
+    {
+      "name": ".25 cup vegetable shortening (such as Crisco)"
+    },
+    {
+      "name": "1.5 cups lukewarm whole milk (100°F to 105°F)"
+    },
+    {
+      "name": "6 cups all-purpose flour, divided, plus more for work surface"
+    },
+    {
+      "name": ".75 cup evaporated milk"
+    },
+    {
+      "name": ".33 cup granulated sugar"
+    },
+    {
+      "name": "1 tablespoon kosher salt"
+    },
+    {
+      "name": "2 large eggs"
+    },
+    {
+      "name": "1 large egg yolk"
+    },
+    {
+      "name": "5 tablespoons unsalted butter, melted, divided"
+    },
+    {
+      "name": "12 ounces dried apricots or dried pitted plums (about 2 ¼ cups)"
+    },
+    {
+      "name": "1 cup granulated sugar"
+    },
+    {
+      "name": "2 tablespoons melted unsalted butter"
+    },
+    {
+      "name": "1 teaspoon vanilla extract"
+    },
+    {
+      "name": ".5 teaspoon ground cinnamon"
+    },
+    {
+      "name": "1.25 cups ground whole poppy seeds"
+    },
+    {
+      "name": "1 cup granulated sugar"
+    },
+    {
+      "name": "2 tablespoons all-purpose flour"
+    },
+    {
+      "name": "1 cup whole milk"
+    },
+    {
+      "name": "2 tablespoons unsalted butter"
+    },
+    {
+      "name": "1 teaspoons vanilla extract"
+    },
+    {
+      "name": "2 (8-oz.) pkg. softened cream cheese"
+    },
+    {
+      "name": ".5 cup granulated sugar"
+    },
+    {
+      "name": "1 large egg yolk"
+    },
+    {
+      "name": ".25 teaspoon vanilla or almond extract"
+    },
+    {
+      "name": "1.5 cups granulated sugar"
+    },
+    {
+      "name": "1 cup all-purpose flour"
+    },
+    {
+      "name": ".5 cup cold unsalted butter"
+    },
+    {
+      "name": ".25 teaspoon vanilla extract or ground cinnamon"
+    }
   ],
   "recipeInstructions": [
     {

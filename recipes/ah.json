@@ -28,17 +28,35 @@
     "italiaans",
     "hoofdgerecht"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "500 g Tipo 00 bloem",
-    "10 g zout",
-    "3 g gedroogde gist",
-    "280 ml lauwwarm water",
-    "150 g tomatensaus",
-    "100 g salami",
-    "4 el taggia olijven zonder pit",
-    "150 g geraspte mozzarella",
-    "1 bol Italiaanse mozzarella"
+    {
+      "name": "500 g Tipo 00 bloem"
+    },
+    {
+      "name": "10 g zout"
+    },
+    {
+      "name": "3 g gedroogde gist"
+    },
+    {
+      "name": "280 ml lauwwarm water"
+    },
+    {
+      "name": "150 g tomatensaus"
+    },
+    {
+      "name": "100 g salami"
+    },
+    {
+      "name": "4 el taggia olijven zonder pit"
+    },
+    {
+      "name": "150 g geraspte mozzarella"
+    },
+    {
+      "name": "1 bol Italiaanse mozzarella"
+    }
   ],
   "recipeInstructions": [
     {
@@ -87,11 +105,11 @@
     }
   ],
   "nutrition": {
-    "calories": "810 kcal energie",
-    "carbohydrateContent": "90 g koolhydraten",
-    "fatContent": "33 g vet",
-    "proteinContent": "36 g eiwit",
-    "saturatedFatContent": "14 g waarvan verzadigd"
+    "calories": 810,
+    "carbohydrateContent": 90,
+    "fatContent": 33,
+    "proteinContent": 36,
+    "saturatedFatContent": 14
   },
   "aggregateRating": {
     "ratingCount": 84,

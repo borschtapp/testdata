@@ -39,19 +39,41 @@
   "keywords": [
     "Air Fryer Parmeasn Tomatoes"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "3 large tomatoes (Cut in half)",
-    "1 cup bread crumbs",
-    "1/4 cup parmesan cheese (grated)",
-    "1 teaspoon garlic (minced)",
-    "1 tablespoon olive oil",
-    "1/2 teaspoon dried basil",
-    "1/2 teaspoon dried parsley",
-    "1/2 teaspoon dried oregano",
-    "1/2 teaspoon dried dill",
-    "1 teaspoon salt",
-    "1/2 teaspoon black pepper"
+    {
+      "name": "3 large tomatoes (Cut in half)"
+    },
+    {
+      "name": "1 cup bread crumbs"
+    },
+    {
+      "name": "1/4 cup parmesan cheese (grated)"
+    },
+    {
+      "name": "1 teaspoon garlic (minced)"
+    },
+    {
+      "name": "1 tablespoon olive oil"
+    },
+    {
+      "name": "1/2 teaspoon dried basil"
+    },
+    {
+      "name": "1/2 teaspoon dried parsley"
+    },
+    {
+      "name": "1/2 teaspoon dried oregano"
+    },
+    {
+      "name": "1/2 teaspoon dried dill"
+    },
+    {
+      "name": "1 teaspoon salt"
+    },
+    {
+      "name": "1/2 teaspoon black pepper"
+    }
   ],
   "recipeInstructions": [
     {
@@ -68,17 +90,17 @@
     }
   ],
   "nutrition": {
-    "calories": "126 kcal",
     "servingSize": "1 Serving",
-    "carbohydrateContent": "17 g",
-    "cholesterolContent": "3 mg",
-    "fatContent": "5 g",
-    "fiberContent": "2 g",
-    "proteinContent": "5 g",
-    "saturatedFatContent": "1 g",
-    "sodiumContent": "591 mg",
-    "sugarContent": "4 g",
-    "unsaturatedFatContent": "3 g"
+    "calories": 126,
+    "carbohydrateContent": 17,
+    "cholesterolContent": 3,
+    "fatContent": 5,
+    "fiberContent": 2,
+    "proteinContent": 5,
+    "saturatedFatContent": 1,
+    "sodiumContent": 591,
+    "sugarContent": 4,
+    "unsaturatedFatContent": 3
   },
   "aggregateRating": {
     "ratingCount": 5,

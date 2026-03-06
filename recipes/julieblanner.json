@@ -36,15 +36,29 @@
     "Lemon Basil",
     "Lemon Basil Pasta"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "3 tablespoons butter (salted)",
-    "1 teaspoon garlic",
-    "½ cup lemon juice",
-    "½ cup white wine",
-    "¼ cup basil (fresh, sliced thin)",
-    "½ cup parmesan (freshly grated)",
-    "1 pound pasta"
+    {
+      "name": "3 tablespoons butter (salted)"
+    },
+    {
+      "name": "1 teaspoon garlic"
+    },
+    {
+      "name": "½ cup lemon juice"
+    },
+    {
+      "name": "½ cup white wine"
+    },
+    {
+      "name": "¼ cup basil (fresh, sliced thin)"
+    },
+    {
+      "name": "½ cup parmesan (freshly grated)"
+    },
+    {
+      "name": "1 pound pasta"
+    }
   ],
   "recipeInstructions": [
     {
@@ -69,18 +83,18 @@
     }
   ],
   "nutrition": {
-    "calories": "385 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "59 g",
-    "cholesterolContent": "21 mg",
-    "fatContent": "9 g",
-    "fiberContent": "3 g",
-    "proteinContent": "13 g",
-    "saturatedFatContent": "5 g",
-    "sodiumContent": "184 mg",
-    "sugarContent": "3 g",
-    "transFatContent": "0.2 g",
-    "unsaturatedFatContent": "3 g"
+    "calories": 385,
+    "carbohydrateContent": 59,
+    "cholesterolContent": 21,
+    "fatContent": 9,
+    "fiberContent": 3,
+    "proteinContent": 13,
+    "saturatedFatContent": 5,
+    "sodiumContent": 184,
+    "sugarContent": 3,
+    "transFatContent": 0.2,
+    "unsaturatedFatContent": 3
   },
   "aggregateRating": {
     "reviewCount": 8,

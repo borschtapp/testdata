@@ -46,23 +46,53 @@
     "egg free",
     "healthy"
   ],
-  "recipeYield": 8,
+  "recipeYield": "8",
   "recipeIngredient": [
-    "2 tablespoons olive oil",
-    "1 small onion (chopped (about 1 cup))",
-    "2 stalks celery (chopped)",
-    "6 garlic cloves (minced)",
-    "1 1/2 - 2 pounds ground chicken",
-    "1 cup water (or reduced-sodium broth)",
-    "1 15- ounce can petite diced tomatoes",
-    "2 15- ounce cans chili beans (with sauce)",
-    "2 tablespoos chili powder",
-    "2 teaspoons ground cumin",
-    "2 teaspoons paprika",
-    "1 bay leaf",
-    "1 teaspoon salt",
-    "1/2 teaspoon pepper",
-    "1/2 cup buffalo wing sauce"
+    {
+      "name": "2 tablespoons olive oil"
+    },
+    {
+      "name": "1 small onion (chopped (about 1 cup))"
+    },
+    {
+      "name": "2 stalks celery (chopped)"
+    },
+    {
+      "name": "6 garlic cloves (minced)"
+    },
+    {
+      "name": "1 1/2 - 2 pounds ground chicken"
+    },
+    {
+      "name": "1 cup water (or reduced-sodium broth)"
+    },
+    {
+      "name": "1 15- ounce can petite diced tomatoes"
+    },
+    {
+      "name": "2 15- ounce cans chili beans (with sauce)"
+    },
+    {
+      "name": "2 tablespoos chili powder"
+    },
+    {
+      "name": "2 teaspoons ground cumin"
+    },
+    {
+      "name": "2 teaspoons paprika"
+    },
+    {
+      "name": "1 bay leaf"
+    },
+    {
+      "name": "1 teaspoon salt"
+    },
+    {
+      "name": "1/2 teaspoon pepper"
+    },
+    {
+      "name": "1/2 cup buffalo wing sauce"
+    }
   ],
   "recipeInstructions": [
     {
@@ -87,16 +117,16 @@
     }
   ],
   "nutrition": {
-    "calories": "240 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "17 g",
-    "cholesterolContent": "73 mg",
-    "fatContent": "11 g",
-    "fiberContent": "4 g",
-    "proteinContent": "19 g",
-    "sodiumContent": "1318 mg",
-    "sugarContent": "6 g",
-    "transFatContent": "0.1 g"
+    "calories": 240,
+    "carbohydrateContent": 17,
+    "cholesterolContent": 73,
+    "fatContent": 11,
+    "fiberContent": 4,
+    "proteinContent": 19,
+    "sodiumContent": 1318,
+    "sugarContent": 6,
+    "transFatContent": 0.1
   },
   "aggregateRating": {
     "reviewCount": 1,

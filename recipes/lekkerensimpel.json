@@ -25,17 +25,35 @@
     "bowl",
     "kip"
   ],
-  "recipeYield": 2,
+  "recipeYield": "2",
   "recipeIngredient": [
-    "200 gr sushi rijst",
-    "2 el sushi azijn (of 1,5 el rijstazijn, 1 tl suiker en een snuf zout)",
-    "2 krokante kipschnitzels",
-    "1 avocado",
-    "100 gr peen julienne",
-    "0.5 komkommer",
-    "2 el gebakken uitjes",
-    "Japanse mayonaise",
-    "sojasaus"
+    {
+      "name": "200 gr sushi rijst"
+    },
+    {
+      "name": "2 el sushi azijn (of 1,5 el rijstazijn, 1 tl suiker en een snuf zout)"
+    },
+    {
+      "name": "2 krokante kipschnitzels"
+    },
+    {
+      "name": "1 avocado"
+    },
+    {
+      "name": "100 gr peen julienne"
+    },
+    {
+      "name": "0.5 komkommer"
+    },
+    {
+      "name": "2 el gebakken uitjes"
+    },
+    {
+      "name": "Japanse mayonaise"
+    },
+    {
+      "name": "sojasaus"
+    }
   ],
   "recipeInstructions": [
     {

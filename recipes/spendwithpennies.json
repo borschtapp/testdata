@@ -45,19 +45,41 @@
     "easy chocolate pudding cake",
     "pudding cake"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "¾ cup all-purpose flour",
-    "½ cup granulated sugar",
-    "½ cup unsweetened cocoa powder",
-    "1 ½ teaspoons baking powder",
-    "⅔ cup milk",
-    "2 tablespoons vegetable oil",
-    "1 teaspoon vanilla extract",
-    "⅔ cup brown sugar (packed)",
-    "¼ cup unsweetened cocoa powder",
-    "¼ cup miniature semisweet chocolate chips",
-    "1 ¼ cups very hot water"
+    {
+      "name": "¾ cup all-purpose flour"
+    },
+    {
+      "name": "½ cup granulated sugar"
+    },
+    {
+      "name": "½ cup unsweetened cocoa powder"
+    },
+    {
+      "name": "1 ½ teaspoons baking powder"
+    },
+    {
+      "name": "⅔ cup milk"
+    },
+    {
+      "name": "2 tablespoons vegetable oil"
+    },
+    {
+      "name": "1 teaspoon vanilla extract"
+    },
+    {
+      "name": "⅔ cup brown sugar (packed)"
+    },
+    {
+      "name": "¼ cup unsweetened cocoa powder"
+    },
+    {
+      "name": "¼ cup miniature semisweet chocolate chips"
+    },
+    {
+      "name": "1 ¼ cups very hot water"
+    }
   ],
   "recipeInstructions": [
     {
@@ -82,16 +104,16 @@
     }
   ],
   "nutrition": {
-    "calories": "349 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "65 g",
-    "cholesterolContent": "1 mg",
-    "fatContent": "10 g",
-    "fiberContent": "4 g",
-    "proteinContent": "5 g",
-    "saturatedFatContent": "7 g",
-    "sodiumContent": "25 mg",
-    "sugarContent": "45 g"
+    "calories": 349,
+    "carbohydrateContent": 65,
+    "cholesterolContent": 1,
+    "fatContent": 10,
+    "fiberContent": 4,
+    "proteinContent": 5,
+    "saturatedFatContent": 7,
+    "sodiumContent": 25,
+    "sugarContent": 45
   },
   "aggregateRating": {
     "reviewCount": 5,

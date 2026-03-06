@@ -20,16 +20,35 @@
   "prepTime": "PT1H30M",
   "cookTime": "PT30M",
   "totalTime": "PT2H",
+  "recipeYield": "Diverse mogelijkheden",
   "recipeIngredient": [
-    "1 recept vlaaideeg",
-    "1 kilo verse rijpe abrikozen of 750 gr abrikozenhelften, uitgelekt uit blik",
-    "¾ recept banketbakkersroom",
-    "suiker, optioneel, om te bestrooien",
-    "boter, om in te vetten",
-    "bloem, voor het werkblad",
-    "150 gr abrikozenjam",
-    "20 gr amandelschaafsel",
-    "poedersuiker, om te bestuiven"
+    {
+      "name": "1 recept vlaaideeg"
+    },
+    {
+      "name": "1 kilo verse rijpe abrikozen of 750 gr abrikozenhelften, uitgelekt uit blik"
+    },
+    {
+      "name": "¾ recept banketbakkersroom"
+    },
+    {
+      "name": "suiker, optioneel, om te bestrooien"
+    },
+    {
+      "name": "boter, om in te vetten"
+    },
+    {
+      "name": "bloem, voor het werkblad"
+    },
+    {
+      "name": "150 gr abrikozenjam"
+    },
+    {
+      "name": "20 gr amandelschaafsel"
+    },
+    {
+      "name": "poedersuiker, om te bestuiven"
+    }
   ],
   "recipeInstructions": [
     {

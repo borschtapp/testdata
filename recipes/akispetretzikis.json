@@ -24,25 +24,59 @@
     "with",
     "artichokes"
   ],
-  "recipeYield": 8,
+  "recipeYield": "8-10",
   "recipeIngredient": [
-    "750 g artichokes",
-    "1 1/2 kilo chicken breast fillet",
-    "4-5 tablespoon(s) olive oil",
-    "50 g all-purpose flour",
-    "2 onions",
-    "2 clove(s) of garlic",
-    "80 g white wine",
-    "lemon juice",
-    "400 g water",
-    "1 tablespoon(s) chicken stock pot",
-    "2 tablespoon(s) tarragon",
-    "salt",
-    "pepper",
-    "pepper",
-    "olive oil",
-    "lemon",
-    "parsley"
+    {
+      "name": "750 g artichokes"
+    },
+    {
+      "name": "1 1/2 kilo chicken breast fillet"
+    },
+    {
+      "name": "4-5 tablespoon(s) olive oil"
+    },
+    {
+      "name": "50 g all-purpose flour"
+    },
+    {
+      "name": "2 onions"
+    },
+    {
+      "name": "2 clove(s) of garlic"
+    },
+    {
+      "name": "80 g white wine"
+    },
+    {
+      "name": "lemon juice"
+    },
+    {
+      "name": "400 g water"
+    },
+    {
+      "name": "1 tablespoon(s) chicken stock pot"
+    },
+    {
+      "name": "2 tablespoon(s) tarragon"
+    },
+    {
+      "name": "salt"
+    },
+    {
+      "name": "pepper"
+    },
+    {
+      "name": "pepper"
+    },
+    {
+      "name": "olive oil"
+    },
+    {
+      "name": "lemon"
+    },
+    {
+      "name": "parsley"
+    }
   ],
   "recipeInstructions": [
     {
@@ -74,7 +108,7 @@
     }
   ],
   "nutrition": {
-    "calories": "231 calories"
+    "calories": 231
   },
   "aggregateRating": {
     "ratingCount": 226,

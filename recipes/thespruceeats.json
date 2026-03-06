@@ -34,24 +34,56 @@
     "Lamb",
     "kebab"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "1 pound ground lamb (or 1/2 pound each of ground lamb and ground beef)",
-    "1 egg",
-    "4 cloves garlic (peeled and finely minced)",
-    "1 teaspoon ground cumin",
-    "1 teaspoon ground coriander",
-    "1 teaspoon smoked paprika",
-    "1 teaspoon dried oregano",
-    "1/2 teaspoon salt",
-    "1/4 teaspoon ground black pepper",
-    "1 tablespoon oil (for the skillet, plus extra for the pan)",
-    "4 rounds of pita (or naan or flatbread)",
-    "1 cup assorted lettuce",
-    "1 large tomato (sliced)",
-    "1/2 seedless English cucumber (sliced)",
-    "1/4 large red onion (peeled and sliced)",
-    "Tzatziki sauce or tahini sauce"
+    {
+      "name": "1 pound ground lamb (or 1/2 pound each of ground lamb and ground beef)"
+    },
+    {
+      "name": "1 egg"
+    },
+    {
+      "name": "4 cloves garlic (peeled and finely minced)"
+    },
+    {
+      "name": "1 teaspoon ground cumin"
+    },
+    {
+      "name": "1 teaspoon ground coriander"
+    },
+    {
+      "name": "1 teaspoon smoked paprika"
+    },
+    {
+      "name": "1 teaspoon dried oregano"
+    },
+    {
+      "name": "1/2 teaspoon salt"
+    },
+    {
+      "name": "1/4 teaspoon ground black pepper"
+    },
+    {
+      "name": "1 tablespoon oil (for the skillet, plus extra for the pan)"
+    },
+    {
+      "name": "4 rounds of pita (or naan or flatbread)"
+    },
+    {
+      "name": "1 cup assorted lettuce"
+    },
+    {
+      "name": "1 large tomato (sliced)"
+    },
+    {
+      "name": "1/2 seedless English cucumber (sliced)"
+    },
+    {
+      "name": "1/4 large red onion (peeled and sliced)"
+    },
+    {
+      "name": "Tzatziki sauce or tahini sauce"
+    }
   ],
   "recipeInstructions": [
     {
@@ -80,17 +112,17 @@
     }
   ],
   "nutrition": {
-    "calories": "652 kcal",
     "servingSize": "4 servings",
-    "carbohydrateContent": "57 g",
-    "cholesterolContent": "157 mg",
-    "fatContent": "29 g",
-    "fiberContent": "4 g",
-    "proteinContent": "39 g",
-    "saturatedFatContent": "10 g",
-    "sodiumContent": "690 mg",
-    "sugarContent": "4 g",
-    "unsaturatedFatContent": "0 g"
+    "calories": 652,
+    "carbohydrateContent": 57,
+    "cholesterolContent": 157,
+    "fatContent": 29,
+    "fiberContent": 4,
+    "proteinContent": 39,
+    "saturatedFatContent": 10,
+    "sodiumContent": 690,
+    "sugarContent": 4,
+    "unsaturatedFatContent": 0
   },
   "aggregateRating": {
     "ratingCount": 145,

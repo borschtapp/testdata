@@ -40,23 +40,53 @@
     "instant pot cauliflower",
     "instant pot whole cauliflower"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "1 large cauliflower head",
-    "3-4 garlic cloves finely chopped",
-    "1 tbsp fresh thyme (or 1 tsp dried)",
-    "1 tbsp fresh parsley finely chopped",
-    "1/2 tbsp olive oil",
-    "1 tbsp lemon juice",
-    "1 tsp smoked paprika",
-    "salt and pepper",
-    "1 onion cut into large pieces",
-    "1 tsp oil",
-    "2-3 garlic cloves whole",
-    "1 1/2 cup vegetable stock",
-    "1/2 tsp thyme (or more if fresh)",
-    "1/2 tbsp lemon juice",
-    "1 tbsp whole wheat flour"
+    {
+      "name": "1 large cauliflower head"
+    },
+    {
+      "name": "3-4 garlic cloves finely chopped"
+    },
+    {
+      "name": "1 tbsp fresh thyme (or 1 tsp dried)"
+    },
+    {
+      "name": "1 tbsp fresh parsley finely chopped"
+    },
+    {
+      "name": "1/2 tbsp olive oil"
+    },
+    {
+      "name": "1 tbsp lemon juice"
+    },
+    {
+      "name": "1 tsp smoked paprika"
+    },
+    {
+      "name": "salt and pepper"
+    },
+    {
+      "name": "1 onion cut into large pieces"
+    },
+    {
+      "name": "1 tsp oil"
+    },
+    {
+      "name": "2-3 garlic cloves whole"
+    },
+    {
+      "name": "1 1/2 cup vegetable stock"
+    },
+    {
+      "name": "1/2 tsp thyme (or more if fresh)"
+    },
+    {
+      "name": "1/2 tbsp lemon juice"
+    },
+    {
+      "name": "1 tbsp whole wheat flour"
+    }
   ],
   "recipeInstructions": [
     {
@@ -97,14 +127,14 @@
     }
   ],
   "nutrition": {
-    "calories": "99 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "17.9 g",
-    "fatContent": "2.9 g",
-    "fiberContent": "6.4 g",
-    "proteinContent": "5.1 g",
-    "saturatedFatContent": "1 g",
-    "sugarContent": "7.2 g"
+    "calories": 99,
+    "carbohydrateContent": 17.9,
+    "fatContent": 2.9,
+    "fiberContent": 6.4,
+    "proteinContent": 5.1,
+    "saturatedFatContent": 1,
+    "sugarContent": 7.2
   },
   "aggregateRating": {
     "reviewCount": 12,

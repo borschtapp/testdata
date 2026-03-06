@@ -18,18 +18,38 @@
   "keywords": [
     "Hamburger \u0026 hot dog buns;;4th of July"
   ],
-  "recipeYield": 8,
+  "recipeYield": "8",
   "recipeIngredient": [
-    "3 1/2 cups (420g) King Arthur Unbleached All-Purpose Flour",
-    "3/4 cup plus 2 tablespoons (198g) water, lukewarm",
-    "2 tablespoons (28g) butter, at room temperature",
-    "1 large egg",
-    "1/4 cup (50g) granulated sugar",
-    "1 1/4 teaspoons table salt",
-    "1 tablespoon (9g) instant yeast",
-    "3 tablespoons (43g) butter, melted; divided",
-    "1 large egg white, whisked with 2 tablespoons cold water*",
-    "sesame seeds, or the seeds of your choice"
+    {
+      "name": "3 1/2 cups (420g) King Arthur Unbleached All-Purpose Flour"
+    },
+    {
+      "name": "3/4 cup plus 2 tablespoons (198g) water, lukewarm"
+    },
+    {
+      "name": "2 tablespoons (28g) butter, at room temperature"
+    },
+    {
+      "name": "1 large egg"
+    },
+    {
+      "name": "1/4 cup (50g) granulated sugar"
+    },
+    {
+      "name": "1 1/4 teaspoons table salt"
+    },
+    {
+      "name": "1 tablespoon (9g) instant yeast"
+    },
+    {
+      "name": "3 tablespoons (43g) butter, melted; divided"
+    },
+    {
+      "name": "1 large egg white, whisked with 2 tablespoons cold water*"
+    },
+    {
+      "name": "sesame seeds, or the seeds of your choice"
+    }
   ],
   "recipeInstructions": [
     {
@@ -64,17 +84,17 @@
     }
   ],
   "nutrition": {
-    "calories": "250 calories",
     "servingSize": "1 bun (99g)",
-    "carbohydrateContent": "45g",
-    "cholesterolContent": "30mg",
-    "fatContent": "4g",
-    "fiberContent": "2g",
-    "proteinContent": "8g",
-    "saturatedFatContent": "2g",
-    "sodiumContent": "370mg",
-    "sugarContent": "7g",
-    "transFatContent": "0g"
+    "calories": 250,
+    "carbohydrateContent": 45,
+    "cholesterolContent": 30,
+    "fatContent": 4,
+    "fiberContent": 2,
+    "proteinContent": 8,
+    "saturatedFatContent": 2,
+    "sodiumContent": 370,
+    "sugarContent": 7,
+    "transFatContent": 0
   },
   "aggregateRating": {
     "ratingCount": 1586,

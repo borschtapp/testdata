@@ -42,14 +42,26 @@
     "gluten free peanut butter cookies",
     "keto peanut butter cookies"
   ],
-  "recipeYield": 18,
+  "recipeYield": "18",
   "recipeIngredient": [
-    "1 cup creamy no sugar added peanut butter",
-    "1 cup brown sugar replacement",
-    "1 large egg",
-    "1 teaspoon vanilla",
-    "⅓ cup finely ground almond flour",
-    "1 teaspoon baking soda"
+    {
+      "name": "1 cup creamy no sugar added peanut butter"
+    },
+    {
+      "name": "1 cup brown sugar replacement"
+    },
+    {
+      "name": "1 large egg"
+    },
+    {
+      "name": "1 teaspoon vanilla"
+    },
+    {
+      "name": "⅓ cup finely ground almond flour"
+    },
+    {
+      "name": "1 teaspoon baking soda"
+    }
   ],
   "recipeInstructions": [
     {
@@ -82,17 +94,17 @@
     }
   ],
   "nutrition": {
-    "calories": "106 kcal",
     "servingSize": "1 cookie",
-    "carbohydrateContent": "3 g",
-    "cholesterolContent": "10 mg",
-    "fatContent": "9 g",
-    "fiberContent": "1 g",
-    "proteinContent": "4 g",
-    "saturatedFatContent": "1 g",
-    "sodiumContent": "129 mg",
-    "sugarContent": "1 g",
-    "unsaturatedFatContent": "7 g"
+    "calories": 106,
+    "carbohydrateContent": 3,
+    "cholesterolContent": 10,
+    "fatContent": 9,
+    "fiberContent": 1,
+    "proteinContent": 4,
+    "saturatedFatContent": 1,
+    "sodiumContent": 129,
+    "sugarContent": 1,
+    "unsaturatedFatContent": 7
   },
   "aggregateRating": {
     "reviewCount": 6,

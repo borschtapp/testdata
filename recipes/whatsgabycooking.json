@@ -17,13 +17,8 @@
       "url": "https://whatsgabycooking.com/wp-content/uploads/2017/10/WGC-Quinoa-Bake-copy-2-480x270.jpg"
     }
   ],
-  "author": {
-    "name": "Gaby Dalkin",
-    "url": "https://whatsgabycooking.com/author/gaby/",
-    "image": "https://secure.gravatar.com/avatar/035a2c21565b3e9dc0062bcd05cbabb4d1f5f855f74dfa7871a1fa96a8a94550?s=96\u0026amp;d=mm\u0026amp;r=g"
-  },
   "publisher": {
-    "name": "What's Gaby Cooking",
+    "name": "Gaby Dalkin",
     "url": "https://whatsgabycooking.com",
     "logo": "https://whatsgabycooking.com/wp-content/uploads/2021/09/cropped-wgc-logo-small-g.png"
   },
@@ -40,17 +35,35 @@
     "quinoa bake",
     "vegetarian quinoa bake"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "1 ½ cups uncooked multi-colored quinoa",
-    "2 cups shredded colby jack cheese (divided)",
-    "1 cup shredded mozzarella cheese (divided)",
-    "1 cup canned black beans (rinsed and drained)",
-    "1 cup frozen charred corn (trader joes)",
-    "1 4.5-ounce can chopped green chiles",
-    "1 ½ cup Gaby's chipotle or tomatillo salsa",
-    "Kosher salt and pepper to taste",
-    "Finely chopped scallions and cilantro as garnish"
+    {
+      "name": "1 ½ cups uncooked multi-colored quinoa"
+    },
+    {
+      "name": "2 cups shredded colby jack cheese (divided)"
+    },
+    {
+      "name": "1 cup shredded mozzarella cheese (divided)"
+    },
+    {
+      "name": "1 cup canned black beans (rinsed and drained)"
+    },
+    {
+      "name": "1 cup frozen charred corn (trader joes)"
+    },
+    {
+      "name": "1 4.5-ounce can chopped green chiles"
+    },
+    {
+      "name": "1 ½ cup Gaby's chipotle or tomatillo salsa"
+    },
+    {
+      "name": "Kosher salt and pepper to taste"
+    },
+    {
+      "name": "Finely chopped scallions and cilantro as garnish"
+    }
   ],
   "recipeInstructions": [
     {
@@ -75,17 +88,17 @@
     }
   ],
   "nutrition": {
-    "calories": "462 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "45 g",
-    "cholesterolContent": "57 mg",
-    "fatContent": "21 g",
-    "fiberContent": "7 g",
-    "proteinContent": "24 g",
-    "saturatedFatContent": "12 g",
-    "sodiumContent": "998 mg",
-    "sugarContent": "3 g",
-    "unsaturatedFatContent": "8 g"
+    "calories": 462,
+    "carbohydrateContent": 45,
+    "cholesterolContent": 57,
+    "fatContent": 21,
+    "fiberContent": 7,
+    "proteinContent": 24,
+    "saturatedFatContent": 12,
+    "sodiumContent": 998,
+    "sugarContent": 3,
+    "unsaturatedFatContent": 8
   },
   "aggregateRating": {
     "reviewCount": 2,

@@ -35,16 +35,32 @@
     "url": "https://www.chefnini.com",
     "logo": "https://static.chefnini.com/wp-content/uploads/2019/06/logo-chefnini.svg"
   },
-  "recipeYield": 2,
+  "recipeYield": "Pour 2 personnes :",
   "recipeIngredient": [
-    "250 g de tagliatelles",
-    "100 g de lardons fumés ou de pancetta",
-    "1 oeuf",
-    "1 jaune d’oeuf",
-    "4 cs de parmesan fraîchement râpé",
-    "1 gousse d’ail",
-    "1 peu de noix de muscade (facultatif)",
-    "poivre du moulin"
+    {
+      "name": "250 g de tagliatelles"
+    },
+    {
+      "name": "100 g de lardons fumés ou de pancetta"
+    },
+    {
+      "name": "1 oeuf"
+    },
+    {
+      "name": "1 jaune d’oeuf"
+    },
+    {
+      "name": "4 cs de parmesan fraîchement râpé"
+    },
+    {
+      "name": "1 gousse d’ail"
+    },
+    {
+      "name": "1 peu de noix de muscade (facultatif)"
+    },
+    {
+      "name": "poivre du moulin"
+    }
   ],
   "recipeInstructions": [
     {

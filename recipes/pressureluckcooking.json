@@ -47,25 +47,59 @@
     "Instant Pot",
     "Pressure Luck"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "1 1/2 - 2 pounds boneless, skinless chicken cutlets (breasts sliced into 1/4-inch thick fillets)",
-    "1/4 cup of one of the following: all-purpose flour, whole wheat flour, coconut flour, or quinoa flour (with a few pinches garlic powder, peppers and salt mixed in with a fork)",
-    "1/4 cup extra-virgin olive oil",
-    "2 teaspoons ghee or 1 tablespoon salted butter, divided (see Jeff's Tips)",
-    "2 large shallots, diced",
-    "8 ounces baby bella or white mushrooms, sliced",
-    "6 cloves (2 tablespoons) garlic, minced or pressed",
-    "1/2 cup dry white wine (like a sauvignon blanc) or additional broth",
-    "Juice of 1/2 lemon",
-    "1/2 cup low-sodium chicken broth",
-    "1 teaspoon Italian seasoning",
-    "1 teaspoon seasoned salt",
-    "5-8 ounces baby spinach",
-    "1 tablespoon cornstarch + 1 tablespoon cold water",
-    "1/4 cup any milk of your choice (or an unsweetened nondairy milk such as almond, oat or soy)",
-    "1 (10-ounce) jar sun-dried tomatoes, drained and roughly chopped",
-    "1 (14-ounce) can artichoke hearts, drained and chopped"
+    {
+      "name": "1 1/2 - 2 pounds boneless, skinless chicken cutlets (breasts sliced into 1/4-inch thick fillets)"
+    },
+    {
+      "name": "1/4 cup of one of the following: all-purpose flour, whole wheat flour, coconut flour, or quinoa flour (with a few pinches garlic powder, peppers and salt mixed in with a fork)"
+    },
+    {
+      "name": "1/4 cup extra-virgin olive oil"
+    },
+    {
+      "name": "2 teaspoons ghee or 1 tablespoon salted butter, divided (see Jeff's Tips)"
+    },
+    {
+      "name": "2 large shallots, diced"
+    },
+    {
+      "name": "8 ounces baby bella or white mushrooms, sliced"
+    },
+    {
+      "name": "6 cloves (2 tablespoons) garlic, minced or pressed"
+    },
+    {
+      "name": "1/2 cup dry white wine (like a sauvignon blanc) or additional broth"
+    },
+    {
+      "name": "Juice of 1/2 lemon"
+    },
+    {
+      "name": "1/2 cup low-sodium chicken broth"
+    },
+    {
+      "name": "1 teaspoon Italian seasoning"
+    },
+    {
+      "name": "1 teaspoon seasoned salt"
+    },
+    {
+      "name": "5-8 ounces baby spinach"
+    },
+    {
+      "name": "1 tablespoon cornstarch + 1 tablespoon cold water"
+    },
+    {
+      "name": "1/4 cup any milk of your choice (or an unsweetened nondairy milk such as almond, oat or soy)"
+    },
+    {
+      "name": "1 (10-ounce) jar sun-dried tomatoes, drained and roughly chopped"
+    },
+    {
+      "name": "1 (14-ounce) can artichoke hearts, drained and chopped"
+    }
   ],
   "recipeInstructions": [
     {

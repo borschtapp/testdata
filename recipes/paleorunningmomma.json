@@ -49,24 +49,56 @@
     "stroganoff",
     "whole30"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "5 Tbsp ghee (divided)",
-    "1.5 lb top sirloin or tenderloin (thinly sliced into 1/2” x 2” strips)",
-    "1 large onion (thinly sliced)",
-    "Sea salt and black pepper to taste",
-    "8 oz mushrooms (sliced)",
-    "3 cloves garlic (minced)",
-    "2 cups beef broth",
-    "1 Tbsp coconut aminos",
-    "2 Tbsp arrowroot flour (or tapioca)",
-    "Salt to taste and black pepper to taste",
-    "1 cup coconut cream (canned, unsweetened)",
-    "1 Tbsp fresh lemon juice",
-    "1 tsp dijon mustard",
-    "Pinch Sea salt",
-    "Sea salt and black pepper to taste",
-    "Minced parsley (for garnish)"
+    {
+      "name": "5 Tbsp ghee (divided)"
+    },
+    {
+      "name": "1.5 lb top sirloin or tenderloin (thinly sliced into 1/2” x 2” strips)"
+    },
+    {
+      "name": "1 large onion (thinly sliced)"
+    },
+    {
+      "name": "Sea salt and black pepper to taste"
+    },
+    {
+      "name": "8 oz mushrooms (sliced)"
+    },
+    {
+      "name": "3 cloves garlic (minced)"
+    },
+    {
+      "name": "2 cups beef broth"
+    },
+    {
+      "name": "1 Tbsp coconut aminos"
+    },
+    {
+      "name": "2 Tbsp arrowroot flour (or tapioca)"
+    },
+    {
+      "name": "Salt to taste and black pepper to taste"
+    },
+    {
+      "name": "1 cup coconut cream (canned, unsweetened)"
+    },
+    {
+      "name": "1 Tbsp fresh lemon juice"
+    },
+    {
+      "name": "1 tsp dijon mustard"
+    },
+    {
+      "name": "Pinch Sea salt"
+    },
+    {
+      "name": "Sea salt and black pepper to taste"
+    },
+    {
+      "name": "Minced parsley (for garnish)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -91,16 +123,16 @@
     }
   ],
   "nutrition": {
-    "calories": "422 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "9 g",
-    "cholesterolContent": "99 mg",
-    "fatContent": "31 g",
-    "fiberContent": "2 g",
-    "proteinContent": "29 g",
-    "saturatedFatContent": "22 g",
-    "sodiumContent": "432 mg",
-    "sugarContent": "2 g"
+    "calories": 422,
+    "carbohydrateContent": 9,
+    "cholesterolContent": 99,
+    "fatContent": 31,
+    "fiberContent": 2,
+    "proteinContent": 29,
+    "saturatedFatContent": 22,
+    "sodiumContent": 432,
+    "sugarContent": 2
   },
   "aggregateRating": {
     "reviewCount": 9,

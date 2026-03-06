@@ -21,27 +21,65 @@
     "Huvudrätt",
     "Middag"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "400 g torskfilé, sej eller hoki",
-    "300 g laxfilé",
-    "1/2 purjolök (1/2 purjolök motsvarar ca 150 g)",
-    "1/2 gul lök",
-    "1 msk smör eller olivolja",
-    "1 vitlöksklyfta",
-    "1 1/2 tsk tomatpuré",
-    "1 tsk torkad timjan",
-    "1 tsk torkad basilika",
-    "2 1/2 dl torrt vitt vin",
-    "1 1/2 fiskbuljongtärning",
-    "2 dl vispgrädde",
-    "1 dl crème fraiche",
-    "2 dl vatten",
-    "1 pkt saffran (à 0,5 g)",
-    "1 tsk salt",
-    "300 g räkor med skal",
-    "1 burk musslor (à 150 g)",
-    "ev. bröd och vitlöksmajonnäs"
+    {
+      "name": "400 g torskfilé, sej eller hoki"
+    },
+    {
+      "name": "300 g laxfilé"
+    },
+    {
+      "name": "1/2 purjolök (1/2 purjolök motsvarar ca 150 g)"
+    },
+    {
+      "name": "1/2 gul lök"
+    },
+    {
+      "name": "1 msk smör eller olivolja"
+    },
+    {
+      "name": "1 vitlöksklyfta"
+    },
+    {
+      "name": "1 1/2 tsk tomatpuré"
+    },
+    {
+      "name": "1 tsk torkad timjan"
+    },
+    {
+      "name": "1 tsk torkad basilika"
+    },
+    {
+      "name": "2 1/2 dl torrt vitt vin"
+    },
+    {
+      "name": "1 1/2 fiskbuljongtärning"
+    },
+    {
+      "name": "2 dl vispgrädde"
+    },
+    {
+      "name": "1 dl crème fraiche"
+    },
+    {
+      "name": "2 dl vatten"
+    },
+    {
+      "name": "1 pkt saffran (à 0,5 g)"
+    },
+    {
+      "name": "1 tsk salt"
+    },
+    {
+      "name": "300 g räkor med skal"
+    },
+    {
+      "name": "1 burk musslor (à 150 g)"
+    },
+    {
+      "name": "ev. bröd och vitlöksmajonnäs"
+    }
   ],
   "recipeInstructions": [
     {
@@ -64,11 +102,11 @@
     }
   ],
   "nutrition": {
-    "calories": "662 calories",
     "servingSize": "4 Servings",
-    "carbohydrateContent": "20 g",
-    "fatContent": "43 g",
-    "proteinContent": "47 g"
+    "calories": 662,
+    "carbohydrateContent": 20,
+    "fatContent": 43,
+    "proteinContent": 47
   },
   "aggregateRating": {
     "reviewCount": 1595,

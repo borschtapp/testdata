@@ -39,17 +39,35 @@
   "keywords": [
     "zucchini canning recipes"
   ],
-  "recipeYield": 32,
+  "recipeYield": "32",
   "recipeIngredient": [
-    "2 cups zucchini (diced (about 3 medium))",
-    "1 cup onion (diced (about 1 medium))",
-    "1 cup red bell pepper (diced (about 2 small or 1 large))",
-    "2 Tbsp salt (pickling and canning salt, or kosher salt)",
-    "1 3/4 cup sugar",
-    "2 tsp celery seed (whole)",
-    "1 tsp mustard seed (whole)",
-    "1 cup cider vinegar (5% acidity)",
-    "Pickle Crisp Granules (optional, helps veggies stay firm after canning)"
+    {
+      "name": "2 cups zucchini (diced (about 3 medium))"
+    },
+    {
+      "name": "1 cup onion (diced (about 1 medium))"
+    },
+    {
+      "name": "1 cup red bell pepper (diced (about 2 small or 1 large))"
+    },
+    {
+      "name": "2 Tbsp salt (pickling and canning salt, or kosher salt)"
+    },
+    {
+      "name": "1 3/4 cup sugar"
+    },
+    {
+      "name": "2 tsp celery seed (whole)"
+    },
+    {
+      "name": "1 tsp mustard seed (whole)"
+    },
+    {
+      "name": "1 cup cider vinegar (5% acidity)"
+    },
+    {
+      "name": "Pickle Crisp Granules (optional, helps veggies stay firm after canning)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -106,16 +124,16 @@
     }
   ],
   "nutrition": {
-    "calories": "49 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "12 g",
-    "fatContent": "0.1 g",
-    "fiberContent": "0.3 g",
-    "proteinContent": "0.2 g",
-    "saturatedFatContent": "0.02 g",
-    "sodiumContent": "438 mg",
-    "sugarContent": "12 g",
-    "unsaturatedFatContent": "0.07 g"
+    "calories": 49,
+    "carbohydrateContent": 12,
+    "fatContent": 0.1,
+    "fiberContent": 0.3,
+    "proteinContent": 0.2,
+    "saturatedFatContent": 0.02,
+    "sodiumContent": 438,
+    "sugarContent": 12,
+    "unsaturatedFatContent": 0.07
   },
   "aggregateRating": {
     "reviewCount": 2,

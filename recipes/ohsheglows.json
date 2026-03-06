@@ -42,14 +42,26 @@
     "Make-Ahead",
     "Party Favourite"
   ],
-  "recipeYield": 8,
+  "recipeYield": "8 (1/2-cup) servings",
   "recipeIngredient": [
-    "1 batch Flourless Peanut Butter Cookies, divided",
-    "2 (14-ounce/398 mL) cans full-fat coconut milk*",
-    "1/2 cup (105 g) natural cane sugar",
-    "3 tablespoons (45 mL) smooth natural peanut butter",
-    "2 teaspoons (10 mL) pure vanilla extract",
-    "1/4 + 1/8 teaspoon fine sea salt, or to taste"
+    {
+      "name": "1 batch Flourless Peanut Butter Cookies, divided"
+    },
+    {
+      "name": "2 (14-ounce/398 mL) cans full-fat coconut milk*"
+    },
+    {
+      "name": "1/2 cup (105 g) natural cane sugar"
+    },
+    {
+      "name": "3 tablespoons (45 mL) smooth natural peanut butter"
+    },
+    {
+      "name": "2 teaspoons (10 mL) pure vanilla extract"
+    },
+    {
+      "name": "1/4 + 1/8 teaspoon fine sea salt, or to taste"
+    }
   ],
   "recipeInstructions": [
     {
@@ -78,15 +90,15 @@
     }
   ],
   "nutrition": {
-    "calories": "365 calorie",
     "servingSize": "1/2-cup",
-    "carbohydrateContent": "29 grams",
-    "fatContent": "26 grams",
-    "fiberContent": "2 grams",
-    "proteinContent": "6 grams",
-    "saturatedFatContent": "19 grams",
-    "sodiumContent": "100 milligrams",
-    "sugarContent": "24 grams"
+    "calories": 365,
+    "carbohydrateContent": 29,
+    "fatContent": 26,
+    "fiberContent": 2,
+    "proteinContent": 6,
+    "saturatedFatContent": 19,
+    "sodiumContent": 100,
+    "sugarContent": 24
   },
   "aggregateRating": {
     "ratingCount": 26,

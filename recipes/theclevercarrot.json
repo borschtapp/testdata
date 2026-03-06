@@ -49,27 +49,65 @@
     "sourdough bread",
     "sourdough starter"
   ],
-  "recipeYield": 8,
+  "recipeYield": "8",
   "recipeIngredient": [
-    "160 g (2/3 cup) milk, whole or 2%",
-    "28 g (2 tbsp) unsalted butter, melted (see notes below for variation)",
-    "1 large egg",
-    "100 g (1/2 cup) bubbly, active sourdough starter",
-    "24 g (2 tbsp) granulated sugar",
-    "300 g (2½ cups) King Arthur all-purpose flour",
-    "5 g (1 tsp) fine sea salt",
-    "cooking spray or oil, for coating",
-    "28 g (2 tbsp) unsalted butter (see notes below for variation)",
-    "100 g (1/2 cup) granulated sugar",
-    "3 tsp. ground cinnamon",
-    "1 level tbsp. flour",
-    "2 tbsp unsalted butter, softened",
-    "⅓ cup whipped cream cheese, room temperature",
-    "¼- 1/2 cup powdered sugar, sifted (add more if you like it sweet!)",
-    "1-2 tbsp milk",
-    "For a richer dough, increase the butter to 115 (8 tbsp) and use 360 g (3 cups) flour total. The texture is incredible.",
-    "Make sure the melted butter and milk mixture has cooled slightly before making the dough. If it’s too hot, the dough will become incredibly sticky like cake batter (I’ve experienced this many times). If this happens to you, don’t worry- wait for the dough to cool down before adding more flour, if needed.",
-    "Recent recipe update: to prevent the cinnamon sugar filling from leaking while the rolls bake, instead of using 28g (2 tbsp) of melted butter, combine 84 g (6 tbsp) softened butter with the rest of the cinnamon-sugar filling ingredients listed above."
+    {
+      "name": "160 g (2/3 cup) milk, whole or 2%"
+    },
+    {
+      "name": "28 g (2 tbsp) unsalted butter, melted (see notes below for variation)"
+    },
+    {
+      "name": "1 large egg"
+    },
+    {
+      "name": "100 g (1/2 cup) bubbly, active sourdough starter"
+    },
+    {
+      "name": "24 g (2 tbsp) granulated sugar"
+    },
+    {
+      "name": "300 g (2½ cups) King Arthur all-purpose flour"
+    },
+    {
+      "name": "5 g (1 tsp) fine sea salt"
+    },
+    {
+      "name": "cooking spray or oil, for coating"
+    },
+    {
+      "name": "28 g (2 tbsp) unsalted butter (see notes below for variation)"
+    },
+    {
+      "name": "100 g (1/2 cup) granulated sugar"
+    },
+    {
+      "name": "3 tsp. ground cinnamon"
+    },
+    {
+      "name": "1 level tbsp. flour"
+    },
+    {
+      "name": "2 tbsp unsalted butter, softened"
+    },
+    {
+      "name": "⅓ cup whipped cream cheese, room temperature"
+    },
+    {
+      "name": "¼- 1/2 cup powdered sugar, sifted (add more if you like it sweet!)"
+    },
+    {
+      "name": "1-2 tbsp milk"
+    },
+    {
+      "name": "For a richer dough, increase the butter to 115 (8 tbsp) and use 360 g (3 cups) flour total. The texture is incredible."
+    },
+    {
+      "name": "Make sure the melted butter and milk mixture has cooled slightly before making the dough. If it’s too hot, the dough will become incredibly sticky like cake batter (I’ve experienced this many times). If this happens to you, don’t worry- wait for the dough to cool down before adding more flour, if needed."
+    },
+    {
+      "name": "Recent recipe update: to prevent the cinnamon sugar filling from leaking while the rolls bake, instead of using 28g (2 tbsp) of melted butter, combine 84 g (6 tbsp) softened butter with the rest of the cinnamon-sugar filling ingredients listed above."
+    }
   ],
   "recipeInstructions": [
     {

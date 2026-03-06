@@ -37,19 +37,41 @@
     "keto casserole",
     "low carb"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "1 ½ pounds cooked shredded chicken breast",
-    "4 green onions (chopped)",
-    "1 teaspoon garlic salt",
-    "½ teaspoon onion powder",
-    "½ teaspoon paprika",
-    "8 ounces cream cheese (softened)",
-    "½ cup heavy cream",
-    "¼ cup chicken broth",
-    "5 jalapeno peppers (halved (ribs removed if you like less spice))",
-    "1 cup shredded sharp cheddar cheese",
-    "6 slices bacon (cooked and crumbled)"
+    {
+      "name": "1 ½ pounds cooked shredded chicken breast"
+    },
+    {
+      "name": "4 green onions (chopped)"
+    },
+    {
+      "name": "1 teaspoon garlic salt"
+    },
+    {
+      "name": "½ teaspoon onion powder"
+    },
+    {
+      "name": "½ teaspoon paprika"
+    },
+    {
+      "name": "8 ounces cream cheese (softened)"
+    },
+    {
+      "name": "½ cup heavy cream"
+    },
+    {
+      "name": "¼ cup chicken broth"
+    },
+    {
+      "name": "5 jalapeno peppers (halved (ribs removed if you like less spice))"
+    },
+    {
+      "name": "1 cup shredded sharp cheddar cheese"
+    },
+    {
+      "name": "6 slices bacon (cooked and crumbled)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -74,17 +96,17 @@
     }
   ],
   "nutrition": {
-    "calories": "563 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "4 g",
-    "cholesterolContent": "188 mg",
-    "fatContent": "43 g",
-    "fiberContent": "1 g",
-    "proteinContent": "39 g",
-    "saturatedFatContent": "21 g",
-    "sodiumContent": "869 mg",
-    "sugarContent": "2 g",
-    "transFatContent": "1 g"
+    "calories": 563,
+    "carbohydrateContent": 4,
+    "cholesterolContent": 188,
+    "fatContent": 43,
+    "fiberContent": 1,
+    "proteinContent": 39,
+    "saturatedFatContent": 21,
+    "sodiumContent": 869,
+    "sugarContent": 2,
+    "transFatContent": 1
   },
   "aggregateRating": {
     "ratingCount": 9,

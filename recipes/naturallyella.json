@@ -32,22 +32,50 @@
   "recipeCategory": [
     "Main Course"
   ],
-  "recipeYield": 2,
+  "recipeYield": "2",
   "recipeIngredient": [
-    "2 teaspoons olive oil",
-    "1 clove garlic",
-    "1 cup black beans (with liquid)",
-    "1/2 teaspoon ground cumin",
-    "1/2 teaspoon ground coriander",
-    "1/4 teaspoon chili powder",
-    "Salt (to taste)",
-    "4 corn tortillas",
-    "1 ripe avocado",
-    "1 to 2 ounces goat cheese",
-    "Minced red onion",
-    "Lime wedges",
-    "Hot Sauce",
-    "Cilantro"
+    {
+      "name": "2 teaspoons olive oil"
+    },
+    {
+      "name": "1 clove garlic"
+    },
+    {
+      "name": "1 cup black beans (with liquid)"
+    },
+    {
+      "name": "1/2 teaspoon ground cumin"
+    },
+    {
+      "name": "1/2 teaspoon ground coriander"
+    },
+    {
+      "name": "1/4 teaspoon chili powder"
+    },
+    {
+      "name": "Salt (to taste)"
+    },
+    {
+      "name": "4 corn tortillas"
+    },
+    {
+      "name": "1 ripe avocado"
+    },
+    {
+      "name": "1 to 2 ounces goat cheese"
+    },
+    {
+      "name": "Minced red onion"
+    },
+    {
+      "name": "Lime wedges"
+    },
+    {
+      "name": "Hot Sauce"
+    },
+    {
+      "name": "Cilantro"
+    }
   ],
   "recipeInstructions": [
     {
@@ -60,14 +88,14 @@
     }
   ],
   "nutrition": {
-    "calories": "677 calories",
-    "carbohydrateContent": "91.6",
-    "cholesterolContent": "6.5",
-    "fatContent": "25.2",
-    "fiberContent": "25.2",
-    "proteinContent": "28.6",
-    "sodiumContent": "109.6",
-    "sugarContent": "3.2"
+    "calories": 677,
+    "carbohydrateContent": 91.6,
+    "cholesterolContent": 6.5,
+    "fatContent": 25.2,
+    "fiberContent": 25.2,
+    "proteinContent": 28.6,
+    "sodiumContent": 109.6,
+    "sugarContent": 3.2
   },
   "aggregateRating": {
     "reviewCount": 3,

@@ -24,25 +24,59 @@
   "recipeCategory": [
     "Appetizers"
   ],
-  "recipeYield": 13,
+  "recipeYield": "13",
   "recipeIngredient": [
-    "Cooking spray (for pan)",
-    "1 cup panko bread crumbs",
-    "½ cup parmesan cheese (shredded or grated)",
-    "6 tablespoon melted butter",
-    "8 ounces lump crab meat",
-    "6 ounces cream cheese (softened to room temp)",
-    "1 large egg (lightly beaten)",
-    "¼ cup mayonnaise",
-    "½ cup sour cream",
-    "½ teaspoon garlic powder",
-    "½ teaspoon smoked paprika",
-    "1 teaspoon old bay seasoning",
-    "1 teaspoon lemon zest",
-    "2 teaspoons lemon juice",
-    "1 tablespoon chopped chives (plus more for topping)",
-    "Salt and white pepper (or black pepper)",
-    "Serve with sauce (in notes)"
+    {
+      "name": "Cooking spray (for pan)"
+    },
+    {
+      "name": "1 cup panko bread crumbs"
+    },
+    {
+      "name": "½ cup parmesan cheese (shredded or grated)"
+    },
+    {
+      "name": "6 tablespoon melted butter"
+    },
+    {
+      "name": "8 ounces lump crab meat"
+    },
+    {
+      "name": "6 ounces cream cheese (softened to room temp)"
+    },
+    {
+      "name": "1 large egg (lightly beaten)"
+    },
+    {
+      "name": "¼ cup mayonnaise"
+    },
+    {
+      "name": "½ cup sour cream"
+    },
+    {
+      "name": "½ teaspoon garlic powder"
+    },
+    {
+      "name": "½ teaspoon smoked paprika"
+    },
+    {
+      "name": "1 teaspoon old bay seasoning"
+    },
+    {
+      "name": "1 teaspoon lemon zest"
+    },
+    {
+      "name": "2 teaspoons lemon juice"
+    },
+    {
+      "name": "1 tablespoon chopped chives (plus more for topping)"
+    },
+    {
+      "name": "Salt and white pepper (or black pepper)"
+    },
+    {
+      "name": "Serve with sauce (in notes)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -59,13 +93,13 @@
     }
   ],
   "nutrition": {
-    "calories": "193 kcal",
     "servingSize": "2  cups",
-    "carbohydrateContent": "5 g",
-    "fatContent": "16 g",
-    "fiberContent": "0.3 g",
-    "proteinContent": "7 g",
-    "sugarContent": "1 g"
+    "calories": 193,
+    "carbohydrateContent": 5,
+    "fatContent": 16,
+    "fiberContent": 0.3,
+    "proteinContent": 7,
+    "sugarContent": 1
   },
   "aggregateRating": {
     "reviewCount": 11,

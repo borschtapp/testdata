@@ -43,17 +43,35 @@
     "Keto Chicken Sheet Pan Meal",
     "Chicken \u0026 Chorizo Sheet Pan Meal"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "4 bone-in chicken thighs",
-    "4 links of Mexican chorizo (raw)",
-    "4 cups sliced zucchini (about 1/2 inch thick)",
-    "1 cup cherry tomatoes",
-    "1 tablespoon avocado or olive oil",
-    "1 teaspoon kosher salt (plus more to taste)",
-    "1/4 teaspoon ground black pepper",
-    "1 teaspoon garlic powder",
-    "1/2 teaspoon dried thyme leaves"
+    {
+      "name": "4 bone-in chicken thighs"
+    },
+    {
+      "name": "4 links of Mexican chorizo (raw)"
+    },
+    {
+      "name": "4 cups sliced zucchini (about 1/2 inch thick)"
+    },
+    {
+      "name": "1 cup cherry tomatoes"
+    },
+    {
+      "name": "1 tablespoon avocado or olive oil"
+    },
+    {
+      "name": "1 teaspoon kosher salt (plus more to taste)"
+    },
+    {
+      "name": "1/4 teaspoon ground black pepper"
+    },
+    {
+      "name": "1 teaspoon garlic powder"
+    },
+    {
+      "name": "1/2 teaspoon dried thyme leaves"
+    }
   ],
   "recipeInstructions": [
     {
@@ -86,12 +104,12 @@
     }
   ],
   "nutrition": {
-    "calories": "589 calories",
     "servingSize": "1 thigh, 1 link, 3/4 cup veggies",
-    "carbohydrateContent": "7g",
-    "fatContent": "44g",
-    "fiberContent": "2g",
-    "proteinContent": "51g"
+    "calories": 589,
+    "carbohydrateContent": 7,
+    "fatContent": 44,
+    "fiberContent": 2,
+    "proteinContent": 51
   },
   "aggregateRating": {
     "reviewCount": 2,

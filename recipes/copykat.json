@@ -43,17 +43,35 @@
     "Instant Pot Recipes",
     "Slow Cooker Recipes"
   ],
-  "recipeYield": 10,
+  "recipeYield": "10",
   "recipeIngredient": [
-    "1 cup flour",
-    "1 teaspoon salt",
-    "1/4 teaspoon black pepper",
-    "3 pounds lean chuck roast",
-    "48 ounces beef stock",
-    "1 tablespoon vegetable oil",
-    "2 teaspoons gravy master",
-    "1 cup onions (chopped)",
-    "16 ounces noodles (or rice for serving)"
+    {
+      "name": "1 cup flour"
+    },
+    {
+      "name": "1 teaspoon salt"
+    },
+    {
+      "name": "1/4 teaspoon black pepper"
+    },
+    {
+      "name": "3 pounds lean chuck roast"
+    },
+    {
+      "name": "48 ounces beef stock"
+    },
+    {
+      "name": "1 tablespoon vegetable oil"
+    },
+    {
+      "name": "2 teaspoons gravy master"
+    },
+    {
+      "name": "1 cup onions (chopped)"
+    },
+    {
+      "name": "16 ounces noodles (or rice for serving)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -101,16 +119,16 @@
     }
   ],
   "nutrition": {
-    "calories": "495 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "46 g",
-    "cholesterolContent": "93 mg",
-    "fatContent": "17 g",
-    "fiberContent": "2 g",
-    "proteinContent": "36 g",
-    "saturatedFatContent": "8 g",
-    "sodiumContent": "682 mg",
-    "sugarContent": "2 g"
+    "calories": 495,
+    "carbohydrateContent": 46,
+    "cholesterolContent": 93,
+    "fatContent": 17,
+    "fiberContent": 2,
+    "proteinContent": 36,
+    "saturatedFatContent": 8,
+    "sodiumContent": 682,
+    "sugarContent": 2
   },
   "aggregateRating": {
     "reviewCount": 3,

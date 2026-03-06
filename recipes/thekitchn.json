@@ -56,21 +56,47 @@
     "pasta-noodles",
     "recipe"
   ],
-  "recipeYield": 8,
+  "recipeYield": "8",
   "recipeIngredient": [
-    "2 tablespoons olive oil",
-    "12 ounces lean ground beef",
-    "1 large shallot, finely chopped",
-    "4 cloves garlic, minced",
-    "3 cups marinara sauce, divided",
-    "Cooking spray",
-    "14 dried manicotti pasta tubes (8 ounces)",
-    "1 (15 to 16-ounce) container full-fat ricotta cheese",
-    "2 cups shredded part-skim mozzarella cheese, divided",
-    "1/2 cup finely grated Parmesan cheese, divided",
-    "1/2 cup chopped fresh parsley leaves, divided",
-    "1 large egg, lightly beaten",
-    "1 teaspoon kosher salt"
+    {
+      "name": "2 tablespoons olive oil"
+    },
+    {
+      "name": "12 ounces lean ground beef"
+    },
+    {
+      "name": "1 large shallot, finely chopped"
+    },
+    {
+      "name": "4 cloves garlic, minced"
+    },
+    {
+      "name": "3 cups marinara sauce, divided"
+    },
+    {
+      "name": "Cooking spray"
+    },
+    {
+      "name": "14 dried manicotti pasta tubes (8 ounces)"
+    },
+    {
+      "name": "1 (15 to 16-ounce) container full-fat ricotta cheese"
+    },
+    {
+      "name": "2 cups shredded part-skim mozzarella cheese, divided"
+    },
+    {
+      "name": "1/2 cup finely grated Parmesan cheese, divided"
+    },
+    {
+      "name": "1/2 cup chopped fresh parsley leaves, divided"
+    },
+    {
+      "name": "1 large egg, lightly beaten"
+    },
+    {
+      "name": "1 teaspoon kosher salt"
+    }
   ],
   "recipeInstructions": [
     {
@@ -118,17 +144,17 @@
     }
   ],
   "nutrition": {
-    "calories": "554 cal",
     "servingSize": "Serves 8",
-    "carbohydrateContent": "34.5 g",
-    "cholesterolContent": "0 mg",
-    "fatContent": "33.3 g",
-    "fiberContent": "3.2 g",
-    "proteinContent": "28.4 g",
-    "saturatedFatContent": "14.4 g",
-    "sodiumContent": "801.5 mg",
-    "sugarContent": "7.5 g",
-    "unsaturatedFatContent": "0.0 g"
+    "calories": 554,
+    "carbohydrateContent": 34.5,
+    "cholesterolContent": 0,
+    "fatContent": 33.3,
+    "fiberContent": 3.2,
+    "proteinContent": 28.4,
+    "saturatedFatContent": 14.4,
+    "sodiumContent": 801.5,
+    "sugarContent": 7.5,
+    "unsaturatedFatContent": 0
   },
   "aggregateRating": {},
   "dateModified": "2019-10-15T10:00:03-04:00",

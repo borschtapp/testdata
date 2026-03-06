@@ -38,27 +38,65 @@
   "recipeCuisine": [
     "Creole"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "1 tablespoon olive oil or 1/4 cup water",
-    "1 medium onion, diced",
-    "4 cloves garlic, minced",
-    "3 large bell peppers (green, red \u0026 yellow), seeded and diced",
-    "2 large celery ribs, diced",
-    "2 teaspoons smoked paprika",
-    "1 teaspoon EACH dried thyme + oregano",
-    "1/4 – 1/2 teaspoon cayenne or red pepper flakes",
-    "1 can (14oz) crushed tomatoes",
-    "1 1/2 cups dry long-grain rice (for grain-free see notes)",
-    "1 – 2 bay leaves",
-    "3 1/2 – 4 cups low-sodium vegetable broth",
-    "1 can (14oz) red kidney beans, drained and rinsed",
-    "3 – 4 vegan sausages (about 14 oz), sliced and cooked (or extra can of beans)",
-    "1 teaspoon pink salt, or to taste",
-    "fresh cracked pepper, to taste",
-    "sliced scallions (green onions)",
-    "chopped parsley",
-    "dash of hot sauce (Tabasco, Frank’s, or your favorite)"
+    {
+      "name": "1 tablespoon olive oil or 1/4 cup water"
+    },
+    {
+      "name": "1 medium onion, diced"
+    },
+    {
+      "name": "4 cloves garlic, minced"
+    },
+    {
+      "name": "3 large bell peppers (green, red \u0026 yellow), seeded and diced"
+    },
+    {
+      "name": "2 large celery ribs, diced"
+    },
+    {
+      "name": "2 teaspoons smoked paprika"
+    },
+    {
+      "name": "1 teaspoon EACH dried thyme + oregano"
+    },
+    {
+      "name": "1/4 – 1/2 teaspoon cayenne or red pepper flakes"
+    },
+    {
+      "name": "1 can (14oz) crushed tomatoes"
+    },
+    {
+      "name": "1 1/2 cups dry long-grain rice (for grain-free see notes)"
+    },
+    {
+      "name": "1 – 2 bay leaves"
+    },
+    {
+      "name": "3 1/2 – 4 cups low-sodium vegetable broth"
+    },
+    {
+      "name": "1 can (14oz) red kidney beans, drained and rinsed"
+    },
+    {
+      "name": "3 – 4 vegan sausages (about 14 oz), sliced and cooked (or extra can of beans)"
+    },
+    {
+      "name": "1 teaspoon pink salt, or to taste"
+    },
+    {
+      "name": "fresh cracked pepper, to taste"
+    },
+    {
+      "name": "sliced scallions (green onions)"
+    },
+    {
+      "name": "chopped parsley"
+    },
+    {
+      "name": "dash of hot sauce (Tabasco, Frank’s, or your favorite)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -92,16 +130,16 @@
     }
   ],
   "nutrition": {
-    "calories": "358 calories",
-    "carbohydrateContent": "74 g",
-    "cholesterolContent": "0 mg",
-    "fatContent": "1.9 g",
-    "fiberContent": "10.7 g",
-    "proteinContent": "15.7 g",
-    "saturatedFatContent": "0.5 g",
-    "sodiumContent": "504.5 mg",
-    "sugarContent": "9.4 g",
-    "transFatContent": "0 g"
+    "calories": 358,
+    "carbohydrateContent": 74,
+    "cholesterolContent": 0,
+    "fatContent": 1.9,
+    "fiberContent": 10.7,
+    "proteinContent": 15.7,
+    "saturatedFatContent": 0.5,
+    "sodiumContent": 504.5,
+    "sugarContent": 9.4,
+    "transFatContent": 0
   },
   "aggregateRating": {
     "reviewCount": 16,

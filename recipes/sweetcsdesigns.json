@@ -37,11 +37,17 @@
     "potatoes",
     "side dish"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "3 large russet potatoes",
-    "2-3 tablespoons olive oil",
-    "Sea salt and pepper (to taste)"
+    {
+      "name": "3 large russet potatoes"
+    },
+    {
+      "name": "2-3 tablespoons olive oil"
+    },
+    {
+      "name": "Sea salt and pepper (to taste)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -90,16 +96,16 @@
     }
   ],
   "nutrition": {
-    "calories": "205 kcal",
     "servingSize": "1 g",
-    "carbohydrateContent": "32 g",
-    "fatContent": "7 g",
-    "fiberContent": "3 g",
-    "proteinContent": "4 g",
-    "saturatedFatContent": "1 g",
-    "sodiumContent": "70 mg",
-    "sugarContent": "2 g",
-    "unsaturatedFatContent": "6 g"
+    "calories": 205,
+    "carbohydrateContent": 32,
+    "fatContent": 7,
+    "fiberContent": 3,
+    "proteinContent": 4,
+    "saturatedFatContent": 1,
+    "sodiumContent": 70,
+    "sugarContent": 2,
+    "unsaturatedFatContent": 6
   },
   "aggregateRating": {
     "reviewCount": 4,

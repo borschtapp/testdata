@@ -25,16 +25,32 @@
   "recipeCuisine": [
     "American"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "4 (225g) boneless skinless chicken breasts",
-    "Plain flour, for dredging, plus 2 tbsp",
-    "85g butter",
-    "1 tbsp olive oil",
-    "80g sliced mushrooms",
-    "2 tbsp minced garlic",
-    "4 tbsp Marsala wine",
-    "500ml beef stock"
+    {
+      "name": "4 (225g) boneless skinless chicken breasts"
+    },
+    {
+      "name": "Plain flour, for dredging, plus 2 tbsp"
+    },
+    {
+      "name": "85g butter"
+    },
+    {
+      "name": "1 tbsp olive oil"
+    },
+    {
+      "name": "80g sliced mushrooms"
+    },
+    {
+      "name": "2 tbsp minced garlic"
+    },
+    {
+      "name": "4 tbsp Marsala wine"
+    },
+    {
+      "name": "500ml beef stock"
+    }
   ],
   "recipeInstructions": [
     {

@@ -23,40 +23,108 @@
     "Beef"
   ],
   "recipeIngredient": [
-    "1 tablespoon avocado oil (or olive oil)",
-    "1 tablespoon garlic, minced",
-    "2/3 cup onion, diced",
-    "1 bell pepper, diced",
-    "1 1/2 lb 95% lean beef (I used lean bison)",
-    "1 tablespoon chili powder",
-    "2 teaspoons smoked paprika",
-    "2 teaspoons cumin",
-    "1/2 teaspoon cinnamon",
-    "2 teaspoons (Mexican) oregano",
-    "2 cups low sodium beef stock",
-    "4 tablespoons tomato paste (NOT sauce)",
-    "1 can (14.5oz /411g) no salt added diced tomatoes",
-    "1 ripe plantain (~200g), cut into 1-inch pieces",
-    "sea salt \u0026 pepper to taste",
-    "cilantro",
-    "jalapeño",
-    "1 tablespoon avocado oil (or olive oil)",
-    "1 tablespoon garlic, minced",
-    "2/3 cup onion, diced",
-    "1 bell pepper, diced",
-    "1 1/2 lb 95% lean beef (I used lean bison)",
-    "1 tablespoon chili powder",
-    "2 teaspoons smoked paprika",
-    "2 teaspoons cumin",
-    "1/2 teaspoon cinnamon",
-    "2 teaspoons (Mexican) oregano",
-    "2 cups low sodium beef stock",
-    "4 tablespoons tomato paste (NOT sauce)",
-    "1 can (14.5oz /411g) no salt added diced tomatoes",
-    "1 ripe plantain (~200g), cut into 1-inch pieces",
-    "sea salt \u0026 pepper to taste",
-    "cilantro",
-    "jalapeño"
+    {
+      "name": "1 tablespoon avocado oil (or olive oil)"
+    },
+    {
+      "name": "1 tablespoon garlic, minced"
+    },
+    {
+      "name": "2/3 cup onion, diced"
+    },
+    {
+      "name": "1 bell pepper, diced"
+    },
+    {
+      "name": "1 1/2 lb 95% lean beef (I used lean bison)"
+    },
+    {
+      "name": "1 tablespoon chili powder"
+    },
+    {
+      "name": "2 teaspoons smoked paprika"
+    },
+    {
+      "name": "2 teaspoons cumin"
+    },
+    {
+      "name": "1/2 teaspoon cinnamon"
+    },
+    {
+      "name": "2 teaspoons (Mexican) oregano"
+    },
+    {
+      "name": "2 cups low sodium beef stock"
+    },
+    {
+      "name": "4 tablespoons tomato paste (NOT sauce)"
+    },
+    {
+      "name": "1 can (14.5oz /411g) no salt added diced tomatoes"
+    },
+    {
+      "name": "1 ripe plantain (~200g), cut into 1-inch pieces"
+    },
+    {
+      "name": "sea salt \u0026 pepper to taste"
+    },
+    {
+      "name": "cilantro"
+    },
+    {
+      "name": "jalapeño"
+    },
+    {
+      "name": "1 tablespoon avocado oil (or olive oil)"
+    },
+    {
+      "name": "1 tablespoon garlic, minced"
+    },
+    {
+      "name": "2/3 cup onion, diced"
+    },
+    {
+      "name": "1 bell pepper, diced"
+    },
+    {
+      "name": "1 1/2 lb 95% lean beef (I used lean bison)"
+    },
+    {
+      "name": "1 tablespoon chili powder"
+    },
+    {
+      "name": "2 teaspoons smoked paprika"
+    },
+    {
+      "name": "2 teaspoons cumin"
+    },
+    {
+      "name": "1/2 teaspoon cinnamon"
+    },
+    {
+      "name": "2 teaspoons (Mexican) oregano"
+    },
+    {
+      "name": "2 cups low sodium beef stock"
+    },
+    {
+      "name": "4 tablespoons tomato paste (NOT sauce)"
+    },
+    {
+      "name": "1 can (14.5oz /411g) no salt added diced tomatoes"
+    },
+    {
+      "name": "1 ripe plantain (~200g), cut into 1-inch pieces"
+    },
+    {
+      "name": "sea salt \u0026 pepper to taste"
+    },
+    {
+      "name": "cilantro"
+    },
+    {
+      "name": "jalapeño"
+    }
   ],
   "recipeInstructions": [
     {

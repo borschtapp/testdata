@@ -53,18 +53,38 @@
     "cheddar",
     "pecorino"
   ],
-  "recipeYield": 5,
+  "recipeYield": "5 cups (about 120 to 160 crackers)",
   "recipeIngredient": [
-    "1 1/2 cups/190 grams unbleached all-purpose flour (see Tip)",
-    "1 tablespoon freshly ground black pepper, plus more for finishing",
-    "1/2 teaspoon kosher salt",
-    "1/2 teaspoon onion powder (optional)",
-    "1/2 teaspoon ground mustard (optional)",
-    "1/8 teaspoon garlic powder (optional)",
-    "5 ounces/145 grams white Cheddar, roughly grated (about 1 1/4 cups packed)",
-    "3 ounces/85 grams Asiago cheese, roughly grated (about 3/4 cup)",
-    "5 tablespoons/70 grams unsalted butter, cold and cubed",
-    "1/4 cup/25 grams finely ground Pecorino Romano cheese (or Parmigiano-Reggiano or more Asiago), for sprinkling"
+    {
+      "name": "1 1/2 cups/190 grams unbleached all-purpose flour (see Tip)"
+    },
+    {
+      "name": "1 tablespoon freshly ground black pepper, plus more for finishing"
+    },
+    {
+      "name": "1/2 teaspoon kosher salt"
+    },
+    {
+      "name": "1/2 teaspoon onion powder (optional)"
+    },
+    {
+      "name": "1/2 teaspoon ground mustard (optional)"
+    },
+    {
+      "name": "1/8 teaspoon garlic powder (optional)"
+    },
+    {
+      "name": "5 ounces/145 grams white Cheddar, roughly grated (about 1 1/4 cups packed)"
+    },
+    {
+      "name": "3 ounces/85 grams Asiago cheese, roughly grated (about 3/4 cup)"
+    },
+    {
+      "name": "5 tablespoons/70 grams unsalted butter, cold and cubed"
+    },
+    {
+      "name": "1/4 cup/25 grams finely ground Pecorino Romano cheese (or Parmigiano-Reggiano or more Asiago), for sprinkling"
+    }
   ],
   "recipeInstructions": [
     {
@@ -96,16 +116,16 @@
     }
   ],
   "nutrition": {
-    "calories": "291",
-    "carbohydrateContent": "20 grams",
-    "fatContent": "18 grams",
-    "fiberContent": "1 gram",
-    "proteinContent": "13 grams",
-    "saturatedFatContent": "10 grams",
-    "sodiumContent": "327 milligrams",
-    "sugarContent": "0 grams",
-    "transFatContent": "0 grams",
-    "unsaturatedFatContent": "6 grams"
+    "calories": 291,
+    "carbohydrateContent": 20,
+    "fatContent": 18,
+    "fiberContent": 1,
+    "proteinContent": 13,
+    "saturatedFatContent": 10,
+    "sodiumContent": 327,
+    "sugarContent": 0,
+    "transFatContent": 0,
+    "unsaturatedFatContent": 6
   },
   "aggregateRating": {
     "ratingCount": 251,

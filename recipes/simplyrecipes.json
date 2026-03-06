@@ -47,19 +47,41 @@
     "Favorite Fall",
     "Favorite Winter"
   ],
-  "recipeYield": 8,
+  "recipeYield": "8",
   "recipeIngredient": [
-    "2 bone-in chicken breasts, skin removed (1 to 1 1/2 pounds)",
-    "1 cup long-grain white rice, like basmati",
-    "2 celery ribs, diced small",
-    "2 medium carrots, peeled and diced small",
-    "1 onion, diced small",
-    "2 cloves garlic, peeled but left whole",
-    "1 teaspoon salt, plus more to taste (see Recipe Note)",
-    "1/2 teaspoon ground black pepper",
-    "2 quarts unsalted or low-sodium chicken stock",
-    "Juice of 1/2 lemon (about 3 tablespoons)",
-    "Chopped fresh parsley, for serving"
+    {
+      "name": "2 bone-in chicken breasts, skin removed (1 to 1 1/2 pounds)"
+    },
+    {
+      "name": "1 cup long-grain white rice, like basmati"
+    },
+    {
+      "name": "2 celery ribs, diced small"
+    },
+    {
+      "name": "2 medium carrots, peeled and diced small"
+    },
+    {
+      "name": "1 onion, diced small"
+    },
+    {
+      "name": "2 cloves garlic, peeled but left whole"
+    },
+    {
+      "name": "1 teaspoon salt, plus more to taste (see Recipe Note)"
+    },
+    {
+      "name": "1/2 teaspoon ground black pepper"
+    },
+    {
+      "name": "2 quarts unsalted or low-sodium chicken stock"
+    },
+    {
+      "name": "Juice of 1/2 lemon (about 3 tablespoons)"
+    },
+    {
+      "name": "Chopped fresh parsley, for serving"
+    }
   ],
   "recipeInstructions": [
     {
@@ -82,17 +104,17 @@
     }
   ],
   "nutrition": {
-    "calories": "161 kcal",
     "servingSize": "6 to 8 servings (makes about 3 quarts)",
-    "carbohydrateContent": "10 g",
-    "cholesterolContent": "62 mg",
-    "fatContent": "2 g",
-    "fiberContent": "1 g",
-    "proteinContent": "23 g",
-    "saturatedFatContent": "1 g",
-    "sodiumContent": "879 mg",
-    "sugarContent": "2 g",
-    "unsaturatedFatContent": "0 g"
+    "calories": 161,
+    "carbohydrateContent": 10,
+    "cholesterolContent": 62,
+    "fatContent": 2,
+    "fiberContent": 1,
+    "proteinContent": 23,
+    "saturatedFatContent": 1,
+    "sodiumContent": 879,
+    "sugarContent": 2,
+    "unsaturatedFatContent": 0
   },
   "aggregateRating": {
     "ratingCount": 8,

@@ -41,16 +41,32 @@
   "keywords": [
     "holiday"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "8 ounce macaroni",
-    "2 teaspoons olive oil",
-    "1 cup evaporated milk",
-    "1/2 cup milk",
-    "1/2 teaspoon salt",
-    "1/4 teaspoon ground black pepper",
-    "2 cups Cheddar cheese (shredded, or a Cheddar blend)",
-    "4 tablespoons butter (melted)"
+    {
+      "name": "8 ounce macaroni"
+    },
+    {
+      "name": "2 teaspoons olive oil"
+    },
+    {
+      "name": "1 cup evaporated milk"
+    },
+    {
+      "name": "1/2 cup milk"
+    },
+    {
+      "name": "1/2 teaspoon salt"
+    },
+    {
+      "name": "1/4 teaspoon ground black pepper"
+    },
+    {
+      "name": "2 cups Cheddar cheese (shredded, or a Cheddar blend)"
+    },
+    {
+      "name": "4 tablespoons butter (melted)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -84,16 +100,16 @@
     }
   ],
   "nutrition": {
-    "calories": "441 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "34 g",
-    "cholesterolContent": "74 mg",
-    "fatContent": "26 g",
-    "fiberContent": "1 g",
-    "proteinContent": "18 g",
-    "saturatedFatContent": "15 g",
-    "sodiumContent": "551 mg",
-    "sugarContent": "7 g"
+    "calories": 441,
+    "carbohydrateContent": 34,
+    "cholesterolContent": 74,
+    "fatContent": 26,
+    "fiberContent": 1,
+    "proteinContent": 18,
+    "saturatedFatContent": 15,
+    "sodiumContent": 551,
+    "sugarContent": 7
   },
   "aggregateRating": {
     "reviewCount": 2,

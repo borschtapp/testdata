@@ -40,31 +40,77 @@
     "frisch",
     "Zitronensaft"
   ],
-  "recipeYield": 2,
+  "recipeYield": "2 servings",
   "recipeIngredient": [
-    "250 g Hühnerbrust, ohne Knochen",
-    "3 mittelgross Knoblauchzehen, frisch",
-    "2 TL Zitronensaft",
-    "2 EL Olivenöl, extra vergine",
-    "1 TL Oregano, frisch oder TK",
-    "4 kleine Zwiebelchen, rot",
-    "2 mittelgross Knoblauchzehen, frisch",
-    "200 g Zucchini, grün",
-    "1 mittelgross Kartoffel, festkochend",
-    "40 g Karotte",
-    "4 mit Tomaten, rot, vollreif",
-    "2 EL Schnittsellerie-Stängel, frisch oder TK",
-    "1 kleine Peperoni, rot, mittelscharf",
-    "3 EL Olivenöl",
-    "2 TL Rosmarin, frisch oder TK",
-    "6 Oliven, grün, kernlos",
-    "2 Prise Pfeffer, schwarz, frisch aus der Mühle",
-    "2 EL Schnittsellerie-Blätter, frisch oder TK",
-    "50 g Tomatensaft",
-    "50 g Weißwein, trocken",
-    "1 TL Zucker",
-    "2 TL (gestrichen) Hühnerbrühe, Kraftbouillon",
-    "Blüten und Blätter"
+    {
+      "name": "250 g Hühnerbrust, ohne Knochen"
+    },
+    {
+      "name": "3 mittelgross Knoblauchzehen, frisch"
+    },
+    {
+      "name": "2 TL Zitronensaft"
+    },
+    {
+      "name": "2 EL Olivenöl, extra vergine"
+    },
+    {
+      "name": "1 TL Oregano, frisch oder TK"
+    },
+    {
+      "name": "4 kleine Zwiebelchen, rot"
+    },
+    {
+      "name": "2 mittelgross Knoblauchzehen, frisch"
+    },
+    {
+      "name": "200 g Zucchini, grün"
+    },
+    {
+      "name": "1 mittelgross Kartoffel, festkochend"
+    },
+    {
+      "name": "40 g Karotte"
+    },
+    {
+      "name": "4 mit Tomaten, rot, vollreif"
+    },
+    {
+      "name": "2 EL Schnittsellerie-Stängel, frisch oder TK"
+    },
+    {
+      "name": "1 kleine Peperoni, rot, mittelscharf"
+    },
+    {
+      "name": "3 EL Olivenöl"
+    },
+    {
+      "name": "2 TL Rosmarin, frisch oder TK"
+    },
+    {
+      "name": "6 Oliven, grün, kernlos"
+    },
+    {
+      "name": "2 Prise Pfeffer, schwarz, frisch aus der Mühle"
+    },
+    {
+      "name": "2 EL Schnittsellerie-Blätter, frisch oder TK"
+    },
+    {
+      "name": "50 g Tomatensaft"
+    },
+    {
+      "name": "50 g Weißwein, trocken"
+    },
+    {
+      "name": "1 TL Zucker"
+    },
+    {
+      "name": "2 TL (gestrichen) Hühnerbrühe, Kraftbouillon"
+    },
+    {
+      "name": "Blüten und Blätter"
+    }
   ],
   "recipeInstructions": [
     {
@@ -90,11 +136,11 @@
     }
   ],
   "nutrition": {
-    "calories": "127 kcal",
     "servingSize": "100 g",
-    "carbohydrateContent": "2.9 g",
-    "fatContent": "11.2 g",
-    "proteinContent": "2.5 g"
+    "calories": 127,
+    "carbohydrateContent": 2.9,
+    "fatContent": 11.2,
+    "proteinContent": 2.5
   },
   "aggregateRating": {
     "ratingCount": 4,

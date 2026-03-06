@@ -39,23 +39,53 @@
   "keywords": [
     "keto white chicken chili"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "1.5 lbs Precooked Chicken Breast Shredded (Can be baked or boiled)",
-    "1 tbsp Olive Oil",
-    "3 cloves Minced Garlic",
-    "1/2 c Diced Onion",
-    "18 oz Block of Cream Cheese",
-    "4 cups Chicken Broth",
-    "7 oz Can Green Chilis",
-    "1/4 c Heavy Cream",
-    "2 tbsp Cilantro",
-    "1+1/2 tsp Cumin",
-    "1/4 tsp Cayenne",
-    "3/4 tsp Oregano",
-    "3/4 tsp Paprika",
-    "1/2 tsp Pepper",
-    "1 tsp Salt"
+    {
+      "name": "1.5 lbs Precooked Chicken Breast Shredded (Can be baked or boiled)"
+    },
+    {
+      "name": "1 tbsp Olive Oil"
+    },
+    {
+      "name": "3 cloves Minced Garlic"
+    },
+    {
+      "name": "1/2 c Diced Onion"
+    },
+    {
+      "name": "18 oz Block of Cream Cheese"
+    },
+    {
+      "name": "4 cups Chicken Broth"
+    },
+    {
+      "name": "7 oz Can Green Chilis"
+    },
+    {
+      "name": "1/4 c Heavy Cream"
+    },
+    {
+      "name": "2 tbsp Cilantro"
+    },
+    {
+      "name": "1+1/2 tsp Cumin"
+    },
+    {
+      "name": "1/4 tsp Cayenne"
+    },
+    {
+      "name": "3/4 tsp Oregano"
+    },
+    {
+      "name": "3/4 tsp Paprika"
+    },
+    {
+      "name": "1/2 tsp Pepper"
+    },
+    {
+      "name": "1 tsp Salt"
+    }
   ],
   "recipeInstructions": [
     {
@@ -80,18 +110,18 @@
     }
   ],
   "nutrition": {
-    "calories": "305 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "12 g",
-    "cholesterolContent": "96 mg",
-    "fatContent": "11 g",
-    "fiberContent": "1 g",
-    "proteinContent": "39 g",
-    "saturatedFatContent": "4 g",
-    "sodiumContent": "1829 mg",
-    "sugarContent": "5 g",
-    "transFatContent": "1 g",
-    "unsaturatedFatContent": "5 g"
+    "calories": 305,
+    "carbohydrateContent": 12,
+    "cholesterolContent": 96,
+    "fatContent": 11,
+    "fiberContent": 1,
+    "proteinContent": 39,
+    "saturatedFatContent": 4,
+    "sodiumContent": 1829,
+    "sugarContent": 5,
+    "transFatContent": 1,
+    "unsaturatedFatContent": 5
   },
   "aggregateRating": {
     "ratingCount": 30,

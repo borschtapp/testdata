@@ -30,23 +30,53 @@
     "kfc",
     "fried chicken"
   ],
-  "recipeYield": 1,
+  "recipeYield": "1",
   "recipeIngredient": [
-    "8 tablespoons panko breadcrumbs",
-    "4 tablespoons plain flour",
-    "1/4 teaspoon garlic powder",
-    "1/4 teaspoon onion granules",
-    "1/4 teaspoon cayenne pepper",
-    "1/4 teaspoon dried Italian herbs",
-    "1/2 teaspoon sea salt",
-    "1/4 teaspoon black pepper",
-    "4 tablespoons plain flour",
-    "1/4 teaspoon sea salt",
-    "Pinch black pepper",
-    "1 egg",
-    "3 tablespoons milk",
-    "1 skinless, boneless chicken breast fillet (around 114g)",
-    "vegetable oil (for deep frying)"
+    {
+      "name": "8 tablespoons panko breadcrumbs"
+    },
+    {
+      "name": "4 tablespoons plain flour"
+    },
+    {
+      "name": "1/4 teaspoon garlic powder"
+    },
+    {
+      "name": "1/4 teaspoon onion granules"
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper"
+    },
+    {
+      "name": "1/4 teaspoon dried Italian herbs"
+    },
+    {
+      "name": "1/2 teaspoon sea salt"
+    },
+    {
+      "name": "1/4 teaspoon black pepper"
+    },
+    {
+      "name": "4 tablespoons plain flour"
+    },
+    {
+      "name": "1/4 teaspoon sea salt"
+    },
+    {
+      "name": "Pinch black pepper"
+    },
+    {
+      "name": "1 egg"
+    },
+    {
+      "name": "3 tablespoons milk"
+    },
+    {
+      "name": "1 skinless, boneless chicken breast fillet (around 114g)"
+    },
+    {
+      "name": "vegetable oil (for deep frying)"
+    }
   ],
   "recipeInstructions": [
     {

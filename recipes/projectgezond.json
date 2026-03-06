@@ -17,22 +17,50 @@
   "prepTime": "PT30M",
   "cookTime": "PT2H",
   "totalTime": "PT2H30M",
-  "recipeYield": 2,
+  "recipeYield": "2 personen",
   "recipeIngredient": [
-    "40 gr ontbijtspek",
-    "250 gr runderriblappen",
-    "10 gr bloem",
-    "1 ui",
-    "150 gr winterpeen",
-    "1 teentje knoflook",
-    "35 gr tomatenpuree",
-    "100 ml rode wijn",
-    "200 ml runderbouillon",
-    "1 laurierblaadje",
-    "1 takje tijm",
-    "1 kruidnagel",
-    "150 gr champignons",
-    "50 gr zilveruitjes"
+    {
+      "name": "40 gr ontbijtspek"
+    },
+    {
+      "name": "250 gr runderriblappen"
+    },
+    {
+      "name": "10 gr bloem"
+    },
+    {
+      "name": "1 ui"
+    },
+    {
+      "name": "150 gr winterpeen"
+    },
+    {
+      "name": "1 teentje knoflook"
+    },
+    {
+      "name": "35 gr tomatenpuree"
+    },
+    {
+      "name": "100 ml rode wijn"
+    },
+    {
+      "name": "200 ml runderbouillon"
+    },
+    {
+      "name": "1 laurierblaadje"
+    },
+    {
+      "name": "1 takje tijm"
+    },
+    {
+      "name": "1 kruidnagel"
+    },
+    {
+      "name": "150 gr champignons"
+    },
+    {
+      "name": "50 gr zilveruitjes"
+    }
   ],
   "recipeInstructions": [
     {
@@ -88,10 +116,10 @@
     }
   ],
   "nutrition": {
-    "calories": "\n                        428\n                        Kcal\n                    ",
-    "carbohydrateContent": "\n                            21 gram\n                            Koolhydraten\n                        ",
-    "fatContent": "\n                            19 gram\n                            Vet\n                        ",
-    "fiberContent": "\n                            8 gram\n                            Vezels\n                        ",
-    "proteinContent": "\n                            33 gram\n                            Eiwitten\n                        "
+    "calories": 428,
+    "carbohydrateContent": 21,
+    "fatContent": 19,
+    "fiberContent": 8,
+    "proteinContent": 33
   }
 }

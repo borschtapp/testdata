@@ -16,9 +16,11 @@
   "recipeCuisine": [
     "Asian Korean"
   ],
-  "recipeYield": 2,
+  "recipeYield": "2",
   "recipeIngredient": [
-    "1 pack of beef sirloin, 1 pack of steamed brown rice, 1 pot of Korean seasoning, 1 pot of sesame drizzle, 1 pot of kimchi, 1 sachet of sesame sprinkle, 1 pot of edamame and peas, 1 capsicum, 1 bag of bok choy"
+    {
+      "name": "1 pack of beef sirloin, 1 pack of steamed brown rice, 1 pot of Korean seasoning, 1 pot of sesame drizzle, 1 pot of kimchi, 1 sachet of sesame sprinkle, 1 pot of edamame and peas, 1 capsicum, 1 bag of bok choy"
+    }
   ],
   "recipeInstructions": [
     {},
@@ -27,9 +29,9 @@
     {}
   ],
   "nutrition": {
-    "calories": "558",
-    "carbohydrateContent": "43",
-    "fatContent": "23",
-    "proteinContent": "43g, "
+    "calories": 558,
+    "carbohydrateContent": 43,
+    "fatContent": 23,
+    "proteinContent": 43
   }
 }

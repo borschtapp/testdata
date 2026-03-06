@@ -36,18 +36,38 @@
     "Sweet sour pepper fried chicken",
     "yuringi recipe"
   ],
-  "recipeYield": 3,
+  "recipeYield": "3 to 4 servings",
   "recipeIngredient": [
-    "3 tablespoons soy sauce",
-    "3 tablespoons white vinegar (or apple cider vinegar)",
-    "3 tablespoons Turbinado sugar (or white or brown sugar)",
-    "2 tablespoons water",
-    "4 garlic cloves, minced",
-    "1 teaspoon toasted sesame oil",
-    "¼ cup potato starch",
-    "⅛ teaspoon kosher salt",
-    "1 large egg",
-    "1 teaspoon crushed chili pepper (or 2 small dried red chili peppers or Korean hot pepper flakes)"
+    {
+      "name": "3 tablespoons soy sauce"
+    },
+    {
+      "name": "3 tablespoons white vinegar (or apple cider vinegar)"
+    },
+    {
+      "name": "3 tablespoons Turbinado sugar (or white or brown sugar)"
+    },
+    {
+      "name": "2 tablespoons water"
+    },
+    {
+      "name": "4 garlic cloves, minced"
+    },
+    {
+      "name": "1 teaspoon toasted sesame oil"
+    },
+    {
+      "name": "¼ cup potato starch"
+    },
+    {
+      "name": "⅛ teaspoon kosher salt"
+    },
+    {
+      "name": "1 large egg"
+    },
+    {
+      "name": "1 teaspoon crushed chili pepper (or 2 small dried red chili peppers or Korean hot pepper flakes)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -74,6 +94,9 @@
   "aggregateRating": {},
   "commentCount": 5,
   "video": {},
+  "sameAs": [
+    "https://www.maangchi.com/?p=95471"
+  ],
   "dateModified": "2021-12-19T01:08:16Z",
   "datePublished": "2021-12-19T00:15:00Z"
 }

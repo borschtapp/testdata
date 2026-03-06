@@ -30,23 +30,53 @@
     "ketogen",
     "Low Carb"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "1.5 Semmel(n) (altbacken)",
-    "2 Gewürzgurke(n)",
-    "2 kleine Zwiebel(n)",
-    "1 kl. Bund Petersilie",
-    "2 EL Zitronensaft",
-    "50 g Butter",
-    "600 g Hackfleisch, gemischtes",
-    "2 kleine Ei(er)",
-    "125 ml Fleischbrühe",
-    "125 ml Sahne",
-    "1 EL Crème fraîche",
-    "1 TL Paprikapulver, edelsüßes",
-    "Salz und Pfeffer, schwarzer",
-    "Cayennepfeffer",
-    "Fett für die Form"
+    {
+      "name": "1.5 Semmel(n) (altbacken)"
+    },
+    {
+      "name": "2 Gewürzgurke(n)"
+    },
+    {
+      "name": "2 kleine Zwiebel(n)"
+    },
+    {
+      "name": "1 kl. Bund Petersilie"
+    },
+    {
+      "name": "2 EL Zitronensaft"
+    },
+    {
+      "name": "50 g Butter"
+    },
+    {
+      "name": "600 g Hackfleisch, gemischtes"
+    },
+    {
+      "name": "2 kleine Ei(er)"
+    },
+    {
+      "name": "125 ml Fleischbrühe"
+    },
+    {
+      "name": "125 ml Sahne"
+    },
+    {
+      "name": "1 EL Crème fraîche"
+    },
+    {
+      "name": "1 TL Paprikapulver, edelsüßes"
+    },
+    {
+      "name": "Salz und Pfeffer, schwarzer"
+    },
+    {
+      "name": "Cayennepfeffer"
+    },
+    {
+      "name": "Fett für die Form"
+    }
   ],
   "recipeInstructions": [
     {
@@ -80,11 +110,11 @@
     }
   ],
   "nutrition": {
-    "calories": "731 kcal",
     "servingSize": "1 Portion",
-    "carbohydrateContent": "15.39 g",
-    "fatContent": "58.93 g",
-    "proteinContent": "36.04 g"
+    "calories": 731,
+    "carbohydrateContent": 15.39,
+    "fatContent": 58.93,
+    "proteinContent": 36.04
   },
   "aggregateRating": {
     "reviewCount": 778,

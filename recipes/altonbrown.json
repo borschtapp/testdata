@@ -35,17 +35,35 @@
     "Desserts",
     "Entertaining"
   ],
-  "recipeYield": 2,
+  "recipeYield": "2",
   "recipeIngredient": [
-    "1 cup (2 sticks) unsalted butter, at room temperature, plus extra for the pan",
-    "1 cup all-purpose flour, plus extra for the pan",
-    "1 cup cake flour",
-    "1 tablespoon baking powder",
-    "1 1/2 cups plus 3 tablespoons sugar",
-    "1/4 teaspoon fine sea salt",
-    "8 large egg yolks, at room temperature",
-    "1 1/4 cups whole milk, at room temperature",
-    "1 teaspoon vanilla extract"
+    {
+      "name": "1 cup (2 sticks) unsalted butter, at room temperature, plus extra for the pan"
+    },
+    {
+      "name": "1 cup all-purpose flour, plus extra for the pan"
+    },
+    {
+      "name": "1 cup cake flour"
+    },
+    {
+      "name": "1 tablespoon baking powder"
+    },
+    {
+      "name": "1 1/2 cups plus 3 tablespoons sugar"
+    },
+    {
+      "name": "1/4 teaspoon fine sea salt"
+    },
+    {
+      "name": "8 large egg yolks, at room temperature"
+    },
+    {
+      "name": "1 1/4 cups whole milk, at room temperature"
+    },
+    {
+      "name": "1 teaspoon vanilla extract"
+    }
   ],
   "recipeInstructions": [
     {

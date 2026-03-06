@@ -41,17 +41,35 @@
     "Vietnamese caramel pork",
     "Vietnamese pork recipe"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "1/2 cup / 100g brown sugar, tightly packed",
-    "1 tbsp water",
-    "1 kg / 2 lb pork shoulder ((butt) or boneless skinless pork belly, cut into 3 cm / 1.2\" pieces (Note 1a))",
-    "1.5 cups / 375 ml coconut water ((Note 1b))",
-    "1 eschallot / shallot (, very finely sliced (Note 2))",
-    "2 garlic cloves (, minced)",
-    "1 1/2 tbsp fish sauce",
-    "1/4 tsp white pepper",
-    "Red chilli and finely sliced shallots/green onions"
+    {
+      "name": "1/2 cup / 100g brown sugar, tightly packed"
+    },
+    {
+      "name": "1 tbsp water"
+    },
+    {
+      "name": "1 kg / 2 lb pork shoulder ((butt) or boneless skinless pork belly, cut into 3 cm / 1.2\" pieces (Note 1a))"
+    },
+    {
+      "name": "1.5 cups / 375 ml coconut water ((Note 1b))"
+    },
+    {
+      "name": "1 eschallot / shallot (, very finely sliced (Note 2))"
+    },
+    {
+      "name": "2 garlic cloves (, minced)"
+    },
+    {
+      "name": "1 1/2 tbsp fish sauce"
+    },
+    {
+      "name": "1/4 tsp white pepper"
+    },
+    {
+      "name": "Red chilli and finely sliced shallots/green onions"
+    }
   ],
   "recipeInstructions": [
     {
@@ -84,8 +102,8 @@
     }
   ],
   "nutrition": {
-    "calories": "727 kcal",
-    "servingSize": "365 g"
+    "servingSize": "365 g",
+    "calories": 727
   },
   "aggregateRating": {
     "reviewCount": 14,

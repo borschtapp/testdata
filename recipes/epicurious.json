@@ -40,14 +40,26 @@
     "bon appétit",
     "web"
   ],
-  "recipeYield": 2,
+  "recipeYield": "2 servings",
   "recipeIngredient": [
-    "2 (5.5-ounce) servings fresh or dried ramen noodles",
-    "4 cups torn escarole",
-    "3 tablespoons Roasted Garlic Chili Sauce",
-    "Kosher salt",
-    "4 Pickled Scallions",
-    "Spicy Tofu Crumbles, thinly sliced radish, and chopped peanuts (for serving)"
+    {
+      "name": "2 (5.5-ounce) servings fresh or dried ramen noodles"
+    },
+    {
+      "name": "4 cups torn escarole"
+    },
+    {
+      "name": "3 tablespoons Roasted Garlic Chili Sauce"
+    },
+    {
+      "name": "Kosher salt"
+    },
+    {
+      "name": "4 Pickled Scallions"
+    },
+    {
+      "name": "Spicy Tofu Crumbles, thinly sliced radish, and chopped peanuts (for serving)"
+    }
   ],
   "recipeInstructions": [
     {

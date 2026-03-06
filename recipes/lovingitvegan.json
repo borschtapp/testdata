@@ -47,17 +47,35 @@
     "smoothies",
     "vegan kale smoothie"
   ],
-  "recipeYield": 2,
+  "recipeYield": "2",
   "recipeIngredient": [
-    "1 1/4 cups Soy Milk ((300ml) or Almond Milk)",
-    "2 Frozen Bananas ((200g) previously peeled, broken into quarters and frozen for at least 12 hours)",
-    "1/2 cup Raw Cashews ((75g))",
-    "2 cups Kale ((56g) Torn up, packed)",
-    "4 Medjool Dates (Pitted)",
-    "1 tsp Minced Ginger",
-    "1/8 tsp Cinnamon",
-    "1 Tbsp Lime Juice (freshly squeezed)",
-    "1 cup Ice Cubes"
+    {
+      "name": "1 1/4 cups Soy Milk ((300ml) or Almond Milk)"
+    },
+    {
+      "name": "2 Frozen Bananas ((200g) previously peeled, broken into quarters and frozen for at least 12 hours)"
+    },
+    {
+      "name": "1/2 cup Raw Cashews ((75g))"
+    },
+    {
+      "name": "2 cups Kale ((56g) Torn up, packed)"
+    },
+    {
+      "name": "4 Medjool Dates (Pitted)"
+    },
+    {
+      "name": "1 tsp Minced Ginger"
+    },
+    {
+      "name": "1/8 tsp Cinnamon"
+    },
+    {
+      "name": "1 Tbsp Lime Juice (freshly squeezed)"
+    },
+    {
+      "name": "1 cup Ice Cubes"
+    }
   ],
   "recipeInstructions": [
     {
@@ -74,15 +92,15 @@
     }
   ],
   "nutrition": {
-    "calories": "373 kcal",
     "servingSize": "1 Smoothie",
-    "carbohydrateContent": "42.6 g",
-    "fatContent": "19.5 g",
-    "fiberContent": "4.9 g",
-    "proteinContent": "13.8 g",
-    "saturatedFatContent": "3.7 g",
-    "sodiumContent": "180 mg",
-    "sugarContent": "15.2 g"
+    "calories": 373,
+    "carbohydrateContent": 42.6,
+    "fatContent": 19.5,
+    "fiberContent": 4.9,
+    "proteinContent": 13.8,
+    "saturatedFatContent": 3.7,
+    "sodiumContent": 180,
+    "sugarContent": 15.2
   },
   "aggregateRating": {
     "reviewCount": 6,

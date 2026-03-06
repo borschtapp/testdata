@@ -1,5 +1,5 @@
 {
-  "url": "https://www.tine.no/oppskrifter/lunsj-og-smaretter/omeletter-og-pannekaker/pannekaker-med-cottage-cheese-til-jul",
+  "url": "https://www.tine.no/no/lunsj-og-smaretter/omeletter-og-pannekaker/pannekaker-med-cottage-cheese-til-jul",
   "name": "Pannekaker med cottage cheese til jul",
   "description": "Disse proteinrike pannekakene med smak av appelsin og kanel er perfekt til julefrokosten, julelunsjen eller når du har lyst på noe godt og proteinrikt. Ekstra digg blir det hvis du topper dem med vaniljekesam og pepperkaker.",
   "inLanguage": "no-NO",
@@ -37,18 +37,38 @@
   "keywords": [
     "easy"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4 servings",
   "recipeIngredient": [
-    "50 g TINE® Meierismør",
-    "2 dl TINE® Helmelk 3,5 % fett",
-    "2 stykk egg",
-    "1 dl TINE® Cottage Cheese Original",
-    "3 dl hvetemel",
-    "2 ts bakepulver",
-    "4 ss appelsinmarmelade",
-    "1 stykk appelsin Zesten av (finrevet)",
-    "0.5 ts malt kanel",
-    "0.25 ts salt"
+    {
+      "name": "50 g TINE® Meierismør"
+    },
+    {
+      "name": "2 dl TINE® Helmelk 3,5 % fett"
+    },
+    {
+      "name": "2 stykk egg"
+    },
+    {
+      "name": "1 dl TINE® Cottage Cheese Original"
+    },
+    {
+      "name": "3 dl hvetemel"
+    },
+    {
+      "name": "2 ts bakepulver"
+    },
+    {
+      "name": "4 ss appelsinmarmelade"
+    },
+    {
+      "name": "1 stykk appelsin Zesten av (finrevet)"
+    },
+    {
+      "name": "0.5 ts malt kanel"
+    },
+    {
+      "name": "0.25 ts salt"
+    }
   ],
   "recipeInstructions": [
     {

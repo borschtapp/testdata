@@ -41,15 +41,29 @@
   "keywords": [
     "watermelon cucumber salad"
   ],
-  "recipeYield": 2,
+  "recipeYield": "2",
   "recipeIngredient": [
-    "500 milliliters balsamic vinegar",
-    "1 cup granulated sugar (divided)",
-    "3 cups watermelon (seeded and cubed (I recommend seedless, firm watermelon))",
-    "1 large cucumber or English cucumber (peeled and cubed)",
-    "1 cup arugula (1 heaping handful)",
-    "1/3 cup goat cheese (crumbled or as desired)",
-    "1/3 cup candied nuts ((store-bought or homemade))"
+    {
+      "name": "500 milliliters balsamic vinegar"
+    },
+    {
+      "name": "1 cup granulated sugar (divided)"
+    },
+    {
+      "name": "3 cups watermelon (seeded and cubed (I recommend seedless, firm watermelon))"
+    },
+    {
+      "name": "1 large cucumber or English cucumber (peeled and cubed)"
+    },
+    {
+      "name": "1 cup arugula (1 heaping handful)"
+    },
+    {
+      "name": "1/3 cup goat cheese (crumbled or as desired)"
+    },
+    {
+      "name": "1/3 cup candied nuts ((store-bought or homemade))"
+    }
   ],
   "recipeInstructions": [
     {
@@ -74,17 +88,17 @@
     }
   ],
   "nutrition": {
-    "calories": "893 kcal",
     "servingSize": "1 salad",
-    "carbohydrateContent": "171 g",
-    "cholesterolContent": "17 mg",
-    "fatContent": "16 g",
-    "fiberContent": "3 g",
-    "proteinContent": "12 g",
-    "saturatedFatContent": "6 g",
-    "sodiumContent": "289 mg",
-    "sugarContent": "160 g",
-    "unsaturatedFatContent": "2.3 g"
+    "calories": 893,
+    "carbohydrateContent": 171,
+    "cholesterolContent": 17,
+    "fatContent": 16,
+    "fiberContent": 3,
+    "proteinContent": 12,
+    "saturatedFatContent": 6,
+    "sodiumContent": 289,
+    "sugarContent": 160,
+    "unsaturatedFatContent": 2.3
   },
   "aggregateRating": {
     "reviewCount": 9,

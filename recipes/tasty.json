@@ -46,29 +46,67 @@
     "short ribs recipe",
     "tasty - recipe"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4 servings",
   "recipeIngredient": [
-    "3 lb bone in beef short ribs, cut into 2-inch pieces",
-    "1 tablespoon kosher salt",
-    "2 teaspoons kosher salt",
-    "1 ½ teaspoons freshly ground black pepper",
-    "2 tablespoons avocado oil, divided",
-    "1 large white onion, cut into 1 inch (2.5 cm) pieces",
-    "4 celery stalks, cut into 1/2 inch (1 1/4 cm) diagonal pieces",
-    "2 tablespoons tomato paste",
-    "2 tablespoons all purpose flour",
-    "2 cups dry red wine, such as cabernet sauvignon",
-    "1 head garlic, halved crosswise",
-    "6 small rainbow carrots, peeled and ends trimmed",
-    "10 sprigs fresh thyme",
-    "2 cups low sodium beef broth",
-    "2 lb cauliflower, cut into florets",
-    "1 cup raw cashews",
-    "1 teaspoon garlic",
-    "¼ cup fresh parsley, chopped, for garnish"
+    {
+      "name": "3 lb bone in beef short ribs, cut into 2-inch pieces"
+    },
+    {
+      "name": "1 tablespoon kosher salt"
+    },
+    {
+      "name": "2 teaspoons kosher salt"
+    },
+    {
+      "name": "1 ½ teaspoons freshly ground black pepper"
+    },
+    {
+      "name": "2 tablespoons avocado oil, divided"
+    },
+    {
+      "name": "1 large white onion, cut into 1 inch (2.5 cm) pieces"
+    },
+    {
+      "name": "4 celery stalks, cut into 1/2 inch (1 1/4 cm) diagonal pieces"
+    },
+    {
+      "name": "2 tablespoons tomato paste"
+    },
+    {
+      "name": "2 tablespoons all purpose flour"
+    },
+    {
+      "name": "2 cups dry red wine, such as cabernet sauvignon"
+    },
+    {
+      "name": "1 head garlic, halved crosswise"
+    },
+    {
+      "name": "6 small rainbow carrots, peeled and ends trimmed"
+    },
+    {
+      "name": "10 sprigs fresh thyme"
+    },
+    {
+      "name": "2 cups low sodium beef broth"
+    },
+    {
+      "name": "2 lb cauliflower, cut into florets"
+    },
+    {
+      "name": "1 cup raw cashews"
+    },
+    {
+      "name": "1 teaspoon garlic"
+    },
+    {
+      "name": "¼ cup fresh parsley, chopped, for garnish"
+    }
   ],
   "tool": [
-    "Sieve"
+    {
+      "name": "Sieve"
+    }
   ],
   "recipeInstructions": [
     {
@@ -118,12 +156,12 @@
     }
   ],
   "nutrition": {
-    "calories": "1257 calories",
-    "carbohydrateContent": "98 grams",
-    "fatContent": "56 grams",
-    "fiberContent": "18 grams",
-    "proteinContent": "78 grams",
-    "sugarContent": "27 grams"
+    "calories": 1257,
+    "carbohydrateContent": 98,
+    "fatContent": 56,
+    "fiberContent": 18,
+    "proteinContent": 78,
+    "sugarContent": 27
   },
   "aggregateRating": {
     "ratingCount": 187,

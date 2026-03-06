@@ -43,13 +43,23 @@
     "creme brulee",
     "orange creme brulee"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "zest of 4 oranges* ((about 2 tsp))",
-    "3 cups heavy cream",
-    "5 large egg yolks",
-    "1/2 cup sugar +1 tsp for each crème brûlée",
-    "1 tsp vanilla extract"
+    {
+      "name": "zest of 4 oranges* ((about 2 tsp))"
+    },
+    {
+      "name": "3 cups heavy cream"
+    },
+    {
+      "name": "5 large egg yolks"
+    },
+    {
+      "name": "1/2 cup sugar +1 tsp for each crème brûlée"
+    },
+    {
+      "name": "1 tsp vanilla extract"
+    }
   ],
   "recipeInstructions": [
     {
@@ -102,15 +112,15 @@
     }
   ],
   "nutrition": {
-    "calories": "458 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "4 g",
-    "cholesterolContent": "317 mg",
-    "fatContent": "48 g",
-    "proteinContent": "5 g",
-    "saturatedFatContent": "29 g",
-    "sodiumContent": "52 mg",
-    "sugarContent": "1 g"
+    "calories": 458,
+    "carbohydrateContent": 4,
+    "cholesterolContent": 317,
+    "fatContent": 48,
+    "proteinContent": 5,
+    "saturatedFatContent": 29,
+    "sodiumContent": 52,
+    "sugarContent": 1
   },
   "aggregateRating": {
     "reviewCount": 4,

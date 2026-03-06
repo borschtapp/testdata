@@ -19,15 +19,29 @@
     "url": "https://www.ruled.me"
   },
   "totalTime": "PT20M",
-  "recipeYield": 3,
+  "recipeYield": "3",
   "recipeIngredient": [
-    "6 large egg",
-    "1 tablespoon heavy cream",
-    "4 slice cooked bacon (chopped)",
-    "1 cup spinach (chopped)",
-    "Salt and pepper to taste",
-    "5 ounce breakfast sausage (cooked)",
-    "3 ounce cheddar cheese (sliced)"
+    {
+      "name": "6 large egg"
+    },
+    {
+      "name": "1 tablespoon heavy cream"
+    },
+    {
+      "name": "4 slice cooked bacon (chopped)"
+    },
+    {
+      "name": "1 cup spinach (chopped)"
+    },
+    {
+      "name": "Salt and pepper to taste"
+    },
+    {
+      "name": "5 ounce breakfast sausage (cooked)"
+    },
+    {
+      "name": "3 ounce cheddar cheese (sliced)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -60,9 +74,9 @@
     }
   ],
   "nutrition": {
-    "calories": "547 kcal",
     "servingSize": "1 serving",
-    "fatContent": "42.7 g"
+    "calories": 547,
+    "fatContent": 42.7
   },
   "datePublished": "2022-06-14T05:00:21Z"
 }

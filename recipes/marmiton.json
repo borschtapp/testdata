@@ -56,19 +56,41 @@
     "facile",
     "moyen"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4 personnes",
   "recipeIngredient": [
-    "350 g d'aubergine",
-    "350 g de courgette",
-    "350 g de poivron de couleur rouge et vert",
-    "350 g d'oignon",
-    "500 g de tomate bien mûres",
-    "3 gousses d'ail",
-    "6 cuillères à soupe d'huile d'olive",
-    "1 brins de thym",
-    "1 feuilles de laurier",
-    "poivre",
-    "sel"
+    {
+      "name": "350 g d'aubergine"
+    },
+    {
+      "name": "350 g de courgette"
+    },
+    {
+      "name": "350 g de poivron de couleur rouge et vert"
+    },
+    {
+      "name": "350 g d'oignon"
+    },
+    {
+      "name": "500 g de tomate bien mûres"
+    },
+    {
+      "name": "3 gousses d'ail"
+    },
+    {
+      "name": "6 cuillères à soupe d'huile d'olive"
+    },
+    {
+      "name": "1 brins de thym"
+    },
+    {
+      "name": "1 feuilles de laurier"
+    },
+    {
+      "name": "poivre"
+    },
+    {
+      "name": "sel"
+    }
   ],
   "recipeInstructions": [
     {

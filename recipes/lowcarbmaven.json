@@ -42,18 +42,38 @@
     "grillng",
     "Summer"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "1 1/4 pound Jumbo shrimp (peeled, deveined )",
-    "6 medium Scallions (cut into 1 1/2-inch pieces)",
-    "2 tsp toasted sesame oil",
-    "2 tsp Light flavored olive oil",
-    "1/4 cup Tamari Soy Sauce",
-    "3/4 cup Water",
-    "1/3 cup Allulose Monk Fruit Sweetener ((or your favorite keto sweetener to taste))",
-    "1 1/2 tbsp Rice vinegar ((or 2 tbsp Dry Sherry))",
-    "4 tsp Ginger-garlic paste ((or 1 1/2 tsp each fresh grated ginger \u0026 garlic))",
-    "1 tsp Arrowroot powder* ((or 1/2 tsp xanthan gum))"
+    {
+      "name": "1 1/4 pound Jumbo shrimp (peeled, deveined )"
+    },
+    {
+      "name": "6 medium Scallions (cut into 1 1/2-inch pieces)"
+    },
+    {
+      "name": "2 tsp toasted sesame oil"
+    },
+    {
+      "name": "2 tsp Light flavored olive oil"
+    },
+    {
+      "name": "1/4 cup Tamari Soy Sauce"
+    },
+    {
+      "name": "3/4 cup Water"
+    },
+    {
+      "name": "1/3 cup Allulose Monk Fruit Sweetener ((or your favorite keto sweetener to taste))"
+    },
+    {
+      "name": "1 1/2 tbsp Rice vinegar ((or 2 tbsp Dry Sherry))"
+    },
+    {
+      "name": "4 tsp Ginger-garlic paste ((or 1 1/2 tsp each fresh grated ginger \u0026 garlic))"
+    },
+    {
+      "name": "1 tsp Arrowroot powder* ((or 1/2 tsp xanthan gum))"
+    }
   ],
   "recipeInstructions": [
     {
@@ -122,15 +142,15 @@
     }
   ],
   "nutrition": {
-    "calories": "163 kcal",
     "servingSize": "0.25 recipe",
-    "carbohydrateContent": "4.7 g",
-    "cholesterolContent": "334 mg",
-    "fatContent": "7.33 g",
-    "fiberContent": "0.5 g",
-    "proteinContent": "22 g",
-    "sodiumContent": "1675 mg",
-    "sugarContent": "0.52 g"
+    "calories": 163,
+    "carbohydrateContent": 4.7,
+    "cholesterolContent": 334,
+    "fatContent": 7.33,
+    "fiberContent": 0.5,
+    "proteinContent": 22,
+    "sodiumContent": 1675,
+    "sugarContent": 0.52
   },
   "aggregateRating": {
     "reviewCount": 2,

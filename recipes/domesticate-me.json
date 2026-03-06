@@ -38,28 +38,68 @@
   "recipeCuisine": [
     "American"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "1 cup quinoa",
-    "1½ cups low-sodium chicken broth",
-    "1 tablespoon extra-virgin olive oil",
-    "1½ cups cauliflower “rice” (aka very finely chopped cauliflower florets)",
-    "½ medium yellow onion (minced)",
-    "½ cup finely chopped carrots",
-    "½ cup finely chopped celery",
-    "2 cups diced or shredded chicken breast",
-    "½ cup Frank’s Red Hot Buffalo Wing Sauce (plus extra for serving)",
-    "¾ cup grated sharp cheddar cheese",
-    "¾ cup grated provolone cheese (Gouda is also great!)",
-    "¼ cup whole-wheat panko breadcrumbs",
-    "3 scallions (thinly sliced (optional))",
-    "For the Yogurt Ranch:",
-    "1½ cups nonfat plain Greek yogurt",
-    "1 teaspoon dried parsley (crushed (Just use your fingers to crush the flakes.))",
-    "½ teaspoon dried dill weed",
-    "½ teaspoon kosher salt",
-    "¼ teaspoon garlic powder",
-    "¼ teaspoon black pepper"
+    {
+      "name": "1 cup quinoa"
+    },
+    {
+      "name": "1½ cups low-sodium chicken broth"
+    },
+    {
+      "name": "1 tablespoon extra-virgin olive oil"
+    },
+    {
+      "name": "1½ cups cauliflower “rice” (aka very finely chopped cauliflower florets)"
+    },
+    {
+      "name": "½ medium yellow onion (minced)"
+    },
+    {
+      "name": "½ cup finely chopped carrots"
+    },
+    {
+      "name": "½ cup finely chopped celery"
+    },
+    {
+      "name": "2 cups diced or shredded chicken breast"
+    },
+    {
+      "name": "½ cup Frank’s Red Hot Buffalo Wing Sauce (plus extra for serving)"
+    },
+    {
+      "name": "¾ cup grated sharp cheddar cheese"
+    },
+    {
+      "name": "¾ cup grated provolone cheese (Gouda is also great!)"
+    },
+    {
+      "name": "¼ cup whole-wheat panko breadcrumbs"
+    },
+    {
+      "name": "3 scallions (thinly sliced (optional))"
+    },
+    {
+      "name": "For the Yogurt Ranch:"
+    },
+    {
+      "name": "1½ cups nonfat plain Greek yogurt"
+    },
+    {
+      "name": "1 teaspoon dried parsley (crushed (Just use your fingers to crush the flakes.))"
+    },
+    {
+      "name": "½ teaspoon dried dill weed"
+    },
+    {
+      "name": "½ teaspoon kosher salt"
+    },
+    {
+      "name": "¼ teaspoon garlic powder"
+    },
+    {
+      "name": "¼ teaspoon black pepper"
+    }
   ],
   "recipeInstructions": [
     {

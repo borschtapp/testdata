@@ -31,18 +31,47 @@
     "Main Course",
     "French"
   ],
-  "recipeYield": 4,
+  "recipeYield": "Serves 4-6",
   "recipeIngredient": [
-    "150ml red wine",
-    "100g tomato paste",
-    "3 sprigs of thyme, leaves picked",
-    "3 sprigs of marjoram, leaves picked, or ½ teaspoon dried",
-    "100ml red wine vinegar",
-    "1 whole chicken cut into 8 pieces (approx. 1.5kg)",
-    "Salt and ground black pepper",
-    "500g baby potatoes, washed",
-    "3 onions, peeled and cut into quarters",
-    "6 carrots, peeled and cut into quarters lengthways"
+    {
+      "value": "150ml",
+      "name": "red wine"
+    },
+    {
+      "value": "100g",
+      "name": "tomato paste"
+    },
+    {
+      "value": "3",
+      "name": "sprigs of thyme, leaves picked"
+    },
+    {
+      "value": "3",
+      "name": "sprigs of marjoram, leaves picked, or ½ teaspoon dried"
+    },
+    {
+      "value": "100ml",
+      "name": "red wine vinegar"
+    },
+    {
+      "value": "1",
+      "name": "whole chicken cut into 8 pieces (approx. 1.5kg)"
+    },
+    {
+      "name": "Salt and ground black pepper"
+    },
+    {
+      "value": "500g",
+      "name": "baby potatoes, washed"
+    },
+    {
+      "value": "3",
+      "name": "onions, peeled and cut into quarters"
+    },
+    {
+      "value": "6",
+      "name": "carrots, peeled and cut into quarters lengthways"
+    }
   ],
   "recipeInstructions": [
     {

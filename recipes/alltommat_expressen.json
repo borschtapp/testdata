@@ -33,17 +33,35 @@
     "topic/bakning",
     "topic/hamburgare"
   ],
-  "recipeYield": 12,
+  "recipeYield": "12 bröd",
   "recipeIngredient": [
-    "2.5 dl vatten",
-    "0.5 dl mjölk",
-    "25 g jäst",
-    "2.5 msk strösocker",
-    "1 tsk salt",
-    "1 ägg",
-    "7.5 dl vetemjöl",
-    "50 g smör",
-    "1 ägg"
+    {
+      "name": "2.5 dl vatten"
+    },
+    {
+      "name": "0.5 dl mjölk"
+    },
+    {
+      "name": "25 g jäst"
+    },
+    {
+      "name": "2.5 msk strösocker"
+    },
+    {
+      "name": "1 tsk salt"
+    },
+    {
+      "name": "1 ägg"
+    },
+    {
+      "name": "7.5 dl vetemjöl"
+    },
+    {
+      "name": "50 g smör"
+    },
+    {
+      "name": "1 ägg"
+    }
   ],
   "recipeInstructions": [
     {

@@ -43,16 +43,32 @@
     "grilled chicken recipe",
     "Grilled Chicken with Spinach and Melted Mozzarella"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "24 oz chicken breasts sliced in half lengthwise to make 6 (from 3 large )",
-    "kosher salt ( and black pepper to taste)",
-    "1 tsp olive oil",
-    "3 cloves garlic (crushed)",
-    "10 ounces frozen spinach (drained)",
-    "3 ounces shredded part skim mozzarella",
-    "1/2 cup roasted red pepper (sliced in strips (packed in water))",
-    "olive oil spray"
+    {
+      "name": "24 oz chicken breasts sliced in half lengthwise to make 6 (from 3 large )"
+    },
+    {
+      "name": "kosher salt ( and black pepper to taste)"
+    },
+    {
+      "name": "1 tsp olive oil"
+    },
+    {
+      "name": "3 cloves garlic (crushed)"
+    },
+    {
+      "name": "10 ounces frozen spinach (drained)"
+    },
+    {
+      "name": "3 ounces shredded part skim mozzarella"
+    },
+    {
+      "name": "1/2 cup roasted red pepper (sliced in strips (packed in water))"
+    },
+    {
+      "name": "olive oil spray"
+    }
   ],
   "recipeInstructions": [
     {
@@ -70,16 +86,16 @@
     }
   ],
   "nutrition": {
-    "calories": "195 kcal",
     "servingSize": "1 piece",
-    "carbohydrateContent": "3.5 g",
-    "cholesterolContent": "91 mg",
-    "fatContent": "6 g",
-    "fiberContent": "1.5 g",
-    "proteinContent": "31 g",
-    "saturatedFatContent": "2 g",
-    "sodiumContent": "183 mg",
-    "sugarContent": "0.5 g"
+    "calories": 195,
+    "carbohydrateContent": 3.5,
+    "cholesterolContent": 91,
+    "fatContent": 6,
+    "fiberContent": 1.5,
+    "proteinContent": 31,
+    "saturatedFatContent": 2,
+    "sodiumContent": 183,
+    "sugarContent": 0.5
   },
   "aggregateRating": {
     "reviewCount": 17,

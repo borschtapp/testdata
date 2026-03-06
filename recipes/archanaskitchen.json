@@ -33,22 +33,50 @@
     "Bell Peppers Recipes",
     "Feta Cheese Recipes"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "4 tablespoons Extra Virgin Olive Oil",
-    "4 tablespoons Lemon juice",
-    "Salt and Pepper to taste",
-    "1 cup Iceberg lettuce washed thoroughly and drained",
-    "2 Tomatoes cut into chunks",
-    "1 English Cucumber chopped",
-    "1 Red onion sliced",
-    "1/2 cup Kalmatta olives",
-    "100 grams Feta Cheese crumbled",
-    "2 sprig Parsley leaves chopped (optional)",
-    "1/2 cup Kalmatta olives",
-    "100 grams Feta Cheese crumbled",
-    "2 sprig Parsley leaves chopped",
-    "Salt and Pepper to taste"
+    {
+      "name": "4 tablespoons Extra Virgin Olive Oil"
+    },
+    {
+      "name": "4 tablespoons Lemon juice"
+    },
+    {
+      "name": "Salt and Pepper to taste"
+    },
+    {
+      "name": "1 cup Iceberg lettuce washed thoroughly and drained"
+    },
+    {
+      "name": "2 Tomatoes cut into chunks"
+    },
+    {
+      "name": "1 English Cucumber chopped"
+    },
+    {
+      "name": "1 Red onion sliced"
+    },
+    {
+      "name": "1/2 cup Kalmatta olives"
+    },
+    {
+      "name": "100 grams Feta Cheese crumbled"
+    },
+    {
+      "name": "2 sprig Parsley leaves chopped (optional)"
+    },
+    {
+      "name": "1/2 cup Kalmatta olives"
+    },
+    {
+      "name": "100 grams Feta Cheese crumbled"
+    },
+    {
+      "name": "2 sprig Parsley leaves chopped"
+    },
+    {
+      "name": "Salt and Pepper to taste"
+    }
   ],
   "recipeInstructions": [
     {

@@ -41,20 +41,44 @@
     "egg free cookies",
     "gingerbread cookies"
   ],
-  "recipeYield": 60,
+  "recipeYield": "60",
   "recipeIngredient": [
-    "1 cup shortening (or room temperature butter*)",
-    "1 cup brown sugar (packed)",
-    "1 cup molasses",
-    "1 cup buttermilk",
-    "5 1/2 cups all-purpose flour",
-    "4 teaspoons baking soda",
-    "1 teaspoon ground ginger",
-    "3/4 teaspoon ground cinnamon",
-    "1/4 teaspoon ground nutmeg",
-    "1/4 teaspoon ground cloves",
-    "1 teaspoons salt",
-    "1/2 cup extra granulated sugar for rolling dough"
+    {
+      "name": "1 cup shortening (or room temperature butter*)"
+    },
+    {
+      "name": "1 cup brown sugar (packed)"
+    },
+    {
+      "name": "1 cup molasses"
+    },
+    {
+      "name": "1 cup buttermilk"
+    },
+    {
+      "name": "5 1/2 cups all-purpose flour"
+    },
+    {
+      "name": "4 teaspoons baking soda"
+    },
+    {
+      "name": "1 teaspoon ground ginger"
+    },
+    {
+      "name": "3/4 teaspoon ground cinnamon"
+    },
+    {
+      "name": "1/4 teaspoon ground nutmeg"
+    },
+    {
+      "name": "1/4 teaspoon ground cloves"
+    },
+    {
+      "name": "1 teaspoons salt"
+    },
+    {
+      "name": "1/2 cup extra granulated sugar for rolling dough"
+    }
   ],
   "recipeInstructions": [
     {
@@ -87,18 +111,18 @@
     }
   ],
   "nutrition": {
-    "calories": "111 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "18 g",
-    "cholesterolContent": "0.4 mg",
-    "fatContent": "4 g",
-    "fiberContent": "0.3 g",
-    "proteinContent": "1 g",
-    "saturatedFatContent": "1 g",
-    "sodiumContent": "119 mg",
-    "sugarContent": "10 g",
-    "transFatContent": "0.4 g",
-    "unsaturatedFatContent": "2 g"
+    "calories": 111,
+    "carbohydrateContent": 18,
+    "cholesterolContent": 0.4,
+    "fatContent": 4,
+    "fiberContent": 0.3,
+    "proteinContent": 1,
+    "saturatedFatContent": 1,
+    "sodiumContent": 119,
+    "sugarContent": 10,
+    "transFatContent": 0.4,
+    "unsaturatedFatContent": 2
   },
   "aggregateRating": {
     "reviewCount": 6,

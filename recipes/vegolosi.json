@@ -20,20 +20,44 @@
   "prepTime": "PT15M",
   "cookTime": "PT15M",
   "totalTime": "PT30M",
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "250 g tofu al naturale",
-    "150 g piselli lessati",
-    "100 g cous cous",
-    "100 ml acqua bollente",
-    "20 g di mandorle",
-    "20 g di olio extravergine di oliva",
-    "basilico",
-    "sale e pepe",
-    "250 ml latte di soia senza zucchero (oppure brodo vegetale o latte di avena o farro)",
-    "15 g amido di mais o fecola di patate",
-    "1 bustina zafferano in polvere",
-    "Sale"
+    {
+      "name": "250 g tofu al naturale"
+    },
+    {
+      "name": "150 g piselli lessati"
+    },
+    {
+      "name": "100 g cous cous"
+    },
+    {
+      "name": "100 ml acqua bollente"
+    },
+    {
+      "name": "20 g di mandorle"
+    },
+    {
+      "name": "20 g di olio extravergine di oliva"
+    },
+    {
+      "name": "basilico"
+    },
+    {
+      "name": "sale e pepe"
+    },
+    {
+      "name": "250 ml latte di soia senza zucchero (oppure brodo vegetale o latte di avena o farro)"
+    },
+    {
+      "name": "15 g amido di mais o fecola di patate"
+    },
+    {
+      "name": "1 bustina zafferano in polvere"
+    },
+    {
+      "name": "Sale"
+    }
   ],
   "recipeInstructions": [
     {

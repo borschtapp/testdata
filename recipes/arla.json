@@ -31,21 +31,47 @@
   "keywords": [
     "Smörgås"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "400 g pastrami, kokt oxbringa eller skivad grillad rostbiff",
-    "1 dl surkål",
-    "1 dl riven Arla Ko Präst® Ost 31%",
-    "8 skivor surdegsbröd",
-    "50 g Svenskt Smör från Arla®, smält",
-    "4 saltgurkor",
-    "1 schalottenlök",
-    "½ grön paprika",
-    "1 dl majonnäs",
-    "1 msk chilisås",
-    "1 tsk paprikapulver",
-    "1 tsk dijonsenap",
-    "½ krm tabasco"
+    {
+      "name": "400 g pastrami, kokt oxbringa eller skivad grillad rostbiff"
+    },
+    {
+      "name": "1 dl surkål"
+    },
+    {
+      "name": "1 dl riven Arla Ko Präst® Ost 31%"
+    },
+    {
+      "name": "8 skivor surdegsbröd"
+    },
+    {
+      "name": "50 g Svenskt Smör från Arla®, smält"
+    },
+    {
+      "name": "4 saltgurkor"
+    },
+    {
+      "name": "1 schalottenlök"
+    },
+    {
+      "name": "½ grön paprika"
+    },
+    {
+      "name": "1 dl majonnäs"
+    },
+    {
+      "name": "1 msk chilisås"
+    },
+    {
+      "name": "1 tsk paprikapulver"
+    },
+    {
+      "name": "1 tsk dijonsenap"
+    },
+    {
+      "name": "½ krm tabasco"
+    }
   ],
   "recipeInstructions": [
     {
@@ -80,12 +106,12 @@
     }
   ],
   "nutrition": {
-    "calories": "752 kcal",
     "servingSize": "st",
-    "carbohydrateContent": "65,4 g",
-    "fatContent": "39,5 g",
-    "fiberContent": "4,7 g",
-    "proteinContent": "33,8 g"
+    "calories": 752,
+    "carbohydrateContent": 65.4,
+    "fatContent": 39.5,
+    "fiberContent": 4.7,
+    "proteinContent": 33.8
   },
   "aggregateRating": {
     "ratingCount": 32,

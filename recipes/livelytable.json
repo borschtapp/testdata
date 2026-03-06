@@ -47,24 +47,56 @@
     "easy chipotle shrimp tacos",
     "healthy shrimp tacos recipe"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "1 lb raw large shrimp, peeled and deveined",
-    "1/2 tsp chipotle powder",
-    "1/2 tsp garlic powder",
-    "1/2 tsp ground cumin",
-    "1 tbsp olive or avocado oil",
-    "Juice from 1/2 lime",
-    "1/2 jalapeño, seeded and diced",
-    "1/4 cup cilantro leaves",
-    "2/3 cup nonfat plain greek yogurt",
-    "Juice from 1/2 lime",
-    "6 corn tortillas, warmed",
-    "Shredded purple cabbage",
-    "Cilantro",
-    "Crumbled cotija cheese",
-    "Lime wedges",
-    "Guacamole or diced avocado"
+    {
+      "name": "1 lb raw large shrimp, peeled and deveined"
+    },
+    {
+      "name": "1/2 tsp chipotle powder"
+    },
+    {
+      "name": "1/2 tsp garlic powder"
+    },
+    {
+      "name": "1/2 tsp ground cumin"
+    },
+    {
+      "name": "1 tbsp olive or avocado oil"
+    },
+    {
+      "name": "Juice from 1/2 lime"
+    },
+    {
+      "name": "1/2 jalapeño, seeded and diced"
+    },
+    {
+      "name": "1/4 cup cilantro leaves"
+    },
+    {
+      "name": "2/3 cup nonfat plain greek yogurt"
+    },
+    {
+      "name": "Juice from 1/2 lime"
+    },
+    {
+      "name": "6 corn tortillas, warmed"
+    },
+    {
+      "name": "Shredded purple cabbage"
+    },
+    {
+      "name": "Cilantro"
+    },
+    {
+      "name": "Crumbled cotija cheese"
+    },
+    {
+      "name": "Lime wedges"
+    },
+    {
+      "name": "Guacamole or diced avocado"
+    }
   ],
   "recipeInstructions": [
     {
@@ -93,16 +125,16 @@
     }
   ],
   "nutrition": {
-    "calories": "147 calories",
     "servingSize": "1 taco",
-    "carbohydrateContent": "9.9 g",
-    "cholesterolContent": "144.7 mg",
-    "fatContent": "2.8 g",
-    "fiberContent": "1.5 g",
-    "proteinContent": "21.4 g",
-    "saturatedFatContent": "0.6 g",
-    "sodiumContent": "134 mg",
-    "sugarContent": "1.4 g",
-    "transFatContent": "0 g"
+    "calories": 147,
+    "carbohydrateContent": 9.9,
+    "cholesterolContent": 144.7,
+    "fatContent": 2.8,
+    "fiberContent": 1.5,
+    "proteinContent": 21.4,
+    "saturatedFatContent": 0.6,
+    "sodiumContent": 134,
+    "sugarContent": 1.4,
+    "transFatContent": 0
   }
 }

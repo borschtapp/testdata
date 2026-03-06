@@ -29,18 +29,42 @@
     "Sugar Free"
   ],
   "recipeIngredient": [
-    "2 tablespoons coconut flour, (+1 teaspoon)",
-    "1/4 cup almond flour",
-    "1/4 teaspoon baking powder",
-    "1/6 teaspoon baking soda",
-    "1/4 teaspoon salt",
-    "1 ripe banana, (about 1/2 cup)",
-    "2 tablespoons coconut oil, (room temp)",
-    "2 tablespoons almond butter, (room temp)",
-    "1 large egg, (beaten )",
-    "1 tablespoon pure maple syrup",
-    "1/2 teaspoon pure vanilla extract",
-    "1/2 cup cherries, (pitted and chopped)"
+    {
+      "name": "2 tablespoons coconut flour, (+1 teaspoon)"
+    },
+    {
+      "name": "1/4 cup almond flour"
+    },
+    {
+      "name": "1/4 teaspoon baking powder"
+    },
+    {
+      "name": "1/6 teaspoon baking soda"
+    },
+    {
+      "name": "1/4 teaspoon salt"
+    },
+    {
+      "name": "1 ripe banana, (about 1/2 cup)"
+    },
+    {
+      "name": "2 tablespoons coconut oil, (room temp)"
+    },
+    {
+      "name": "2 tablespoons almond butter, (room temp)"
+    },
+    {
+      "name": "1 large egg, (beaten )"
+    },
+    {
+      "name": "1 tablespoon pure maple syrup"
+    },
+    {
+      "name": "1/2 teaspoon pure vanilla extract"
+    },
+    {
+      "name": "1/2 cup cherries, (pitted and chopped)"
+    }
   ],
   "recipeInstructions": [
     {

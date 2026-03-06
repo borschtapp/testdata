@@ -42,20 +42,44 @@
     "sausage",
     "smoked sausage"
   ],
-  "recipeYield": 8,
+  "recipeYield": "8",
   "recipeIngredient": [
-    "2 teaspoons whole black peppercorns",
-    "2 teaspoons fresh ground black pepper",
-    "2 teaspoons Morton Coarse Kosher Salt",
-    "2 teaspoons rubbed sage",
-    "2 teaspoons mild American paprika",
-    "1 teaspoon cayenne flakes",
-    "1 teaspoon garlic powder",
-    "16 ounces ground pork butt (80% lean)",
-    "16 ounces ground beef chuck (80% lean)",
-    "2 tablespoons dry nonfat milk (this is a binder)",
-    "⅓ cup very cold water",
-    "4 feet pork sausage casings"
+    {
+      "name": "2 teaspoons whole black peppercorns"
+    },
+    {
+      "name": "2 teaspoons fresh ground black pepper"
+    },
+    {
+      "name": "2 teaspoons Morton Coarse Kosher Salt"
+    },
+    {
+      "name": "2 teaspoons rubbed sage"
+    },
+    {
+      "name": "2 teaspoons mild American paprika"
+    },
+    {
+      "name": "1 teaspoon cayenne flakes"
+    },
+    {
+      "name": "1 teaspoon garlic powder"
+    },
+    {
+      "name": "16 ounces ground pork butt (80% lean)"
+    },
+    {
+      "name": "16 ounces ground beef chuck (80% lean)"
+    },
+    {
+      "name": "2 tablespoons dry nonfat milk (this is a binder)"
+    },
+    {
+      "name": "⅓ cup very cold water"
+    },
+    {
+      "name": "4 feet pork sausage casings"
+    }
   ],
   "recipeInstructions": [
     {

@@ -21,17 +21,35 @@
   "prepTime": "PT5M",
   "cookTime": "PT15M",
   "totalTime": "PT20M",
-  "recipeYield": 5,
+  "recipeYield": "5",
   "recipeIngredient": [
-    "1 tablespoon oil",
-    "1 pound chicken, boneless and skinless, diced",
-    "salt and pepper to taste",
-    "1 small onion, diced",
-    "2 jalapenos, sliced or diced",
-    "2 cloves garlic, chopped",
-    "1 cup chicken broth",
-    "4 ounces cream cheese, softened",
-    "1 cup cheddar cheese, shredded"
+    {
+      "name": "1 tablespoon oil"
+    },
+    {
+      "name": "1 pound chicken, boneless and skinless, diced"
+    },
+    {
+      "name": "salt and pepper to taste"
+    },
+    {
+      "name": "1 small onion, diced"
+    },
+    {
+      "name": "2 jalapenos, sliced or diced"
+    },
+    {
+      "name": "2 cloves garlic, chopped"
+    },
+    {
+      "name": "1 cup chicken broth"
+    },
+    {
+      "name": "4 ounces cream cheese, softened"
+    },
+    {
+      "name": "1 cup cheddar cheese, shredded"
+    }
   ],
   "recipeInstructions": [
     {
@@ -48,15 +66,15 @@
     }
   ],
   "nutrition": {
-    "calories": "Calories 415",
-    "carbohydrateContent": "Carbs 4g",
-    "cholesterolContent": "Cholesterol 117mg",
-    "fatContent": "Fat 32g",
-    "fiberContent": "Fiber 0.4g",
-    "proteinContent": "Protein 25g",
-    "saturatedFatContent": "Saturated 13g",
-    "sodiumContent": "Sodium 361mg",
-    "sugarContent": "Sugars 2g",
-    "transFatContent": "Trans 0.2g"
+    "calories": 415,
+    "carbohydrateContent": 4,
+    "cholesterolContent": 117,
+    "fatContent": 32,
+    "fiberContent": 0.4,
+    "proteinContent": 25,
+    "saturatedFatContent": 13,
+    "sodiumContent": 361,
+    "sugarContent": 2,
+    "transFatContent": 0.2
   }
 }

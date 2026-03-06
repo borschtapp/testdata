@@ -45,17 +45,35 @@
     "pineapple",
     "Whole30"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6",
   "recipeIngredient": [
-    "½ cup All-Purpose Stir-Fry Sauce",
-    "1 pound green cabbage (cored, and finely shred)",
-    "1 pound red cabbage (cored, and finely shred)",
-    "1 tablespoon Diamond Crystal kosher salt (or 1½ teaspoons table salt)",
-    "2 medium carrots (peeled and finely sliced)",
-    "1 cup canned pineapple tidbits in 100% pineapple juice (drained)",
-    "¼ cup roasted and salted macadamia nuts ( roughly chopped)",
-    "2 teaspoons toasted sesame seeds",
-    "2 scallions or green onions (thinly sliced)"
+    {
+      "name": "½ cup All-Purpose Stir-Fry Sauce"
+    },
+    {
+      "name": "1 pound green cabbage (cored, and finely shred)"
+    },
+    {
+      "name": "1 pound red cabbage (cored, and finely shred)"
+    },
+    {
+      "name": "1 tablespoon Diamond Crystal kosher salt (or 1½ teaspoons table salt)"
+    },
+    {
+      "name": "2 medium carrots (peeled and finely sliced)"
+    },
+    {
+      "name": "1 cup canned pineapple tidbits in 100% pineapple juice (drained)"
+    },
+    {
+      "name": "¼ cup roasted and salted macadamia nuts ( roughly chopped)"
+    },
+    {
+      "name": "2 teaspoons toasted sesame seeds"
+    },
+    {
+      "name": "2 scallions or green onions (thinly sliced)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -88,13 +106,13 @@
     }
   ],
   "nutrition": {
-    "calories": "131 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "20 g",
-    "fatContent": "6 g",
-    "fiberContent": "6 g",
-    "proteinContent": "4 g",
-    "sugarContent": "12 g"
+    "calories": 131,
+    "carbohydrateContent": 20,
+    "fatContent": 6,
+    "fiberContent": 6,
+    "proteinContent": 4,
+    "sugarContent": 12
   },
   "aggregateRating": {
     "reviewCount": 2,

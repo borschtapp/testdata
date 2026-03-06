@@ -16,19 +16,41 @@
     "url": "https://www.koket.se"
   },
   "totalTime": "PT25M",
-  "recipeYield": 4,
+  "recipeYield": "4 undefined",
   "recipeIngredient": [
-    "1 kg räkor med skal (gärna färska av fin kvalitet)",
-    "2 äggulor",
-    "2 tsk senap",
-    "1 msk vitvinsvinäger",
-    "6 dl matolja",
-    "1 kruka dill",
-    "10 cm färsk pepparrot, skalad",
-    "4 skivor vitt bröd (ej levain)",
-    "smör, till stekning",
-    "50 g löjrom",
-    "1 citron"
+    {
+      "name": "1 kg räkor med skal (gärna färska av fin kvalitet)"
+    },
+    {
+      "name": "2 äggulor"
+    },
+    {
+      "name": "2 tsk senap"
+    },
+    {
+      "name": "1 msk vitvinsvinäger"
+    },
+    {
+      "name": "6 dl matolja"
+    },
+    {
+      "name": "1 kruka dill"
+    },
+    {
+      "name": "10 cm färsk pepparrot, skalad"
+    },
+    {
+      "name": "4 skivor vitt bröd (ej levain)"
+    },
+    {
+      "name": "smör, till stekning"
+    },
+    {
+      "name": "50 g löjrom"
+    },
+    {
+      "name": "1 citron"
+    }
   ],
   "recipeInstructions": [
     {

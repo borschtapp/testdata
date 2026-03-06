@@ -25,13 +25,23 @@
     "description": "Celebrating Texan home cooking through stories and recipes",
     "url": "https://www.homesicktexan.com"
   },
-  "recipeYield": 8,
+  "recipeYield": "8",
   "recipeIngredient": [
-    "2 cups all-purpose flour",
-    "1 1/2 teaspoons baking powder",
-    "1 teaspoon kosher salt",
-    "2 teaspoons vegetable oil",
-    "3/4 cups warm milk"
+    {
+      "name": "2 cups all-purpose flour"
+    },
+    {
+      "name": "1 1/2 teaspoons baking powder"
+    },
+    {
+      "name": "1 teaspoon kosher salt"
+    },
+    {
+      "name": "2 teaspoons vegetable oil"
+    },
+    {
+      "name": "3/4 cups warm milk"
+    }
   ],
   "recipeInstructions": [
     {

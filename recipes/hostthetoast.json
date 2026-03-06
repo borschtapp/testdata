@@ -29,18 +29,38 @@
   "prepTime": "PT1H30M",
   "cookTime": "PT45M",
   "totalTime": "PT2H15M",
-  "recipeYield": 12,
+  "recipeYield": "12",
   "recipeIngredient": [
-    "1/4 cup warm water",
-    "1 tablespoon sugar",
-    "1 package (2 1/4 teaspoons) active dry yeast",
-    "3/4 cup warm milk",
-    "3/4 cup plain yogurt",
-    "4 cups all-purpose flour",
-    "1 teaspoon Kosher salt",
-    "1 stick melted butter, for brushing",
-    "4 cloves minced garlic",
-    "Fresh cilantro, to top"
+    {
+      "name": "1/4 cup warm water"
+    },
+    {
+      "name": "1 tablespoon sugar"
+    },
+    {
+      "name": "1 package (2 1/4 teaspoons) active dry yeast"
+    },
+    {
+      "name": "3/4 cup warm milk"
+    },
+    {
+      "name": "3/4 cup plain yogurt"
+    },
+    {
+      "name": "4 cups all-purpose flour"
+    },
+    {
+      "name": "1 teaspoon Kosher salt"
+    },
+    {
+      "name": "1 stick melted butter, for brushing"
+    },
+    {
+      "name": "4 cloves minced garlic"
+    },
+    {
+      "name": "Fresh cilantro, to top"
+    }
   ],
   "recipeInstructions": [
     {

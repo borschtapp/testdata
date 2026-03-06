@@ -29,22 +29,50 @@
     "amêijoas",
     "marisco"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "1 kg tamboril em cubos",
-    "100 ml azeite",
-    "2 unid. cebola grande",
-    "5 dente alho",
-    "1 q.b. coentros",
-    "1 unid. pimento",
-    "1 unid. malagueta pequena",
-    "3 c. de sopa polpa de tomate",
-    "300 g arroz carolino",
-    "2 c. de chá sal",
-    "1 q.b. pimenta branca",
-    "400 g miolo de camarão",
-    "40 g manteiga",
-    "500 g amêijoa branca"
+    {
+      "name": "1 kg tamboril em cubos"
+    },
+    {
+      "name": "100 ml azeite"
+    },
+    {
+      "name": "2 unid. cebola grande"
+    },
+    {
+      "name": "5 dente alho"
+    },
+    {
+      "name": "1 q.b. coentros"
+    },
+    {
+      "name": "1 unid. pimento"
+    },
+    {
+      "name": "1 unid. malagueta pequena"
+    },
+    {
+      "name": "3 c. de sopa polpa de tomate"
+    },
+    {
+      "name": "300 g arroz carolino"
+    },
+    {
+      "name": "2 c. de chá sal"
+    },
+    {
+      "name": "1 q.b. pimenta branca"
+    },
+    {
+      "name": "400 g miolo de camarão"
+    },
+    {
+      "name": "40 g manteiga"
+    },
+    {
+      "name": "500 g amêijoa branca"
+    }
   ],
   "recipeInstructions": [
     {
@@ -97,7 +125,7 @@
     }
   ],
   "nutrition": {
-    "calories": "761 calories"
+    "calories": 761
   },
   "aggregateRating": {
     "ratingCount": 590,

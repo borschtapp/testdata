@@ -43,27 +43,65 @@
     "Sarson da Saag",
     "Sarson ka Saag"
   ],
-  "recipeYield": 8,
+  "recipeYield": "8",
   "recipeIngredient": [
-    "1 bunch mustard greens ((sarson))",
-    "½ bunch bathua leaves ((chenopodium/goosefoot/melde))",
-    "½ bunch spinach leaves ((palak))",
-    "1 cup chopped radish leaves (- use tender leaves, (mooli ke patte))",
-    "3 to 4 inches white radish root",
-    "1 cup fenugreek leaves (- chopped)",
-    "1 cup chopped onions (or 2 medium sized onions)",
-    "1.5 cups chopped tomatoes (or 3 medium-sized tomatoes)",
-    "2 inches ginger (- chopped)",
-    "2 green chilies (- chopped)",
-    "7 to 8 garlic (- medium sized, chopped)",
-    "½ teaspoon red chili powder",
-    "2 to 3 pinches asafoetida (or ⅛ teaspoon asafoetida powder (hing))",
-    "2 to 3 cups water (or add as required)",
-    "2 tablespoon maize flour (or fine cornmeal)",
-    "salt (as required)",
-    "⅓ cup finely chopped onions (or 1 small to medium-sized onion)",
-    "1 to 2 tablespoons oil (or ghee)",
-    "2 cups cooked saag (or as required)"
+    {
+      "name": "1 bunch mustard greens ((sarson))"
+    },
+    {
+      "name": "½ bunch bathua leaves ((chenopodium/goosefoot/melde))"
+    },
+    {
+      "name": "½ bunch spinach leaves ((palak))"
+    },
+    {
+      "name": "1 cup chopped radish leaves (- use tender leaves, (mooli ke patte))"
+    },
+    {
+      "name": "3 to 4 inches white radish root"
+    },
+    {
+      "name": "1 cup fenugreek leaves (- chopped)"
+    },
+    {
+      "name": "1 cup chopped onions (or 2 medium sized onions)"
+    },
+    {
+      "name": "1.5 cups chopped tomatoes (or 3 medium-sized tomatoes)"
+    },
+    {
+      "name": "2 inches ginger (- chopped)"
+    },
+    {
+      "name": "2 green chilies (- chopped)"
+    },
+    {
+      "name": "7 to 8 garlic (- medium sized, chopped)"
+    },
+    {
+      "name": "½ teaspoon red chili powder"
+    },
+    {
+      "name": "2 to 3 pinches asafoetida (or ⅛ teaspoon asafoetida powder (hing))"
+    },
+    {
+      "name": "2 to 3 cups water (or add as required)"
+    },
+    {
+      "name": "2 tablespoon maize flour (or fine cornmeal)"
+    },
+    {
+      "name": "salt (as required)"
+    },
+    {
+      "name": "⅓ cup finely chopped onions (or 1 small to medium-sized onion)"
+    },
+    {
+      "name": "1 to 2 tablespoons oil (or ghee)"
+    },
+    {
+      "name": "2 cups cooked saag (or as required)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -148,16 +186,16 @@
     }
   ],
   "nutrition": {
-    "calories": "59 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "10 g",
-    "fatContent": "1 g",
-    "fiberContent": "2 g",
-    "proteinContent": "4 g",
-    "saturatedFatContent": "1 g",
-    "sodiumContent": "385 mg",
-    "sugarContent": "2 g",
-    "unsaturatedFatContent": "2 g"
+    "calories": 59,
+    "carbohydrateContent": 10,
+    "fatContent": 1,
+    "fiberContent": 2,
+    "proteinContent": 4,
+    "saturatedFatContent": 1,
+    "sodiumContent": 385,
+    "sugarContent": 2,
+    "unsaturatedFatContent": 2
   },
   "aggregateRating": {
     "reviewCount": 8,

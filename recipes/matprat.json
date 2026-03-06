@@ -35,29 +35,71 @@
     "basmatiris",
     "koriander"
   ],
-  "recipeYield": 6,
+  "recipeYield": "6 PORSJONER",
   "recipeIngredient": [
-    "1 stk. kylling (ca. 1300 g)",
-    "4 båter hvitløk",
-    "0,5 ss revet frisk ingefær",
-    "2 ss sitronsaft",
-    "1 dl gresk yoghurt",
-    "0,5 ss chilipulver (helst indisk)",
-    "1 ss garam masala",
-    "1 ss rapsolje eller sennepsolje",
-    "100 g cashewnøtter",
-    "8 stk. tomat",
-    "2 ss nøytral olje",
-    "4 båter finhakket hvitløk",
-    "0,5 ss revet frisk ingefær",
-    "0,5 ss chilipulver (helst indisk)",
-    "2 stk. hel kardemomme",
-    "2 ts hel bukkehornkløver",
-    "2 ss honning",
-    "1 stk. grønn chili",
-    "2 ss smør",
-    "1 dl kremfløte eller matfløte",
-    "0,5 potte frisk koriander"
+    {
+      "name": "1 stk. kylling (ca. 1300 g)"
+    },
+    {
+      "name": "4 båter hvitløk"
+    },
+    {
+      "name": "0,5 ss revet frisk ingefær"
+    },
+    {
+      "name": "2 ss sitronsaft"
+    },
+    {
+      "name": "1 dl gresk yoghurt"
+    },
+    {
+      "name": "0,5 ss chilipulver (helst indisk)"
+    },
+    {
+      "name": "1 ss garam masala"
+    },
+    {
+      "name": "1 ss rapsolje eller sennepsolje"
+    },
+    {
+      "name": "100 g cashewnøtter"
+    },
+    {
+      "name": "8 stk. tomat"
+    },
+    {
+      "name": "2 ss nøytral olje"
+    },
+    {
+      "name": "4 båter finhakket hvitløk"
+    },
+    {
+      "name": "0,5 ss revet frisk ingefær"
+    },
+    {
+      "name": "0,5 ss chilipulver (helst indisk)"
+    },
+    {
+      "name": "2 stk. hel kardemomme"
+    },
+    {
+      "name": "2 ts hel bukkehornkløver"
+    },
+    {
+      "name": "2 ss honning"
+    },
+    {
+      "name": "1 stk. grønn chili"
+    },
+    {
+      "name": "2 ss smør"
+    },
+    {
+      "name": "1 dl kremfløte eller matfløte"
+    },
+    {
+      "name": "0,5 potte frisk koriander"
+    }
   ],
   "recipeInstructions": [
     {
@@ -89,10 +131,10 @@
     }
   ],
   "nutrition": {
-    "calories": "657 KCAL",
-    "carbohydrateContent": "15 G",
-    "fatContent": "45 G",
-    "proteinContent": "46 G"
+    "calories": 657,
+    "carbohydrateContent": 15,
+    "fatContent": 45,
+    "proteinContent": 46
   },
   "aggregateRating": {
     "ratingCount": 367,
@@ -104,5 +146,6 @@
     "contentUrl": "https://youtu.be/NwlfMV747vI",
     "thumbnailUrl": "https://i.ytimg.com/vi/NwlfMV747vI/sddefault.jpg",
     "uploadDate": "2021-09-22T11:00:20Z"
-  }
+  },
+  "estimatedCost": "$$"
 }

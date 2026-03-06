@@ -52,16 +52,32 @@
     "pancakes with almond flour",
     "Vegan Almond Flour Pancakes"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "1/2 cup Almond flour",
-    "1 cup *oat flour",
-    "1/2-1 cup non-dairy milk (plus more, if needed)",
-    "2 tsp baking powder",
-    "pinch of salt",
-    "1 tbsp maple syrup (optional - can sub for sweetener of choice)",
-    "1 tsp vanilla extract",
-    "1 tsp coconut oil (for cooking. Add more, if needed. Can sub for avocado oil)"
+    {
+      "name": "1/2 cup Almond flour"
+    },
+    {
+      "name": "1 cup *oat flour"
+    },
+    {
+      "name": "1/2-1 cup non-dairy milk (plus more, if needed)"
+    },
+    {
+      "name": "2 tsp baking powder"
+    },
+    {
+      "name": "pinch of salt"
+    },
+    {
+      "name": "1 tbsp maple syrup (optional - can sub for sweetener of choice)"
+    },
+    {
+      "name": "1 tsp vanilla extract"
+    },
+    {
+      "name": "1 tsp coconut oil (for cooking. Add more, if needed. Can sub for avocado oil)"
+    }
   ],
   "recipeInstructions": [
     {
@@ -90,8 +106,8 @@
     }
   ],
   "nutrition": {
-    "calories": "180 kcal",
-    "servingSize": "1 serving"
+    "servingSize": "1 serving",
+    "calories": 180
   },
   "aggregateRating": {
     "reviewCount": 8,

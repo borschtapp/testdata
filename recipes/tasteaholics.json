@@ -25,21 +25,47 @@
   "recipeCategory": [
     "Dinner"
   ],
-  "recipeYield": 8,
+  "recipeYield": "8 servings",
   "recipeIngredient": [
-    "1 pound boneless, skinless chicken breast ((cubed))",
-    "1 cup chopped white onion",
-    "1 tbsp olive oil",
-    "2 tsp minced garlic",
-    "28 ounces chicken broth",
-    "2 tbsp chopped jalapeño",
-    "1 red bell pepper ((chopped))",
-    "2 tsp ground cumin",
-    "1 tsp adobo seasoning",
-    "1 tsp sriracha",
-    "1 tsp cayenne pepper",
-    "1 cup cream cheese ((softened))",
-    "1 cup shredded Monterey jack cheese"
+    {
+      "name": "1 pound boneless, skinless chicken breast ((cubed))"
+    },
+    {
+      "name": "1 cup chopped white onion"
+    },
+    {
+      "name": "1 tbsp olive oil"
+    },
+    {
+      "name": "2 tsp minced garlic"
+    },
+    {
+      "name": "28 ounces chicken broth"
+    },
+    {
+      "name": "2 tbsp chopped jalapeño"
+    },
+    {
+      "name": "1 red bell pepper ((chopped))"
+    },
+    {
+      "name": "2 tsp ground cumin"
+    },
+    {
+      "name": "1 tsp adobo seasoning"
+    },
+    {
+      "name": "1 tsp sriracha"
+    },
+    {
+      "name": "1 tsp cayenne pepper"
+    },
+    {
+      "name": "1 cup cream cheese ((softened))"
+    },
+    {
+      "name": "1 cup shredded Monterey jack cheese"
+    }
   ],
   "recipeInstructions": [
     {

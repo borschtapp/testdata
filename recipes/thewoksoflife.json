@@ -41,13 +41,23 @@
   "keywords": [
     "mantou"
   ],
-  "recipeYield": 12,
+  "recipeYield": "12",
   "recipeIngredient": [
-    "1 ⅔ cups warm milk ((400 ml))",
-    "1 teaspoon active dry yeast ((3 grams))",
-    "1 tablespoon sugar ((12 grams))",
-    "2 ¾ cups all-purpose flour ((400 grams))",
-    "1¼ to 1½ cups whole wheat flour ((about 170-200 grams; how much you’ll need is dependent on the humidity in your kitchen))"
+    {
+      "name": "1 ⅔ cups warm milk ((400 ml))"
+    },
+    {
+      "name": "1 teaspoon active dry yeast ((3 grams))"
+    },
+    {
+      "name": "1 tablespoon sugar ((12 grams))"
+    },
+    {
+      "name": "2 ¾ cups all-purpose flour ((400 grams))"
+    },
+    {
+      "name": "1¼ to 1½ cups whole wheat flour ((about 170-200 grams; how much you’ll need is dependent on the humidity in your kitchen))"
+    }
   ],
   "recipeInstructions": [
     {
@@ -76,16 +86,16 @@
     }
   ],
   "nutrition": {
-    "calories": "175 kcal",
     "servingSize": "1 serving",
-    "carbohydrateContent": "34 g",
-    "cholesterolContent": "3 mg",
-    "fatContent": "2 g",
-    "fiberContent": "2 g",
-    "proteinContent": "6 g",
-    "saturatedFatContent": "1 g",
-    "sodiumContent": "16 mg",
-    "sugarContent": "3 g"
+    "calories": 175,
+    "carbohydrateContent": 34,
+    "cholesterolContent": 3,
+    "fatContent": 2,
+    "fiberContent": 2,
+    "proteinContent": 6,
+    "saturatedFatContent": 1,
+    "sodiumContent": 16,
+    "sugarContent": 3
   },
   "aggregateRating": {
     "reviewCount": 3,

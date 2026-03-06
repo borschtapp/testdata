@@ -36,17 +36,35 @@
     "Pratos principais",
     "Receitas de Frango Xadrez"
   ],
-  "recipeYield": 4,
+  "recipeYield": "4",
   "recipeIngredient": [
-    "Molho de tomate 200 gramas",
-    "Cebola 1 unidade",
-    "Alho 2 dentes",
-    "Creme de Leite 1 lata",
-    "Peito de Frango 600 gramas",
-    "Óleo de soja 2 colheres (sopa)",
-    "Sal a gosto",
-    "Pimenta-do-Reino Branca a gosto",
-    "Champignon em conserva 100 gramas"
+    {
+      "name": "Molho de tomate 200 gramas"
+    },
+    {
+      "name": "Cebola 1 unidade"
+    },
+    {
+      "name": "Alho 2 dentes"
+    },
+    {
+      "name": "Creme de Leite 1 lata"
+    },
+    {
+      "name": "Peito de Frango 600 gramas"
+    },
+    {
+      "name": "Óleo de soja 2 colheres (sopa)"
+    },
+    {
+      "name": "Sal a gosto"
+    },
+    {
+      "name": "Pimenta-do-Reino Branca a gosto"
+    },
+    {
+      "name": "Champignon em conserva 100 gramas"
+    }
   ],
   "recipeInstructions": [
     {
@@ -78,7 +96,7 @@
     }
   ],
   "nutrition": {
-    "calories": "485.09"
+    "calories": 485.09
   },
   "aggregateRating": {
     "ratingCount": 81,

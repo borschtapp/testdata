@@ -21,18 +21,38 @@
   "recipeCategory": [
     "Hauptgericht"
   ],
-  "recipeYield": 2,
+  "recipeYield": "2",
   "recipeIngredient": [
-    "500 g Rotkohl (Nettogewicht)",
-    "1 kleiner Apfel (z.B. Boskopp)",
-    "200 g Kartoffeln",
-    "1 Zwiebel",
-    "1 kleines Stück Ingwer",
-    "500 ml Gemüsebrühe",
-    "200 ml Kokosmilch",
-    "1 TL Zucker",
-    "20 ml Verjus Sauer",
-    "3 EL Kokosöl"
+    {
+      "name": "500 g Rotkohl (Nettogewicht)"
+    },
+    {
+      "name": "1 kleiner Apfel (z.B. Boskopp)"
+    },
+    {
+      "name": "200 g Kartoffeln"
+    },
+    {
+      "name": "1 Zwiebel"
+    },
+    {
+      "name": "1 kleines Stück Ingwer"
+    },
+    {
+      "name": "500 ml Gemüsebrühe"
+    },
+    {
+      "name": "200 ml Kokosmilch"
+    },
+    {
+      "name": "1 TL Zucker"
+    },
+    {
+      "name": "20 ml Verjus Sauer"
+    },
+    {
+      "name": "3 EL Kokosöl"
+    }
   ],
   "recipeInstructions": [
     {
