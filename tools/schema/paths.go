@@ -17,7 +17,7 @@ func main() {
 	var paths = make(map[string]int)
 
 	testdata.WalkTestdataWebsites(func(name string, path string) {
-		input, err := scraper.FileInput(path, model.InputOptions{SkipText: true})
+		input, err := scraper.FileInput(path, model.ScrapeOptions{})
 		if err != nil {
 			log.Fatal(err)
 		}

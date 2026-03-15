@@ -10,7 +10,6 @@ import (
 	"path/filepath"
 
 	"github.com/borschtapp/krip"
-	"github.com/borschtapp/krip/model"
 	"github.com/borschtapp/krip/scraper"
 	"github.com/borschtapp/krip/utils"
 
@@ -71,7 +70,7 @@ func main() {
 			}
 		} else {
 			// It's an alias
-			input, err := scraper.FileInput(testdata.WebsitesDir+arg+testdata.HtmlExt, model.InputOptions{SkipSchema: true})
+			input, err := scraper.FileInput(testdata.WebsitesDir+arg+testdata.HtmlExt, krip.ScrapeOptions{SkipMicrodata: true})
 			if err != nil {
 				log.Fatal("Unable to read old testdata: " + err.Error())
 			}
@@ -94,7 +93,7 @@ func main() {
 
 func updateAll() {
 	testdata.WalkTestdataWebsites(func(name string, path string) {
-		input, err := scraper.FileInput(path, model.InputOptions{SkipSchema: true})
+		input, err := scraper.FileInput(path, krip.ScrapeOptions{SkipMicrodata: true})
 		if err != nil {
 			log.Printf("Unable to read old testdata (%s): %v\n", path, err)
 			return
@@ -118,7 +117,7 @@ func saveTestdata(url string, force bool) error {
 		}
 	}
 
-	input, err := scraper.UrlInput(url)
+	input, err := scraper.UrlInput(url, krip.ScrapeOptions{})
 	if err != nil {
 		return fmt.Errorf("unable to fetch content: %w", err)
 	}
@@ -141,7 +140,7 @@ func saveTestdata(url string, force bool) error {
 }
 
 func cleanAll() {
-	testdata.WalkTestdataRecipes(func(name string, recipe model.Recipe) {
+	testdata.WalkTestdataRecipes(func(name string, recipe krip.Recipe) {
 		alias := strings.TrimSuffix(name, testdata.JsonExt)
 		websitePath := testdata.WebsitesDir + alias + testdata.HtmlExt
 		if _, err := os.Stat(websitePath); os.IsNotExist(err) {
