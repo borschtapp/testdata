@@ -5,7 +5,7 @@
   "inLanguage": "en-GB",
   "image": [
     {
-      "url": "https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/thai-style-pork-stir-fry-wk-49-d2765576-424d395d.jpg"
+      "url": "https://media.hellofresh.com/w_1200,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/thai-style-pork-stir-fry-wk-49-d2765576-424d395d.jpg"
     }
   ],
   "publisher": {
@@ -13,125 +13,159 @@
     "url": "https://www.hellofresh.co.uk"
   },
   "totalTime": "PT35M",
+  "educationalLevel": "2",
   "recipeCategory": [
     "main course"
+  ],
+  "recipeCuisine": [
+    "57ebbc17b7e8697d4b3053b3"
   ],
   "recipeYield": "2",
   "recipeIngredient": [
     {
-      "name": "150 Basmati Rice"
+      "value": "150",
+      "name": "Basmati Rice",
+      "image": "https://media.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/55508011fd2cb96c628b456c-427dfdc5.png",
+      "description": "150 Basmati Rice",
+      "category": "basmati rice"
     },
     {
-      "name": "1 Echalion Shallot"
+      "value": "1",
+      "name": "Echalion Shallot",
+      "image": "https://media.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5568817d4dab71121f8b4568-688abb42.png",
+      "description": "1 Echalion Shallot",
+      "category": "echalion shallot"
     },
     {
-      "name": "2 Garlic Clove"
+      "value": "2",
+      "name": "Garlic Clove",
+      "image": "https://media.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/58f11054d56afa789e7f2b22-06cac09c.png",
+      "description": "2 Garlic Clove",
+      "category": "garlic-clove"
     },
     {
-      "name": "¼ Red Chilli"
+      "value": "0.25",
+      "name": "Red Chilli",
+      "image": "https://media.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/597f3bd22c3e0823ee548883-a29fbffa.png",
+      "description": "0.25 Red Chilli",
+      "category": "red-chilli"
     },
     {
-      "name": "2 Spring Onion"
+      "value": "2",
+      "name": "Spring Onion",
+      "image": "https://media.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/554a6684fd2cb9ba598b4567-77432562.png",
+      "description": "2 Spring Onion",
+      "category": "spring onion"
     },
     {
-      "name": "150 Green Beans"
+      "value": "150",
+      "name": "Green Beans",
+      "image": "https://media.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/555080c2f8b25e4d4c8b4568-639509f2.png",
+      "description": "150 Green Beans",
+      "category": "green beans"
     },
     {
-      "name": "300 British Pork Mince"
+      "value": "300",
+      "name": "British Pork Mince",
+      "image": "https://media.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5550e5664dab71c63e8b4567-f3747200.png",
+      "description": "300 British Pork Mince",
+      "category": "pork-mince"
     },
     {
-      "name": "50 Ketjap Manis"
+      "value": "50",
+      "name": "Ketjap Manis",
+      "image": "https://media.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/574eff80f8b25eab0d8b4567-ea3676af.png",
+      "description": "50 Ketjap Manis",
+      "category": "ketjap-manis",
+      "allergens": [
+        {
+          "name": "Soya"
+        }
+      ]
     },
     {
-      "name": "25 Soy Sauce"
+      "value": "25",
+      "name": "Soy Sauce",
+      "image": "https://media.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/554a68724dab71a6058b4568-62b6baa0.png",
+      "description": "25 Soy Sauce",
+      "category": "soy sauce",
+      "allergens": [
+        {
+          "name": "Cereals containing gluten"
+        },
+        {
+          "name": "Soya"
+        }
+      ]
     },
     {
-      "name": "6 Fresh Thai Basil"
+      "value": "6",
+      "name": "Fresh Thai Basil",
+      "image": "https://media.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/55687547fd2cb989298b4568-1e2f6e66.png",
+      "description": "6 Fresh Thai Basil",
+      "category": "fresh thai basil"
     },
     {
-      "name": "300 Water for the Rice"
+      "value": "300",
+      "name": "Water for the Rice",
+      "image": "https://media.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57bec7a892eec9ca688b4568-92a8e807.png",
+      "description": "300 Water for the Rice",
+      "category": "water-for-the-rice-100ml",
+      "pantry": true
+    }
+  ],
+  "tool": [
+    {
+      "name": "Medium Saucepan"
     },
     {
-      "name": "150 Basmati Rice"
+      "name": "Grater"
     },
     {
-      "name": "1 Echalion Shallot"
+      "name": "Knife"
     },
     {
-      "name": "2 Garlic Clove"
+      "name": "Grill Pan"
     },
     {
-      "name": "¼ Red Chilli"
-    },
-    {
-      "name": "2 Spring Onion"
-    },
-    {
-      "name": "150 Green Beans"
-    },
-    {
-      "name": "300 British Pork Mince"
-    },
-    {
-      "name": "50 Ketjap Manis"
-    },
-    {
-      "name": "25 Soy Sauce"
-    },
-    {
-      "name": "6 Fresh Thai Basil"
-    },
-    {
-      "name": "300 Water for the Rice"
+      "name": "Plate"
     }
   ],
   "recipeInstructions": [
     {
-      "text": "a) Pour the boiling water into a large saucepan and bring back to the boil on high heat. b) When boiling, add the rice and cook for 8-10 mins, then drain in a sieve and set aside."
+      "text": "a) Pour the boiling water into a large saucepan and bring back to the boil on high heat. b) When boiling, add the rice and cook for 8-10 mins, then drain in a sieve and set aside.",
+      "image": "https://media.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/5a01c742450cfa39e02c5642/step-9636e700.jpg"
     },
     {
-      "text": "a) Meanwhile, trim the carrot then grate on the coarse side of your grater (no need to peel). b) Trim the spring onion then finely slice. Roughly chop the peanuts. Zest the lime then chop into wedges. c) Chop the pork into 2cm chunks. iIMPORTANT: Remember to wash your hands after handling raw meat."
+      "text": "a) Meanwhile, trim the carrot then grate on the coarse side of your grater (no need to peel). b) Trim the spring onion then finely slice. Roughly chop the peanuts. Zest the lime then chop into wedges. c) Chop the pork into 2cm chunks. iIMPORTANT: Remember to wash your hands after handling raw meat.",
+      "image": "https://media.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/5a01c742450cfa39e02c5642/step-d3b23a10.jpg"
     },
     {
-      "text": "a) In a small bowl, stir together the easy ginger, ketjap manis, soy sauce, honey and the juice of half the lime. Set aside."
+      "text": "a) In a small bowl, stir together the easy ginger, ketjap manis, soy sauce, honey and the juice of half the lime. Set aside.",
+      "image": "https://media.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/5a01c742450cfa39e02c5642/step-15b01120.jpg"
     },
     {
-      "text": "a) Heat a splash of oil in a large frying pan on high heat. b) When hot, add the pork and stir-fry until browned all over, 4-5 mins."
+      "text": "a) Heat a splash of oil in a large frying pan on high heat. b) When hot, add the pork and stir-fry until browned all over, 4-5 mins.",
+      "image": "https://media.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/5a01c742450cfa39e02c5642/step-7e13ec30.jpg"
     },
     {
-      "text": "a) Lower the heat to medium then pour the sauce into the pan. b) Cook, coating the pork in the sticky sauce, for 2-3 mins.iIMPORTANT: The pork is cooked when it is no longer pink in the middle. c) Meanwhile, in a large bowl gently toss together the rice, lime zest, carrot, half the spring onion and half the peanuts. Season to taste with salt and pepper if needed."
+      "text": "a) Lower the heat to medium then pour the sauce into the pan. b) Cook, coating the pork in the sticky sauce, for 2-3 mins.iIMPORTANT: The pork is cooked when it is no longer pink in the middle. c) Meanwhile, in a large bowl gently toss together the rice, lime zest, carrot, half the spring onion and half the peanuts. Season to taste with salt and pepper if needed.",
+      "image": "https://media.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/5a01c742450cfa39e02c5642/step-c3176e40.jpg"
     },
     {
-      "text": "a) Serve the sticky pork on top of the veggie rice. b) Finish by pouring any sauce left in the pan over the top and scattering over the remaining peanuts and spring onion. c) Top with the remaining lime wedges. ENJOY!"
-    },
-    {
-      "text": "a) Pour the boiling water into a large saucepan and bring back to the boil on high heat. b) When boiling, add the rice and cook for 8-10 mins, then drain in a sieve and set aside."
-    },
-    {
-      "text": "a) Meanwhile, trim the carrot then grate on the coarse side of your grater (no need to peel). b) Trim the spring onion then finely slice. Roughly chop the peanuts. Zest the lime then chop into wedges. c) Chop the pork into 2cm chunks. iIMPORTANT: Remember to wash your hands after handling raw meat."
-    },
-    {
-      "text": "a) In a small bowl, stir together the easy ginger, ketjap manis, soy sauce, honey and the juice of half the lime. Set aside."
-    },
-    {
-      "text": "a) Heat a splash of oil in a large frying pan on high heat. b) When hot, add the pork and stir-fry until browned all over, 4-5 mins."
-    },
-    {
-      "text": "a) Lower the heat to medium then pour the sauce into the pan. b) Cook, coating the pork in the sticky sauce, for 2-3 mins.iIMPORTANT: The pork is cooked when it is no longer pink in the middle. c) Meanwhile, in a large bowl gently toss together the rice, lime zest, carrot, half the spring onion and half the peanuts. Season to taste with salt and pepper if needed."
-    },
-    {
-      "text": "a) Serve the sticky pork on top of the veggie rice. b) Finish by pouring any sauce left in the pan over the top and scattering over the remaining peanuts and spring onion. c) Top with the remaining lime wedges. ENJOY!"
+      "text": "a) Serve the sticky pork on top of the veggie rice. b) Finish by pouring any sauce left in the pan over the top and scattering over the remaining peanuts and spring onion. c) Top with the remaining lime wedges. ENJOY!",
+      "image": "https://media.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/5a01c742450cfa39e02c5642/step-45460c50.jpg"
     }
   ],
   "nutrition": {
-    "servingSize": "360",
+    "servingSize": "360 g",
     "calories": 668,
     "carbohydrateContent": 83,
     "fatContent": 20,
     "proteinContent": 38,
     "saturatedFatContent": 6,
-    "sodiumContent": 3.3,
-    "sugarContent": 20
+    "sugarContent": 20,
+    "saltContent": 3.3
   },
   "aggregateRating": {
     "ratingCount": 925,
@@ -139,5 +173,17 @@
     "bestRating": 5,
     "worstRating": 1
   },
+  "sameAs": [
+    "https://www.hellofresh.co.uk/recipecards/card/thai-style-pork-stir-fry-wk-49-5a01c742450cfa39e02c5642-91a918cb.pdf"
+  ],
+  "allergens": [
+    {
+      "name": "Soya"
+    },
+    {
+      "name": "Cereals containing gluten"
+    }
+  ],
+  "dateModified": "2025-12-19T08:27:43.663Z",
   "datePublished": "2017-11-07T14:46:26Z"
 }

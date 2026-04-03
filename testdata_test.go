@@ -46,6 +46,17 @@ func TestWebsiteFiles(t *testing.T) {
 	})
 }
 
+// Use this test to debug a single website. Just change the name variable.
+func TestSingleWebsite(t *testing.T) {
+	MockRequests(t)
+
+	name := "coop.html" // Change this to the file you want to debug
+	recipe, err := krip.ScrapeFile(WebsitesDir+name, krip.ScrapeOptions{})
+	assert.NoError(t, err)
+
+	AssertJson(t, recipe, RecipesDir+strings.TrimSuffix(name, HtmlExt))
+}
+
 func TestWebsitesOnline(t *testing.T) {
 	t.Skip("Skip online tests")
 	t.Parallel()

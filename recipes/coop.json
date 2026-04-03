@@ -1,7 +1,13 @@
 {
   "url": "https://www.coop.se/recept/recept-a-o/g/grillat-kott-med-lime--och-chilismor/",
-  "name": "Grillat kött med lime -och chilismör | Recept - Coop",
+  "name": "Grillat kött med lime -och chilismör",
+  "description": "Grillat kött som toppas med ett smakrikt smör på chili och pressad lime. Köttet blir magiskt gott och passar både till festbuffén \u0026 familjemiddagen.",
   "inLanguage": "sv-se",
+  "image": [
+    {
+      "url": "https://res.cloudinary.com/coopsverige/images/w_1200,h_630,c_fill,f_auto/v1651049395/cloud/251336/Grillat+k%C3%B6tt+med+lime-+och+chilism%C3%B6r.jpg"
+    }
+  ],
   "publisher": {
     "name": "Coop",
     "url": "https://www.coop.se"

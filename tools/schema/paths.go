@@ -9,7 +9,6 @@ import (
 
 	"github.com/borschtapp/krip/model"
 	"github.com/borschtapp/krip/scraper"
-
 	"github.com/borschtapp/testdata"
 )
 

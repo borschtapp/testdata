@@ -5,16 +5,16 @@ go 1.26.0
 replace github.com/borschtapp/krip => ../
 
 require (
-	github.com/borschtapp/krip v0.15.0
+	github.com/borschtapp/krip v0.17.0
 	github.com/jarcoal/httpmock v1.4.1
 	github.com/stretchr/testify v1.11.1
 )
 
 require (
-	github.com/PuerkitoBio/goquery v1.11.0 // indirect
+	github.com/PuerkitoBio/goquery v1.12.0 // indirect
 	github.com/andybalholm/cascadia v1.3.3 // indirect
-	github.com/astappiev/fixjson v1.0.1 // indirect
-	github.com/astappiev/microdata v1.0.2 // indirect
+	github.com/astappiev/fixjson v1.1.0 // indirect
+	github.com/astappiev/microdata v1.1.0 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/gorilla/css v1.0.1 // indirect

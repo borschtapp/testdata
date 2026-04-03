@@ -117,7 +117,8 @@ func saveTestdata(url string, force bool) error {
 		}
 	}
 
-	input, err := scraper.UrlInput(url, krip.ScrapeOptions{})
+	options := krip.ScrapeOptions{}
+	input, err := scraper.UrlInput(url, options)
 	if err != nil {
 		return fmt.Errorf("unable to fetch content: %w", err)
 	}
@@ -127,7 +128,7 @@ func saveTestdata(url string, force bool) error {
 		return fmt.Errorf("unable to create file: %w", err)
 	}
 
-	recipe, err := krip.Scrape(input)
+	recipe, err := krip.Scrape(input, options)
 	if err != nil {
 		return fmt.Errorf("unable to scrape recipe: %w", err)
 	}
